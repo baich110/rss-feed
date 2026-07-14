@@ -1,13 +1,43 @@
-# 订阅源列表，每行一个RSS/Atom地址
+# === 科技数码新闻类 ===
 https://www.ithome.com/rss/
-https://www.freebuf.com/feed
-https://www.iplaysoft.com/feed/
-https://wallstreetcn.com/rss/news/global
-https://www.zhihu.com/rss
-https://github.com/trending.atom
-https://www.ruanyifeng.com/blog/atom.xml
 https://www.leiphone.com/feed
 https://www.geekpark.net/rss
-https://www.dgtle.com/rss/dgtle.xml
-https://www.appso.cn/rss
+https://www.cnbeta.com.tw/backend.php
+https://www.techweb.com.cn/rss/all.xml
+https://www.donews.com/rss.xml
+
+# === 软件/效率工具类 ===
+https://www.iplaysoft.com/feed/
 https://www.appinn.com/feed/
+https://www.appso.cn/rss
+https://sspai.com/feed
+
+# === 财经/商业类 ===
+https://wallstreetcn.com/rss/news/global
+https://36kr.com/feed
+https://www.huxiu.com/rss/0.xml
+
+# === 社区/热榜类 ===
+https://www.zhihu.com/rss
+https://www.v2ex.com/index.xml
+https://github.com/trending.atom
+https://news.ycombinator.com/rss
+
+# === 个人博客/技术周刊类 ===
+https://www.ruanyifeng.com/blog/atom.xml
+https://coolshell.cn/feed
+https://www.yinwang.org/atom.xml
+
+# === 数码生活类 ===
+https://www.dgtle.com/rss/dgtle.xml
+https://post.smzdm.com/feed/
+
+# === 网络安全类 ===
+https://www.freebuf.com/feed
+https://www.anquanke.com/feed
+
+# === 微信公众号（公共实例，偶发超时不影响整体更新） ===
+https://wechat2rss.xlab.app/feed/66392f37af0e4f66ad80dd20f3e4a32d.xml # 量子位
+https://wechat2rss.xlab.app/feed/0e91f8396507d34e57f378b818a0b88c.xml # 差评
+https://wechat2rss.xlab.app/feed/5d41402abc4b2a76b9719d911017c592.xml # 雷科技
+https://wechat2rss.xlab.app/feed/7c4a8d09ca3762af61e59520943dc26494f8941b.xml # 果壳
