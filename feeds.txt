@@ -1,0 +1,13 @@
+# 订阅源列表，每行一个RSS/Atom地址
+https://www.ithome.com/rss/
+https://www.freebuf.com/feed
+https://www.iplaysoft.com/feed/
+https://wallstreetcn.com/rss/news/global
+https://www.zhihu.com/rss
+https://github.com/trending.atom
+https://www.ruanyifeng.com/blog/atom.xml
+https://www.leiphone.com/feed
+https://www.geekpark.net/rss
+https://www.dgtle.com/rss/dgtle.xml
+https://www.appso.cn/rss
+https://www.appinn.com/feed/
