@@ -5,10 +5,331 @@
   <link>https://baich110.github.io/rss-feed/</link>
   <description>自动聚合多个优质科技/数码/技术资讯源，每小时更新</description>
   <language>zh-CN</language>
-  <lastBuildDate>Tue, 14 Jul 2026 21:01:58 -0000</lastBuildDate>
+  <lastBuildDate>Tue, 14 Jul 2026 22:58:16 -0000</lastBuildDate>
   <atom:link href="https://baich110.github.io/rss-feed/feed.xml" rel="self" type="application/rss+xml" />
   <item>
-    <title>[V2EX] [Wunder] 20260714 - AI Persona 现在可以切换模型，新增 glm-5.2</title>
+    <title>[IT之家] 美国法院裁定苹果无需为 iCloud 用户上传内容担责，328 亿美元 CSAM 集体诉讼被驳回</title>
+    <link>https://www.ithome.com/0/976/770.htm</link>
+    <description><![CDATA[<p>IT之家 7 月 15 日消息，美国加州圣何塞地区法院于当地时间 7 月 14 日作出裁决，驳回了针对苹果公司的一起集体诉讼。</p><p>该诉讼指控苹果未能阻止通过 iCloud 数据存储平台传播儿童性虐待材料（CSAM）。主审法官 Noël Wise 裁定，根据 1996 年《通信规范法》第 230 条，苹果作为在线服务提供商，对用户生成的内容享有广泛豁免权，因此不承担相关法律责任。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/7/84853c4d-0bf8-4385-b2ac-e0a1f3576dca.jpg?x-bce-process=image/format,f_auto" /></p><p>这起诉讼由化名为“Amy”和“Jessica”的两名原告于 2024 年提起。她们声称，自己童年时期遭受性侵的影像资料多年来持续在苹果 iCloud 平台上被存储和分享。诉状指出，苹果明知 iCloud 存在儿童性虐待材料问题，却选择不采用现成技术进行识别和举报。</p><p>原告还特别提到，苹果曾于 2021 年宣布推出名为 NeuralHash 的系统以识别 CSAM，但次年便宣布放弃该计划；与此同时，苹果为 iCloud 数据启用了端到端加密，使得执法机构或苹果自身几乎无法识别平台上的此类内容。</p><p>该诉讼寻求代表约 2680 名有类似遭遇的受害者发起集体诉讼，索赔金额高达 328 亿美元（IT之家注：现汇率约合 2226.56 亿元人民币），并要求法院强制苹果修改 iCloud 的相关机制。</p><p>法官 Wise 指出，该诉讼的本质是要求苹果对未能删除或屏蔽用户创建的内容负责，这恰好落入了《通信规范法》第 230 条的适用范围。</p><p>她在判决书中写道：“现行联邦法律并未要求苹果主动利用现有技术或开发新技术来识别和举报其云平台上的儿童性虐待材料”。“立法者可以解决这个助长儿童剥削的问题，”Wise 法官表示，“但本法院无能为力”。此次裁决为“有偏见驳回”（dismissed with prejudice），意味着原告不得就相同事由再次提起诉讼。</p><p>原告代理律师 James Marsh 表示，原告方正在考虑上诉，并评估是否可能提出其他法律主张。Marsh 称，虽然原告方不同意法官对法律的理解，但“我们同意她的结论，即国会应该采取更多措施保护儿童，应对日益严重的网络剥削伤害”。</p><p>苹果此前在法庭文件中表示，公司一直致力于消除其设备上 CSAM 的传播，并称放弃 NeuralHash 是为了避免对用户安全和隐私造成风险。这已是 Wise 法官第二次处理该案 —— 她此前曾驳回初版诉状，但给予原告修改机会。</p><p>值得注意的是，苹果还面临另一起类似诉讼。西弗吉尼亚州总检察长于 2026 年 2 月对苹果提起诉讼，指控该公司允许 iCloud 被用于存储和传播 CSAM。西弗吉尼亚州称这是首例由政府机构就苹果数据存储平台上的 CSAM 分发问题提起的诉讼。该案目前仍在审理中。</p>]]></description>
+    <pubDate>Tue, 14 Jul 2026 22:56:48 -0000</pubDate>
+    <guid isPermaLink="true">https://www.ithome.com/0/976/770.htm</guid>
+    <source url="https://www.ithome.com/0/976/770.htm">IT之家</source>
+  </item>
+  <item>
+    <title>[cnBeta.COM.TW RSS订阅] 苹果通过iOS 27 公测版向更多用户开放Siri AI</title>
+    <link>https://www.cnbeta.com.tw/articles/tech/1568956.htm</link>
+    <description><![CDATA[<p>苹果公司已正式通过iOS 27公共测试版，向更广泛的用户群体开放了其史上规模最大的Siri功能升级，这标志着普通用户首次能够抢在今年秋季正式发布前，率先体验这一深度集成的AI助手。</p> <a href="https://www.cnbeta.com.tw/articles/tech/1568956.htm" target="_blank"><strong>阅读全文</strong></a>]]></description>
+    <pubDate>Tue, 14 Jul 2026 22:56:27 -0000</pubDate>
+    <guid isPermaLink="true">https://www.cnbeta.com.tw/articles/tech/1568956.htm</guid>
+    <source url="https://www.cnbeta.com.tw/articles/tech/1568956.htm">cnBeta.COM.TW RSS订阅</source>
+  </item>
+  <item>
+    <title>[cnBeta.COM.TW RSS订阅] 伊朗利用移动网络漏洞追踪中东地区美军动向</title>
+    <link>https://www.cnbeta.com.tw/articles/tech/1568954.htm</link>
+    <description><![CDATA[<p>根据《金融时报》的最新报道，伊朗政府在伊朗战争筹备阶段及冲突初期，曾利用全球电信基础设施中广为人知的安全漏洞，成功定位了多名美军人员的行踪。</p> <a href="https://www.cnbeta.com.tw/articles/tech/1568954.htm" target="_blank"><strong>阅读全文</strong></a>]]></description>
+    <pubDate>Tue, 14 Jul 2026 22:51:29 -0000</pubDate>
+    <guid isPermaLink="true">https://www.cnbeta.com.tw/articles/tech/1568954.htm</guid>
+    <source url="https://www.cnbeta.com.tw/articles/tech/1568954.htm">cnBeta.COM.TW RSS订阅</source>
+  </item>
+  <item>
+    <title>[cnBeta.COM.TW RSS订阅] 纽约州宣布暂停建设所有新建数据中心</title>
+    <link>https://www.cnbeta.com.tw/articles/tech/1568952.htm</link>
+    <description><![CDATA[<p>纽约州近日成为全美首个叫停数据中心建设的州。州长凯西·霍楚尔（Kathy Hochul）于本周一签署了一项行政命令，暂时禁止该州批准任何大型数据中心项目的建设许可。</p> <a href="https://www.cnbeta.com.tw/articles/tech/1568952.htm" target="_blank"><strong>阅读全文</strong></a>]]></description>
+    <pubDate>Tue, 14 Jul 2026 22:51:01 -0000</pubDate>
+    <guid isPermaLink="true">https://www.cnbeta.com.tw/articles/tech/1568952.htm</guid>
+    <source url="https://www.cnbeta.com.tw/articles/tech/1568952.htm">cnBeta.COM.TW RSS订阅</source>
+  </item>
+  <item>
+    <title>[IT之家] 消息称 OpenAI 首款硬件为无屏智能音箱：定位 AI 伴侣，可控制智能家居</title>
+    <link>https://www.ithome.com/0/976/769.htm</link>
+    <description><![CDATA[<p>IT之家 7 月 15 日消息，彭博社昨日（7 月 14 日）发布博文，<strong>报道称 OpenAI 首款消费级设备是一款可移动、无屏幕的智能音箱。</strong></p><p>IT之家援引博文介绍，这款产品定位是面向人工智能时代的新型家庭计算设备，目前仍处于开发阶段，设备拟部署在家庭环境中，并作为类人化的人工智能陪伴设备使用。</p><p>外形方面，消息称这款新产品酷似音箱，但 OpenAI 内部将其创新描述为一台专为人工智能打造的计算机，目的是帮助忙碌的人们提高工作效率。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/7/6b89b546-40dd-4018-bcae-1786089aa518.png" /></p><p>它内置摄像头和其他传感器，能够帮助其理解用户周围环境和语境，并搭载了超越传统智能音箱的先进人工智能模型。</p><p>在智能家居控制方面，该硬件设备可以充当中枢的角色，协助用户操作家庭中的联网设备，但报道中并未提及兼容哪些协议，以及具体品牌、平台和设备类型。</p><p>知情人士称该设备可播放媒体内容，并支持 AI 聊天式交互，调用 GPT-Live 系列模型实现语音交互。</p>]]></description>
+    <pubDate>Tue, 14 Jul 2026 22:47:01 -0000</pubDate>
+    <guid isPermaLink="true">https://www.ithome.com/0/976/769.htm</guid>
+    <source url="https://www.ithome.com/0/976/769.htm">IT之家</source>
+  </item>
+  <item>
+    <title>[IT之家] EA《Madden NFL 27》首次登陆苹果 Arcade，8 月 6 日上线无广告无内购</title>
+    <link>https://www.ithome.com/0/976/768.htm</link>
+    <description><![CDATA[<p>IT之家 7 月 15 日消息，苹果公司当地时间 7 月 14 日宣布，EA Sports 旗下《Madden NFL 27 Arcade Edition》将于 8 月 6 日正式登陆 Apple Arcade 订阅服务，游戏完全无广告、无内购，支持手柄操作，覆盖 iPhone、iPad、Mac 和 Apple TV。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/7/d4288b92-6988-4884-8bd7-026740c0aeb2.jpg" /></p><p>这是该传奇橄榄球游戏系列首次以专为 Apple Arcade 定制的方式登陆苹果全平台，包含完整的赛季制玩法及当季 NFL 球队和球员名单。</p><p>该游戏提供球队经营、快速比赛两种模式，球员能力值基于真实 NFL 赛场表现动态生成。其中经营模式基于每周剧情而演进，玩家将扮演球队总经理，在赛季进程中应对不断变化的叙事线、维持球迷支持并最终向总冠军发起冲击。</p><p>EA 方面表示，这是 Madden 系列首次在移动端完整支持手柄，玩家可以在 Apple TV 上像主机游戏一样体验真正的 11 vs. 11 橄榄球对决。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/7/05d05b5c-2636-4ac9-ad39-13f50c2a535c.jpg" /></p><p>同于 8 月 6 日，像素风橄榄球经营游戏《Retro Bowl》的衍生作品《Retro Bowl College+》也将上线，玩家可以接管 250 支大学球队之一，开启大学橄榄球教练生涯。紧接着，2026 年 9 月 3 日，《NFL Retro Bowl '27》将迎来新赛季更新，新增“挑战模式”。在该模式中，玩家从有限资源起步，需在安全对阵与高风险高回报对手之间做出选择，力争完成 15 连胜登顶排行榜，失败后积累的经验和技能可继承至下一轮挑战。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/7/ccd29540-f9d2-4b9f-926d-ec5a6a95f528.jpg" /></p><p>除新作外，现有体育游戏也在持续更新。《NBA 2K26 Arcade Edition》已新增两次全明星球员 Tyrese Maxey 作为 Paragon 球员，并在 Association 模式中加入了 2016 至 2024 赛季的内容。《PGA TOUR Pro Golf》则新增了 Bear's Best Atlanta 球场。此外，自 2026 年 7 月 16 日起，《NFL Retro Bowl '26》将推出历史超级碗挑战活动。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/7/86a4b8fe-e36f-4a6e-8f2f-6ee1b93e290e.jpg" /></p><p>苹果同时宣布，部分 Apple Arcade 游戏现已在 App Store 提供免费试玩体验，无需订阅即可尝鲜，包括《PowerWash Simulator》《Mini Motorways》《Cooking Mama: Cuisine!》和《Play-Doh World》。Apple Arcade 在美国区月费为 6.99 美元（IT之家注：现汇率约合 47.5 元人民币），新用户可享受一个月免费试用，也可通过 Apple One 订阅计划获取。</p>]]></description>
+    <pubDate>Tue, 14 Jul 2026 22:46:02 -0000</pubDate>
+    <guid isPermaLink="true">https://www.ithome.com/0/976/768.htm</guid>
+    <source url="https://www.ithome.com/0/976/768.htm">IT之家</source>
+  </item>
+  <item>
+    <title>[cnBeta.COM.TW RSS订阅] 三星美国泰勒工厂将采用2纳米工艺量产特斯拉AI5芯片</title>
+    <link>https://www.cnbeta.com.tw/articles/tech/1568950.htm</link>
+    <description><![CDATA[<p>特斯拉已正式完成其第五代人工智能芯片（AI5 SoC）的设计工作，并计划由三星位于美国得克萨斯州泰勒市的晶圆厂进行量产。这一项目标志着三星将利用其SF2（2纳米）制程节点，在美本土为特斯拉提供高性能算力支持，此举也充分利用了三星此前获得的《芯片与科学法案》（CHIPS Act）相关资金，旨在推动核心半导体生产的本土化进程。</p> <a href="https://www.cnbeta.com.tw/articles/tech/1568950.htm" target="_blank"><strong>阅读全文</strong></a>]]></description>
+    <pubDate>Tue, 14 Jul 2026 22:43:07 -0000</pubDate>
+    <guid isPermaLink="true">https://www.cnbeta.com.tw/articles/tech/1568950.htm</guid>
+    <source url="https://www.cnbeta.com.tw/articles/tech/1568950.htm">cnBeta.COM.TW RSS订阅</source>
+  </item>
+  <item>
+    <title>[cnBeta.COM.TW RSS订阅] 土卫六或成为人类深空殖民的资源补给站</title>
+    <link>https://www.cnbeta.com.tw/articles/science/1568948.htm</link>
+    <description><![CDATA[<p>土卫六（Titan）是土星最大的卫星，也是太阳系中极少数能让人们感到既熟悉又陌生的地方。虽然土卫六上同样拥有云层、降雨、湖泊和海洋，但驱动这一循环的却是甲烷而非水。作为太阳系中唯一拥有浓厚氮气大气层的卫星，土卫六一直以来都是科学家研究天体化学、生命起源以及宜居性潜力的重点目标，NASA的“蜻蜓号”（Dragonfly）探测器任务也预计将于2028年7月或之后发射，旨在深入探索这颗奇特星球。</p> <a href="https://www.cnbeta.com.tw/articles/science/1568948.htm" target="_blank"><strong>阅读全文</strong></a>]]></description>
+    <pubDate>Tue, 14 Jul 2026 22:42:14 -0000</pubDate>
+    <guid isPermaLink="true">https://www.cnbeta.com.tw/articles/science/1568948.htm</guid>
+    <source url="https://www.cnbeta.com.tw/articles/science/1568948.htm">cnBeta.COM.TW RSS订阅</source>
+  </item>
+  <item>
+    <title>[cnBeta.COM.TW RSS订阅] 印度洋深处发现500万年前鲸鱼墓场 揭示深海生态演化奥秘</title>
+    <link>https://www.cnbeta.com.tw/articles/science/1568946.htm</link>
+    <description><![CDATA[<p>由中国科学院研究人员领衔的国际团队，近期在东南印度洋的迪亚曼蒂纳带（Diamantina Zone）深海区域，发现了一处规模巨大的古代鲸鱼墓场。这一重大考古与生物学发现于2026年6月10日发表在国际学术期刊《自然》杂志上。</p> <a href="https://www.cnbeta.com.tw/articles/science/1568946.htm" target="_blank"><strong>阅读全文</strong></a>]]></description>
+    <pubDate>Tue, 14 Jul 2026 22:41:31 -0000</pubDate>
+    <guid isPermaLink="true">https://www.cnbeta.com.tw/articles/science/1568946.htm</guid>
+    <source url="https://www.cnbeta.com.tw/articles/science/1568946.htm">cnBeta.COM.TW RSS订阅</source>
+  </item>
+  <item>
+    <title>[cnBeta.COM.TW RSS订阅] FreeBSD 16已完成移除基础系统中残留的全部GPL代码</title>
+    <link>https://www.cnbeta.com.tw/articles/tech/1568944.htm</link>
+    <description><![CDATA[<p>开源操作系统 FreeBSD 近日迎来了一个重要的里程碑。根据最新的代码提交记录，FreeBSD 16 开发分支已正式移除其基础系统中的最后一段 GNU GPL 授权代码。</p> <a href="https://www.cnbeta.com.tw/articles/tech/1568944.htm" target="_blank"><strong>阅读全文</strong></a>]]></description>
+    <pubDate>Tue, 14 Jul 2026 22:40:20 -0000</pubDate>
+    <guid isPermaLink="true">https://www.cnbeta.com.tw/articles/tech/1568944.htm</guid>
+    <source url="https://www.cnbeta.com.tw/articles/tech/1568944.htm">cnBeta.COM.TW RSS订阅</source>
+  </item>
+  <item>
+    <title>[cnBeta.COM.TW RSS订阅] 微塑料或可增加心脏病发作风险 成为人体血液循环中的新隐患</title>
+    <link>https://www.cnbeta.com.tw/articles/science/1568942.htm</link>
+    <description><![CDATA[<p>长期以来，散落在环境中的塑料废弃物在风化作用下逐渐分解，最终形成肉眼难以察觉的细微颗粒，广泛渗透进自然界与人体组织之中。一项最新研究为这一环境问题敲响了警钟：研究人员发现，微塑料与纳米塑料（MNPs）在人体血液中的存在，可能与心脏病发作风险的增加存在关联。</p> <a href="https://www.cnbeta.com.tw/articles/science/1568942.htm" target="_blank"><strong>阅读全文</strong></a>]]></description>
+    <pubDate>Tue, 14 Jul 2026 22:38:50 -0000</pubDate>
+    <guid isPermaLink="true">https://www.cnbeta.com.tw/articles/science/1568942.htm</guid>
+    <source url="https://www.cnbeta.com.tw/articles/science/1568942.htm">cnBeta.COM.TW RSS订阅</source>
+  </item>
+  <item>
+    <title>[cnBeta.COM.TW RSS订阅] DeepMind CEO建议由美国牵头构建全球AI监管框架</title>
+    <link>https://www.cnbeta.com.tw/articles/tech/1568940.htm</link>
+    <description><![CDATA[<p>随着人工智能模型性能的不断提升，其对社会及经济领域的深远影响愈发引人关注，各国政府已逐渐意识到，AI模型绝非简单的软件升级，建立完善的监管机制迫在眉睫。GoogleDeepMind首席执行官德米斯·哈萨比斯（Demis Hassabis）日前提出建议，呼吁由美国带头成立一个全球性监管机构，旨在对前沿人工智能模型进行监督与评估。</p> <a href="https://www.cnbeta.com.tw/articles/tech/1568940.htm" target="_blank"><strong>阅读全文</strong></a>]]></description>
+    <pubDate>Tue, 14 Jul 2026 22:37:56 -0000</pubDate>
+    <guid isPermaLink="true">https://www.cnbeta.com.tw/articles/tech/1568940.htm</guid>
+    <source url="https://www.cnbeta.com.tw/articles/tech/1568940.htm">cnBeta.COM.TW RSS订阅</source>
+  </item>
+  <item>
+    <title>[cnBeta.COM.TW RSS订阅] Mozilla警告：Windows 11 26H2默认设置或将进一步挤压用户浏览器选择权</title>
+    <link>https://www.cnbeta.com.tw/articles/tech/1568938.htm</link>
+    <description><![CDATA[<p>近日，Mozilla发布了一份名为《Over the Edge 2.0》的最新研究报告，公开抨击微软在Windows操作系统中采取的一系列具有误导性的策略，意在强行推广其Edge浏览器，并以此挤压其他竞争产品的市场空间。Mozilla在报告中指出，微软在用户使用Windows的各个环节中，持续部署了多种被视为“有害模式”的策略，包括诡辩措辞、人为阻碍、视觉干扰、预选设置、强制骚扰以及强制执行等手段。</p> <a href="https://www.cnbeta.com.tw/articles/tech/1568938.htm" target="_blank"><strong>阅读全文</strong></a>]]></description>
+    <pubDate>Tue, 14 Jul 2026 22:37:18 -0000</pubDate>
+    <guid isPermaLink="true">https://www.cnbeta.com.tw/articles/tech/1568938.htm</guid>
+    <source url="https://www.cnbeta.com.tw/articles/tech/1568938.htm">cnBeta.COM.TW RSS订阅</source>
+  </item>
+  <item>
+    <title>[cnBeta.COM.TW RSS订阅] Google图片搜索迎来25周年视觉更新及AI功能升级</title>
+    <link>https://www.cnbeta.com.tw/articles/tech/1568936.htm</link>
+    <description><![CDATA[<p>在Google图片搜索服务正式上线25周年之际，Google于近日宣布对桌面版界面进行重大视觉升级，并引入全新的AI图像生成功能，以庆祝这一里程碑时刻。</p> <a href="https://www.cnbeta.com.tw/articles/tech/1568936.htm" target="_blank"><strong>阅读全文</strong></a>]]></description>
+    <pubDate>Tue, 14 Jul 2026 22:36:36 -0000</pubDate>
+    <guid isPermaLink="true">https://www.cnbeta.com.tw/articles/tech/1568936.htm</guid>
+    <source url="https://www.cnbeta.com.tw/articles/tech/1568936.htm">cnBeta.COM.TW RSS订阅</source>
+  </item>
+  <item>
+    <title>[cnBeta.COM.TW RSS订阅] 账号遭黑客入侵被微软永久封禁 用户痛失25年数字资产</title>
+    <link>https://www.cnbeta.com.tw/articles/tech/1568934.htm</link>
+    <description><![CDATA[<p>近日，一名名为Joshua Khane的直播主在社交媒体X上发布消息称，其微软账户在遭到黑客攻击并被篡改安全信息后，不仅未能找回账号，反而被微软永久封禁。这一处置导致他完全失去了存储在账户中长达25年的个人数字资产，其中包括极具纪念意义的家庭照片以及大量已购买的数字产品。</p> <a href="https://www.cnbeta.com.tw/articles/tech/1568934.htm" target="_blank"><strong>阅读全文</strong></a>]]></description>
+    <pubDate>Tue, 14 Jul 2026 22:36:08 -0000</pubDate>
+    <guid isPermaLink="true">https://www.cnbeta.com.tw/articles/tech/1568934.htm</guid>
+    <source url="https://www.cnbeta.com.tw/articles/tech/1568934.htm">cnBeta.COM.TW RSS订阅</source>
+  </item>
+  <item>
+    <title>[cnBeta.COM.TW RSS订阅] OpenAI首款AI硬件设备细节曝光：移动式智能音箱</title>
+    <link>https://www.cnbeta.com.tw/articles/tech/1568932.htm</link>
+    <description><![CDATA[<p>OpenAI的首款AI硬件产品日前浮出水面，据外媒报道，这是一款不带显示屏的移动智能音箱。该设备正处于一场与苹果公司激烈法律纠纷的漩涡中心，苹果方面指控OpenAI窃取了其涉及该产品开发的商业机密。</p> <a href="https://www.cnbeta.com.tw/articles/tech/1568932.htm" target="_blank"><strong>阅读全文</strong></a>]]></description>
+    <pubDate>Tue, 14 Jul 2026 22:29:04 -0000</pubDate>
+    <guid isPermaLink="true">https://www.cnbeta.com.tw/articles/tech/1568932.htm</guid>
+    <source url="https://www.cnbeta.com.tw/articles/tech/1568932.htm">cnBeta.COM.TW RSS订阅</source>
+  </item>
+  <item>
+    <title>[V2EX] [OpenAI] 现在 26 年 7 月 15 日早上 6 点， Codex 又重置了！</title>
+    <link>https://www.v2ex.com/t/1227337#reply2</link>
+    <description><![CDATA[<p>大善人啊，昨晚全部账号额度蹬完，一点都没浪费</p>]]></description>
+    <pubDate>Tue, 14 Jul 2026 22:28:42 -0000</pubDate>
+    <guid isPermaLink="true">https://www.v2ex.com/t/1227337#reply2</guid>
+    <source url="https://www.v2ex.com/t/1227337#reply2">V2EX</source>
+  </item>
+  <item>
+    <title>[cnBeta.COM.TW RSS订阅] 欧盟委员会介入后 ChatGPT重新接入欧洲版WhatsApp</title>
+    <link>https://www.cnbeta.com.tw/articles/tech/1568930.htm</link>
+    <description><![CDATA[<p>得益于欧盟委员会的强制要求，即日起，欧洲经济区（EEA）的WhatsApp用户已可重新免费使用ChatGPT聊天机器人。此前，Meta公司曾于去年11月在WhatsApp平台封禁了第三方AI聊天机器人，并于今年3月调整策略，仅允许通过付费方式接入此类服务。</p> <a href="https://www.cnbeta.com.tw/articles/tech/1568930.htm" target="_blank"><strong>阅读全文</strong></a>]]></description>
+    <pubDate>Tue, 14 Jul 2026 22:28:08 -0000</pubDate>
+    <guid isPermaLink="true">https://www.cnbeta.com.tw/articles/tech/1568930.htm</guid>
+    <source url="https://www.cnbeta.com.tw/articles/tech/1568930.htm">cnBeta.COM.TW RSS订阅</source>
+  </item>
+  <item>
+    <title>[cnBeta.COM.TW RSS订阅] Google Pixel Watch 5官方渲染图曝光 设计延续经典</title>
+    <link>https://www.cnbeta.com.tw/articles/tech/1568928.htm</link>
+    <description><![CDATA[<p>在Google Pixel 11系列产品线近期成为行业关注焦点之际，新款智能手表Pixel Watch 5的最新动向也浮出水面。尽管此前关于该产品的爆料相对稀少，但继此前的定价与配色方案细节流出后，这款智能手表的官方渲染图近日正式曝光，向外界展示了其外观设计的全貌。</p> <a href="https://www.cnbeta.com.tw/articles/tech/1568928.htm" target="_blank"><strong>阅读全文</strong></a>]]></description>
+    <pubDate>Tue, 14 Jul 2026 22:27:41 -0000</pubDate>
+    <guid isPermaLink="true">https://www.cnbeta.com.tw/articles/tech/1568928.htm</guid>
+    <source url="https://www.cnbeta.com.tw/articles/tech/1568928.htm">cnBeta.COM.TW RSS订阅</source>
+  </item>
+  <item>
+    <title>[cnBeta.COM.TW RSS订阅] OpenAI在最新声明中模糊否认对窃取苹果商业秘密负有责任</title>
+    <link>https://www.cnbeta.com.tw/articles/tech/1568926.htm</link>
+    <description><![CDATA[<p>针对苹果公司发起的商业机密窃取诉讼，OpenAI 近日发布了第二份正式回应。与此前公司发言人采取的立场相比，这份最新的公开声明表述极为模糊且程式化，引发了外界关于其回应诚意与法律策略的广泛讨论。</p> <a href="https://www.cnbeta.com.tw/articles/tech/1568926.htm" target="_blank"><strong>阅读全文</strong></a>]]></description>
+    <pubDate>Tue, 14 Jul 2026 22:25:23 -0000</pubDate>
+    <guid isPermaLink="true">https://www.cnbeta.com.tw/articles/tech/1568926.htm</guid>
+    <source url="https://www.cnbeta.com.tw/articles/tech/1568926.htm">cnBeta.COM.TW RSS订阅</source>
+  </item>
+  <item>
+    <title>[原创频道&gt;&gt;什么值得买] LGD官宣世界冠军辅助Crisp加盟！853场老将第三赛段首战对阵EDG</title>
+    <link>https://post.smzdm.com/p/aqrn7ngv/</link>
+    <description><![CDATA[匿名用户LGD俱乐部7月14日通过官方渠道宣布，辅助选手刘青松（ID：Crisp）即日起正式加盟英雄联盟分部，以LGDCrisp的身份征战即将于7月22日开赛的LPL第三赛段。1Crisp的加盟以替换原辅助Ycx为代价。Ycx在第二赛段带领LGD从涅槃组突围、成功晋级登峰组，被视为功臣。Ycx随后转会至LNG，与选手1xn搭档。2LPL官方网站于7月13日率先更新大名单，确认Crisp出现在LGD辅助位。<p>本文来自<a href="https://post.smzdm.com/p/aqrn7ngv/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
+    <pubDate>Tue, 14 Jul 2026 22:25:02 -0000</pubDate>
+    <guid isPermaLink="true">https://post.smzdm.com/p/aqrn7ngv/</guid>
+    <source url="https://post.smzdm.com/p/aqrn7ngv/">原创频道&gt;&gt;什么值得买</source>
+  </item>
+  <item>
+    <title>[原创频道&gt;&gt;什么值得买] 法国队出局周边却卖爆了？一篇说清球衣版本怎么选</title>
+    <link>https://post.smzdm.com/p/avg75769/</link>
+    <description><![CDATA[匿名用户法国队半决赛折戟，姆巴佩们可以回家钓鱼了，但周边热度反而往上窜——懂的人都懂，输了才更需要仪式感。这会儿打开购物软件，法国队球衣从89块到1099块都有，版本写着"球迷版""球员版"，还有"定制款"和"官方旗舰"，价格差出十倍不止。尺码更是玄学，有人说亚洲版偏小，有人说球员版修身到勒胳膊，客服问多了直接已读不回。核心痛点就三个：版本怎么选、渠道怎么挑、买到的是不是正品。先把这两个问题掰开，后面花出<p>本文来自<a href="https://post.smzdm.com/p/avg75769/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
+    <pubDate>Tue, 14 Jul 2026 22:24:09 -0000</pubDate>
+    <guid isPermaLink="true">https://post.smzdm.com/p/avg75769/</guid>
+    <source url="https://post.smzdm.com/p/avg75769/">原创频道&gt;&gt;什么值得买</source>
+  </item>
+  <item>
+    <title>[原创频道&gt;&gt;什么值得买] 比亚迪海豚充电顺序做错烧接口？这几个坑踩一个质保就没了</title>
+    <link>https://post.smzdm.com/p/a959m9e5/</link>
+    <description><![CDATA[匿名用户海豚支持两种充电模式：交流慢充（家用/公共慢充桩）和直流快充（公共快充桩），两套接口位置不同，别插错。慢充口在左后翼子板，按压盖板开启；快充口在车头前进气格栅处，解锁车辆后按压开启。先插枪再充电，结束时先在中控屏点击结束，再拔枪——顺序反了容易烧接口，这点老车主都踩过。1日常通勤推荐用慢充，电量20%-80%区间随用随充就行，不必每次充满。快充适合应急补能，但快充功率不要超过总充电次数的20%，用<p>本文来自<a href="https://post.smzdm.com/p/a959m9e5/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
+    <pubDate>Tue, 14 Jul 2026 22:24:08 -0000</pubDate>
+    <guid isPermaLink="true">https://post.smzdm.com/p/a959m9e5/</guid>
+    <source url="https://post.smzdm.com/p/a959m9e5/">原创频道&gt;&gt;什么值得买</source>
+  </item>
+  <item>
+    <title>[cnBeta.COM.TW RSS订阅] Apple Watch、Meta眼镜和 AirPods获欧盟可更换电池法规豁免</title>
+    <link>https://www.cnbeta.com.tw/articles/tech/1568924.htm</link>
+    <description><![CDATA[<p>欧盟近期调整了关于便携式设备电池的监管政策，明确将包括Apple Watch和AirPods在内的可穿戴设备排除在“强制要求具备易拆卸及可更换电池”的法规之外。</p> <a href="https://www.cnbeta.com.tw/articles/tech/1568924.htm" target="_blank"><strong>阅读全文</strong></a>]]></description>
+    <pubDate>Tue, 14 Jul 2026 22:24:01 -0000</pubDate>
+    <guid isPermaLink="true">https://www.cnbeta.com.tw/articles/tech/1568924.htm</guid>
+    <source url="https://www.cnbeta.com.tw/articles/tech/1568924.htm">cnBeta.COM.TW RSS订阅</source>
+  </item>
+  <item>
+    <title>[V2EX] [程序员] 用 gpt5.6 Terra 生成了网站的介绍页</title>
+    <link>https://www.v2ex.com/t/1227336#reply1</link>
+    <description><![CDATA[<p>整体上我觉得对比之前 5.5 的审美是有提升的，但是文字排版以及间距问题还是挺多的，我就先让 gemini 改了，不然着实不好看
+<a href="https://kaka770.cn/about" rel="nofollow">https://kaka770.cn/about</a></p>]]></description>
+    <pubDate>Tue, 14 Jul 2026 22:23:43 -0000</pubDate>
+    <guid isPermaLink="true">https://www.v2ex.com/t/1227336#reply1</guid>
+    <source url="https://www.v2ex.com/t/1227336#reply1">V2EX</source>
+  </item>
+  <item>
+    <title>[cnBeta.COM.TW RSS订阅] 美国法院驳回针对苹果公司高达328亿美元的iCloud儿童性虐待材料诉讼</title>
+    <link>https://www.cnbeta.com.tw/articles/tech/1568922.htm</link>
+    <description><![CDATA[<p>近日，美国圣何塞地方法院法官诺埃尔·怀斯（Noel Wise）正式驳回了一起针对苹果公司的集体诉讼。该诉讼指控苹果公司未能有效阻止其iCloud平台存储儿童性虐待材料（CSAM），并向苹果索赔总计328亿美元。</p> <a href="https://www.cnbeta.com.tw/articles/tech/1568922.htm" target="_blank"><strong>阅读全文</strong></a>]]></description>
+    <pubDate>Tue, 14 Jul 2026 22:23:24 -0000</pubDate>
+    <guid isPermaLink="true">https://www.cnbeta.com.tw/articles/tech/1568922.htm</guid>
+    <source url="https://www.cnbeta.com.tw/articles/tech/1568922.htm">cnBeta.COM.TW RSS订阅</source>
+  </item>
+  <item>
+    <title>[cnBeta.COM.TW RSS订阅] PrismML确认正与苹果洽谈AI模型压缩技术合作</title>
+    <link>https://www.cnbeta.com.tw/articles/tech/1568920.htm</link>
+    <description><![CDATA[<p>初创公司PrismML近日正式确认，该公司正在与苹果公司就其人工智能模型压缩技术进行沟通。此前关于该技术适用于iPhone的报道在五天前首次浮出水面，如今这一合作传闻得到了来自官方层面的证实。</p> <a href="https://www.cnbeta.com.tw/articles/tech/1568920.htm" target="_blank"><strong>阅读全文</strong></a>]]></description>
+    <pubDate>Tue, 14 Jul 2026 22:22:52 -0000</pubDate>
+    <guid isPermaLink="true">https://www.cnbeta.com.tw/articles/tech/1568920.htm</guid>
+    <source url="https://www.cnbeta.com.tw/articles/tech/1568920.htm">cnBeta.COM.TW RSS订阅</source>
+  </item>
+  <item>
+    <title>[原创频道&gt;&gt;什么值得买] 27.4亿欧最贵半决赛今晚开打！法国复仇vs西班牙三杀，反击与控球的终极对决</title>
+    <link>https://post.smzdm.com/p/awwxgx5k/</link>
+    <description><![CDATA[匿名用户先说说这场半决赛到底有多炸裂北京时间7月15日凌晨3点，达拉斯体育场迎来了本届世界杯最贵的一场对决——法国对阵西班牙。两队总身价高达27.4亿欧元，FIFA排名分列世界第1和第3，这是卫冕冠军与传控大师的正面碰撞，也是姆巴佩冲击世界杯射手王的里程碑之战。1 2法国队本届6战全胜狂轰16球，淘汰赛阶段连续三场零封，防守稳固程度堪称本届最强。姆巴佩一人贡献8球，距离世界杯历史射手榜只差1球。西班牙则创<p>本文来自<a href="https://post.smzdm.com/p/awwxgx5k/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
+    <pubDate>Tue, 14 Jul 2026 22:22:38 -0000</pubDate>
+    <guid isPermaLink="true">https://post.smzdm.com/p/awwxgx5k/</guid>
+    <source url="https://post.smzdm.com/p/awwxgx5k/">原创频道&gt;&gt;什么值得买</source>
+  </item>
+  <item>
+    <title>[cnBeta.COM.TW RSS订阅] iPhone在华市场份额增长 涨价冲击Android竞争对手</title>
+    <link>https://www.cnbeta.com.tw/articles/tech/1568918.htm</link>
+    <description><![CDATA[<p>尽管中国智能手机市场整体持续低迷，苹果公司的iPhone业务却呈现出逆势增长的态势。根据市场调研机构IDC在2026年7月14日发布的最新报告显示，在第二季度，中国智能手机市场出货量为6600万部，这已是该市场连续第五个季度出现下滑，同比降幅达到4.3%。</p> <a href="https://www.cnbeta.com.tw/articles/tech/1568918.htm" target="_blank"><strong>阅读全文</strong></a>]]></description>
+    <pubDate>Tue, 14 Jul 2026 22:22:31 -0000</pubDate>
+    <guid isPermaLink="true">https://www.cnbeta.com.tw/articles/tech/1568918.htm</guid>
+    <source url="https://www.cnbeta.com.tw/articles/tech/1568918.htm">cnBeta.COM.TW RSS订阅</source>
+  </item>
+  <item>
+    <title>[原创频道&gt;&gt;什么值得买] 中汽协澄清电车1.8年换车，实为3至5年</title>
+    <link>https://post.smzdm.com/p/ak8mpm44/</link>
+    <description><![CDATA[匿名用户新能源车平均1.8年就换？中汽协亲自下场澄清：车龄真不等于换车周期。7月14日，中国汽车工业协会后市场分会发布澄清声明，明确指出《2025中国汽车后市场年度发展报告》中“新能源车平均车龄1.8年”被严重误读，1.8年只是存量车辆的“平均上牌时间”，绝不能等同于车主的换车频率或车辆寿命。真实的新能源车主主流换车周期在3-5年，虽短于燃油车的6-8年，但远没到“不到两年就换”的程度。1.8年是怎么算出<p>本文来自<a href="https://post.smzdm.com/p/ak8mpm44/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
+    <pubDate>Tue, 14 Jul 2026 22:21:12 -0000</pubDate>
+    <guid isPermaLink="true">https://post.smzdm.com/p/ak8mpm44/</guid>
+    <source url="https://post.smzdm.com/p/ak8mpm44/">原创频道&gt;&gt;什么值得买</source>
+  </item>
+  <item>
+    <title>[原创频道&gt;&gt;什么值得买] 英国版比亚迪海豚G卖20万，对比国内贵一倍，入手前这3笔账必须算清</title>
+    <link>https://post.smzdm.com/p/axk050gw/</link>
+    <description><![CDATA[匿名用户英国电动车市场眼下正经历一轮微妙变化，2026年开年纯电增速几乎停滞，插混却暴涨近五成，越来越多的买家开始把混动当作向电动过渡的务实选择。比亚迪海豚G带着插混身份杀进英国，起售价折合人民币约20万，比本土竞品低一截，看着很有吸引力。但英国市场有个特殊情况——所有在中国组装的车型都被排除在政府补贴之外，海豚G也不例外。标价低是一回事，真正养起来贵不贵，得把电费、油耗、保险、维护这几笔账全算清楚才知道<p>本文来自<a href="https://post.smzdm.com/p/axk050gw/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
+    <pubDate>Tue, 14 Jul 2026 22:20:29 -0000</pubDate>
+    <guid isPermaLink="true">https://post.smzdm.com/p/axk050gw/</guid>
+    <source url="https://post.smzdm.com/p/axk050gw/">原创频道&gt;&gt;什么值得买</source>
+  </item>
+  <item>
+    <title>[原创频道&gt;&gt;什么值得买] 西班牙2-0法国！卫冕冠军遭西班牙团灭式碾压，姆巴佩全场仅34次触球彻底消失</title>
+    <link>https://post.smzdm.com/p/a4qw2wrl/</link>
+    <description><![CDATA[匿名用户2-0，终场哨响，法国队倒在了西班牙的传控手术刀下。斗牛士军团时隔16年再次闯入世界杯决赛，而卫冕冠军法国只能去踢三四名决赛。没有人预料到这场被称为"提前上演的决赛"会如此一边倒——西班牙用近乎温水煮青蛙的方式，把法国按在地上摩擦了整整90分钟。1 2迪涅送礼，萨利巴伤退：法国9分钟内连遭两记重锤第20分钟，达拉斯体育场的空气突然凝固。迪涅在禁区内背身解围时，完全没有观察身后跑位，一脚抿在了高速插<p>本文来自<a href="https://post.smzdm.com/p/a4qw2wrl/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
+    <pubDate>Tue, 14 Jul 2026 22:19:42 -0000</pubDate>
+    <guid isPermaLink="true">https://post.smzdm.com/p/a4qw2wrl/</guid>
+    <source url="https://post.smzdm.com/p/a4qw2wrl/">原创频道&gt;&gt;什么值得买</source>
+  </item>
+  <item>
+    <title>[IT之家] OpenAI 首度回应苹果诉讼：相信公平竞争，未发现任何证据</title>
+    <link>https://www.ithome.com/0/976/767.htm</link>
+    <description><![CDATA[<p>IT之家 7 月 15 日消息，今日，OpenAI 就苹果公司提起的商业秘密侵权诉讼作出正式回应，称公司“严肃对待这些指控，但目前未发现任何证据可证明该申诉具备合理依据”。</p><p>OpenAI 同时表示“对其他公司的商业机密不感兴趣”，公司相信公平竞争，支持人才自由流动，当前重心仍放在自主研发创新技术之上。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/7/0d4881af-3bd2-4ef2-a4cc-b306a969aa26.png" /></p><p>这场法律纠纷源于 7 月 10 日。当天，苹果公司向美国加州北区联邦地区法院正式提交了一份长达 41 页的诉状，将 OpenAI、OpenAI 首席硬件官 Tang Tan 以及前苹果工程师 Chang Liu 列为被告。</p><p>苹果在诉状中指控 OpenAI 通过系统性挖角苹果员工、利用招聘渠道和供应商关系等方式，大规模获取苹果未发布产品的相关信息、零部件、设计图纸及其他保密资料，以加速自身消费级硬件业务的布局。苹果方面表示，目前已有超过 400 名前苹果员工在 OpenAI 工作。</p><p>此次诉讼的核心人物之一 Tang Tan 曾在苹果任职长达 24 年，离职前担任产品设计副总裁，深度参与了 iPhone、Apple Watch、AirPods 及 iPod 等多款标志性产品的开发工作。另一名被告 Chang Liu 则被指控在离职加入 OpenAI 后，利用其知晓的软件漏洞持续访问苹果内部文件服务器，下载了数十份机密文件。苹果在诉状中还指控 Tang Tan 在面试环节要求仍任职于苹果的应聘者携带“实物部件”—— 包括电池、逻辑板等硬件组件 —— 前往 OpenAI 办公室进行所谓“展示与讲述”，以套取更多苹果的机密信息。</p><p>这起诉讼标志着两家公司关系的急剧逆转。2024 年，苹果与 OpenAI 曾宣布达成重大合作，随后将 ChatGPT 接入 iPhone、iPad 和 Mac 的操作系统。</p><p>然而，去年 OpenAI 斥资 65 亿美元（IT之家注：现汇率约合 441.24 亿元人民币）收购了由苹果前首席设计官乔纳森 · 艾维（Jony Ive）创办的硬件初创公司 io Products，释放出进军消费硬件市场的明确信号。io Products 也被列为此次诉讼的被告。</p><p>古尔曼今日还报道称，OpenAI 正在开发一款无屏幕的移动智能扬声器设备。<span>这款产品目前仍处于开发阶段，定位为“AI 时代的新型家庭电脑”，旨在成为家庭场景中具有人类般交互能力的 AI 伴侣</span><span>。</span></p><p>苹果在诉状中措辞强硬地表示，OpenAI 的硬件业务“建立在极不稳固的基础之上，其核心已被非法盗用的商业机密腐蚀殆尽”。苹果要求法院颁布禁令，禁止 OpenAI 继续持有或使用其商业机密，并寻求赔偿。法律专家分析指出，过往的 AI 商业机密诉讼大多集中于软件领域，此次涉及硬件领域的案件将使案情更加复杂。</p>]]></description>
+    <pubDate>Tue, 14 Jul 2026 22:19:06 -0000</pubDate>
+    <guid isPermaLink="true">https://www.ithome.com/0/976/767.htm</guid>
+    <source url="https://www.ithome.com/0/976/767.htm">IT之家</source>
+  </item>
+  <item>
+    <title>[原创频道&gt;&gt;什么值得买] 2026年买新能源车，这个关键条件没满足就别考虑纯电</title>
+    <link>https://post.smzdm.com/p/a70898o5/</link>
+    <description><![CDATA[匿名用户补能条件是第一道分水岭2026年选新能源车，核心判断标准只有一个——你家能不能装充电桩。有固定车位且能装7kW家用桩，纯电是首选。晚上谷电充电，每公里仅0.05-0.07元，年电费约750-1500元，五年充电总花费不到1万元。特斯拉Model Y、小鹏G9等车型续航普遍600km以上，日常通勤一周不充电，每月通勤成本不到80元，比燃油车省70%以上。1没有固定车位、无法装私桩，纯电直接Pass。<p>本文来自<a href="https://post.smzdm.com/p/a70898o5/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
+    <pubDate>Tue, 14 Jul 2026 22:18:10 -0000</pubDate>
+    <guid isPermaLink="true">https://post.smzdm.com/p/a70898o5/</guid>
+    <source url="https://post.smzdm.com/p/a70898o5/">原创频道&gt;&gt;什么值得买</source>
+  </item>
+  <item>
+    <title>[原创频道&gt;&gt;什么值得买] 法国不败金身告破，西班牙传控完胜终结28年纪录</title>
+    <link>https://post.smzdm.com/p/al3p5pdp/</link>
+    <description><![CDATA[匿名用户7月15日凌晨的世界杯半决赛，法国队那块本届赛事一直密不透风的盾牌，终于还是被捅破了。面对西班牙，法国左后卫迪涅第20分钟禁区内犯规送点，奥亚萨瓦尔稳稳将球罚进。这粒进球不仅让西班牙1-0取得领先，更意味着法国队本届世界杯的“不败金身”正式告破——这是他们本届赛事首次经历比分落后的局面，也是淘汰赛阶段的首次丢球。一次失误，击穿整条防线在这个点球出现之前，法国队在本届世界杯的征程堪称完美：6战全胜，<p>本文来自<a href="https://post.smzdm.com/p/al3p5pdp/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
+    <pubDate>Tue, 14 Jul 2026 22:09:53 -0000</pubDate>
+    <guid isPermaLink="true">https://post.smzdm.com/p/al3p5pdp/</guid>
+    <source url="https://post.smzdm.com/p/al3p5pdp/">原创频道&gt;&gt;什么值得买</source>
+  </item>
+  <item>
+    <title>[Hacker News] Financing the AI boom: from cash flows to debt [pdf]</title>
+    <link>https://www.bis.org/publ/bisbull120.pdf</link>
+    <description><![CDATA[<a href="https://news.ycombinator.com/item?id=48913443">Comments</a>]]></description>
+    <pubDate>Tue, 14 Jul 2026 21:58:36 -0000</pubDate>
+    <guid isPermaLink="true">https://www.bis.org/publ/bisbull120.pdf</guid>
+    <source url="https://www.bis.org/publ/bisbull120.pdf">Hacker News</source>
+  </item>
+  <item>
+    <title>[Hacker News] Microsoft Deletes User's 25-Year-Old Account with Thousands Spent on Games</title>
+    <link>https://xcancel.com/JoshuaKhane/status/2076918699248803977</link>
+    <description><![CDATA[<a href="https://news.ycombinator.com/item?id=48913220">Comments</a>]]></description>
+    <pubDate>Tue, 14 Jul 2026 21:35:52 -0000</pubDate>
+    <guid isPermaLink="true">https://xcancel.com/JoshuaKhane/status/2076918699248803977</guid>
+    <source url="https://xcancel.com/JoshuaKhane/status/2076918699248803977">Hacker News</source>
+  </item>
+  <item>
+    <title>[Hacker News] Dependabot version updates introduce default package cooldown</title>
+    <link>https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown/</link>
+    <description><![CDATA[<a href="https://news.ycombinator.com/item?id=48913050">Comments</a>]]></description>
+    <pubDate>Tue, 14 Jul 2026 21:15:51 -0000</pubDate>
+    <guid isPermaLink="true">https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown/</guid>
+    <source url="https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown/">Hacker News</source>
+  </item>
+  <item>
+    <title>[原创频道&gt;&gt;什么值得买] 米其林一星半价吃！休斯顿这家墨西哥创意菜九道式套餐太值了</title>
+    <link>https://post.smzdm.com/p/awwxgx7p/</link>
+    <description><![CDATA[匿名用户休斯顿米其林一星餐厅Tatemó正在推出限时半价优惠活动。这家以玉米为主题的墨西哥创意菜餐厅，提供九道式品鉴菜单，正常定价通常在高端Fine Dining价位段。当前促销使人均消费大幅下降，吸引不少食客关注。1Tatemó主厨善于将墨西哥传统食材与现代烹饪技法结合。招牌菜金枪鱼Tostada以新鲜金枪鱼搭配特色酱料，口感层次分明。黑松露风味Quesadilla打破传统认知，融入西式食材。Enmol<p>本文来自<a href="https://post.smzdm.com/p/awwxgx7p/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
+    <pubDate>Tue, 14 Jul 2026 21:12:36 -0000</pubDate>
+    <guid isPermaLink="true">https://post.smzdm.com/p/awwxgx7p/</guid>
+    <source url="https://post.smzdm.com/p/awwxgx7p/">原创频道&gt;&gt;什么值得买</source>
+  </item>
+  <item>
+    <title>[原创频道&gt;&gt;什么值得买] 鸿星尔克闪电5跑鞋</title>
+    <link>https://post.smzdm.com/p/a6zl6l6e/</link>
+    <description><![CDATA[silverlegend鸿星尔克闪电5这双鞋，如果你最近在逛百元档跑鞋，基本绕不开它，江湖人称"学生党神鞋"，也有人叫它百元档万金油，定位挺清晰的——不是给你拿来冲PB、怼马拉松的进阶竞速鞋，而是一双能把通勤、慢跑、体测这三件事一块儿扛了的平价综训鞋，价格现在京东常卖两百出头，活动价一百七八十就能拿下，顶碳跑鞋的十分之一价钱，所以你得先把这个心理预期摆正，它就不是那个赛道的东西。中底是全掌EVA发泡的奇弹科技，这也是鸿星<p>本文来自<a href="https://post.smzdm.com/p/a6zl6l6e/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
+    <pubDate>Tue, 14 Jul 2026 21:10:18 -0000</pubDate>
+    <guid isPermaLink="true">https://post.smzdm.com/p/a6zl6l6e/</guid>
+    <source url="https://post.smzdm.com/p/a6zl6l6e/">原创频道&gt;&gt;什么值得买</source>
+  </item>
+  <item>
+    <title>[V2EX] [Wunder] 20260714 - AI Persona 现在可以切换模型，新增 GLM-5.2</title>
     <link>https://www.v2ex.com/t/1227335#reply0</link>
     <description><![CDATA[<p>现在在创建和编辑 AI 角色时，可以选择角色所使用的模型，默认是 <code>gemma4:31b</code>，现在新增了 <code>glm-5.2</code> 供选择。</p>
 <p><img alt="" class="embedded_image" rel="noreferrer" src="https://i.v2ex.co/4Go2Qmvs.png" /></p>
@@ -24,7 +345,10 @@
 <p>其他修复：</p>
 <ul>
 <li>修复了在保存 Persona 设定时的一个性能问题</li>
-</ul>]]></description>
+</ul>
+<hr />
+<p>V2EX AI Persona 在最近的一次更新中提供了 OpenAI 兼容的 API 接口，所以你也可以通过这个接口将 GLM-5.2 驱动的 AI 角色用 API 接入你的项目：</p>
+<p><a href="https://www.v2ex.com/t/1226562" rel="nofollow">https://www.v2ex.com/t/1226562</a></p>]]></description>
     <pubDate>Tue, 14 Jul 2026 20:42:42 -0000</pubDate>
     <guid isPermaLink="true">https://www.v2ex.com/t/1227335#reply0</guid>
     <source url="https://www.v2ex.com/t/1227335#reply0">V2EX</source>
@@ -46,6 +370,22 @@
     <source url="https://post.smzdm.com/p/a708986l/">原创频道&gt;&gt;什么值得买</source>
   </item>
   <item>
+    <title>[原创频道&gt;&gt;什么值得买] 一张消费级显卡跑1小时不崩！高德发布3D世界生成工坊</title>
+    <link>https://post.smzdm.com/p/a26525wq/</link>
+    <description><![CDATA[匿名用户一张消费级显卡能跑多长？高德7月14日发布通用世界模型工坊ABot-World Studio，官方实测连续推理超过1小时未出现崩溃或质量衰减——同类产品的生成上限大多在1分钟左右。该工坊还内置"时空任意门"，用户每穿越一次即可跃迁至另一个完整3D世界，场景与场景之间不再孤立。1 2单卡5090能跑出多少？官方给出的性能数据：单张NVIDIA RTX 5090上运行，720P分辨率、16 FPS、延<p>本文来自<a href="https://post.smzdm.com/p/a26525wq/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
+    <pubDate>Tue, 14 Jul 2026 20:32:49 -0000</pubDate>
+    <guid isPermaLink="true">https://post.smzdm.com/p/a26525wq/</guid>
+    <source url="https://post.smzdm.com/p/a26525wq/">原创频道&gt;&gt;什么值得买</source>
+  </item>
+  <item>
+    <title>[原创频道&gt;&gt;什么值得买] 法国vs西班牙2026新球衣对决：哪件更值得入手？真实测评避坑指南</title>
+    <link>https://post.smzdm.com/p/a03757rz/</link>
+    <description><![CDATA[匿名用户世界杯年一到，球迷们最纠结的事就来了：法国队和西班牙队的2026新球衣，哪件更值得入手？法国队这回玩起了自由女神像的梗，客场薄荷绿大胆出圈；西班牙则走复古路线，主场红黄竖纹致敬经典。两家定价都在百元到千元区间，面料都打着环保速干的旗号，看起来差不多，实际上各有各的门道。这篇文章不吹不黑，把两家的设计亮点、穿着体验和价格水分全部摊开，帮你判断哪件才是你的本命战袍。1 2 3 4设计风格：法国的浪漫创<p>本文来自<a href="https://post.smzdm.com/p/a03757rz/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
+    <pubDate>Tue, 14 Jul 2026 20:30:58 -0000</pubDate>
+    <guid isPermaLink="true">https://post.smzdm.com/p/a03757rz/</guid>
+    <source url="https://post.smzdm.com/p/a03757rz/">原创频道&gt;&gt;什么值得买</source>
+  </item>
+  <item>
     <title>[原创频道&gt;&gt;什么值得买] 联想Y700游戏平板全面升级：OLED屏幕+骁龙8 Elite+5G通话，游戏党闭眼入</title>
     <link>https://post.smzdm.com/p/az85l5wo/</link>
     <description><![CDATA[匿名用户50Mp单摄不只是扫码，实用功能藏得深无极版后置5000万像素摄像头，附带三段式RGB灯环，游戏氛围感直接拉满。实测下来，这颗头拿来扫码、拍文档、偶尔记录游戏精彩瞬间完全够用。4K视频录制支持，手游录屏素材直接截取高清片段，不用再依赖第三方录屏软件。前置800万像素镜头适配网课、视频通话场景，美颜功能也没缺席。1别指望拿它替代拍照旗舰——大底、高倍光学变焦这些别想了。但游戏平板赛道里，这配置已经超<p>本文来自<a href="https://post.smzdm.com/p/az85l5wo/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
@@ -54,44 +394,36 @@
     <source url="https://post.smzdm.com/p/az85l5wo/">原创频道&gt;&gt;什么值得买</source>
   </item>
   <item>
-    <title>[原创频道&gt;&gt;什么值得买] 欧洲杯半决赛今晚开球！平台画质、场所选择、安全隐患，一文搞定观赛全避坑</title>
-    <link>https://post.smzdm.com/p/aqrn7n3x/</link>
-    <description><![CDATA[匿名用户法国对西班牙半决赛，北京时间7月15日凌晨3点开球。频道这块，CCTV5电视端最稳但只有1080P；咪咕视频和小红书都标榜4K，但业内都知道央视没买4K信号，这俩平台是用AI超分从1080P硬拉上去的。静态画面能看，姆巴佩冲刺那种高速镜头容易丢细节、锐化过度。想真4K？除非你有法国卫星接收条件，国内就别想了。1 2解说这块，咪咕有詹俊那帮人，专业度业内公认，适合想听战术分析的；央视偏官方腔，热闹但<p>本文来自<a href="https://post.smzdm.com/p/aqrn7n3x/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
-    <pubDate>Tue, 14 Jul 2026 20:29:40 -0000</pubDate>
-    <guid isPermaLink="true">https://post.smzdm.com/p/aqrn7n3x/</guid>
-    <source url="https://post.smzdm.com/p/aqrn7n3x/">原创频道&gt;&gt;什么值得买</source>
+    <title>[原创频道&gt;&gt;什么值得买] 领克07GT上市，四个版本怎么选？老司机：这3个坑别踩</title>
+    <link>https://post.smzdm.com/p/awwxgx3g/</link>
+    <description><![CDATA[匿名用户领克07GT已经正式上市，预售16.58万起，7月23日价格落定。四个版本怎么选，预售权益怎么用，哪些坑要避开——老规矩，直接上硬菜。1四个版本怎么选，先看预算再看需求16.58万Max版是入门门槛，但配置并不寒酸：激光雷达、28.3kWh电池、8295芯片全系标配。纯电续航200km，城市通勤一周一充够用。适合预算卡死、主要跑市区的用户。217.58万Ultra版贵了一万，升级哈曼卡顿23扬音响<p>本文来自<a href="https://post.smzdm.com/p/awwxgx3g/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
+    <pubDate>Tue, 14 Jul 2026 20:26:40 -0000</pubDate>
+    <guid isPermaLink="true">https://post.smzdm.com/p/awwxgx3g/</guid>
+    <source url="https://post.smzdm.com/p/awwxgx3g/">原创频道&gt;&gt;什么值得买</source>
   </item>
   <item>
-    <title>[原创频道&gt;&gt;什么值得买] 16万起混动+4秒加速+激光雷达，领克07GT香不香？</title>
-    <link>https://post.smzdm.com/p/agg8n8mm/</link>
-    <description><![CDATA[匿名用户16.58万起，四个版本怎么选领克07GT预售价格区间16.58万至18.58万元，同时推出一款限量1007台的时间限量版，定价20.88万元。常规版共三个配置，主要差异集中在驱动形式、续航里程和舒适配置上。两驱版采用前置单电机布局，CLTC纯电续航200公里，综合续航1422公里；四驱版增加后置电机，综合功率从300kW提升至390kW，零百加速进入4秒级，但纯电续航降至170公里，综合续航13<p>本文来自<a href="https://post.smzdm.com/p/agg8n8mm/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
-    <pubDate>Tue, 14 Jul 2026 20:26:39 -0000</pubDate>
-    <guid isPermaLink="true">https://post.smzdm.com/p/agg8n8mm/</guid>
-    <source url="https://post.smzdm.com/p/agg8n8mm/">原创频道&gt;&gt;什么值得买</source>
+    <title>[原创频道&gt;&gt;什么值得买] 姆巴佩对亚马尔5战全败，法国西班牙生死战</title>
+    <link>https://post.smzdm.com/p/a70898ql/</link>
+    <description><![CDATA[匿名用户7月15日凌晨3点，世界杯半决赛将迎来一场27亿欧元的巅峰对决：法国对阵西班牙。比起两队连续三年在大赛半决赛狭路相逢，球迷们更关心的是姆巴佩和亚马尔这对新老天才的第11次交锋。过去10次交手，亚马尔拿下了8场胜利，单场淘汰赛更是对姆巴佩5战全胜。从欧洲杯到欧国联，法国连续两年在半决赛被西班牙淘汰，这场复仇局，姆巴佩能打破自己的“心魔”吗？10次交手8胜，亚马尔凭什么拿捏姆巴佩？赛前亚马尔直接喊话：<p>本文来自<a href="https://post.smzdm.com/p/a70898ql/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
+    <pubDate>Tue, 14 Jul 2026 20:24:17 -0000</pubDate>
+    <guid isPermaLink="true">https://post.smzdm.com/p/a70898ql/</guid>
+    <source url="https://post.smzdm.com/p/a70898ql/">原创频道&gt;&gt;什么值得买</source>
   </item>
   <item>
-    <title>[原创频道&gt;&gt;什么值得买] 拯救者Y700无极版曝光：5G双卡OLED屏</title>
+    <title>[原创频道&gt;&gt;什么值得买] 联想Y700无极曝光：骁龙8至尊配5G</title>
     <link>https://post.smzdm.com/p/az85l5po/</link>
-    <description><![CDATA[匿名用户经常用平板打游戏的玩家，大概都受够了出门得拿手机开热点、一来电话就断网的折磨。联想拯救者Y700无极版最新曝光的谍照和参数，就是冲着解决这个痛点来的。这款定档8月发布的小尺寸性能平板，这次直接塞进了5G双卡双通，屏幕也换成了OLED，不过起步价大概率要冲进5K档了。8.8寸OLED屏+RGB灯环，外观大换血Y700无极版这次外观完全重做。正面换上了一块8.8英寸的中置挖孔OLED高刷屏，彻底告别了<p>本文来自<a href="https://post.smzdm.com/p/az85l5po/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
+    <description><![CDATA[匿名用户联想拯救者Y700无极最新谍照和参数曝光，这款8.8英寸小平板终于把5G插卡补齐了。新机预计8月发布，起步价大概在5K档，核心换上了骁龙8至尊领先版处理器，屏幕也从LCD升级为OLED。对那些出门打游戏还得靠手机开热点的玩家来说，这可能是目前最硬核的小尺寸5G平板选择。不用蹭手机热点，5G双卡双通安排上了前代Y700五代只支持Wi-Fi，出门联网总得靠手机开热点，组队开黑碰到电话进来就容易断网。Y<p>本文来自<a href="https://post.smzdm.com/p/az85l5po/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
     <pubDate>Tue, 14 Jul 2026 20:20:50 -0000</pubDate>
     <guid isPermaLink="true">https://post.smzdm.com/p/az85l5po/</guid>
     <source url="https://post.smzdm.com/p/az85l5po/">原创频道&gt;&gt;什么值得买</source>
   </item>
   <item>
-    <title>[原创频道&gt;&gt;什么值得买] 领克07GT定档7月23日，配MRC悬架预售16.58万起</title>
+    <title>[原创频道&gt;&gt;什么值得买] 领克07GT上市，MRC悬架配拖挂</title>
     <link>https://post.smzdm.com/p/a3mgkg6n/</link>
-    <description><![CDATA[匿名用户领克首款旅行车07GT定档7月23日正式上市，此前公布的预售价为16.58-18.58万元。20万以内的插混猎装车，配上了超跑同源的MRC悬架和1.6吨拖挂资质，限量版更是3分钟售罄，大家都在等7月23日看正式价格会不会有惊喜。预售火爆，正式价格能否再下探6月29日开启预售后，领克07GT的限量版车型就迅速售罄，市场热度相当高。常规版16.58-18.58万元的预售价，已经把过去动辄二三十万的进口<p>本文来自<a href="https://post.smzdm.com/p/a3mgkg6n/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
+    <description><![CDATA[匿名用户7月23日19:00，领克首款旅行车07GT将正式上市。此前新车已在6月29日开启预售，常规版预售价16.58-18.58万元，而20.88万元的时间限量版1007台在3分钟内售罄。目前新车已到店，正式上市价格能否比预售价更低，成了这几天持币待购玩家最关心的悬念。18万级给到超跑同款悬架，这旅行车有点硬核以前20万以内买旅行车，操控往往是妥协项，但领克07GT把TCR赛道上磨出来的底盘本事全塞了进<p>本文来自<a href="https://post.smzdm.com/p/a3mgkg6n/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
     <pubDate>Tue, 14 Jul 2026 20:19:10 -0000</pubDate>
     <guid isPermaLink="true">https://post.smzdm.com/p/a3mgkg6n/</guid>
     <source url="https://post.smzdm.com/p/a3mgkg6n/">原创频道&gt;&gt;什么值得买</source>
-  </item>
-  <item>
-    <title>[原创频道&gt;&gt;什么值得买] 中暑急救别慌！3步救命操作，关键时刻用得上</title>
-    <link>https://post.smzdm.com/p/a6zl6oee/</link>
-    <description><![CDATA[匿名用户7月15日，演员孙俪发布微博透露，在拍摄一场情绪激动的戏份后，因天气炎热出现中暑症状。消息登上热搜后，夏季高温环境下的中暑急救问题引发广泛关注。涪陵美心红酒小镇景区于7月9日开展索道救援演练，模拟高温天气下轿厢内游客中暑场景，检验景区应急响应能力。当前正值盛夏旅游旺季，户外工作者、游客等人群面临较高中暑风险。1 2中暑分为三个级别。先兆中暑表现为头晕乏力、口干多汗、注意力下降，体温基本正常；轻症中<p>本文来自<a href="https://post.smzdm.com/p/a6zl6oee/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
-    <pubDate>Tue, 14 Jul 2026 20:09:26 -0000</pubDate>
-    <guid isPermaLink="true">https://post.smzdm.com/p/a6zl6oee/</guid>
-    <source url="https://post.smzdm.com/p/a6zl6oee/">原创频道&gt;&gt;什么值得买</source>
   </item>
   <item>
     <title>[V2EX] [问与答] 有个西班牙号码，可以怎么利用下？</title>
@@ -102,68 +434,20 @@
     <source url="https://www.v2ex.com/t/1227334#reply0">V2EX</source>
   </item>
   <item>
-    <title>[原创频道&gt;&gt;什么值得买] 城里人开始在农村长住了！乡村民宿预订量暴涨32%</title>
-    <link>https://post.smzdm.com/p/ae6kgr73/</link>
-    <description><![CDATA[匿名用户同程旅行最新报告显示，2026年上半年乡村民宿预订量同比增长32%，乡村目的地旅行产品预订热度同步提升38%。更具标志性的是，2晚及以上连住订单占比提升11个百分点，游客平均入住天数增加1至2天。业界将这一从"打卡式路过"向"沉浸式居住"的转变，称为"Country Stay"新趋势。1数字游民成为这一趋势的核心驱动力。带“高速WiFi”“长住优惠”标签的民宿房型预订热度同比增长超15%，大批城市<p>本文来自<a href="https://post.smzdm.com/p/ae6kgr73/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
-    <pubDate>Tue, 14 Jul 2026 20:01:05 -0000</pubDate>
-    <guid isPermaLink="true">https://post.smzdm.com/p/ae6kgr73/</guid>
-    <source url="https://post.smzdm.com/p/ae6kgr73/">原创频道&gt;&gt;什么值得买</source>
+    <title>[Hacker News] How I use HTMX with Go</title>
+    <link>https://www.alexedwards.net/blog/how-i-use-htmx-with-go</link>
+    <description><![CDATA[<a href="https://news.ycombinator.com/item?id=48912175">Comments</a>]]></description>
+    <pubDate>Tue, 14 Jul 2026 19:55:31 -0000</pubDate>
+    <guid isPermaLink="true">https://www.alexedwards.net/blog/how-i-use-htmx-with-go</guid>
+    <source url="https://www.alexedwards.net/blog/how-i-use-htmx-with-go">Hacker News</source>
   </item>
   <item>
-    <title>[原创频道&gt;&gt;什么值得买] 52.9元买12罐嘉士伯！美团冰品节专属价被扒出，商超哭了</title>
-    <link>https://post.smzdm.com/p/a2652ovq/</link>
-    <description><![CDATA[匿名用户美团闪购「冰品节」活动（6-8月）已将嘉士伯乐堡500ml×12罐装打到52.9元，较商超常规渠道便宜近10元。用户在美团App搜索「冰品闪到」进入活动页即可看到专属价，平台同步提供「不冰必赔」服务保障。消息一出，立即引发夏夜囤酒党热议。1 2价格全拆解：52.9元背后是什么52.9元并非全平台通用价。该价格为美团「冰品闪到」活动专属通道触发，商超渠道同规格售价多在55-65元，便利店单瓶（330<p>本文来自<a href="https://post.smzdm.com/p/a2652ovq/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
-    <pubDate>Tue, 14 Jul 2026 19:58:38 -0000</pubDate>
-    <guid isPermaLink="true">https://post.smzdm.com/p/a2652ovq/</guid>
-    <source url="https://post.smzdm.com/p/a2652ovq/">原创频道&gt;&gt;什么值得买</source>
-  </item>
-  <item>
-    <title>[原创频道&gt;&gt;什么值得买] CDG HOMME × NB新联名鞋曝光！复古1226再演绎，三色拼接机能升级，2027见</title>
-    <link>https://post.smzdm.com/p/a959mepe/</link>
-    <description><![CDATA[匿名用户COMME des GARÇONS HOMME与New Balance的全新联名鞋款实物图在巴黎时装周SS27期间正式曝光。联名以New Balance 2011年发布的1226复古跑鞋为蓝本重新演绎，鞋面采用大面积网眼搭配牛巴革磨砂皮打造，配色选择黑色、棕色、橄榄绿三色拼接，鞋侧N字logo以低饱和紫色点缀。搭载N-ergy缓震科技与户外机能外底，鞋舌与鞋垫位置点缀CDG HOMME联名标识。品<p>本文来自<a href="https://post.smzdm.com/p/a959mepe/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
-    <pubDate>Tue, 14 Jul 2026 19:49:55 -0000</pubDate>
-    <guid isPermaLink="true">https://post.smzdm.com/p/a959mepe/</guid>
-    <source url="https://post.smzdm.com/p/a959mepe/">原创频道&gt;&gt;什么值得买</source>
-  </item>
-  <item>
-    <title>[原创频道&gt;&gt;什么值得买] 中兴两款LCD新机差价100元到底差在哪续航屏幕选购指南</title>
-    <link>https://post.smzdm.com/p/a823ko4n/</link>
-    <description><![CDATA[匿名用户中兴一口气发了两款LCD手机，差价仅100元，你该买哪台？6月30日，小鲜70 Plus和畅行70 Plus先后现身电信产品库及电商平台，均配备护眼LCD屏和6050mAh超大电池，但处理器、屏幕、存储各有取舍。小鲜70 Plus定价1999元，畅行70 Plus定价2099元，核心配置对比如下：维度小鲜70 Plus畅行70 Plus屏幕规格6.8英寸 720P+ LCD6.75英寸 900P <p>本文来自<a href="https://post.smzdm.com/p/a823ko4n/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
-    <pubDate>Tue, 14 Jul 2026 19:49:04 -0000</pubDate>
-    <guid isPermaLink="true">https://post.smzdm.com/p/a823ko4n/</guid>
-    <source url="https://post.smzdm.com/p/a823ko4n/">原创频道&gt;&gt;什么值得买</source>
-  </item>
-  <item>
-    <title>[原创频道&gt;&gt;什么值得买] 117天300万台！三星S26系列创S系列最快记录，韩国市场又赢了？</title>
-    <link>https://post.smzdm.com/p/awwxg5vg/</link>
-    <description><![CDATA[匿名用户韩国市场数据显示，三星Galaxy S26系列上市仅117天销量已突破300万台，成为Galaxy S系列销售速度最快的机型。三星电子7月9日披露，该系列于今年3月发布，达成上述销量用时不足四个月，较前代S25系列缩短近一半。Ultra机型占预订单总量约70%，显示高端产品是驱动增长的核心引擎。1 2 32026年第一季度，韩国智能手机总出货量约378万部，同比微降0.5%。尽管整体市场增长停滞，<p>本文来自<a href="https://post.smzdm.com/p/awwxg5vg/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
-    <pubDate>Tue, 14 Jul 2026 19:46:36 -0000</pubDate>
-    <guid isPermaLink="true">https://post.smzdm.com/p/awwxg5vg/</guid>
-    <source url="https://post.smzdm.com/p/awwxg5vg/">原创频道&gt;&gt;什么值得买</source>
-  </item>
-  <item>
-    <title>[原创频道&gt;&gt;什么值得买] 五粮液半年净赚90亿？拆开看才发现，一半是“数字游戏”</title>
-    <link>https://post.smzdm.com/p/awwxg544/</link>
-    <description><![CDATA[匿名用户五粮液7月14日晚间披露业绩预告，2026年上半年归母净利润预计87.3亿至92亿元，同比增幅88.8%至98.97%。这一数字让不少人眼前一亮，但亮眼背后藏着一个关键前提：去年同期净利润经历了会计差错更正，基数被大幅压降至46.24亿元。用更正前的数据对比，表观增速其实是下跌超过50%。说白了，这次高增长有相当一部分是"数字游戏"带来的。1 2淡旺季利润悬殊：2026年Q1净利润80.63亿元，<p>本文来自<a href="https://post.smzdm.com/p/awwxg544/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
-    <pubDate>Tue, 14 Jul 2026 19:37:07 -0000</pubDate>
-    <guid isPermaLink="true">https://post.smzdm.com/p/awwxg544/</guid>
-    <source url="https://post.smzdm.com/p/awwxg544/">原创频道&gt;&gt;什么值得买</source>
-  </item>
-  <item>
-    <title>[原创频道&gt;&gt;什么值得买] 长城汽车净利预降近六成，魏建军启动H股回购</title>
-    <link>https://post.smzdm.com/p/arz04wvw/</link>
-    <description><![CDATA[匿名用户长城汽车上半年净利超23.5亿，但同比下滑近六成的消息，让不少人吓了一跳。销量和营收明明都在涨，赚的钱却比去年同期少了近40亿，利润奶牛怎么了？其实，这更像是一次“算账”带来的视觉冲击，卖车的主业不仅没垮，还在海外市场跑出了速度。近40亿利润去哪了对比去年同期63.37亿的净利润，今年上半年的账面直接蒸发了近40个亿。长城汽车把底牌亮了出来：并不是车卖亏了，而是两笔“外快”没赶上。第一笔是22.7<p>本文来自<a href="https://post.smzdm.com/p/arz04wvw/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
-    <pubDate>Tue, 14 Jul 2026 18:55:04 -0000</pubDate>
-    <guid isPermaLink="true">https://post.smzdm.com/p/arz04wvw/</guid>
-    <source url="https://post.smzdm.com/p/arz04wvw/">原创频道&gt;&gt;什么值得买</source>
-  </item>
-  <item>
-    <title>[原创频道&gt;&gt;什么值得买] 洛瑞正式退役结束20年生涯，猛龙队魂功成身退</title>
-    <link>https://post.smzdm.com/p/al3p57we/</link>
-    <description><![CDATA[匿名用户凯尔·洛瑞以猛龙球员身份签下一天合同正式退役，结束20年职业生涯。1米83的身高、2006年24号秀，这样的硬件条件能在NBA打20年本身就够神奇。他到底是不是被低估了？看看他的履历：1次总冠军、6次全明星、猛龙队史助攻/抢断/三分/季后赛胜场四项第一，以及同届总得分第三的16364分。数据不会撒谎，这位“小钢炮”的实力确实配得上更高的历史评价。猛龙队魂之争：一年租客还是九年心脏提到猛龙夺冠，很多<p>本文来自<a href="https://post.smzdm.com/p/al3p57we/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
-    <pubDate>Tue, 14 Jul 2026 18:50:27 -0000</pubDate>
-    <guid isPermaLink="true">https://post.smzdm.com/p/al3p57we/</guid>
-    <source url="https://post.smzdm.com/p/al3p57we/">原创频道&gt;&gt;什么值得买</source>
+    <title>[IT之家] Steam 及 Steam Deck 客户端 Beta 预览版更新：新增“完美适配主机”专区</title>
+    <link>https://www.ithome.com/0/976/765.htm</link>
+    <description><![CDATA[<p>IT之家 7 月 15 日消息，Valve 今日推出了全新的 Steam 客户端 Beta 版本更新，针对 Steam 创意工坊、远程同乐、Linux 平台以及 VR 模块修复了多个已知问题。</p><p>IT之家注意到，Valve 同时还向 Steam Deck 客户端预览 / Beta 测试通道推送了更新版本，修复多项已知问题，并针对 Steam Machine 主机新增功能。</p><p style="text-align: center;"><img alt="Steam Deck Beta Client Update: July 14th" class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/7/cfd85a5a-e4cd-4898-bb9a-64ec00431c4d.jpg?x-bce-process=image/format,f_auto" /></p><p>Steam Deck 客户端此次更新修复了屏幕边缘处鼠标光标变为调整大小光标的问题，修复了集成旧版 Steam 创意工坊的游戏中，订阅项目文件在不同目录重复存储的问题，并在游戏库中新增“Great on Machine（完美适配主机）”分区。</p><p>Steam 客户端 Beta 版本更新修复了集成旧版 Steam 创意工坊的游戏中，已订阅物品文件会在不同目录重复保存的问题；修复了 Windows 系统中禁用硬件编码后会出现黑屏的问题；修复了 Linux 系统 NVIDIA 显卡开启硬件加速时 steamwebhelper 进程崩溃的问题；修复了 SteamVR 实际未崩溃，但 Steam 错误提示上次运行已崩溃的问题。</p>]]></description>
+    <pubDate>Tue, 14 Jul 2026 19:00:19 -0000</pubDate>
+    <guid isPermaLink="true">https://www.ithome.com/0/976/765.htm</guid>
+    <source url="https://www.ithome.com/0/976/765.htm">IT之家</source>
   </item>
   <item>
     <title>[V2EX] [问与答] giffgaff 申请 esim 用 bybit 的 mastercard 无法成功付款</title>
@@ -172,38 +456,6 @@
     <pubDate>Tue, 14 Jul 2026 18:44:00 -0000</pubDate>
     <guid isPermaLink="true">https://www.v2ex.com/t/1227333#reply0</guid>
     <source url="https://www.v2ex.com/t/1227333#reply0">V2EX</source>
-  </item>
-  <item>
-    <title>[原创频道&gt;&gt;什么值得买] 张凌赫代言阿维塔07L！顶流+华为智驾+1200km续航，25万级最优选？</title>
-    <link>https://post.smzdm.com/p/am9mg754/</link>
-    <description><![CDATA[匿名用户7月17日，张凌赫正式成为阿维塔全球品牌代言人。同日，全新大五座SUV阿维塔07L开启预售，8月8日上市，预计起售价21.88万至25万元区间。这是阿维塔用“顶流明星+旗舰新车”组合拳在新能源市场打出的重磅营销事件。代言级别与梁朝伟同级，覆盖全系列全品牌全球范围，是车圈最高级别title。1 2代言人官宣即出圈，张凌赫带来什么流量打开微博能看到大量粉丝晒图——7月17日官宣当天，阿维塔相关话题迅速<p>本文来自<a href="https://post.smzdm.com/p/am9mg754/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
-    <pubDate>Tue, 14 Jul 2026 18:40:25 -0000</pubDate>
-    <guid isPermaLink="true">https://post.smzdm.com/p/am9mg754/</guid>
-    <source url="https://post.smzdm.com/p/am9mg754/">原创频道&gt;&gt;什么值得买</source>
-  </item>
-  <item>
-    <title>[原创频道&gt;&gt;什么值得买] 韩国政府砸重金推全民AI！512块顶级GPU白送，三分之一国民还用不上AI的问题要解决了</title>
-    <link>https://post.smzdm.com/p/a3mgk2wk/</link>
-    <description><![CDATA[匿名用户韩国科学技术信息通信部本周正式开放“全民AI”项目招标，截止日期为8月11日。政府将向最终入选的两到三家企业提供最多512块英伟达B200 GPU，扶持其在年内推出面向全体国民的免费通用AI对话机器人及公共服务AI智能体。1 2招标截止后，科技部计划8月完成企业遴选，9月启动Beta测试。自2027年起，政府将改为补贴平台运营成本，覆盖在全国范围内运行模型所需的费用。3Kakao已接入自研模型Ka<p>本文来自<a href="https://post.smzdm.com/p/a3mgk2wk/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
-    <pubDate>Tue, 14 Jul 2026 18:39:42 -0000</pubDate>
-    <guid isPermaLink="true">https://post.smzdm.com/p/a3mgk2wk/</guid>
-    <source url="https://post.smzdm.com/p/a3mgk2wk/">原创频道&gt;&gt;什么值得买</source>
-  </item>
-  <item>
-    <title>[原创频道&gt;&gt;什么值得买] 轴距2825mm+激光雷达，10万级纯电轿车市场再添“卷王”</title>
-    <link>https://post.smzdm.com/p/al3p57oe/</link>
-    <description><![CDATA[匿名用户工信部第409批《道路机动车辆生产企业及产品公告》于7月11日发布，长安启源A05L纯电动轿车完成申报。新车轴距达2825mm，达到中型轿车标准，同时提供激光雷达智驾方案可选。预计售价10–13万元，直接对标小鹏MONA M03、比亚迪秦PLUS EV等车型。1 2车身尺寸越级：2825mm轴距对标中型车申报信息显示，长安启源A05L长宽高分别为4800mm、1870mm、1505mm，轴距282<p>本文来自<a href="https://post.smzdm.com/p/al3p57oe/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
-    <pubDate>Tue, 14 Jul 2026 18:39:05 -0000</pubDate>
-    <guid isPermaLink="true">https://post.smzdm.com/p/al3p57oe/</guid>
-    <source url="https://post.smzdm.com/p/al3p57oe/">原创频道&gt;&gt;什么值得买</source>
-  </item>
-  <item>
-    <title>[原创频道&gt;&gt;什么值得买] 6大魔咒缠身！阿根廷卫冕之路被诅咒笼罩，荷兰竟成唯一免疫体</title>
-    <link>https://post.smzdm.com/p/ak8mp4r9/</link>
-    <description><![CDATA[匿名用户截至2026年7月15日，美加墨世界杯已进入半决赛阶段。卫冕冠军阿根廷在7月7日的1/8决赛中3:2绝杀埃及，成功晋级八强，完成了队史首次半场落后逆转。与此同时，法国以34%的夺冠概率领跑，西班牙、英格兰紧随其后。赛前被多重魔咒缠身的阿根廷，正站在破咒的十字路口。1 2 3 4世界第一叠加卫冕冠军：阿根廷踩中两条顶级铁律自1994年FIFA排名体系启用以来，赛前世界排名第一的球队从未夺冠，八届全中<p>本文来自<a href="https://post.smzdm.com/p/ak8mp4r9/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
-    <pubDate>Tue, 14 Jul 2026 18:38:34 -0000</pubDate>
-    <guid isPermaLink="true">https://post.smzdm.com/p/ak8mp4r9/</guid>
-    <source url="https://post.smzdm.com/p/ak8mp4r9/">原创频道&gt;&gt;什么值得买</source>
   </item>
   <item>
     <title>[V2EX] [OpenAI] Chatgpt 的 Agent Mode 被移除了？</title>
@@ -222,7 +474,7 @@
     <source url="https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left">Hacker News</source>
   </item>
   <item>
-    <title>[Hacker News] Bonsai 27B: A 27B-Class Model that runs on a phone</title>
+    <title>[Hacker News] Bonsai 27B: A 27B-Class model that runs on a phone</title>
     <link>https://prismml.com/news/bonsai-27b</link>
     <description><![CDATA[<a href="https://news.ycombinator.com/item?id=48910545">Comments</a>]]></description>
     <pubDate>Tue, 14 Jul 2026 17:50:48 -0000</pubDate>
@@ -361,14 +613,6 @@ YW1hemluZ0NvbXBhc3M=</p>]]></description>
     <source url="https://www.v2ex.com/t/1227328#reply1">V2EX</source>
   </item>
   <item>
-    <title>[Hacker News] Measuring Input Latency on Linux: X11 vs. Wayland, VRR, and DXVK</title>
-    <link>https://marco-nett.de/blog/measuring-input-latency-on-linux-x11-vs-wayland-vrr-dxvk/</link>
-    <description><![CDATA[<a href="https://news.ycombinator.com/item?id=48909424">Comments</a>]]></description>
-    <pubDate>Tue, 14 Jul 2026 16:36:06 -0000</pubDate>
-    <guid isPermaLink="true">https://marco-nett.de/blog/measuring-input-latency-on-linux-x11-vs-wayland-vrr-dxvk/</guid>
-    <source url="https://marco-nett.de/blog/measuring-input-latency-on-linux-x11-vs-wayland-vrr-dxvk/">Hacker News</source>
-  </item>
-  <item>
     <title>[V2EX] [程序员] Windsurf++ | 极为渴望和顺滑的 BYOK Server 集成</title>
     <link>https://www.v2ex.com/t/1227327#reply0</link>
     <description><![CDATA[Windsurf++ | 极为渴望和顺滑的 BYOK Server 集成<br /><br />前文： <a href="https://linux.do/t/topic/2565152" rel="nofollow noopener" target="_blank">https://linux.do/t/topic/2565152</a><br /><br />24 年的时候 在用 cursor 疯狂 coding 很开心，一开始用无限续杯到变成忠实付费用户，后来有一个改了价格计算方式，500 次数 改成按量付费，一天就干完了用量。愣着干嘛 跑路呀！然后跑到了 windsurf 很快乐 依旧原始的计算方式，一开始感觉不如 cursor ，用了一段时间，感觉还行 逐渐变强了，也可能用习惯了。后来持续付费，结果又改了日/周额度限制，虽然现在还在付费使用，但是不够用了。<br />紧接着自己买了 Kimi 和 GPT 还有国产的 GLM ，感觉很割裂，没有用武之地，Codex/Claude code 咯 但是过了一会 又要回头用一下 我重写刷新的 windsurf ，用完之后 跑回 codex 继续战斗，搞得跟做任务一样。顶不住了，彻底顶不住了，后来看到了哈雷的 Cursor++，Cursor++ | 极为顺滑的 BYOK Server 集成 。所以就有了 Windsurf++。<br /><br />好了<br />下面直接开始用吧<br /><a href="https://cwindsurf.priders.org" rel="nofollow noopener" target="_blank">https://cwindsurf.priders.org</a><br /><br />npx @<a href="https://www.v2ex.com/member/priders" rel="nofollow noopener" target="_blank">priders</a>/cwindsurf install 安装<br />npx @<a href="https://www.v2ex.com/member/priders" rel="nofollow noopener" target="_blank">priders</a>/cwindsurf uninstall 卸载<br /><br />有啥问题评论区提 目前 Anthropic 、Openai 渠道自己亲自测试过了，macOS 测试过了 Linux windows 等大家给我反馈，有问题我抽时间修一下。<br /><br />统计是自己加的 想要看下自己有哪些消耗和 token 速度啥的，如果看到自己没用过的模型 出现了，那就是官方使用的压缩模型。<br /><br />简单写一下 怎么用<br />1 、授权证书<br />2 、登录账号<br />3 、配置你自己的模型吧。<br /><br /><a href="https://cdn3.ldstatic.com/original/4X/a/c/e/ace6d94df9e01a867d08b1b881dd63b7b7e6ae49.jpeg" rel="nofollow noopener" target="_blank">https://cdn3.ldstatic.com/original/4X/a/c/e/ace6d94df9e01a867d08b1b881dd63b7b7e6ae49.jpeg</a>]]></description>
@@ -378,15 +622,15 @@ YW1hemluZ0NvbXBhc3M=</p>]]></description>
   </item>
   <item>
     <title>[V2EX] [程序员] Kimi K3 营销天花板？</title>
-    <link>https://www.v2ex.com/t/1227326#reply1</link>
+    <link>https://www.v2ex.com/t/1227326#reply2</link>
     <description><![CDATA[<p>不得不说，Kimi K3 这一波营销玩得真秒啊！👍</p>
 <p>妥妥的营销天花板！值得学习！</p>
 <p>话题度直接拉满，热度这不就一下子起来了吗？</p>
 <p>别等了，明天铁定不会发布，全都是营销套路而已。</p>
 <p><img alt="" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/iVT4hD0.png" /></p>]]></description>
     <pubDate>Tue, 14 Jul 2026 16:29:01 -0000</pubDate>
-    <guid isPermaLink="true">https://www.v2ex.com/t/1227326#reply1</guid>
-    <source url="https://www.v2ex.com/t/1227326#reply1">V2EX</source>
+    <guid isPermaLink="true">https://www.v2ex.com/t/1227326#reply2</guid>
+    <source url="https://www.v2ex.com/t/1227326#reply2">V2EX</source>
   </item>
   <item>
     <title>[V2EX] [推广] coinbase 支持 CN 区域注册了</title>
@@ -581,7 +825,7 @@ gemini 的 api 是否比 deepseek pro 智能一些呢？</p>]]></description>
   </item>
   <item>
     <title>[V2EX] [职场话题] 去初创公司当外包小程序开发，还是去老牌酒店当 erp 运维| 无敌教培</title>
-    <link>https://www.v2ex.com/t/1227315#reply10</link>
+    <link>https://www.v2ex.com/t/1227315#reply11</link>
     <description><![CDATA[<h1>自我介绍</h1>
 <p>小弟来自一个山东小县城，本科毕业快四年了，有二建证书，后来去实习安全员，业余考了华为的 HCIP datacom 数通证书，手里也会点儿 python ，能写点儿小项目。 毕业前两年安全员顺风顺水，后来因为大环境被裁员，以至于家里躺了一年，也有点 k8s 的经验。
 以前因为获取第三方数据库被定过‘入侵计算机’罪名，所以考不了公。</p>
@@ -622,8 +866,8 @@ gemini 的 api 是否比 deepseek pro 智能一些呢？</p>]]></description>
 <h1>总结</h1>
 <p>俺不知道该干什么，不该干什么，所以 v 站各位大佬，给小弟点建议。</p>]]></description>
     <pubDate>Tue, 14 Jul 2026 15:19:04 -0000</pubDate>
-    <guid isPermaLink="true">https://www.v2ex.com/t/1227315#reply10</guid>
-    <source url="https://www.v2ex.com/t/1227315#reply10">V2EX</source>
+    <guid isPermaLink="true">https://www.v2ex.com/t/1227315#reply11</guid>
+    <source url="https://www.v2ex.com/t/1227315#reply11">V2EX</source>
   </item>
   <item>
     <title>[Hacker News] Are we offloading too much of our thinking to AI?</title>
@@ -666,52 +910,12 @@ gemini 的 api 是否比 deepseek pro 智能一些呢？</p>]]></description>
     <source url="https://www.ithome.com/0/976/751.htm">IT之家</source>
   </item>
   <item>
-    <title>[V2EX] [分享创造] 我做了一个数字佛堂「净心道场」· 程序写累了，可以随时进来静心五分钟～</title>
-    <link>https://www.v2ex.com/t/1227314#reply0</link>
-    <description><![CDATA[<p>前文提要：</p>
-<p>我在 400 天做了一个读经的网站，如是我闻： <a href="https://v2ex.com/t/1186843" rel="nofollow">https://v2ex.com/t/1186843</a></p>
-<p>两天前，我做了一个基于佛经的 Chat: <a href="https://edge.v2ex.com/chat?persona=RuShiWoWen" rel="nofollow">https://edge.v2ex.com/chat?persona=RuShiWoWen</a></p>
-<hr />
-<p>上周刷 x 的时候，看到了一个赛博佛堂的想法，最近一直在学习冥想，就想着看是否能结合冥想和自己的信仰，做一些新的产品，就结合读经的想法，加一个数字的佛堂，让 gpt 出原型图，第一个版本就把我震撼到了，当时想着如果真能做出来，也挺厉害了，没想着自己有能力实现。</p>
-<p>以下是原型图</p>
-<p><img alt="" class="embedded_image" rel="noreferrer" src="https://i.v2ex.co/9SQ2ui06.png" /></p>
-<hr />
-<p>从原型，到自己满意了可以上线，总花费大概 48 小时，从 3d 建模到 three.js ，是一次全新的开发体验❤️</p>
-<p>一开始想着是找人订制 3d 模型，淘宝上随便问了下，都要 10 天工期，3500 块钱起。一个用爱发电的项目，现显然没有这个预算，于是就发动 ai 超能力，跟 claude 聊了半小时。</p>
-<p>3d 模型第一版是用 <a href="http://meshy.ai" rel="nofollow">meshy.ai</a> 生成的，然后交给 codex 后可以自动调用 Blender cli 来修改细节，全程看着 codex 操作我的电脑，当时还是有点被吓到的感觉。</p>
-<p><img alt="" class="embedded_image" rel="noreferrer" src="https://i.v2ex.co/57Szh844.jpeg" /></p>
-<p>最终呈现效果如下，大家觉得还原度如何。</p>
-<p><img alt="" class="embedded_image" rel="noreferrer" src="https://i.v2ex.co/b0z5pN2F.png" /></p>
-<hr />
-<p>做这个产品的过程中是充满动力的，因为接触的是我陌生的领域，ai 真的是可以帮人拓宽自己的技术边界。</p>
-<p>默认放了我喜欢的一首《百字明》的音乐，是一个朋友原创的，已经获得了授权，每次听都充满力量。也希望这个「净心道场」，可以帮大家在焦虑的时候，静心三分钟，那这 48 小时 83 次 commit 的目的就达到了。</p>
-<p><img alt="" class="embedded_image" rel="noreferrer" src="https://i.v2ex.co/7BVzKP8x.png" /></p>
-<hr />
-<p>体验地址： <a href="https://rushiwowen.co/zen" rel="nofollow">https://rushiwowen.co/zen</a></p>
-<p>PS. 开发中有一半时间，都在调试音效和视觉，里面加了一些小彩蛋，细心的你一定能发现。</p>]]></description>
-    <pubDate>Tue, 14 Jul 2026 15:04:48 -0000</pubDate>
-    <guid isPermaLink="true">https://www.v2ex.com/t/1227314#reply0</guid>
-    <source url="https://www.v2ex.com/t/1227314#reply0">V2EX</source>
-  </item>
-  <item>
     <title>[IT之家] 奕境曾清林谈“新能源车平均车龄仅 1.8 年”，称适当超前硬件预埋等是化解“过时焦虑”的最优解</title>
     <link>https://www.ithome.com/0/976/750.htm</link>
     <description><![CDATA[<p>IT之家 7 月 14 日消息，奕境汽车品牌总经理曾清林今日凌晨发文谈及了“新能源车平均车龄仅 1.8 年”这一话题。他表示，非常理解大家的焦虑。<strong>新能源车技术飞速迭代，“买完就过时”的巨大落差和背刺感，确实让人难以接受</strong>。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/7/d76ad0ea-5b09-4291-ba2a-e97e8e6486a0.jpg" /></p><p>曾清林称，造成 1.8 年是新能源车的平均车龄的原因，主要是过去几年新能源渗透率从 20% 冲到了 60% 多，市面上的新能源车很多都是近两三年才卖出去的，平均车龄当然低。</p><p>他表示，这种迭代速度也符合一个新兴行业的发展规律。<strong>初期的技术迭代会比较快，中晚期就会升级越来越慢</strong>。比如手机行业。新能源汽车的有些技术也开始逐步成熟。比如电池技术越来越成熟可靠，智能座舱的硬件水平也非常流畅了。</p><p>曾清林认为，我们在购车时需要保持适当的超前性。比如 896 线激光雷达是为 L3 准备的硬件，比很多低线的激光雷达具备更复杂的、更未来的场景冗余。<strong>适当超前的硬件预埋、高频的 OTA 迭代，让爱车拥有更长的生命力，才是化解“过时焦虑”的最优解</strong>。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/7/0d2159b4-98c9-4369-bd24-dc6549d52e42.png" /></p><p>据IT之家今日早些时候报道，公安部统计，<a href="https://www.ithome.com/0/976/461.htm" target="_blank">截至 2026 年 6 月底，全国机动车保有量达 4.76 亿辆</a>，其中汽车 3.71 亿辆；机动车驾驶人 5.67 亿人，其中汽车驾驶人 5.33 亿人。其中，新能源汽车保有量占汽车总量的 13.19%，上半年新注册登记新能源汽车 519.5 万辆，占汽车新注册登记量的 49.42%。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/1/cf289dd7-f29b-4d48-90e8-e9d8dcc0143f.jpg?x-bce-process=image/auto-orient,o_1" /></p><p><strong>相关阅读：</strong></p><ul class="small-size list-paddingleft-2"><li><p>《<a href="https://www.ithome.com/0/976/596.htm" target="_blank">中汽协澄清：“新能源车平均车龄仅 1.8 年”引发市场误读，不代表车主仅 1.8 年就更换车辆</a>》</p></li><li><p>《<a href="https://www.ithome.com/0/975/860.htm" target="_blank">数据显示新能源车主 3 至 5 年就要换车</a>》</p></li></ul>]]></description>
     <pubDate>Tue, 14 Jul 2026 15:04:09 -0000</pubDate>
     <guid isPermaLink="true">https://www.ithome.com/0/976/750.htm</guid>
     <source url="https://www.ithome.com/0/976/750.htm">IT之家</source>
-  </item>
-  <item>
-    <title>[V2EX] [程序员] 截止到 7 月 14 日，公开评测中 Grok4.5 的能力特点分析</title>
-    <link>https://www.v2ex.com/t/1227313#reply4</link>
-    <description><![CDATA[<p>Grok 4.5 的编程评测表现很有特点：它并不是所有榜单的第一，但在长周期 Agent 、终端操作、多服务集成和持续执行方面非常强。最近的结果里，它拿到 Long-Horizon Terminal-Bench 第 1 、APEX-SWE 第 2 ，在 Web 开发和真实代码仓库修复中也处于第一梯队。</p>
-<p>它最大的优势不只是能力，而是性价比。相比 GPT-5.6 和 Fable 5 ，Grok 4.5 的 API 价格更低、Token 消耗更少，特别适合批量生成代码、并行处理多个仓库、自动运行测试和长时间执行任务。</p>
-<p>它的短板也比较明显：在复杂架构理解、生产故障深度诊断、用户交互体验和高难任务的一次成功率上，通常还不如 Fable 5 和 GPT-5.6 稳定。</p>
-<p>一句话总结：Fable 5 更深，GPT-5.6 更全面稳定，Grok 4.5 则是目前非常有竞争力的高性价比编程 Agent 模型。</p>
-<p>再结合价格因素，还有 SuperGrok 7 天免费的订阅优惠，据说还有前三个月 30 刀的优惠，目前看起来很有吸引力。就是偷偷上传代码的负面有点劝退。</p>]]></description>
-    <pubDate>Tue, 14 Jul 2026 14:55:17 -0000</pubDate>
-    <guid isPermaLink="true">https://www.v2ex.com/t/1227313#reply4</guid>
-    <source url="https://www.v2ex.com/t/1227313#reply4">V2EX</source>
   </item>
   <item>
     <title>[IT之家] 消息称英特尔调整 Nova Lake 生产策略，大部分计算芯粒重回自家晶圆厂生产</title>
@@ -738,14 +942,6 @@ gemini 的 api 是否比 deepseek pro 智能一些呢？</p>]]></description>
     <source url="https://www.ithome.com/0/976/745.htm">IT之家</source>
   </item>
   <item>
-    <title>[Hacker News] The Agentic Loop: Three loops in a trench coat</title>
-    <link>https://www.bobbytables.io/p/the-agentic-loop-three-loops-in-a</link>
-    <description><![CDATA[<a href="https://news.ycombinator.com/item?id=48907672">Comments</a>]]></description>
-    <pubDate>Tue, 14 Jul 2026 14:39:56 -0000</pubDate>
-    <guid isPermaLink="true">https://www.bobbytables.io/p/the-agentic-loop-three-loops-in-a</guid>
-    <source url="https://www.bobbytables.io/p/the-agentic-loop-three-loops-in-a">Hacker News</source>
-  </item>
-  <item>
     <title>[IT之家] 特斯拉海外推出“保值计划”，防止贷款购车的 Model 3/Y 车主被降价“背刺”</title>
     <link>https://www.ithome.com/0/976/744.htm</link>
     <description><![CDATA[<p>IT之家 7 月 14 日消息，据汽车媒体 Electrek 今天报道，特斯拉现已在澳大利亚市场推出“保证未来价值”（GFV）计划，为贷款购买 Model 3/Y 的消费者锁定未来回购价格，防止车主在还贷款时，被突如其来的降价“背刺”。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/7/851c63a3-1901-421f-9ed0-4bdb3745672d.png?x-bce-process=image/format,f_auto" /></p><p>IT之家从原报道获悉，这项计划适用于购买新款 Model 3、Model Y 的用户，车主可与金融机构根据贷款期限、行驶里程等条件，提前确定车辆未来的回购价格。</p><p><strong>只要车辆行驶里程未超出约定范围</strong>、<strong>符合正常折旧标准</strong>，<strong>用户可在贷款期满后将车辆以约定价格交还</strong>；或者留下车辆、自行支付剩余尾款；也可以自行卖出车辆，若售价高于约定价格，车主可保留差额。</p><p>目前，该计划仅面向澳大利亚市场，由当地金融公司 Driva 提供服务，暂不适用于网约车司机。</p>]]></description>
@@ -760,150 +956,6 @@ gemini 的 api 是否比 deepseek pro 智能一些呢？</p>]]></description>
     <pubDate>Tue, 14 Jul 2026 14:22:31 -0000</pubDate>
     <guid isPermaLink="true">https://www.ithome.com/0/976/742.htm</guid>
     <source url="https://www.ithome.com/0/976/742.htm">IT之家</source>
-  </item>
-  <item>
-    <title>[Hacker News] Agnes Callard’s theory of the uni-context</title>
-    <link>https://www.derekthompson.org/p/a-philosophers-one-word-theory-to</link>
-    <description><![CDATA[<a href="https://news.ycombinator.com/item?id=48907290">Comments</a>]]></description>
-    <pubDate>Tue, 14 Jul 2026 14:17:39 -0000</pubDate>
-    <guid isPermaLink="true">https://www.derekthompson.org/p/a-philosophers-one-word-theory-to</guid>
-    <source url="https://www.derekthompson.org/p/a-philosophers-one-word-theory-to">Hacker News</source>
-  </item>
-  <item>
-    <title>[IT之家] 苹果回应 Epic 反对暂停 App Store 佣金诉讼：对方论点存在谬误</title>
-    <link>https://www.ithome.com/0/976/741.htm</link>
-    <description><![CDATA[<p>IT之家 7 月 14 日消息，苹果已就 Epic 反对其请求暂停下级法院关于 App Store 佣金的诉讼程序一事作出回应。目前，最高法院正在审理该案件中的部分争议。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/7/7db50411-a32c-426d-82de-afeead6a4bfb.jpg?x-bce-process=image/format,f_auto" /></p><h3>苹果认为 Epic 的理由存在错误</h3><p>上个月，美国最高法院同意审理一个问题：苹果因对美国 App Store 之外完成的交易收取佣金，是否被正确认定为违反民事藐视法庭令（civil contempt）。</p><p>据IT之家了解，这场争议源于 2021 年的一项法院禁令。该禁令要求苹果允许开发者向用户提供跳转至 App Store 之外支付渠道的选项。</p><p>虽然该禁令并未明确禁止苹果对这些外部交易收取佣金，但法官 Yvonne Gonzalez Rogers 后来认定，苹果执行该禁令的方式违反了法院命令，并裁定苹果构成藐视法庭。此后，苹果一直对此裁决提出抗辩。</p><p>在最高法院同意审理该裁定后，苹果立即请求暂停下级法院相关程序。这些程序原本将决定苹果是否可以继续对这类外部支付交易收取佣金，以及具体佣金比例。</p><p>苹果认为，最高法院的裁决可能会让后续程序失去必要性，或者大幅改变案件走向。因此，与其推进未来可能需要重新审理的程序，不如下令暂停，等待最高法院作出决定。</p><h3>Epic：苹果是在拖延不可避免的听证会</h3><p>Epic 对此持不同观点。Epic 认为，苹果要求在最高法院审查民事藐视法庭裁决期间暂停下级法院程序，是“苹果第三次试图拖延不可避免的结果：针对苹果提出的外部引导交易收费方案举行听证会”。</p><p>这家《堡垒之夜》（Fortnite）开发商在反对苹果暂停请求的文件中表示：“即使最高法院最终支持苹果关于藐视法庭问题的观点，下级法院仍然需要继续审理相关问题，尤其是关于佣金的问题。而无论最高法院是否审查藐视法庭裁决，这些后续程序很可能仍会非常相似，甚至完全相同。”</p><h3>苹果反驳：Epic 混淆了最高法院审查范围</h3><p>如今，苹果已经正式回应 Epic 的反对意见。</p><p>苹果多次表示，Epic 的观点建立在错误假设之上，错误描述了最高法院此次审查的范围，并低估了最高法院裁决对下级法院程序可能产生的影响。</p><p>苹果表示：“Epic 曾努力要求法院认定苹果藐视法庭，并在上诉过程中维护这一裁决。但如今，Epic 的核心观点却变成：最高法院决定审理藐视法庭问题，与本案无关。这种说法是错误的。关于佣金问题进行后续审理的唯一依据，就是本法院关于苹果违反原始禁令的藐视法庭裁决，而该裁决也已经得到第九巡回上诉法院确认。”</p><p>苹果还指出：“Epic 的其他论点同样站不住脚。Epic 声称，第九巡回法院以及最高法院大法官卡根已经拒绝了苹果此次提出的暂停请求。但事实并非如此。此前被拒绝的是暂停执行法院授权令，而不是苹果此次请求的、范围更有限的暂停相关审理程序。因此，之前拒绝暂停请求所依据的因素，并不适用于当前情况。”</p><p>苹果进一步强调：“Epic 的主要论点是，最高法院对藐视法庭问题的裁决不会影响本法院正在进行的程序。因此，Epic 认为法院应该立即继续推进后续审理。但 Epic 错了。任何后续审理程序存在的唯一依据，就是本法院此前作出的民事藐视法庭裁决。”</p><p>此外，苹果反驳 Epic 关于第九巡回法院提供“两条处理路径”的说法。</p><p>Epic 曾表示，第九巡回法院为后续程序提供了“两种选择”，其中只有涉及可撤销处罚（purgeable contempt sanction）的第一种方式可能受到最高法院审查影响。</p><p>苹果则认为这一说法错误。苹果援引第九巡回法院的表述称，两种路径都是为了让下级法院“纠正错误”，而这里所谓的错误正是关于藐视法庭处罚的决定。因此，无论哪种后续程序，其根源都是第九巡回法院关于藐视法庭问题的裁决。</p><h3>苹果希望等待最高法院裁决</h3><p>总体来看，苹果此次回应基本延续了此前的核心观点，同时进一步攻击 Epic 反对暂停程序的理由。</p><p>苹果认为，最高法院将决定第九巡回法院是否“采用了错误的法律标准”。如果最高法院支持苹果的观点，可能直接推翻藐视法庭裁决，或者要求第九巡回法院依据正确法律标准重新审理。</p><p>最后，苹果提出了一项备选请求：如果法官 Gonzalez Rogers 不批准暂停程序，苹果希望她至少暂缓相关审理，以便苹果向第九巡回法院或最高法院申请继续冻结程序，直到最高法院完成对相关藐视法庭裁决的审查。</p><p>简单来说，这场争议的核心是：苹果希望等最高法院先决定“自己是否真的违反法院命令”，再讨论“是否需要为外部支付渠道制定佣金规则”；而 Epic 则认为苹果是在利用诉讼程序拖延执行 App Store 规则变化。</p>]]></description>
-    <pubDate>Tue, 14 Jul 2026 14:16:59 -0000</pubDate>
-    <guid isPermaLink="true">https://www.ithome.com/0/976/741.htm</guid>
-    <source url="https://www.ithome.com/0/976/741.htm">IT之家</source>
-  </item>
-  <item>
-    <title>[IT之家] 美国硅谷大学推出游戏成就奖学金：最高每年 1.5 万美元，支持《原神》《魔兽世界》等玩家申请</title>
-    <link>https://www.ithome.com/0/976/740.htm</link>
-    <description><![CDATA[<p>IT之家 7 月 14 日消息，美国硅谷大学（USV）今天宣布推出“最高游戏成就奖学金”计划，为那些拥有高超游戏实力的学子提供丰厚奖赏。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/7/04a81aa1-44ce-4a63-b22e-4bf42f7d5cdc.png?x-bce-process=image/format,f_auto" /></p><p>USV 官网显示，该奖学金拥有精通级、传奇级两个档位，前者每学期最高可获得 2500 美元（IT之家注：现汇率约合 16971 元人民币），后者则是 5000 美元（现汇率约合 33941 元人民币）。由于该校一年共有三个学期，<strong>因此学生最高可在一年内拿到 1.5 万美元（现汇率约合 10.2 万元人民币）奖学金</strong>。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/7/b5b00771-b3a1-41d3-810c-f85e4084f6bc.png?x-bce-process=image/format,f_auto" /></p><p>同时，该奖学金支持《最终幻想 14》《上古卷轴 OL》《魔兽世界》《命运 2》《原神》《以撒的结合：重生》《空洞骑士》《艾尔登法环》《血源诅咒》《文明 6》《我的世界》《塞尔达传说：王国之泪》《方舟：生存进化》《深海迷航》等玩家申请，<strong>各个游戏能申请的奖学金类目各不相同</strong>。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/7/8b5e82df-973e-49b3-a653-ee7a96ee27ed.png?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/7/1fab09a2-6178-4ba2-8b7b-bbaf0a3d4837.png?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/7/69af0cba-e471-4d5b-9bd7-16e4a8b6d8a8.png?x-bce-process=image/format,f_auto" /></p><p>以《最终幻想 14》传奇级为例，<strong>学生需要将游戏内 20 个战斗职业和 8 个生产 / 采集职业练到 100 级</strong>，并精通 28 个不同的系统和专业领域。</p><p><strong>而《空洞骑士》传奇级则是需要完成度 112%+ 万神殿通关</strong>；《艾尔登法环》精通级需达成白金奖杯、全成就收集；<strong>《原神》精通级需达成所有魔神任务 +8 个角色练至友情等级 10</strong>。</p><p>校方表示，<strong>传奇级奖学金的考察标准是达成极其罕见的成就（全球达成率低于 1%）</strong>、<strong>500 小时以上游戏时间并精通游戏</strong>；精通级奖学金则是需要达成完美成就（全球达成率为 1-5%），展现学生的高超技术和坚持不懈精神。</p><p>此外，<strong>该奖学金需要学生的绩点（GPA）保持 3.0 以上才能申请</strong>。如果学生取得了没有列出的卓越成就也可以提交自定义申请，需要提供游戏环境描述、所获得具体成就、证据以及书面申请理由。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/7/50933cd6-515e-4445-bb10-8e943c98fac3.png?x-bce-process=image/format,f_auto" /></p><p><span class="referenceTitle">参考：</span></p><ul class="custom_reference list-paddingleft-1"><li class="list-undefined list-reference-paddingleft"><p><a href="https://usv.edu/max-achievement-scholarship" target="_blank" title="Max Achievement Scholarship | University of Silicon Valley">Max Achievement Scholarship | University of Silicon Valley</a></p></li></ul>]]></description>
-    <pubDate>Tue, 14 Jul 2026 14:08:13 -0000</pubDate>
-    <guid isPermaLink="true">https://www.ithome.com/0/976/740.htm</guid>
-    <source url="https://www.ithome.com/0/976/740.htm">IT之家</source>
-  </item>
-  <item>
-    <title>[IT之家] 三星 Galaxy Z Fold8 系列折叠屏手机发布在即，官方海报图曝光</title>
-    <link>https://www.ithome.com/0/976/739.htm</link>
-    <description><![CDATA[<p>IT之家 7 月 14 日消息，三星 Galaxy Z Fold 8 系列折叠屏手机发布在即。外媒 androidheadlines 曝光了系列新机的官方海报图，包括大折、小折和阔折手机，以及浅绿色的 Galaxy Watch 9 和深绿色的 Galaxy Watch Ultra2 手表。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/7/b2b84782-bd60-4e28-94e0-d30f3ba92731.jpg?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/7/a422820b-a5b5-4ede-a0e9-b51bfe9abee1.jpg?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/7/df34cbc6-3d05-426f-88a7-e8d2ed3de23c.jpg?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/7/65688a53-ed60-46a6-bf9e-9a27f013c6ef.jpg?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/7/cb053103-fc8d-40e6-a4bb-8160cd8b6536.jpg?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/7/1c2b49b2-125b-42d9-b146-2eefcea759a6.jpg?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/7/f3542b40-54bf-4c27-adea-85d18f298e39.jpg?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/7/677d7e5e-7a26-4815-b98f-415779552062.jpg?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/7/7a73d1f4-5c36-44dd-8a3a-d6aaebf17a96.jpg?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/7/ec2756ae-3e47-4451-94dd-7ccf585c03ce.jpg?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/7/e5637e53-bf6d-421a-82b0-54bdff0de617.jpg?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/7/980b87fd-bda1-4d6f-a48a-4dcaf78cae3f.jpg?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/7/583098f5-ec19-4fca-a44b-6cca66913a06.jpg?x-bce-process=image/format,f_auto" /></p><p>据IT之家此前报道，三星 Galaxy Unpacked 2026 夏季发布会已定档当地时间 7 月 22 日在英国伦敦举行。三星官方在邀请函中表示，此次发布会将“展开全新形态”，并称伦敦是一座“不追逐潮流、而是引领潮流”的城市。</p><p style="text-align: center;"><a class="ithome_super_player" contenteditable="false" href="https://weibo.com/2031482343/R7G5xvhDL" target="_blank"><img src="https://img.ithome.com/newsuploadfiles/2026/7/83cf2ea2-51ce-4f34-9ffe-cd14fdd6d2cf.jpg?x-bce-process=image/format,f_auto" /></a></p><p class="j_iframe_show ithome-content-placeholder" style="text-align: center;"></p>]]></description>
-    <pubDate>Tue, 14 Jul 2026 14:06:53 -0000</pubDate>
-    <guid isPermaLink="true">https://www.ithome.com/0/976/739.htm</guid>
-    <source url="https://www.ithome.com/0/976/739.htm">IT之家</source>
-  </item>
-  <item>
-    <title>[IT之家] 2026 款机械革命旷世 X 笔记本新增酷睿 7-245HX 版本：可选 RTX5060/5070，9999 元起（国补后 8499.15 元起）</title>
-    <link>https://www.ithome.com/0/976/738.htm</link>
-    <description><![CDATA[<p>IT之家 7 月 14 日消息，机械革命现已为旗下 2026 款旷世 X 笔记本新增酷睿 7-245HX 版本，该机可选 RTX5060 及 5070 显卡，IT之家整理价格如下：</p><ul class="medium-size list-paddingleft-2"><li><p>16G + 1T + RTX5060：9999 元，国补后 8499.15 元</p></li><li><p>32G + 1T + RTX5060：11499 元，国补后 9999 元</p></li><li><p>16G + 1T + RTX5070：11499 元</p></li><li><p>32G + 1T + RTX5070：12999 元</p></li></ul><dir><a contenteditable="false" href="https://u.jd.com/96bgkVJ" target="_blank"><span class="card main-site"><span class="card-logo"><img src="https://img14.360buyimg.com/pop/jfs/t1/481585/16/1561/182578/6a54ba17F1a5abdbb/00833203202e883d.jpg" /></span><span class="card-info"><span class="card-title"><span class="mall-data">京东</span><span class="card-name"> 2026 款机械革命旷世 X 笔记本</span></span><span class="card-abstract">酷睿 7-245HX 版本</span><span class="card-controls"><span class="price"> 9999 元起</span><span class="card-btn-deep">直达链接</span></span></span></span></a></dir><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/b8d4effa-5543-4049-934f-425b732c880e.jpg" /></p><p>该机 A 面使用航空级铝合金材质，带有炫彩 Logo；B 面配备一块 16 英寸 2560x1600 分辨率 180Hz 面板（亮度 500 尼特，覆盖 100% sRGB 色域）；C 面带有 1600 万色 RGB 键盘。</p><p>I/O 方面，该机左侧提供 1 个 RJ45 网口、1 个 USB-C 接口、1 个 USB-A 5Gbps 接口、1 个 3.5mm 音频接口；右侧提供 2 个 USB-A 接口；后侧提供 1 个 USB-C、1 个 Mini DP 2.1、1 个 HDMI 2.1 接口。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/5/8dd046f0-b357-4b19-be89-659470f0fac3.jpg" /></p>]]></description>
-    <pubDate>Tue, 14 Jul 2026 14:04:28 -0000</pubDate>
-    <guid isPermaLink="true">https://www.ithome.com/0/976/738.htm</guid>
-    <source url="https://www.ithome.com/0/976/738.htm">IT之家</source>
-  </item>
-  <item>
-    <title>[cnBeta.COM.TW RSS订阅] 英特尔斥资50亿欧元扩建爱尔兰工厂 押注AI驱动芯片需求</title>
-    <link>https://www.cnbeta.com.tw/articles/tech/1568916.htm</link>
-    <description><![CDATA[<p>英特尔周一宣布，已启动一项规模达50亿欧元（约合57亿美元）的资本投资计划，用以扩建其位于爱尔兰都柏林郊外莱克斯利普园区的制造基地。这笔资金将用于升级Fab 34工厂的现有设施、安装尖端生产设备，并扩建自动化晶圆传送系统，以扩大采用Intel 3制程工艺的至强6及下一代至强服务器处理器的产能，满足全球对AI和高性能计算日益增长的需求。</p> <a href="https://www.cnbeta.com.tw/articles/tech/1568916.htm" target="_blank"><strong>阅读全文</strong></a>]]></description>
-    <pubDate>Tue, 14 Jul 2026 14:01:46 -0000</pubDate>
-    <guid isPermaLink="true">https://www.cnbeta.com.tw/articles/tech/1568916.htm</guid>
-    <source url="https://www.cnbeta.com.tw/articles/tech/1568916.htm">cnBeta.COM.TW RSS订阅</source>
-  </item>
-  <item>
-    <title>[cnBeta.COM.TW RSS订阅] IBM或将创下史上单日最大跌幅</title>
-    <link>https://www.cnbeta.com.tw/articles/tech/1568914.htm</link>
-    <description><![CDATA[<p>IBM 首席执行官阿尔温德・克里希纳发布重磅预警，公司股价应声暴跌，有望创下这家拥有 115 年历史企业有史以来最差单日表现。IBM开盘后股价大跌 24%。公司历史最大单日跌幅出现在 1987 年 10 月 19 日 “黑色星期一”，当日该股下跌 23.7%，同步上演美股史上最惨烈的崩盘行情。</p> <a href="https://www.cnbeta.com.tw/articles/tech/1568914.htm" target="_blank"><strong>阅读全文</strong></a>]]></description>
-    <pubDate>Tue, 14 Jul 2026 14:01:20 -0000</pubDate>
-    <guid isPermaLink="true">https://www.cnbeta.com.tw/articles/tech/1568914.htm</guid>
-    <source url="https://www.cnbeta.com.tw/articles/tech/1568914.htm">cnBeta.COM.TW RSS订阅</source>
-  </item>
-  <item>
-    <title>[cnBeta.COM.TW RSS订阅] 欧盟批准德国向四家芯片工厂提供6.59亿欧元补贴</title>
-    <link>https://www.cnbeta.com.tw/articles/tech/1568912.htm</link>
-    <description><![CDATA[<p>欧盟委员会于本周二正式批准了德国政府的一项国家援助计划，将向四家“首创性”半导体生产设施提供总额达6.59亿欧元（约合7.51亿美元）的财政补贴。</p> <a href="https://www.cnbeta.com.tw/articles/tech/1568912.htm" target="_blank"><strong>阅读全文</strong></a>]]></description>
-    <pubDate>Tue, 14 Jul 2026 13:58:45 -0000</pubDate>
-    <guid isPermaLink="true">https://www.cnbeta.com.tw/articles/tech/1568912.htm</guid>
-    <source url="https://www.cnbeta.com.tw/articles/tech/1568912.htm">cnBeta.COM.TW RSS订阅</source>
-  </item>
-  <item>
-    <title>[cnBeta.COM.TW RSS订阅] 首个反射阳光空间镜获准发射 旨在实现夜间定向照明</title>
-    <link>https://www.cnbeta.com.tw/articles/science/1568910.htm</link>
-    <description><![CDATA[<p>加利福尼亚州初创公司“反射轨道”（Reflect Orbital）日前获得美国联邦通信委员会（FCC）批准，将发射其首颗用于向地球表面反射阳光的实验性卫星。尽管该项目引发了关于光污染及对光学天文学研究影响的担忧，但监管机构仍核准了该公司在今年晚些时候于近地轨道建造并运行该原型机的计划。</p> <a href="https://www.cnbeta.com.tw/articles/science/1568910.htm" target="_blank"><strong>阅读全文</strong></a>]]></description>
-    <pubDate>Tue, 14 Jul 2026 13:58:11 -0000</pubDate>
-    <guid isPermaLink="true">https://www.cnbeta.com.tw/articles/science/1568910.htm</guid>
-    <source url="https://www.cnbeta.com.tw/articles/science/1568910.htm">cnBeta.COM.TW RSS订阅</source>
-  </item>
-  <item>
-    <title>[cnBeta.COM.TW RSS订阅] 调查显示近六成年轻女性从社交媒体网红处获取健康资讯</title>
-    <link>https://www.cnbeta.com.tw/articles/tech/1568908.htm</link>
-    <description><![CDATA[<p>皮尤研究中心（Pew Research Center）近日发布的一项最新调查研究揭示了社交媒体对现代健康信息传播的深远影响。调查显示，尽管医疗专业人员依然是美国民众获取健康资讯的首选渠道，但社交媒体网红及播客正在扮演愈发关键的角色。在年龄介于18至29岁的年轻群体中，这一现象尤为突出。</p> <a href="https://www.cnbeta.com.tw/articles/tech/1568908.htm" target="_blank"><strong>阅读全文</strong></a>]]></description>
-    <pubDate>Tue, 14 Jul 2026 13:57:42 -0000</pubDate>
-    <guid isPermaLink="true">https://www.cnbeta.com.tw/articles/tech/1568908.htm</guid>
-    <source url="https://www.cnbeta.com.tw/articles/tech/1568908.htm">cnBeta.COM.TW RSS订阅</source>
-  </item>
-  <item>
-    <title>[cnBeta.COM.TW RSS订阅] 欧洲首家氧化镓半导体制造商获200万欧元融资 助力能源自主战略</title>
-    <link>https://www.cnbeta.com.tw/articles/tech/1568906.htm</link>
-    <description><![CDATA[<p>随着欧洲持续推进半导体制造的自主化进程，继欧盟委员会通过《芯片法案2.0》（Chips Act 2.0）仅一周后，半导体领域便传出重磅消息：总部位于德国柏林的初创公司NexiGO成功完成了200万欧元的种子轮融资。此次融资旨在通过研发氧化镓（Ga₂O₃）功率半导体，为新一代电动汽车提供核心技术支持，加速欧洲能源电子产业的转型。</p> <a href="https://www.cnbeta.com.tw/articles/tech/1568906.htm" target="_blank"><strong>阅读全文</strong></a>]]></description>
-    <pubDate>Tue, 14 Jul 2026 13:53:34 -0000</pubDate>
-    <guid isPermaLink="true">https://www.cnbeta.com.tw/articles/tech/1568906.htm</guid>
-    <source url="https://www.cnbeta.com.tw/articles/tech/1568906.htm">cnBeta.COM.TW RSS订阅</source>
-  </item>
-  <item>
-    <title>[cnBeta.COM.TW RSS订阅] 城市啮齿动物正在进化以抵御常见毒饵</title>
-    <link>https://www.cnbeta.com.tw/articles/science/1568904.htm</link>
-    <description><![CDATA[<p>随着时间的推移，化学控制手段正在改变城市啮齿动物的种群特征，使得部分地区针对鼠患的防治变得愈发困难。罗格斯大学的一项最新研究显示，美国东北部城市地区的啮齿动物正表现出对常用灭鼠剂的遗传抗性。</p> <a href="https://www.cnbeta.com.tw/articles/science/1568904.htm" target="_blank"><strong>阅读全文</strong></a>]]></description>
-    <pubDate>Tue, 14 Jul 2026 13:53:11 -0000</pubDate>
-    <guid isPermaLink="true">https://www.cnbeta.com.tw/articles/science/1568904.htm</guid>
-    <source url="https://www.cnbeta.com.tw/articles/science/1568904.htm">cnBeta.COM.TW RSS订阅</source>
-  </item>
-  <item>
-    <title>[cnBeta.COM.TW RSS订阅] Linux基金会宣布成立x402基金会 旨在推动AI代理的互联网原生支付标准化</title>
-    <link>https://www.cnbeta.com.tw/articles/tech/1568902.htm</link>
-    <description><![CDATA[<p>Linux基金会近日正式宣布，由其主导并运营的x402基金会已正式启动，这一举措进一步拓展了该组织在传统开源领域之外的影响力。x402基金会的核心目标是为AI代理和相关应用程序制定互联网原生支付的标准化规范。</p> <a href="https://www.cnbeta.com.tw/articles/tech/1568902.htm" target="_blank"><strong>阅读全文</strong></a>]]></description>
-    <pubDate>Tue, 14 Jul 2026 13:51:41 -0000</pubDate>
-    <guid isPermaLink="true">https://www.cnbeta.com.tw/articles/tech/1568902.htm</guid>
-    <source url="https://www.cnbeta.com.tw/articles/tech/1568902.htm">cnBeta.COM.TW RSS订阅</source>
-  </item>
-  <item>
-    <title>[cnBeta.COM.TW RSS订阅] 苹果iPhone 17定价策略助力其在二季度中国智能手机市场逆势增长</title>
-    <link>https://www.cnbeta.com.tw/articles/tech/1568900.htm</link>
-    <description><![CDATA[<p>根据国际数据公司（IDC）今日发布的最新初步统计数据，2026年第二季度中国智能手机市场整体依然处于下行区间，总出货量同比下降4.3%，约为6600万部，这已是该市场连续第五个季度出现萎缩。然而，在整体市场低迷的背景下，苹果公司表现亮眼，其iPhone出货量同比增长了24.4%，成为该季度中国市场增长最快的手机品牌。</p> <a href="https://www.cnbeta.com.tw/articles/tech/1568900.htm" target="_blank"><strong>阅读全文</strong></a>]]></description>
-    <pubDate>Tue, 14 Jul 2026 13:48:57 -0000</pubDate>
-    <guid isPermaLink="true">https://www.cnbeta.com.tw/articles/tech/1568900.htm</guid>
-    <source url="https://www.cnbeta.com.tw/articles/tech/1568900.htm">cnBeta.COM.TW RSS订阅</source>
-  </item>
-  <item>
-    <title>[cnBeta.COM.TW RSS订阅] 传苹果iPhone 20将迎来全玻璃机身设计 供应链已做好准备</title>
-    <link>https://www.cnbeta.com.tw/articles/tech/1568898.htm</link>
-    <description><![CDATA[<p>苹果公司为其20周年纪念款iPhone——iPhone 20所进行的供应链部署已取得阶段性成果。有消息人士透露，相关生产设施已完成针对新工艺的改造，为即将到来的大规模量产做好了准备。</p> <a href="https://www.cnbeta.com.tw/articles/tech/1568898.htm" target="_blank"><strong>阅读全文</strong></a>]]></description>
-    <pubDate>Tue, 14 Jul 2026 13:48:29 -0000</pubDate>
-    <guid isPermaLink="true">https://www.cnbeta.com.tw/articles/tech/1568898.htm</guid>
-    <source url="https://www.cnbeta.com.tw/articles/tech/1568898.htm">cnBeta.COM.TW RSS订阅</source>
-  </item>
-  <item>
-    <title>[cnBeta.COM.TW RSS订阅] 瑞士军队弃用微软方案 转投开源软件以提升网络防御能力</title>
-    <link>https://www.cnbeta.com.tw/articles/tech/1568896.htm</link>
-    <description><![CDATA[<p>瑞士军队在信息技术架构上做出了一项重大战略调整。鉴于对云服务部署要求的考量以及对美国地缘政治依赖的担忧，<strong>瑞士军队网络司令部（Cyber Command）及其下属的网络与电磁行动部门（CEA）正在全力推进向开源软件方案的迁移。根据最新的部署路线图，上述部门的所有员工岗位预计将在今年10月前完成向开源平台OpenDesk的切换。</strong></p> <a href="https://www.cnbeta.com.tw/articles/tech/1568896.htm" target="_blank"><strong>阅读全文</strong></a>]]></description>
-    <pubDate>Tue, 14 Jul 2026 13:47:49 -0000</pubDate>
-    <guid isPermaLink="true">https://www.cnbeta.com.tw/articles/tech/1568896.htm</guid>
-    <source url="https://www.cnbeta.com.tw/articles/tech/1568896.htm">cnBeta.COM.TW RSS订阅</source>
-  </item>
-  <item>
-    <title>[IT之家] 全球首个可变形个人机器人，上纬新材启元 T1 今日正式登场</title>
-    <link>https://www.ithome.com/0/976/736.htm</link>
-    <description><![CDATA[<p>IT之家 7 月 14 日消息，上纬新材今日官宣，<strong>全球首个可变形个人机器人 —— 启元 T1，正式登场</strong>。</p><p style="text-align: center;"><a class="ithome_super_player" contenteditable="false" href="https://weibo.com/8387172875/R8Fw95Kce" target="_blank"><img src="https://img.ithome.com/newsuploadfiles/2026/7/7ec2fc12-e183-44ce-98d3-7c4cfbf802e2.jpg" /></a></p><p>据介绍，上纬新材启元 T1 支持双足站立，也能四足行走；支持柔性力控，自然牵手；支持静谧移动，主打灵活安全；支持主动交互、长期记忆、外语教学、图形化编程；支持生活备忘，定时提醒；声纹识别，声源定位。</p><p style="text-align: center;"><img class="not-source" src="https://img.ithome.com/newsuploadfiles/2026/7/df36c3d2-f96c-4fa7-8956-ea4a6f8fd96e.png" /></p><p style="text-align: center;"><img class="not-source" src="https://img.ithome.com/newsuploadfiles/2026/7/9421a95d-6b61-4a88-8181-1e18d2fb0acb.png" /></p><p style="text-align: center;"><img class="not-source" src="https://img.ithome.com/newsuploadfiles/2026/7/53272233-d8f0-4be8-8e6b-aa9877b1459a.png" /></p><p>另外，启元 T1 还支持一句话点餐、游戏互动、拍摄模板更多技能拓展，并支持二次开发。<strong>基于行业首创的 Transformer 跨形态一体架构，启元 T1 实现了一个本体 + 两种形态的自由切换</strong>，同时还提供智能跟随、复杂路况自适应、物品托载、蓝牙音箱、相机联动（可拍希区柯克变焦和环绕运镜）等功能。</p><p style="text-align: center;"><img class="not-source" src="https://img.ithome.com/newsuploadfiles/2026/7/dddc99f9-cd90-4410-8b33-98106e577184.png" /></p><p style="text-align: center;"><img class="not-source" src="https://img.ithome.com/newsuploadfiles/2026/7/1c7a4f59-7886-46b9-9691-4a096aaad8d2.png" /></p><p style="text-align: center;"><img class="not-source" src="https://img.ithome.com/newsuploadfiles/2026/7/e8af74f3-97c4-42e3-8c1c-d0e72fcf956e.png" /></p><p>IT之家注意到，2026 世界人工智能大会暨人工智能全球治理高级别会议（WAIC 2026）将于 7 月 17 日至 20 日在上海世博、张江、西岸“三地四馆”同步举行。据财联社此前消息，上纬新材将在展会期间推出全球首个可变形个人机器人 —— 启元 T1。</p><p>上纬新材主营业务为环保高性能耐腐蚀材料、风电叶片用材料、新型复合材料的研发、生产和销售。此次推出的启元 T1 是其首次涉足消费级机器人领域的产品。据上纬新材 CEO 田华介绍，启元 T1 跳出传统人形机器人的固有框架，以可变形态设计锚定家用消费场景。</p><p>上纬新材正加快个人机器人的商业化落地，上纬启元位于上海、深圳、西安、厦门、广州等地的线下体验门店近期已陆续落地，渠道体系建设正在同步推进。</p><p class="j_iframe_show ithome-content-placeholder" style="text-align: center;"></p>]]></description>
-    <pubDate>Tue, 14 Jul 2026 13:47:10 -0000</pubDate>
-    <guid isPermaLink="true">https://www.ithome.com/0/976/736.htm</guid>
-    <source url="https://www.ithome.com/0/976/736.htm">IT之家</source>
-  </item>
-  <item>
-    <title>[cnBeta.COM.TW RSS订阅] 传闻称新款OLED iPad mini将采用60Hz显示屏 引发市场关注</title>
-    <link>https://www.cnbeta.com.tw/articles/tech/1568894.htm</link>
-    <description><![CDATA[<p>关于即将推出的新款iPad mini，近期有供应链消息传出，称该设备将配备一块8.4英寸的OLED显示屏，但刷新率可能仅为60Hz。这一消息源自韩国社交平台Naver上的一位爆料人“yeux1122”。</p> <a href="https://www.cnbeta.com.tw/articles/tech/1568894.htm" target="_blank"><strong>阅读全文</strong></a>]]></description>
-    <pubDate>Tue, 14 Jul 2026 13:46:54 -0000</pubDate>
-    <guid isPermaLink="true">https://www.cnbeta.com.tw/articles/tech/1568894.htm</guid>
-    <source url="https://www.cnbeta.com.tw/articles/tech/1568894.htm">cnBeta.COM.TW RSS订阅</source>
   </item>
   <item>
     <title>[雷峰网] 机器人，从此“变”了！上纬启元T1将在WAIC期间首秀</title>
@@ -948,7 +1000,7 @@ gemini 的 api 是否比 deepseek pro 智能一些呢？</p>]]></description>
   <item>
     <title>[36氪] 花旗集团二季度营收247.7亿美元，同比增长14%</title>
     <link>https://36kr.com/newsflashes/3895480736253828?f=rss</link>
-    <description><![CDATA[花旗集团7月14日公布二季度营收247.7亿美元，同比增长14%；每股收益3.15美元。（界面）]]></description>
+    <description><![CDATA[花旗集团7月14日公布二季度营收247.7亿美元���同比增长14%；每股收益3.15美元。（界面）]]></description>
     <pubDate>Tue, 14 Jul 2026 12:47:55 -0000</pubDate>
     <guid isPermaLink="true">https://36kr.com/newsflashes/3895480736253828?f=rss</guid>
     <source url="https://36kr.com/newsflashes/3895480736253828?f=rss">36氪</source>
@@ -1077,7 +1129,7 @@ gemini 的 api 是否比 deepseek pro 智能一些呢？</p>]]></description>
   <p>Gartner预测，到2026年，33%的企业软件将集成Agentic AI能力，财务职能将是渗透极深的领域之一。更关键的是，当AI智能体经济真正成熟，谁的金融底座能支撑“代理自主交易”，谁就掌握了下一阶段的入场券。</p>
   <p>这正是空中云汇此次融资所瞄准的方向。</p>
   <h2><strong>空中云汇的两张牌</strong></h2>
-  <p>成立于2015年的空中云汇，用十年时间在���球铺设了85个以上的监管牌照、整合160个本地支付网络。据其披露，目前空中云汇年化交易量达到2870亿美元，93%的交易都可实现当日结算，业务覆盖全球200多个国家和地区。</p>
+  <p>成立于2015年的空中云汇，用十年时间在全球铺设了85个以上的监管牌照、整合160个本地支付网络。据其披露，目前空中云汇年化交易量达到2870亿美元，93%的交易都可实现当日结算，业务覆盖全球200多个国家和地区。</p>
   <p>而这套基础设施的价值，在AI时代正在被重新定价：十年铺设的合规网络与本地通道，恰好成为智能体经济所需要的底层管道。此次H轮融资，则是空中云汇在这套管道之上加盖“智能层”的战略动作，核心载体是两款新产品：T:0与Airi。</p>
   <p>T:0瞄准的是企业财务运营的重构。</p>
   <p>当前大多数企业的财务系统，是一个由分散工具拼凑而成的混合体：簿记、报销、税务、银行系统各自为政，数据在它们之间流转时不断产生摩擦，财务团队的大量精力消耗在重复性的核查与录入工作上。</p>
@@ -1086,7 +1138,7 @@ gemini 的 api 是否比 deepseek pro 智能一些呢？</p>]]></description>
   <p>Airi应对的则是一个更现实的命题：当AI智能体开始代替人类完成购买行为，商业世界需要的远不止更聪明的结账页面。空中云汇将其定义为“智能体商业”。</p>
   <p>行业早有智能体布局的先例。OpenAI与Stripe在2025年联合推出了Agentic Commerce Protocol（ACP），为AI智能体执行购买行为提供了标准化协议框架；Mastercard也在同年发布了面向智能体商业的支付解决方案。但这些方案存在一些共同局限，本质上是在传统卡支付通道上加了一层AI界面，并未解决AI智能体在全球范围内安全调用和转移资金的底层问题。</p>
   <p>Airi正是为填补这一空白而生。它从底层重新构建了一套完整的代理钱包能力：AI智能体可以持有专属的代理卡，在设定的支出限额内自主发起交易，并按照权限层级调用不同币种的余额，整个过程在受监管的框架内运行，让AI智能体真正具备代表人类完成跨境交易的能力。</p>
-  <p>目前，Airi已实现“一键结账”功能。消费者在完成身份绑定后，AI智能体可以在授权范围内直接发起支付，无需每次手动填写信息，早期测试数据显示商家转化率因此提升了14%。接下��，它将进化为完整的智能体钱包基础设施，配合空中云汇更广泛的智能体商业套件，打通从发现到结算的完整资金链路。</p>
+  <p>目前，Airi已实现“一键结账”功能。消费者在完成身份绑定后，AI智能体可以在授权范围内直接发起支付，无需每次手动填写信息，早期测试数据显示商家转化率因此提升了14%。接下来，它将进化为完整的智能体钱包基础设施，配合空中云汇更广泛的智能体商业套件，打通从发现到结算的完整资金链路。</p>
   <p>如果说T:0解决的是“钱怎么管”，Airi解决的就是“钱怎么花”——前者面向企业财务团队，后者则面向商家与AI开发者，两者共同依托空中云汇已有的全球合规网络，构成一套协议无关、天然全球化的金融操作系统。</p>
   <p>在一个AI智能体可能同时运行在OpenAI、Anthropic、Google等不同生态之上的世界里，不被任何单一协议绑定，本身就是一种战略优势。</p>
   <h2><strong>为什么是空中云汇，为什么是现在</strong></h2>
@@ -1109,14 +1161,6 @@ gemini 的 api 是否比 deepseek pro 智能一些呢？</p>]]></description>
     <source url="https://www.leiphone.com/category/chips/3nmA7UMFjI21f5Eh.html">雷峰网</source>
   </item>
   <item>
-    <title>[cnBeta.COM.TW RSS订阅] 三星预告下一代Galaxy Watch：加入AI功能 硬件配置全面升级</title>
-    <link>https://www.cnbeta.com.tw/articles/tech/1568892.htm</link>
-    <description><![CDATA[<p>随着7月22日Galaxy Unpacked发布会的临近，三星官方日前正式开启了新一代Galaxy Watch的宣传，称其为智能手表系列的“下一次进化”。据悉，这款即将发布的可穿戴设备将深度集成人工智能技术，旨在成为用户日常生活中“始终在线”的健康监测门户。</p> <a href="https://www.cnbeta.com.tw/articles/tech/1568892.htm" target="_blank"><strong>阅读全文</strong></a>]]></description>
-    <pubDate>Tue, 14 Jul 2026 09:57:01 -0000</pubDate>
-    <guid isPermaLink="true">https://www.cnbeta.com.tw/articles/tech/1568892.htm</guid>
-    <source url="https://www.cnbeta.com.tw/articles/tech/1568892.htm">cnBeta.COM.TW RSS订阅</source>
-  </item>
-  <item>
     <title>[雷峰网] 对话乐道沈斐：用不变的方向，对抗市场的焦虑</title>
     <link>https://www.leiphone.com/category/transportation/SDGMKulLaUBj4k2X.html</link>
     <description><![CDATA[<section><section><section><section><section></section><section><section><section><section></section></section></section><section style="margin-top: 0px; text-align: justify; line-height: 1em;"><span><br /></span></section><section style="margin-top: 0px; text-align: justify; margin-bottom: 24px; line-height: 1.75em;"><span><span><span style="font-size: 15px;"><span><span style="font-size: 15px;"><span style="letter-spacing: 0.5px;">2026</span></span></span></span></span></span><strong><span><span><span style="letter-spacing: 0.5px;"><span><span style="letter-spacing: 0.5px;">年的中国车市，没有人活得轻松。</span></span></span></span></span></strong></section><p style="margin-top: 6pt; text-align: justify; margin-bottom: 24px; line-height: 1.75em;"><span><span><span><span style="letter-spacing: 0.5px;">就</span></span><span><span style="letter-spacing: 0.5px;">连一向乐</span></span></span><span><span><span style="letter-spacing: 0.5px;">观的蔚来创始人、董事长、</span></span></span><span><span style="letter-spacing: 0.5px;">CEO</span></span><span><span><span style="letter-spacing: 0.5px;">李斌也不由警惕起来，他判断今年国内乘用车零售量可能</span></span></span><span><span><span style="letter-spacing: 0.5px;">同比下跌</span></span></span><span><span><span style="letter-spacing: 0.5px;">15%</span></span></span><span><span><span style="letter-spacing: 0.5px;">到</span></span></span><span><span><span style="letter-spacing: 0.5px;">20%</span></span></span><span><span><span style="letter-spacing: 0.5px;">。乘联会数据显示，今年前</span></span></span><span><span><span style="letter-spacing: 0.5px;">5</span></span></span><span><span><span style="letter-spacing: 0.5px;">月国内乘用车累计零售</span></span></span><span><span><span style="letter-spacing: 0.5px;">709.9</span></span></span><span><span><span style="letter-spacing: 0.5px;">万辆，同比下降</span></span></span><span><span><span style="letter-spacing: 0.5px;">19.5%</span></span></span><span><span><span style="letter-spacing: 0.5px;">。</span></span></span></span></p><p style="margin-top: 6pt; text-align: justify; margin-bottom: 24px; line-height: 1.75em;"><span><span><span><span style="letter-spacing: 0.5px;">市场蛋糕在缩小，分食者却在增多。今年上半年，平均每天有</span></span></span><span><span style="letter-spacing: 0.5px;">3.2</span></span><span><span><span style="letter-spacing: 0.5px;">款新车上市，北京车展前后更是逼近</span></span></span><span><span><span style="letter-spacing: 0.5px;">5</span></span></span><span><span><span style="letter-spacing: 0.5px;">款；仅大型</span></span></span><span><span><span style="letter-spacing: 0.5px;">SUV</span></span></span><span><span><span style="letter-spacing: 0.5px;">这一个细分赛道，</span></span></span><span><span><span style="letter-spacing: 0.5px;">5</span></span></span><span><span><span style="letter-spacing: 0.5px;">月就有</span></span></span><span><span><span style="letter-spacing: 0.5px;">6</span></span></span><span><span><span style="letter-spacing: 0.5px;">家车企密集推出了</span></span></span><span><span><span style="letter-spacing: 0.5px;">7</span></span></span><span><span><span style="letter-spacing: 0.5px;">款新车。竞争，正在肉眼可见地变拥挤。</span></span></span></span></p><p style="text-align: justify; margin-bottom: 24px; line-height: 1.75em;"><span><span><span><span><span style="letter-spacing: 0.5px;">在这样的竞争烈度下，成立仅两年的乐道交出了一份</span></span></span></span><span><span><span><span style="letter-spacing: 0.5px;">非常不错</span></span></span></span><span><span><span><span style="letter-spacing: 0.5px;">的成绩单：</span></span></span></span><span><span><span><span style="letter-spacing: 0.5px;">今年</span></span></span><span><span><span style="letter-spacing: 0.5px;">6</span></span></span><span><span><span style="letter-spacing: 0.5px;">月销量达到</span></span></span><span><span><span style="letter-spacing: 0.5px;">11</span></span></span></span><span><span><span style="letter-spacing: 0.5px;">,</span></span></span><span><span><span><span style="letter-spacing: 0.5px;">743</span></span></span><span><span><span style="letter-spacing: 0.5px;">辆，同比增长</span></span></span><span><span><span style="letter-spacing: 0.5px;">83.5%</span></span></span><span><span><span style="letter-spacing: 0.5px;">，</span></span></span><span><span><span style="letter-spacing: 0.5px;">1-6</span></span></span><span><span><span style="letter-spacing: 0.5px;">月累计销量达到</span></span></span><span><span><span style="letter-spacing: 0.5px;">42</span></span></span></span><span><span><span style="letter-spacing: 0.5px;">,</span></span></span><span><span><span><span style="letter-spacing: 0.5px;">463</span></span></span><span><span><span style="letter-spacing: 0.5px;">辆，同比增加</span></span></span><span><span><span style="letter-spacing: 0.5px;">33.3%</span></span></span><span><span><span style="letter-spacing: 0.5px;">。同时</span></span></span></span><span><span><span><span style="letter-spacing: 0.5px;">最新成交均价</span></span></span></span><span><span><span><span style="letter-spacing: 0.5px;">重新</span></span></span></span><span><span><span><span style="letter-spacing: 0.5px;">稳定在</span></span></span><span><span style="letter-spacing: 0.5px;">2</span></span></span><span><span><span><span style="letter-spacing: 0.5px;">4</span></span></span></span><span><span><span><span style="letter-spacing: 0.5px;">万以上</span></span></span></span><span><span><span><span style="letter-spacing: 0.5px;">，做到了量价齐升</span></span></span></span><span><span><span><span style="letter-spacing: 0.5px;">。</span></span></span></span></span></p><p style="margin-top: 6pt; text-align: justify; margin-bottom: 24px; line-height: 1.75em;"><span><span><span><span><span style="letter-spacing: 0.5px;">雷峰网在上海见到乐道总裁沈斐时，</span></span></span></span><span><span><span><span style="letter-spacing: 0.5px;">他认为</span></span></span></span><span><span><span><span style="letter-spacing: 0.5px;">成立两年的</span></span></span></span><span><span><span><span style="letter-spacing: 0.5px;">品牌</span></span></span></span><span><span><span><span style="letter-spacing: 0.5px;">，能够获得这样的</span></span></span></span><span><span><span><span style="letter-spacing: 0.5px;">成绩</span></span></span></span><span><span><span><span style="letter-spacing: 0.5px;">确实不易</span></span></span></span><span><span><span><span style="letter-spacing: 0.5px;">，</span></span></span></span><span><span><span><span style="letter-spacing: 0.5px;">但</span></span></span></span><span><span><span><span style="letter-spacing: 0.5px;">也还有很多值得改进的地方</span></span></span></span><span><span><span><span style="letter-spacing: 0.5px;">，例如品牌信任</span></span></span></span><span><span><span><span style="letter-spacing: 0.5px;">。</span></span></span></span></span></p><p style="margin-top: 6pt; text-align: justify; margin-bottom: 24px; line-height: 1.75em;"><span><span><span><span><span style="letter-spacing: 0.5px;">品牌</span></span></span></span><span><span><span><span style="letter-spacing: 0.5px;">信任</span></span></span></span><span><span><span><span style="letter-spacing: 0.5px;">的建立从来不是一蹴而就的事情。相比特斯拉用十余年时间建立科技与效率的心智，理想用多个产品周期强化家庭用车的标签，乐道作为一个仅两年的品牌，仍处于品牌资产持续积累的阶段。</span></span></span></span></span></p><p style="margin-top: 6pt; text-align: justify; margin-bottom: 24px; line-height: 1.75em;"><span><span><span><span style="letter-spacing: 0.5px;">对于乐道而言，随着产品矩阵逐步完善，接下来的竞争已经不只是销量之争，更是一场关于用户心智的争夺战。</span></span></span></span></p><section><section><section><section><section style="padding-top: 10px; padding-bottom: 10px; text-align: center;"><section style="display: inline-block;"><section><span><br /></span></section><section><strong><span>01</span><span><br /></span></strong></section></section></section><h4 style="font-weight: 400; font-size: 16px; text-align: center; letter-spacing: 0.544px; line-height: 1.6em;"><strong><span style="color: #EE5B2E;"><span>最真实的乐道</span><span><br /></span></span></strong></h4></section></section></section></section><p style="margin-top: 24px; text-align: justify; margin-bottom: 24px; line-height: 1.75em;"><span><span><span><span style="letter-spacing: 0.5px;">乐道其实完成了不少新品牌难以完成的事情。</span></span></span></span></p><section style="text-align: center; margin-bottom: 24px; line-height: 1.75em;"><img class="rich_pages wxw-img" src="https://static.leiphone.com/uploads/new/images/20260714/6a5605841cd12.jpg?imageMogr2/quality/90" style="width: 100%; background-color: transparent;" /></section><span><span><span><span><span style="letter-spacing: 0.5px;">沈斐透露，乐道的用户中，</span></span></span><span><span style="letter-spacing: 0.5px;">35%</span></span><span><span><span style="letter-spacing: 0.5px;">来自</span></span></span><span><span><span style="letter-spacing: 0.5px;">BBA</span></span></span><span><span><span style="letter-spacing: 0.5px;">等传统豪华品牌，早期新能源换购用户占</span></span></span><span><span><span style="letter-spacing: 0.5px;">10%</span></span></span><span><span><span style="letter-spacing: 0.5px;">，而来自蔚来用户的增换购</span></span></span></span><span><span><span><span style="letter-spacing: 0.5px;">也</span></span></span></span><span><span><span><span style="letter-spacing: 0.5px;">占</span></span></span><span><span style="letter-spacing: 0.5px;">10%</span></span><span><span><span style="letter-spacing: 0.5px;">。</span></span></span></span></span></section><section><span><span><span><span><span style="letter-spacing: 0.5px;">这意味着，乐道吸引</span></span></span><span><span><span style="letter-spacing: 0.5px;">了目前市场上最挑剔的那些车主。</span></span></span></span></span></section><section><span><span><span><span><span style="letter-spacing: 0.5px;">他们</span></span></span><span><span style="letter-spacing: 0.5px;">来自奔驰、</span></span><span><span style="letter-spacing: 0.5px;">宝马、奥迪等传统豪华油车，这些用户不会因为多一块屏幕、智驾更酷炫就轻易换车；他们更关注空间、舒适、安全、补能便利性以及长期使用成本。</span></span></span></span></section><section><span><span><span><span style="letter-spacing: 0.5px;">价格同样如此。</span></span></span></span></section><section><span><span><span><span style="letter-spacing: 0.5px;">在过去四年的价格战中，很多品牌只能通过降价换销量。但乐道是个例外，</span></span><span><span><span><span style="letter-spacing: 0.5px;">共享</span></span></span></span><span><span><span><span style="letter-spacing: 0.5px;">蔚来公司</span></span></span><span><span style="letter-spacing: 0.5px;">11</span></span><span><span><span style="letter-spacing: 0.5px;">年积累的技术底座，其成交均价一直保持在高位，今年</span></span></span></span><span><span><span><span style="letter-spacing: 0.5px;">上半年更是</span></span></span></span><span><span><span><span style="letter-spacing: 0.5px;">已经超过</span></span></span><span><span style="letter-spacing: 0.5px;">24</span></span><span><span><span style="letter-spacing: 0.5px;">万元，甚至超过了某二线豪华品牌。</span></span></span></span></span></span></section><section><span><span><span><span><span><span style="letter-spacing: 0.5px;">这意味着用户购买乐道，并不仅仅因为便宜，品牌正在逐渐获得溢价能力。</span></span></span></span></span></span></section><section><span><span><span><span><span><span style="letter-spacing: 0.5px;">更重要的是用户口碑。</span></span></span></span></span></span></section><section><span><span><span><span><span><span style="letter-spacing: 0.5px;">杰兰路调研</span></span></span></span><span><span><span><span style="letter-spacing: 0.5px;">在《</span></span></span><span><span style="letter-spacing: 0.5px;">2026</span></span><span><span><span style="letter-spacing: 0.5px;">年</span></span></span><span><span><span style="letter-spacing: 0.5px;">5</span></span></span><span><span><span style="letter-spacing: 0.5px;">月新能源二手车价格与保值率观察》中显示，</span></span></span></span><span style="color: #000000;"><span><span><span style="letter-spacing: 0.5px;">乐道</span></span></span></span><span style="color: #000000;"><span><span><span style="letter-spacing: 0.5px;">上半年保值率持续走强，</span></span></span></span><span style="color: #000000;"><span><span style="letter-spacing: 0.5px;">5</span></span><span><span><span style="letter-spacing: 0.5px;">月保值率达到了</span></span></span><span><span><span style="letter-spacing: 0.5px;">81.5%</span></span></span><span><span><span style="letter-spacing: 0.5px;">登顶行业第一，超越特斯拉。</span></span></span></span><span style="color: #000000;"><span><span><span style="letter-spacing: 0.5px;">同时在</span></span></span></span><span><span><span><span style="letter-spacing: 0.5px;">中国汽车流通协会</span></span></span><span><span style="letter-spacing: 0.5px;">2026</span></span><span><span><span style="letter-spacing: 0.5px;">年</span></span></span><span><span><span style="letter-spacing: 0.5px;">5</span></span></span><span><span><span style="letter-spacing: 0.5px;">月发布的数据，乐道</span></span></span><span><span><span style="letter-spacing: 0.5px;">L60</span></span></span><span><span><span style="letter-spacing: 0.5px;">以</span></span></span><span><span><span style="letter-spacing: 0.5px;">75.6%</span></span></span><span><span><span style="letter-spacing: 0.5px;">的一年保值率，超越特斯拉</span></span></span><span><span><span style="letter-spacing: 0.5px;">Model Y</span></span></span><span><span><span style="letter-spacing: 0.5px;">，登顶纯电中型</span></span></span><span><span><span style="letter-spacing: 0.5px;">SUV</span></span></span><span><span><span style="letter-spacing: 0.5px;">一年保值率榜首，</span></span></span><span><span><span style="letter-spacing: 0.5px;">BaaS</span></span></span><span><span><span style="letter-spacing: 0.5px;">方案的保值率更是超过</span></span></span><span><span><span style="letter-spacing: 0.5px;">80%</span></span></span><span><span><span style="letter-spacing: 0.5px;">。</span></span></span></span></span></span></section><section><span><span><span><span><span><span style="letter-spacing: 0.5px;">而聚焦到车型，</span></span></span></span><span><span><span><span style="letter-spacing: 0.5px;">乐道</span></span></span><span><span style="letter-spacing: 0.5px;">L60</span></span><span><span><span style="letter-spacing: 0.5px;">的</span></span></span><span><span><span style="letter-spacing: 0.5px;">NPS</span></span></span><span><span><span style="letter-spacing: 0.5px;">（净推荐值）达到</span></span></span><span><span><span style="letter-spacing: 0.5px;">70.9%</span></span></span><span><span><span style="letter-spacing: 0.5px;">，并在《新能源汽车产品满意度研究》中获得产品净满意度（</span></span></span><span><span><span style="letter-spacing: 0.5px;">NSS</span></span></span><span><span><span style="letter-spacing: 0.5px;">）第一。安全、保值、满意</span></span></span><span><span><span style="letter-spacing: 0.5px;">——</span></span></span><span><span><span style="letter-spacing: 0.5px;">家庭购车最看重的三个维度，</span></span></span><span><span><span style="letter-spacing: 0.5px;">L60</span></span></span><span><span><span style="letter-spacing: 0.5px;">均获得顶级表现。</span></span></span></span></span></span></section><section><span><span><span><span><span><span style="letter-spacing: 0.5px;">在中国汽车市场，一个品牌最难买的东西叫信任。而保值率和</span></span></span></span><span><span style="letter-spacing: 0.5px;">NPS</span></span><span><span><span style="letter-spacing: 0.5px;">，本质上都是用户用真金白银投出的票。如果说销量证明有人愿意买乐道；那么保值率和</span></span></span><span><span><span style="letter-spacing: 0.5px;">NPS</span></span></span><span><span><span style="letter-spacing: 0.5px;">证明的是，用户买完以后并没有后悔。</span></span></span></span></span></section><section><span><span><span><span><span style="letter-spacing: 0.5px;">从产品、价格到口碑，乐道已经初步获得认可，但品牌建设需要更多时间沉淀，这恰恰是未来巨大的提升空间。</span></span></span></span></span></section><section><span><span><span><span><span style="letter-spacing: 0.5px;">眼下，沈斐最关注一组充满希望的数据：乐道线索到订单的转化率稳居行业前列。这意味着，只要用户走进门店、坐进车里，成交概率远超同行。挑战只在于进店之前</span></span></span><span><span><span style="letter-spacing: 0.5px;">——转化率再高，若认知池子不够大，便无法释放全部势能。但换个角度看，这正是一座等待开采的富矿：了解乐道的人，十有八九会心动；而让更多人了解乐道，正是品牌下一步最明确、也最可期的增长引擎。</span></span></span></span></span></section><section><span><span><span><span><span style="letter-spacing: 0.5px;">蓄势已足，破圈在即</span></span></span><span><span><span style="letter-spacing: 0.5px;">——这才是乐道当下最真实的状态。</span></span></span></span></span></section><section><section><section><section style="padding-top: 10px; padding-bottom: 10px; text-align: center;"><section style="display: inline-block;"><section><span><br /></span></section><section><strong><span>02</span><span><br /></span></strong></section></section></section><h4 style="font-weight: 400; font-size: 16px; text-align: center; letter-spacing: 0.544px; line-height: 1.6em;"><strong><span style="color: #EE5B2E;"><span>要让乐道更值得信任</span><span><br /></span></span></strong></h4></section></section></section><section><p style="margin-top: 24px; margin-bottom: 24px; text-align: justify; line-height: 1.75em;"><span><span><span><span style="letter-spacing: 0.5px;">“</span></span></span><span><span><span style="letter-spacing: 0.5px;">很多人见过乐道，但不知道乐道是谁。</span></span></span><span><span><span style="letter-spacing: 0.5px;">”</span></span></span><span><span><span style="letter-spacing: 0.5px;">这是当下沈斐最大的困惑，也是众多新品牌普遍面临的难题。</span></span></span></span></p><p style="margin-top: 6pt; margin-bottom: 24px; text-align: justify; line-height: 1.75em;"><span><span><span><span style="letter-spacing: 0.5px;">过去几年，行业涌现出不少成功案例。</span></span></span></span></p><p style="margin-top: 6pt; margin-bottom: 24px; text-align: justify; line-height: 1.75em;"><span><span><span><span style="letter-spacing: 0.5px;">理想最成功的地方，从来不只是增程技术。当用户想到家庭用车、想到奶爸车、想到全家出行时，理想已经成为第一联想对象。</span></span></span></span></p><p style="margin-top: 6pt; margin-bottom: 24px; text-align: justify; line-height: 1.75em;"><span><span><span><span style="letter-spacing: 0.5px;">特斯拉也不只是电动车品牌。对于大量消费者而言，它代表的是科技、创新和未来感。</span></span></span></span></p><p style="margin-top: 6pt; margin-bottom: 24px; text-align: justify; line-height: 1.75em;"><span><span><span><span style="letter-spacing: 0.5px;">因此，在产品同质化加剧的当下，对于后来者而言，最大的挑战往往不是产品够不够好，而是能否建立起让用户快速记住的品牌标签。</span></span></span></span></p><p style="margin-top: 6pt; margin-bottom: 24px; text-align: justify; line-height: 1.75em;"><span><span><span><span><span style="letter-spacing: 0.5px;">这也是乐道当</span></span></span></span><span><span><span><span style="letter-spacing: 0.5px;">下需要发力的地方</span></span></span></span><span><span><span><span style="letter-spacing: 0.5px;">。</span></span></span></span></span></p><p style="margin-top: 6pt; margin-bottom: 24px; text-align: justify; line-height: 1.75em;"><span><span><span><span><span style="letter-spacing: 0.5px;">而过去一年多时间里，乐道做的很多事情，本质上都围绕这一</span></span></span></span><span><span><span><span style="letter-spacing: 0.5px;">方向</span></span></span></span><span><span><span><span style="letter-spacing: 0.5px;">展开。</span></span></span></span></span></p><p style="margin-top: 6pt; margin-bottom: 24px; text-align: justify; line-height: 1.75em;"><span><span><span><span style="letter-spacing: 0.5px;">今年</span></span></span><span><span style="letter-spacing: 0.5px;">5</span></span><span><span><span style="letter-spacing: 0.5px;">月</span></span></span><span><span><span style="letter-spacing: 0.5px;">15</span></span></span><span><span><span style="letter-spacing: 0.5px;">日，品牌成立两周年之际，乐道正式将品牌</span></span></span><span><span><span style="letter-spacing: 0.5px;">Slogan</span></span></span><span><span><span style="letter-spacing: 0.5px;">升级为</span></span></span><span><span><span style="letter-spacing: 0.5px;">“</span></span></span><span><span><span style="letter-spacing: 0.5px;">每一程，皆乐道</span></span></span><span><span><span style="letter-spacing: 0.5px;">”</span></span></span><span><span><span style="letter-spacing: 0.5px;">。在很多人看来，这只是一次常规的品牌焕新，但在沈斐眼里，这更像是团队两年探索之后的一次阶段性总结。</span></span></span></span></p><p style="margin-top: 6pt; margin-bottom: 24px; text-align: justify; line-height: 1.75em;"><span><span><span><span style="letter-spacing: 0.5px;">沈斐告诉雷峰网，乐道从诞生之初就定位高品质家庭品牌，这一点从未发生改变。变化的不是方向，而是表达方式。</span></span></span></span></p><p style="margin-top: 6pt; margin-bottom: 24px; text-align: justify; line-height: 1.75em;"><span><span><span><span style="letter-spacing: 0.5px;">过去两年，团队在与用户的大量接触中逐渐意识到，相比行业从业者，普通消费者对于品牌的理解往往更加直接。很多内部认为理所当然的表达，用户未必能够准确理解。于是，如何用一句更简单、更具传播力的话，概括乐道的品牌理念，成为团队持续思考的问题。</span></span></span></span></p><p style="margin-top: 6pt; margin-bottom: 24px; text-align: justify; line-height: 1.75em;"><span><span><span><span style="letter-spacing: 0.5px;">最终诞生的</span></span></span><span><span><span style="letter-spacing: 0.5px;">“</span></span></span><span><span><span style="letter-spacing: 0.5px;">每一程，皆乐道</span></span></span><span><span><span style="letter-spacing: 0.5px;">”</span></span></span><span><span><span style="letter-spacing: 0.5px;">，正是这一思考的结果。</span></span></span></span></p><section style="text-align: center; margin-bottom: 24px; line-height: 1.75em;"><img class="rich_pages wxw-img" src="https://static.leiphone.com/uploads/new/images/20260714/6a560584852b1.png?imageMogr2/quality/90" style="width: 100%; background-color: transparent;" type="block" /></section><p style="margin-top: 6pt; margin-bottom: 24px; text-align: justify; line-height: 1.75em;"><span><span><span><span style="letter-spacing: 0.5px;">在沈斐看来，这句</span></span></span><span><span style="letter-spacing: 0.5px;">Slogan</span></span><span><span><span style="letter-spacing: 0.5px;">有两层含义。第一层是出行意义上的</span></span></span><span><span><span style="letter-spacing: 0.5px;">“</span></span></span><span><span><span style="letter-spacing: 0.5px;">每一程</span></span></span><span><span><span style="letter-spacing: 0.5px;">”</span></span></span><span><span><span style="letter-spacing: 0.5px;">，无论是日常通勤、周末郊游还是全家旅行，乐道都希望让家庭出行变得更加轻松和愉悦；第二层则是人生意义上的</span></span></span><span><span><span style="letter-spacing: 0.5px;">“</span></span></span><span><span><span style="letter-spacing: 0.5px;">每一程</span></span></span><span><span><span style="letter-spacing: 0.5px;">”</span></span></span><span><span><span style="letter-spacing: 0.5px;">，从恋爱结婚，到迎来孩子，再到父母退休、家庭结构变化，每个家庭都会经历不同的人生阶段，而乐道希望成为这些重要时刻的陪伴者。</span></span></span></span></p><p style="margin-top: 6pt; margin-bottom: 24px; text-align: justify; line-height: 1.75em;"><span><span><span><span style="letter-spacing: 0.5px;">相比此前偏重家庭关系表达的品牌语言，</span></span></span><span><span><span style="letter-spacing: 0.5px;">“</span></span></span><span><span><span style="letter-spacing: 0.5px;">每一程，皆乐道</span></span></span><span><span><span style="letter-spacing: 0.5px;">”</span></span></span><span><span><span style="letter-spacing: 0.5px;">将品牌叙事从单纯的出行场景延伸到了人生旅程，也让</span></span></span><span><span><span style="letter-spacing: 0.5px;">“</span></span></span><span><span><span style="letter-spacing: 0.5px;">乐道</span></span></span><span><span><span style="letter-spacing: 0.5px;">”</span></span></span><span><span><span style="letter-spacing: 0.5px;">二字拥有了更丰富的情感内涵。</span></span></span></span></p><p style="margin-top: 6pt; margin-bottom: 24px; text-align: justify; line-height: 1.75em;"><span><span><span><span style="letter-spacing: 0.5px;">为了让这种定位更加具象化，乐道还同步梳理出五大品牌支柱</span></span></span><span><span><span style="letter-spacing: 0.5px;">——</span></span></span><span><span><span style="letter-spacing: 0.5px;">品质与安全、科技为家、得体的设计、用心的服务和活力的社区。</span></span></span></span></p><p style="margin-top: 6pt; margin-bottom: 24px; text-align: justify; line-height: 1.75em;"><span><span><span><span style="letter-spacing: 0.5px;">从某种意义上说，五大品牌支柱的确立，也意味着乐道正在完成从</span></span></span><span><span><span style="letter-spacing: 0.5px;">“</span></span></span><span><span><span style="letter-spacing: 0.5px;">产品品牌</span></span></span><span><span><span style="letter-spacing: 0.5px;">”</span></span></span><span><span><span style="letter-spacing: 0.5px;">向</span></span></span><span><span><span style="letter-spacing: 0.5px;">“</span></span></span><span><span><span style="letter-spacing: 0.5px;">生活方式品牌</span></span></span><span><span><span style="letter-spacing: 0.5px;">”</span></span></span><span><span><span style="letter-spacing: 0.5px;">的转变。</span></span></span></span></p><p style="margin-top: 6pt; margin-bottom: 24px; text-align: justify; line-height: 1.75em;"><span><span><span><span style="letter-spacing: 0.5px;">今年以来，乐道发布的雪山婚礼、退休夫妻自驾远行等主题短片获得了大量用户共鸣；而在线下交付现场，也越来越多出现这样的画面</span></span></span><span><span><span style="letter-spacing: 0.5px;">——</span></span></span><span><span><span style="letter-spacing: 0.5px;">有人把</span></span></span><span><span><span style="letter-spacing: 0.5px;">L80</span></span></span><span><span><span style="letter-spacing: 0.5px;">当作送给父母退休后的礼物，有人开着新车带全家开启第一次长途旅行，也有人把一辆乐道当成家庭进入下一阶段生活的起点。</span></span></span></span></p><p style="margin-top: 6pt; margin-bottom: 24px; text-align: justify; line-height: 1.75em;"><span><span><span><span style="letter-spacing: 0.5px;">对很多用户而言，购买乐道并不只是买下一辆车，而是在购买一种关于家庭生活的想象。</span></span></span></span></p><p style="margin-top: 6pt; margin-bottom: 24px; text-align: justify; line-height: 1.75em;"><span><span><span><span><span style="letter-spacing: 0.5px;">这或许也是乐道正在努力完成的一件事：让外界记住它</span></span></span></span><span><span><span><span style="letter-spacing: 0.5px;">，信任它</span></span></span></span><span><span><span><span style="letter-spacing: 0.5px;">，不是因为换电、轻量化、智能化等某一项特定参数，而是因为当人们想到家庭出行、想到一家人的旅程时，会自然想起这个品牌。</span></span></span></span></span></p><p style="margin-top: 6pt; margin-bottom: 24px; text-align: justify; line-height: 1.75em;"><span><span><span><span style="letter-spacing: 0.5px;">对于一个成立仅两年的新品牌来说，这或许才是真正意义上的成长。</span></span></span></span></p><section><section><section><section><section style="padding-top: 10px; padding-bottom: 10px; text-align: center;"><section style="display: inline-block;"><section><span><br /></span></section><section><strong><span>03</span><span><br /></span></strong></section></section></section><h4 style="font-weight: 400; font-size: 16px; text-align: center; letter-spacing: 0.544px; line-height: 1.6em;"><strong><span style="color: #EE5B2E;"><span>从新品牌到全民品牌，乐道怎么做？</span><span><br /></span></span></strong></h4></section></section></section></section><p style="margin-top: 24px; margin-bottom: 24px; text-align: justify; line-height: 1.75em;"><span><span><span><span style="letter-spacing: 0.5px;">“</span></span></span><span><span><span style="letter-spacing: 0.5px;">增长</span></span></span><span><span><span style="letter-spacing: 0.5px;">10</span></span></span><span><span><span style="letter-spacing: 0.5px;">倍比增长</span></span></span><span><span><span style="letter-spacing: 0.5px;">2</span></span></span><span><span><span style="letter-spacing: 0.5px;">倍更容易。</span></span></span><span><span><span style="letter-spacing: 0.5px;">”</span></span></span><span><span><span style="letter-spacing: 0.5px;">这是沈斐最近反复跟团队分享的一句话。</span></span></span></span></p><p style="margin-top: 6pt; margin-bottom: 24px; text-align: justify; line-height: 1.75em;"><span><span><span><span style="letter-spacing: 0.5px;">这句话来自</span></span></span><span><span style="letter-spacing: 0.5px;">Dan Sullivan</span></span><span><span><span style="letter-spacing: 0.5px;">和</span></span></span><span><span><span style="letter-spacing: 0.5px;">Benjamin Hardy</span></span></span><span><span><span style="letter-spacing: 0.5px;">合著的《</span></span></span><span><span><span style="letter-spacing: 0.5px;">10x Is Easier Than 2x</span></span></span><span><span><span style="letter-spacing: 0.5px;">》。书中的核心观点是，当目标只是增长</span></span></span><span><span><span style="letter-spacing: 0.5px;">20%</span></span></span><span><span><span style="letter-spacing: 0.5px;">、</span></span></span><span><span><span style="letter-spacing: 0.5px;">50%</span></span></span><span><span><span style="letter-spacing: 0.5px;">甚至翻一倍时，人们往往会沿用原来的思维和路径；而当目标变成</span></span></span><span><span><span style="letter-spacing: 0.5px;">10</span></span></span><span><span><span style="letter-spacing: 0.5px;">倍增长时，原有的方法已经无法满足需求，反而会逼着组织跳出惯性，寻找全新的解法。</span></span></span></span></p><p style="margin-top: 6pt; margin-bottom: 24px; text-align: justify; line-height: 1.75em;"><span><span><span><span style="letter-spacing: 0.5px;">沈斐对这个观点感触很深。</span></span></span></span></p><p style="margin-top: 6pt; margin-bottom: 24px; text-align: justify; line-height: 1.75em;"><span><span><span><span style="letter-spacing: 0.5px;">十年前，当团队第一次提出一年建设几十座换电站时，已经觉得困难重重。但后来目标从几十座变成数百座、上千座时，团队反而被迫放弃原有路径，重新设计建站模式、运营体系和供应链能力，最终实现了远超预期的增长。</span></span></span></span></p><p style="margin-top: 6pt; margin-bottom: 24px; text-align: justify; line-height: 1.75em;"><span><span><span><span style="letter-spacing: 0.5px;">在他看来，如今的乐道也正站在类似的节点上。</span></span></span></span></p><p style="margin-top: 6pt; margin-bottom: 24px; text-align: justify; line-height: 1.75em;"><span><span><span><span style="letter-spacing: 0.5px;">过去两年，乐道已经完成了从</span></span></span><span><span style="letter-spacing: 0.5px;">0</span></span><span><span><span style="letter-spacing: 0.5px;">到</span></span></span><span><span><span style="letter-spacing: 0.5px;">1</span></span></span><span><span><span style="letter-spacing: 0.5px;">最艰难的阶段：品牌建立、产品落地、渠道搭建。</span></span></span></span></p><p style="margin-top: 6pt; margin-bottom: 24px; text-align: justify; line-height: 1.75em;"><span><span><span><span><span style="letter-spacing: 0.5px;">而接下来要</span></span></span></span><span><span><span><span style="letter-spacing: 0.5px;">发力的方向</span></span></span></span><span><span><span><span style="letter-spacing: 0.5px;">，是</span></span></span></span><span><span><span><span style="letter-spacing: 0.5px;">如何</span></span></span></span><span><span><span><span style="letter-spacing: 0.5px;">成长为一个</span></span></span></span><span><span><span><span style="letter-spacing: 0.5px;">人尽皆知的</span></span></span></span><span><span><span><span style="letter-spacing: 0.5px;">品牌。</span></span></span></span></span></p><p style="margin-top: 6pt; margin-bottom: 24px; text-align: justify; line-height: 1.75em;"><span><span><span><span><span style="letter-spacing: 0.5px;">首先是在智能化上全面升级，</span></span></span></span><span><span><span><span style="letter-spacing: 0.5px;">乐道与蔚来共享神玑</span></span></span><span><span style="letter-spacing: 0.5px;">NX9031</span></span><span><span><span style="letter-spacing: 0.5px;">芯片、</span></span></span><span><span><span style="letter-spacing: 0.5px;">NWM</span></span></span><span><span><span style="letter-spacing: 0.5px;">世界模型以及面向</span></span></span><span><span><span style="letter-spacing: 0.5px;">AI</span></span></span><span><span><span style="letter-spacing: 0.5px;">时代的整车操作系统</span></span></span><span><span><span style="letter-spacing: 0.5px;">SkyOS·</span></span></span><span><span><span style="letter-spacing: 0.5px;">天枢，正式进入与蔚来同源的智能化体系。换句话说，在智驾能力上，乐道获得了与蔚来相同的技术底座。</span></span></span></span></span></p><section style="text-align: justify; margin-bottom: 24px; line-height: 1.75em;"><img class="rich_pages wxw-img" src="https://static.leiphone.com/uploads/new/images/20260714/6a560584c7cd5.png?imageMogr2/quality/90" style="width: 100%; background-color: transparent;" type="block" /></section><p style="margin-top: 6pt; margin-bottom: 24px; text-align: justify; line-height: 1.75em;"><span><span><span><span style="letter-spacing: 0.5px;">在焕新版</span></span></span><span><span style="letter-spacing: 0.5px;">L60</span></span><span><span><span style="letter-spacing: 0.5px;">上市发布会上，乐道展示了一段颇具代表性的智驾视频：车辆全程开启智能辅助驾驶，穿越一条长达</span></span></span><span><span><span style="letter-spacing: 0.5px;">540</span></span></span><span><span><span style="letter-spacing: 0.5px;">米的极窄溶洞隧道。面对狭窄车道、连续弯道以及极暗环境，</span></span></span><span><span><span style="letter-spacing: 0.5px;">L60</span></span></span><span><span><span style="letter-spacing: 0.5px;">最终完成了全程零接管通行。</span></span></span></span></p><p style="margin-top: 6pt; margin-bottom: 24px; text-align: justify; line-height: 1.75em;"><span><span><span><span style="letter-spacing: 0.5px;">这也是沈斐今年最希望外界重新认识乐道的地方。</span></span></span></span></p><p style="margin-top: 6pt; margin-bottom: 24px; text-align: justify; line-height: 1.75em;"><span><span><span><span style="letter-spacing: 0.5px;">在他看来，乐道已经不再是那个依靠空间、换电和价格优势参与竞争的品牌，而是具备行业第一梯队智能化能力的家庭品牌。</span></span></span></span></p><p style="margin-top: 6pt; margin-bottom: 24px; text-align: justify; line-height: 1.75em;"><span><span><span><span style="letter-spacing: 0.5px;">“</span></span></span><span><span><span style="letter-spacing: 0.5px;">乐道的智驾，是目前国内头部水平。</span></span></span><span><span><span style="letter-spacing: 0.5px;">”</span></span></span><span><span><span style="letter-spacing: 0.5px;">沈斐告诉雷峰网。</span></span></span></span></p><p style="margin-top: 6pt; margin-bottom: 24px; text-align: justify; line-height: 1.75em;"><span><span><span><span style="letter-spacing: 0.5px;">用户也正在用订单投票。</span></span></span></span></p><p style="margin-top: 6pt; margin-bottom: 24px; text-align: justify; line-height: 1.75em;"><span><span><span><span style="letter-spacing: 0.5px;">据了解，在焕新版</span></span></span><span><span style="letter-spacing: 0.5px;">L60</span></span><span><span><span style="letter-spacing: 0.5px;">的预售订单中，搭载神玑</span></span></span><span><span><span style="letter-spacing: 0.5px;">NX9031</span></span></span><span><span><span style="letter-spacing: 0.5px;">芯片、激光雷达以及</span></span></span><span><span><span style="letter-spacing: 0.5px;">NWM</span></span></span><span><span><span style="letter-spacing: 0.5px;">世界模型的</span></span></span><span><span><span style="letter-spacing: 0.5px;">Max+</span></span></span><span><span><span style="letter-spacing: 0.5px;">和</span></span></span><span><span><span style="letter-spacing: 0.5px;">Ultra+</span></span></span><span><span><span style="letter-spacing: 0.5px;">版本，占整体订单比例超过</span></span></span><span><span><span style="letter-spacing: 0.5px;">90%</span></span></span><span><span><span style="letter-spacing: 0.5px;">。这一数据意味着，大多数用户愿意为更强的智能化能力买单。</span></span></span></span></p><p style="margin-top: 6pt; margin-bottom: 24px; text-align: justify; line-height: 1.75em;"><span><span><span><span style="letter-spacing: 0.5px;">当智能驾驶开始成为越来越多家庭用户的购车决策因素时，乐道已进入了智能化竞争的主战场。</span></span></span></span></p><p style="margin-top: 6pt; margin-bottom: 24px; text-align: justify; line-height: 1.75em;"><span><span><span><span style="letter-spacing: 0.5px;">“</span></span></span><span><span><span style="letter-spacing: 0.5px;">不怕你来比，就怕你不知道。</span></span></span><span><span><span style="letter-spacing: 0.5px;">”</span></span></span><span><span><span style="letter-spacing: 0.5px;">沈斐非常乐意看到所有想买特斯拉</span></span></span><span><span><span style="letter-spacing: 0.5px;">Model Y</span></span></span><span><span><span style="letter-spacing: 0.5px;">和理想</span></span></span><span><span><span style="letter-spacing: 0.5px;">i6</span></span></span><span><span><span style="letter-spacing: 0.5px;">的用户都来试驾一次</span></span></span><span><span><span style="letter-spacing: 0.5px;">L60</span></span></span><span><span><span style="letter-spacing: 0.5px;">，</span></span></span><span><span><span style="letter-spacing: 0.5px;">“</span></span></span><span><span><span style="letter-spacing: 0.5px;">如果这些用户来试驾，我们的销量可能原地翻三倍。</span></span></span><span><span><span style="letter-spacing: 0.5px;">”</span></span></span></span></p><p style="margin-top: 6pt; margin-bottom: 24px; text-align: justify; line-height: 1.75em;"><span><span><span><span style="letter-spacing: 0.5px;">沈斐的这句话，点出了乐道在今年下半年的重点工作：第一件事，是提升获客能力；第二件事，是扩大品牌曝光。</span></span></span></span></p><p style="margin-top: 6pt; margin-bottom: 24px; text-align: justify; line-height: 1.75em;"><span><span><span><span style="letter-spacing: 0.5px;">获客层面，乐道鼓励一线销售走出门店主动拓客。在传统汽车时代，销售人员往往等待客户进店；但在新能源时代，越来越多品牌开始主动走向用户。商场、社区、公园、露营地、骑行活动、亲子活动，都可能成为新的获客场景。</span></span></span></span></p><p style="margin-top: 6pt; margin-bottom: 24px; text-align: justify; line-height: 1.75em;"><span><span><span><span style="letter-spacing: 0.5px;">与此同时，乐道还在继续扩张渠道网络。</span></span></span></span></p><p style="margin-top: 6pt; margin-bottom: 24px; text-align: justify; line-height: 1.75em;"><span><span><span><span style="letter-spacing: 0.5px;">依托蔚来、乐道、firefly萤火虫三品牌共用的</span></span></span><span><span style="letter-spacing: 0.5px;">SKY</span></span><span><span><span style="letter-spacing: 0.5px;">体系，乐道正在进一步向更多城市渗透，让品牌能够触达更多此前从未接触过乐道的家庭用户。</span></span></span></span></p><p style="margin-top: 6pt; margin-bottom: 24px; text-align: justify; line-height: 1.75em;"><span><span><span><span style="letter-spacing: 0.5px;">相比渠道扩张的线性任务，乐道更大的挑战在于扩大品牌曝光。</span></span></span></span></p><p style="margin-top: 6pt; margin-bottom: 24px; text-align: justify; line-height: 1.75em;"><span><span><span><span style="letter-spacing: 0.5px;">如果说过去两年乐道最重要的工作是完成产品布局，那么下半年以及未来几年的重点就是品牌破圈。今年以来，乐道开始主动进入更多生活方式圈层，试图将品牌从产品层面，延伸到用户日常生活之中。</span></span></span></span></p><section style="text-align: center; margin-bottom: 24px; line-height: 1.75em;"><img class="rich_pages wxw-img" src="https://static.leiphone.com/uploads/new/images/20260714/6a5605851bbf8.png?imageMogr2/quality/90" style="width: 100%; background-color: transparent;" type="block" /></section><p style="margin-top: 6pt; margin-bottom: 24px; text-align: justify; line-height: 1.75em;"><span><span><span><span style="letter-spacing: 0.5px;">例如，乐道与拥有千万粉丝的美食博主安秋金合作，围绕</span></span></span><span><span style="letter-spacing: 0.5px;">L80</span></span><span><span><span style="letter-spacing: 0.5px;">、</span></span></span><span><span><span style="letter-spacing: 0.5px;">L90</span></span></span><span><span><span style="letter-spacing: 0.5px;">打造</span></span></span><span><span><span style="letter-spacing: 0.5px;">“</span></span></span><span><span><span style="letter-spacing: 0.5px;">移动厨房</span></span></span><span><span><span style="letter-spacing: 0.5px;">”</span></span></span><span><span><span style="letter-spacing: 0.5px;">场景；与华住会打通会员权益体系，为用户提供覆盖出行、住宿等环节的服务体验；与长隆推出亲子出行服务，并成为上海申花足球俱乐部官方合作伙伴，持续拓展品牌触达用户的场景边界。</span></span></span></span></p><p style="margin-top: 6pt; margin-bottom: 24px; text-align: justify; line-height: 1.75em;"><span><span><span><span style="letter-spacing: 0.5px;">今年</span></span></span><span><span style="letter-spacing: 0.5px;">5</span></span><span><span><span style="letter-spacing: 0.5px;">月，乐道还发起</span></span></span><span><span><span style="letter-spacing: 0.5px;">“515</span></span></span><span><span><span style="letter-spacing: 0.5px;">家庭欢乐周</span></span></span><span><span><span style="letter-spacing: 0.5px;">”</span></span></span><span><span><span style="letter-spacing: 0.5px;">，在全国</span></span></span><span><span><span style="letter-spacing: 0.5px;">50</span></span></span><span><span><span style="letter-spacing: 0.5px;">余座城市举办超过</span></span></span><span><span><span style="letter-spacing: 0.5px;">1500</span></span></span><span><span><span style="letter-spacing: 0.5px;">场活动，并联动乐刻等多个品牌，覆盖露营、萌宠、亲子等不同生活场景。相比单纯展示车辆性能参数，这些活动更强调家庭陪伴、生活体验与情绪价值，持续强化乐道</span></span></span><span><span><span style="letter-spacing: 0.5px;">“</span></span></span><span><span><span style="letter-spacing: 0.5px;">科技为家</span></span></span><span><span><span style="letter-spacing: 0.5px;">”</span></span></span><span><span><span style="letter-spacing: 0.5px;">的品牌温情调性。</span></span></span></span></p><p style="margin-top: 6pt; margin-bottom: 24px; text-align: justify; line-height: 1.75em;"><span><span><span><span style="letter-spacing: 0.5px;">从这些动作不难发现，乐道正在以场景化服务向用户传递其品牌价值。</span></span></span></span></p><p style="margin-top: 6pt; margin-bottom: 24px; text-align: justify; line-height: 1.75em;"><span><span><span><span style="letter-spacing: 0.5px;">这种变化也体现在更接地气的用户场景之中。</span></span></span></span></p><p style="margin-top: 6pt; margin-bottom: 24px; text-align: justify; line-height: 1.75em;"><span><span><span><span style="letter-spacing: 0.5px;">近期在山东兴福镇举办的美食主题活动现场，也出现了乐道的身影。</span></span></span></span></p><p style="margin-top: 6pt; margin-bottom: 24px; text-align: justify; line-height: 1.75em;"><span><span><span><span style="letter-spacing: 0.5px;">兴福镇并不是一个普通乡镇。作为</span></span></span><span><span><span style="letter-spacing: 0.5px;">“</span></span></span><span><span><span style="letter-spacing: 0.5px;">中国厨都</span></span></span><span><span><span style="letter-spacing: 0.5px;">”</span></span></span><span><span><span style="letter-spacing: 0.5px;">，这里聚集了大量商用厨具企业和餐饮从业者。兴福镇还是蔚来用户第一个破千的乡镇，因此也被称作</span></span></span><span><span><span style="letter-spacing: 0.5px;">“</span></span></span><span><span><span style="letter-spacing: 0.5px;">蔚来小镇</span></span></span><span><span><span style="letter-spacing: 0.5px;">”</span></span></span><span><span><span style="letter-spacing: 0.5px;">。</span></span></span></span></p><p style="margin-top: 6pt; margin-bottom: 24px; text-align: justify; line-height: 1.75em;"><span><span><span><span style="letter-spacing: 0.5px;">活动当天，乐道将品牌融入当地特色文化之中，围绕美食、家庭和生活方式，吸引了大量居民和用户参与。</span></span></span></span></p><p style="margin-top: 6pt; margin-bottom: 24px; text-align: justify; line-height: 1.75em;"><span><span><span><span style="letter-spacing: 0.5px;">类似的故事还发生在广东猎德村，据说这里的村民身价人均千万，但他们的消费观却大不同，如今停着不少乐道</span></span></span><span><span style="letter-spacing: 0.5px;">L90</span></span><span><span><span style="letter-spacing: 0.5px;">，而一些此前购买的传统豪华品牌车型反而逐渐</span></span></span><span><span><span style="letter-spacing: 0.5px;">“</span></span></span><span><span><span style="letter-spacing: 0.5px;">吃灰</span></span></span><span><span><span style="letter-spacing: 0.5px;">”</span></span></span><span><span><span style="letter-spacing: 0.5px;">。</span></span></span></span></p><p style="margin-top: 6pt; margin-bottom: 24px; text-align: justify; line-height: 1.75em;"><span><span><span><span style="letter-spacing: 0.5px;">有不少年轻村民表示，选择乐道</span></span></span><span><span style="letter-spacing: 0.5px;">L90</span></span><span><span><span style="letter-spacing: 0.5px;">的原因是</span></span></span><span><span><span style="letter-spacing: 0.5px;">“</span></span></span><span><span><span style="letter-spacing: 0.5px;">大、靓、正</span></span></span><span><span><span style="letter-spacing: 0.5px;">”</span></span></span><span><span><span style="letter-spacing: 0.5px;">，</span></span></span><span><span><span style="letter-spacing: 0.5px;">“</span></span></span><span><span><span style="letter-spacing: 0.5px;">最适合开出去谈生意了</span></span></span><span><span><span style="letter-spacing: 0.5px;">”</span></span></span><span><span><span style="letter-spacing: 0.5px;">，一位村民表示，</span></span></span><span><span><span style="letter-spacing: 0.5px;">“</span></span></span><span><span><span style="letter-spacing: 0.5px;">我们不在意价格有多贵，我们很踏实，适合最重要。</span></span></span><span><span><span style="letter-spacing: 0.5px;">”</span></span></span></span></p><p style="margin-top: 6pt; margin-bottom: 24px; text-align: justify; line-height: 1.75em;"><span><span><span><span style="letter-spacing: 0.5px;">另一条破圈动作来自运动圈层。</span></span></span></span></p><p style="margin-top: 6pt; margin-bottom: 24px; text-align: justify; line-height: 1.75em;"><span><span><span><span style="letter-spacing: 0.5px;">乐道签约了中国著名攀爬自行车运动员张京坤</span></span></span><span><span><span style="letter-spacing: 0.5px;">——</span></span></span><span><span><span style="letter-spacing: 0.5px;">这位拥有三项吉尼斯世界纪录的运动达人，本身就是蔚来老车主。</span></span></span></span></p><p style="margin-top: 6pt; margin-bottom: 24px; text-align: justify; line-height: 1.75em;"><span><span><span><span style="letter-spacing: 0.5px;">当张京坤出现在乐道发布会现场后，大量骑行爱好者开始关注这个品牌。</span></span></span></span></p><p style="margin-top: 6pt; margin-bottom: 24px; text-align: justify; line-height: 1.75em;"><span><span><span><span style="letter-spacing: 0.5px;">而当这些用户真正接触产品时，他们会发现乐道的空间设计与骑行场景天然契合：后备箱可以轻松容纳两辆公路自行车，经过固定后甚至能够放下三辆。</span></span></span></span></p><p style="margin-top: 6pt; margin-bottom: 24px; text-align: justify; line-height: 1.75em;"><span><span><span><span style="letter-spacing: 0.5px;">对于骑行爱好者而言，这比任何广告都更有说服力。</span></span></span></span></p><p style="margin-top: 6pt; margin-bottom: 24px; text-align: justify; line-height: 1.75em;"><span><span><span><span style="letter-spacing: 0.5px;">乐道希望借助美食、家庭聚会、户外露营、户外运动等真实生活场景，让用户记住乐道，并理解乐道。因为沈斐越来越相信，在今天的中国汽车市场，仅靠产品力已经不足以支撑一个品牌实现</span></span></span><span><span style="letter-spacing: 0.5px;">10</span></span><span><span><span style="letter-spacing: 0.5px;">倍增长，</span></span></span><span><span><span style="letter-spacing: 0.5px;">“</span></span></span><span><span><span style="letter-spacing: 0.5px;">产品决定用户是否购买，但品牌决定用户是否会主动想起你。</span></span></span><span><span><span style="letter-spacing: 0.5px;">”</span></span></span></span></p><p style="margin-top: 6pt; margin-bottom: 24px; text-align: justify; line-height: 1.75em;"><span><span><span><span style="letter-spacing: 0.5px;">而乐道接下来要做的，就是让更多原本准备购买</span></span></span><span><span style="letter-spacing: 0.5px;">Model Y</span></span><span><span><span style="letter-spacing: 0.5px;">、</span></span></span><span><span><span style="letter-spacing: 0.5px;">BBA</span></span></span><span><span><span style="letter-spacing: 0.5px;">的家庭用户，在做决策之前，多给自己一次试驾乐道的机会。</span></span></span></span></p><p style="margin-top: 6pt; margin-bottom: 24px; text-align: justify; line-height: 1.75em;"><span><span><span><span style="letter-spacing: 0.5px;">在沈斐看来，这或许就是乐道距离下一次增长爆发最近的一步。</span></span></span></span></p><section><section><section><section><section style="padding-top: 10px; padding-bottom: 10px; text-align: center;"><section style="display: inline-block;"><section><span><br /></span></section><section><strong><span>04</span><span><br /></span></strong></section></section></section><h4 style="font-weight: 400; font-size: 16px; text-align: center; letter-spacing: 0.544px; line-height: 1.6em;"><strong><span style="color: #EE5B2E;"><span>写在最后</span><span><br /></span></span></strong></h4></section></section></section></section><p style="margin-top: 24px; margin-bottom: 24px; text-align: justify; line-height: 1.75em;"><span><span><span><span style="letter-spacing: 0.5px;">循序渐进，稳扎稳打，这或许是一个新品牌最难得的状态。</span></span></span></span></p><p style="margin-top: 6pt; margin-bottom: 24px; text-align: justify; line-height: 1.75em;"><span><span><span><span style="letter-spacing: 0.5px;">在这个越来越追求速胜、爆款和流量的时代，乐道选择了一条更慢的路：用时间换取认知，用体系换取效率，用长期主义换取信任。</span></span></span></span></p><p style="margin-top: 6pt; margin-bottom: 40px; text-align: justify; line-height: 1.75em;"><span style="font-family: Arial; font-size: 11pt;"><span><span><span><span style="font-size: 15px;"><span style="letter-spacing: 0.5px;">至于这条路最终能走多远，市场会给出答案。但至少今天的乐道，已经比一年前更清楚自己是谁了。</span></span></span><span></span><span><br /></span></span></span></span></p></section></section></section></section></section>]]></description>
@@ -1133,76 +1177,12 @@ gemini 的 api 是否比 deepseek pro 智能一些呢？</p>]]></description>
     <source url="https://sspai.com/post/112320">少数派</source>
   </item>
   <item>
-    <title>[Hacker News] Demis Hassabis has a plan to harness AI safely</title>
-    <link>https://twitter.com/demishassabis/status/2076957440109625718</link>
-    <description><![CDATA[<a href="https://news.ycombinator.com/item?id=48904095">Comments</a>]]></description>
-    <pubDate>Tue, 14 Jul 2026 09:20:07 -0000</pubDate>
-    <guid isPermaLink="true">https://twitter.com/demishassabis/status/2076957440109625718</guid>
-    <source url="https://twitter.com/demishassabis/status/2076957440109625718">Hacker News</source>
-  </item>
-  <item>
     <title>[雷峰网] 独家丨前英特尔工业团队布局桌面金属CNC，「灵钜创新」获啟赋资本天使轮融资</title>
     <link>https://www.leiphone.com/category/weiwu/ypTyMGz5CtFwuwx5.html</link>
     <description><![CDATA[<section style="margin-bottom: 16px;"><span></span></section><section style="margin: 0px; padding: 0px; letter-spacing: 0.544px;"><section><section><section style="margin: 3px auto 0px; padding: 0px; width: 482.156px; background-color: rgb(244, 244, 244);"><section style="margin: 0px; padding: 0px; clear: both; text-align: center;"><img class="rich_pages wxw-img" src="https://static.leiphone.com/uploads/new/images/20260714/6a55f665875ca.png?imageMogr2/quality/90" style="margin: 0px; padding: 0px; vertical-align: bottom; width: 100%; background-color: transparent;" /></section><section style="margin: 0px 0px 24px; padding: 0px; text-align: left; line-height: 1.6em;"><section style="padding: 0px; display: inline-block;"><section style="margin: 0px 0px 24px; padding: 0px; text-align: justify;"><strong style="margin-top: 0px; margin-right: 0px; margin-left: 0px; padding: 0px; letter-spacing: 0px;"><span style="margin-top: 0px; margin-right: 0px; margin-left: 0px; padding: 0px; color: #DB3F14; font-size: 15px;"><span><span style="color: #4499E7;">灵钜创新首款产品很快将开启众筹。</span></span></span></strong></section><p style="margin: 24px 0px 0px; padding: 0px; clear: both; color: rgb(51, 51, 51);"><span style="margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding: 0px; font-size: 14px; color: #B2B2B2;"><span style="margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding: 0px;"><span style="color: #888888;">作者丨姚单</span></span><span><br /></span></span></p><section style="margin: 0px; padding: 0px; color: rgb(51, 51, 51);"><span style="margin-top: 0px; margin-right: 0px; margin-left: 0px; padding: 0px; font-size: 14px; color: #B2B2B2;"><span style="margin-top: 0px; margin-right: 0px; margin-left: 0px; padding: 0px;"><span style="color: #888888;">编辑丨张贤</span></span><span><br /></span></span></section></section></section><section style="margin: 0px; padding: 0px; color: rgb(70, 70, 72); font-size: 18px;"><section style="margin: 0px; padding: 0px; width: 482.145px; display: inline-block;"><span style="margin: 0px; padding: 0px; display: inline-block; width: 482.145px;"><span style="margin: 0px; padding: 0px;"><br /></span></span></section></section></section></section></section></section><p style="text-align: justify; margin-bottom: 24px; line-height: 1.75em; margin-top: 24px;"><span><span style="letter-spacing: 0.5px;">雷峰网·鲸犀独家获悉，「灵钜创新」已于近日完成天使轮融资，本轮投资方为啟赋资本，云岫资本担任长期独家财务顾问。这家成立于2026年1月27日的初创公司，聚焦桌面金属CNC，试图将金属CNC从专业工具变成像3D打印机一样的消费级产品。</span></span></p><section style="text-align: center; margin-bottom: 24px; line-height: 1.75em;"><img class="rich_pages wxw-img" src="https://static.leiphone.com/uploads/new/images/20260714/6a55f665c8ed8.png?imageMogr2/quality/90" style="background-color: transparent; width: 100%;" /></section><p style="text-align: justify; margin-bottom: 24px; line-height: 1.75em;"><span><span style="letter-spacing: 0.5px;">灵钜创新由一支全建制团队操盘，从底层运控、硬件工程到AI算法、全球品牌，核心创始合伙人在各自领域均有深厚积累。</span></span></p><p style="text-align: justify; margin-bottom: 24px; line-height: 1.75em;"><span><span style="letter-spacing: 0.5px;">联合创始人兼CTO Victor Wang，曾担任英特尔中国工业战略部门核心负责人，拥有长达十年的产业深耕经验。他不仅具备五轴系统源代码级开发能力，累计部署8万+套，还曾主导优必选人形机器人运控方案，累计订单2000+套，并深度参与x86工业控制架构落地，具备工业母机级实时控制经验。</span></span></p><p style="text-align: justify; margin-bottom: 24px; line-height: 1.75em;"><span><span style="letter-spacing: 0.5px;">联合创始人兼CEO Jerry Wang则是跨境品牌出海的老手。他曾任星汉激光Xlaserlab CMO，操盘单款产品GMV达1600万美元，单品众筹超500万美元，并曾主导追觅海外渠道实现年GMV 1.5亿元。</span></span></p><p style="text-align: justify; margin-bottom: 24px; line-height: 1.75em;"><span><span style="letter-spacing: 0.5px;">合伙人兼智能算法负责人Antonio拥有宾夕法尼亚大学GRASP机器人实验室背景和芝加哥大学CS博士学位，曾任大疆RoboMaster核心算法研发工程师和苹果开发工程师。</span></span></p><p style="text-align: justify; margin-bottom: 24px; line-height: 1.75em;"><span><span style="letter-spacing: 0.5px;">此外团队中，首席架构师Wistal Qu拥有英特尔解决方案架构师十年经验，主导了全球首个ACRN工业虚拟化量产落地。结构负责人Joe Liu在深圳硬件赛道深耕27年，累计交付结构设计项目超1000例，曾参与北京冬奥会指定产品的结构主创。</span></span></p><p style="text-align: justify; margin-bottom: 24px; line-height: 1.75em;"><span><span style="letter-spacing: 0.5px;">在技术路径上，灵钜创新选择了一条与行业主流截然不同的道路。</span></span></p><p style="text-align: justify; margin-bottom: 24px; line-height: 1.75em;"><span><span style="letter-spacing: 0.5px;">传统桌面CNC多采用MCU架构加开源固件，算力接近于零，只能停留在规则控制层面，缺乏数据闭环，无法实现AI预测与自进化，延迟5-20毫秒，异常即停机。灵钜创新自研的x86智能控制底座基于英特尔ACRN虚拟化技术，算力达到50+GFLOPS（提升500倍），单芯片同时跑实时控制和AI推理，形成5段闭环智能化体系，延迟低于1毫秒，并支持全栈OTA进化。</span></span></p><p style="text-align: justify; margin-bottom: 24px; line-height: 1.75em;"><span><span style="letter-spacing: 0.5px;">感知层面同样实现了代际跨越。灵钜构建了高达4000Hz的多传感器融合感知矩阵，而传统CNC的采样率通常仅为100Hz。4000Hz的高频采样让机器能在断刀前提前预警（AUC达0.91），实现AI驱动的颤振抑制、刀具寿命预测和热变形实时补偿。</span></span></p><p style="text-align: justify; margin-bottom: 24px; line-height: 1.75em;"><span><span style="letter-spacing: 0.5px;">据雷峰网·鲸犀了解，本轮融资后，灵钜创新将加速其首款桌面金属CNC产品的量产落地，首款产品很快将开启众筹，并通过月活数据持续进化智能化能力。</span></span></p><p style="text-align: justify; margin-bottom: 24px; line-height: 1.75em;"><span><span style="letter-spacing: 0.5px;">更多创业项目或产品动态，欢迎找本文作者交流。</span></span></p><section style="text-align: center;"><img class="rich_pages wxw-img js_insertlocalimg" src="https://static.leiphone.com/uploads/new/images/20260714/6a55f665e5f4e.jpg?imageMogr2/quality/90" style="width: 100%;" type="block" /></section>]]></description>
     <pubDate>Tue, 14 Jul 2026 09:07:00 -0000</pubDate>
     <guid isPermaLink="true">https://www.leiphone.com/category/weiwu/ypTyMGz5CtFwuwx5.html</guid>
     <source url="https://www.leiphone.com/category/weiwu/ypTyMGz5CtFwuwx5.html">雷峰网</source>
-  </item>
-  <item>
-    <title>[cnBeta.COM.TW RSS订阅] SK海力士到2028年可能仅能实现其计划新增内存产能的六分之一</title>
-    <link>https://www.cnbeta.com.tw/articles/tech/1568890.htm</link>
-    <description><![CDATA[<p>根据最新行业分析报告，韩国存储芯片巨头SK海力士在产能扩张方面正面临严峻挑战。美国银行发布的一份研究报告指出，SK海力士到2028年时，恐怕仅能实现其原计划新增内存产能的六分之一左右，这一分析结果打破了市场对于短期内内存供应将大幅增加的预期。</p> <a href="https://www.cnbeta.com.tw/articles/tech/1568890.htm" target="_blank"><strong>阅读全文</strong></a>]]></description>
-    <pubDate>Tue, 14 Jul 2026 08:25:36 -0000</pubDate>
-    <guid isPermaLink="true">https://www.cnbeta.com.tw/articles/tech/1568890.htm</guid>
-    <source url="https://www.cnbeta.com.tw/articles/tech/1568890.htm">cnBeta.COM.TW RSS订阅</source>
-  </item>
-  <item>
-    <title>[cnBeta.COM.TW RSS订阅] 法企研发出外形独特的新型固定翼无人机 充气式机翼助力长航时飞行</title>
-    <link>https://www.cnbeta.com.tw/articles/tech/1568888.htm</link>
-    <description><![CDATA[<p>法国无人机初创公司Celeste Ecoflyers近期推出了一款名为dAS10的新型固定翼无人机，其独特的充气式机翼设计不仅外形酷似电影《超能陆战队》中的机器人大白，更实现了令人瞩目的长航时飞行性能。</p> <a href="https://www.cnbeta.com.tw/articles/tech/1568888.htm" target="_blank"><strong>阅读全文</strong></a>]]></description>
-    <pubDate>Tue, 14 Jul 2026 08:24:00 -0000</pubDate>
-    <guid isPermaLink="true">https://www.cnbeta.com.tw/articles/tech/1568888.htm</guid>
-    <source url="https://www.cnbeta.com.tw/articles/tech/1568888.htm">cnBeta.COM.TW RSS订阅</source>
-  </item>
-  <item>
-    <title>[cnBeta.COM.TW RSS订阅] 澳大利亚考拉首次接种创新型双剂量衣原体疫苗</title>
-    <link>https://www.cnbeta.com.tw/articles/science/1568886.htm</link>
-    <description><![CDATA[<p>随着澳大利亚考拉种群面临严峻的生存挑战，一项旨在遏制衣原体传播的突破性医疗技术近日取得里程碑式进展。一只名为“Bamse”的18个月大雌性考拉，成为全球首例成功接种新型双剂量衣原体疫苗的个体，这一进展有望实现大规模、低干预的野外考拉保护。</p> <a href="https://www.cnbeta.com.tw/articles/science/1568886.htm" target="_blank"><strong>阅读全文</strong></a>]]></description>
-    <pubDate>Tue, 14 Jul 2026 08:23:05 -0000</pubDate>
-    <guid isPermaLink="true">https://www.cnbeta.com.tw/articles/science/1568886.htm</guid>
-    <source url="https://www.cnbeta.com.tw/articles/science/1568886.htm">cnBeta.COM.TW RSS订阅</source>
-  </item>
-  <item>
-    <title>[cnBeta.COM.TW RSS订阅] SpaceXAI确认将删除所有Grok Build用户数据以应对隐私泄露指控</title>
-    <link>https://www.cnbeta.com.tw/articles/tech/1568884.htm</link>
-    <description><![CDATA[<p>由SpaceXAI推出的全新编码辅助工具Grok Build引发了严重的隐私安全质疑。有安全研究人员通过技术分析指出，该工具的命令行界面在未经用户充分知情的情况下，会自动将整个Git仓库上传至Google云存储桶中。据了解，这些被上传的数据不仅包含完整的Git历史记录和私有源代码，甚至可能涵盖包含登录凭证、API密钥及其他敏感信息的关键文件。</p> <a href="https://www.cnbeta.com.tw/articles/tech/1568884.htm" target="_blank"><strong>阅读全文</strong></a>]]></description>
-    <pubDate>Tue, 14 Jul 2026 08:22:22 -0000</pubDate>
-    <guid isPermaLink="true">https://www.cnbeta.com.tw/articles/tech/1568884.htm</guid>
-    <source url="https://www.cnbeta.com.tw/articles/tech/1568884.htm">cnBeta.COM.TW RSS订阅</source>
-  </item>
-  <item>
-    <title>[cnBeta.COM.TW RSS订阅] 英特尔推出航天级AI芯片 仅限美国政府使用</title>
-    <link>https://www.cnbeta.com.tw/articles/tech/1568882.htm</link>
-    <description><![CDATA[<p>英特尔日前发布名为星火 (Starfire) 的航天级 AI 芯片，该芯片基于英特尔 18A 制程制造，配备 8 颗核心并提供 10 年的使用寿命，芯片本身确实支持轨道数据中心使用，不过英特尔的星火系列芯片并非面向民用市场，而是为美国政府和美国军工项目提供。</p> <a href="https://www.cnbeta.com.tw/articles/tech/1568882.htm" target="_blank"><strong>阅读全文</strong></a>]]></description>
-    <pubDate>Tue, 14 Jul 2026 08:17:25 -0000</pubDate>
-    <guid isPermaLink="true">https://www.cnbeta.com.tw/articles/tech/1568882.htm</guid>
-    <source url="https://www.cnbeta.com.tw/articles/tech/1568882.htm">cnBeta.COM.TW RSS订阅</source>
-  </item>
-  <item>
-    <title>[cnBeta.COM.TW RSS订阅] 美军首次使用无人艇执行攻击任务 伊朗境内目标受袭</title>
-    <link>https://www.cnbeta.com.tw/articles/tech/1568880.htm</link>
-    <description><![CDATA[<p>美国中央司令部日前宣布，美军在无人作战领域取得了历史性的突破。当地时间2026年7月12日，由美国第五舰队“第59特遣部队”（Task Force 59）部署的三艘“海盗”（Corsair）无人水面艇，成功对位于伊朗的阿巴斯港海军基地发动了一次同步攻击行动。</p> <a href="https://www.cnbeta.com.tw/articles/tech/1568880.htm" target="_blank"><strong>阅读全文</strong></a>]]></description>
-    <pubDate>Tue, 14 Jul 2026 08:16:15 -0000</pubDate>
-    <guid isPermaLink="true">https://www.cnbeta.com.tw/articles/tech/1568880.htm</guid>
-    <source url="https://www.cnbeta.com.tw/articles/tech/1568880.htm">cnBeta.COM.TW RSS订阅</source>
-  </item>
-  <item>
-    <title>[cnBeta.COM.TW RSS订阅] DeepSeek梁文锋身价飙升至360亿美元，成AI公司新首富</title>
-    <link>https://www.cnbeta.com.tw/articles/tech/1568878.htm</link>
-    <description><![CDATA[<p>7月14日，根据最新的彭博亿万富豪指数（截至2026年7月14日），DeepSeek创始人梁文锋的身价飙升193亿美元，<strong>达到360亿美元</strong>（约合2443.78亿元人民币），成为全球AI公司领域的新首富（不涉及包含AI业务的大型集团）。</p> <a href="https://www.cnbeta.com.tw/articles/tech/1568878.htm" target="_blank"><strong>阅读全文</strong></a>]]></description>
-    <pubDate>Tue, 14 Jul 2026 08:14:46 -0000</pubDate>
-    <guid isPermaLink="true">https://www.cnbeta.com.tw/articles/tech/1568878.htm</guid>
-    <source url="https://www.cnbeta.com.tw/articles/tech/1568878.htm">cnBeta.COM.TW RSS订阅</source>
   </item>
   <item>
     <title>[少数派] 具透 | iOS 27 首个公开测试版来了，这些是值得你关注的新功能</title>
@@ -1527,8 +1507,8 @@ gemini 的 api 是否比 deepseek pro 智能一些呢？</p>]]></description>
   </blockquote>
   <p>作者丨欧雪</p>
   <p>编辑丨袁斯来</p>
-  <p>硬氪获悉，空间智能公司「大衍科技」近期完成数千万元天使轮融资，由松禾清湛领投，浙江省省金控与广州番禺创新基金等国资背景机构参与。资金将主要用于触觉大模型研发、机器人数据产线建设及团队扩张。</p>
-  <p>「大衍科技」2025年5月成立于浙江桐乡，是一家专注于4D世界重建、世界模型及可控扩散模型技术的空间智能公司。</p>
+  <p>硬氪获悉，空间智能公司「大衍科���」近期完成数千万元天使轮融资，由松禾清湛领投，浙江省省金控与广州番禺创新基金等国资背景机构参与。资金将主要用于触觉大模型研发、机器人数据产线建设及团队扩张。</p>
+  <p>「大衍科技」2025年5月成立于浙江桐乡，是一家专注于4D世界重建、世界模型及可控扩散模型技术的空间智���公司。</p>
   <p>创始人兼CEO杨林是新加坡国立大学计算机博士，曾在速腾、酷睿程、比亚迪、苏州博世等企业深耕自动驾驶算法7-8年。此外，公司核心技术源自首席科学家、联合国科学院院士、加拿大工程院院士埃尔萨迪克团队二十余年的数字孪生与触觉交互积累。</p>
   <p>杨林告诉硬氪，他观察到，此前数据市场需求以汽车合成数据为主，但2025年开始，机器人数据订单急剧增加。</p>
   <p>“汽车数据没涨，甚至有点跌。随着机器人本体竞争越来越激烈，大家就开始卷机器人大脑，而大脑的瓶颈就是数据。”杨林称。</p>
@@ -1586,7 +1566,7 @@ gemini 的 api 是否比 deepseek pro 智能一些呢？</p>]]></description>
   <p>作为逐际动力System 1的重要组成部分，FluxVLA Engine定位企业级开源平台，为全球开发者提供了一套完整覆盖具数据处理、仿真训练、真机迭代到硬件部署的全流程基建。</p>
   <p>长期以来，行业内多数研发团队在训练具身模型时，往往需要耗费大量人力重复搭建底层工程管线。FluxVLA Engine通过标准化、模块化的工具链将这些环节一体化打通，让开发者得以将精力集中在VLA、世界动作模型等算法创新上，而非消耗在底层工程的重建中。</p>
   <p>在逐际动力的构想中，具身智能的未来不是由一个统一的超级模型通吃所有场景，而是有大量垂直的、中小的模型应用服务于不同任务。而FluxVLA Engine要做的，是推动行业从“少数团队掌握模型训练能力”走向普惠化、低门槛的具身智能研发生态。</p>
-  <p>依托上述技术体系，逐际动力正加快产品研发和商��化落地。目前各机器人产品上线以来，共计获得数千台订单，其中过半来自海外。公司正与全球开发者及生态伙伴共同推动科研教育、商业服务、全地形巡检、工业应用、建筑及更多应用场景的商业落地。</p>
+  <p>依托上述技术体系，逐际动力正加快产品研发和商业化落地。目前各机器人产品上线以来，共计获得数千台订单，其中过半来自海外。公司正与全球开发者及生态伙伴共同推动科研教育、商业服务、全地形巡检、工业应用、建筑及更多应用场景的商业落地。</p>
   <p>今年5月，逐际动力正式发布全尺寸交互人形机器人LimX Luna。Luna采用160cm全尺寸拟人比例设计，机身配备27个自由度，搭载自研System 0全身运控基础模型，可精准调度全身自由度协同运作。</p>
   <p>依托升级后的运控系统与电机性能，Luna不仅能够稳定完成多种高难度动作，也能演绎模特猫步，驾驭多种风格的舞蹈。产品发布后不到一个月，即完成国内及海外客户的批量交付，验证了从发布到量产交付的快速转化能力。</p>
   <p class="image-wrapper"><img src="https://img.36krcdn.com/hsossms/20260713/v2_aa3272b49ecd45f7b63e5996a4e25ce7@6022551_oswg233415oswg830oswg468_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1" /></p>
@@ -1661,7 +1641,7 @@ gemini 的 api 是否比 deepseek pro 智能一些呢？</p>]]></description>
   <p>据报道，韩国一家法院支持了三星电子提出的部分诉求，禁止两名前NAND闪存设计员工就职于SK海力士。水原地方法院裁定，这两名前三星员工在2027年4月30日之前不得为SK海力士及其关联公司工作。三星电子原本要求执行两年期的竞业禁止协议，但法院将限制期限缩短至18个月。法院表示，涉案NAND闪存设计技术属于国家核心技术，这两名员工先前在三星存储部门工作约10-11年，2月份跳槽到SK海力士。（界面新闻）</p>
   <p><strong>胜宏科技：网络流传相关言论不属实，公司生产、出货一切正常</strong></p>
   <p>36氪获悉，胜宏科技公告，近期，公司关注到网络平台上流传关于公司产品、市场份额、项目进展等负面传闻，内容严重失实，给公司带来较大的负面影响。</p>
-  <p>经核实，公司针对网络平台流传事项澄清及声明如下：1.网络流传相关言论不属实。公司是国内外AI头部大客户的长期战略合作伙伴，胜宏科技始终将“品质”和“安全”视为企业的生命线，公司严格按照客户标准管理。2.当前，AI相关PCB产品需求旺盛，公司在手订单持续增长。公司生产、出货一切正常，头部客户订单持续增加。3.公司与核心客户保持密切沟通，与客户合作开发的研发迭代产品正顺利推进当中。部分客户已释放2027年—2028年长期需求，公司对后续生产经营及效益实现充满信心。</p>
+  <p>经核实，公司针对网络平台流传事项澄清及声明如下：1.网络流传相关言论不属实。公司是国内外AI头部大客户的长期战略合作伙伴，胜宏科技始终将“品质”和“安全”视为企业的生命线，公司严格按照客户标准管理。2.当前，AI相关PCB产品需求旺盛，公司在手订单持续增长。公司生产、出货一切正常，头部客户订单持续增加。3.公司与核心客户保持密切沟通，与客户合作开发的研发迭代产品正顺利���进当中。部分客户已释放2027年—2028年长期需求，公司对后续生产经营及效益实现充满信心。</p>
   <p><strong>孙东旭、明明、天权在北京成立新科技公司</strong></p>
   <p>36氪获悉，天眼查App显示，近日，美丽明天（北京）科技有限公司成立，法定代表人为孙东旭，注册资本1000万人民币，经营范围包括技术服务、技术开发、技术咨询、技术交流、技术转让、技术推广，鲜肉批发，水产品批发等。股东信息显示，该公司由孙东旭、石明、郭天权共同持股，其中孙东旭持股34%，石明、郭天权各持股33%。</p>
   <p><strong>SpaceX星舰周四进行第13次试飞，20颗V3卫星将首次部署</strong></p>
@@ -1671,7 +1651,7 @@ gemini 的 api 是否比 deepseek pro 智能一些呢？</p>]]></description>
   <p><strong>三星电子拟出售3230亿韩元自有股份</strong></p>
   <p>三星电子拟出售3230亿韩元自有股份。（财联社）</p>
   <p><strong>三菱日联市值超越丰田，跃居日本第一</strong></p>
-  <p>三菱日联金融集团（MUFG）7月13日在东京证券市场交易中，市值��度达到42万亿日元，首次跃居日本上市企业市值榜首。当日，三菱日联金融集团的市值达到42.1万亿日元，超过了丰田汽车以及半导体存储器企业铠侠控股。（界面新闻）</p>
+  <p>三菱日联金融集团（MUFG）7月13日在东京证券市场交易中，市值一度达到42万亿日元，首次跃居日本上市企业市值榜首。当日，三菱日联金融集团的市值达到42.1万亿日元，超过了丰田汽车以及半导体存储器企业铠侠控股。（界面新闻）</p>
   <p><strong>美众议院本周将表决永久实行夏令时法案</strong></p>
   <p>根据美国方面消息，美国国会众议院将在本周就一项永久实行夏令时的法案进行表决。不过关于这一议题，美国国内仍然存在较大争议。今年5月，美国国会众议院能源和商业委员会以48比1的结果通过了《阳光保护法案》，该法案旨在永久取消美国每年两次调整时间的做法，让夏令时全年永久化。而美国国会参议院一些议员则威胁说，即使法案在众议院投票中通过，他们也将在参议院否决这一法案。（央视新闻）</p>
   <p><strong>万事达卡考虑出售英国支付子公司Vocalink股权</strong></p>
@@ -1714,6 +1694,14 @@ gemini 的 api 是否比 deepseek pro 智能一些呢？</p>]]></description>
     <pubDate>Tue, 14 Jul 2026 00:04:11 -0000</pubDate>
     <guid isPermaLink="true">https://36kr.com/p/3894729787767810?f=rss</guid>
     <source url="https://36kr.com/p/3894729787767810?f=rss">36氪</source>
+  </item>
+  <item>
+    <title>[Hacker News] The Estranged Worlds of J. G. Ballard</title>
+    <link>https://lareviewofbooks.org/article/jg-ballard-illuminated-man-christopher-priest-nina-allan/</link>
+    <description><![CDATA[<a href="https://news.ycombinator.com/item?id=48899473">Comments</a>]]></description>
+    <pubDate>Mon, 13 Jul 2026 21:57:56 -0000</pubDate>
+    <guid isPermaLink="true">https://lareviewofbooks.org/article/jg-ballard-illuminated-man-christopher-priest-nina-allan/</guid>
+    <source url="https://lareviewofbooks.org/article/jg-ballard-illuminated-man-christopher-priest-nina-allan/">Hacker News</source>
   </item>
   <item>
     <title>[36氪] 氪星晚报 ｜Meta宣布将追加400亿美元投资路易斯安那州数据中心；字节探索自动驾驶，Seed世界模型团队负责；《扩大消费“十五五”规划》：优化入境消费环境，稳步扩大免签国家范围</title>
@@ -1794,7 +1782,7 @@ gemini 的 api 是否比 deepseek pro 智能一些呢？</p>]]></description>
   <p>而自动驾驶与世界模型的技术路线有交叠之处。</p>
   <p>另有消息人士告诉36氪，业务方向上，字节有意布局的自动驾驶场景有无人物流，这一业务隶属于字节旗下的火山引擎汽车行业线。</p>
   <p>部分接近字节的知情人士表示，字节团队此前与一些头部自动驾驶团队进行过业务探讨交流，目前字节的自动驾驶项目已进入早期筹备状态。字节向不少头部辅助驾驶或自动驾驶人才发出了邀约，一些看好字节这一布局的技术人才也计划加入。</p>
-  <p>针对以上消息，36氪向字节求证，字节回应：“字节在AI大模型前沿探索领域，包括物理AI领域，有很多早期研究和探索，但并没有做智能驾驶业务的计划。”</p>
+  <p>针对以上消息，36氪向字节求证，字节回应：“字节在AI大模型前沿探索领域，包括物理AI领域，有很多早期研���和探索，但并没有做智能驾驶业务的计划。”</p>
   <p>Seed是字节旗下的大模型基础研究团队，成立于2023年，是字节的一级战略级部门。</p>
   <p>周畅是字节Seed AI研发核心负责人之一。他于2024年加入字节，负责多模态大模型的研发等，此后他管理的业务范畴不断扩大。去年，视觉生成业务已划入其负责范围，今年Seed Robotics团队也转向周畅汇报。这意味着，目前周畅的管理边界，覆盖多模态大模型、世界模型、视觉生成、具身智能等多个领域。</p>
   <p>火山引擎是字节的云服务品牌，早在2020年火山引擎旗下就建立了汽车行业线，火山引擎总裁谭待还曾公开表示：“我们是所有云厂商中第一个把汽车做成一级线。”</p>
@@ -1841,14 +1829,14 @@ gemini 的 api 是否比 deepseek pro 智能一些呢？</p>]]></description>
     <link>https://36kr.com/p/3893769618569985?f=rss</link>
     <description><![CDATA[<p>文丨小葵</p>
   <p>编辑丨果脯</p>
-  <p>7月9日，网易旗下Joker工作室端出了他们打磨了七年的作品——《遗忘之海》，一款海洋奇遇大世界RPG。PC端率先公测，移动端版本将在7月23日与玩家见面。</p>
+  <p>7月9日，网易旗下Joker工作室端出了他们打磨了七年的作品——《遗忘之海��，一款海洋奇遇大世界RPG。PC端率先公测，移动端版本将在7月23日与玩家见面。</p>
   <p>这款怪诞木偶风的航海游戏，还没出海就已经被盯上了。在公测前夕，这款游戏全网预约量已突破3600万，在TapTap、B站等多个平台预约榜冲至Top1。实机PV在B站播放破千万，光大证券预测其首年流水或达50亿元。</p>
   <p>管理层连续三个季度在财报会上点名力挺，称其“令人耳目一新”。七年打磨、三端互通、五千万元创作者扶持计划，从研发资源到生态投入全部拉满这款游戏几乎是网易近年来押注最狠的一款产品。</p>
   <p>这是做出《第五人格》的团队头一回涉足大世界，美术风格延续了工作室一贯的怪诞路线。在如今国产游戏不是拼命卷写实就是扎堆唯美二次元的大潮里，Joker选择用明亮、高饱和度色彩搭起一个由木偶造型和波普艺术缝合的海洋大世界。</p>
   <p class="image-wrapper"><img src="https://img.36krcdn.com/hsossms/20260713/v2_deb420d472db4816aa0bc50e4a7613d6@6371858_oswg700341oswg1080oswg608_img_000?x-oss-process=image/format,jpg/interlace,1" /></p>
   <p class="img-desc">捏脸系统</p>
   <p>对于Joker工作室来说，一以贯之的美术风格也为《遗忘之海》带来了辨识度。如今市面上的大世界游戏在写实和二次元两条路上都挤满了人，这样的格局下，《遗忘之海》的木偶主角，在美术风格上就能让人眼前一亮，与其它的产品打出差异化。</p>
-  <p>不过对于一���大世界游戏来说，真正能留住玩家的，还是游戏的玩法。而在体验《遗忘之海》之后，我认为真正让它特别的，或许是那套高度自洽、环环相扣的生态循环。</p>
+  <p>不过对于一款大世界游戏来说，真正能留住玩家的，还是游戏的玩法。而在体验《遗忘之海》之后，我认为真正让它特别的，或许是那套高度自洽、环环相扣的生态循环。</p>
   <h2>01</h2>
   <p>游戏的世界观铺在一片被诅咒的海域——任何坠入海水的人，都会失去记忆和才能。玩家扮演失忆的木偶船长，和一位身份不明的少女艾丝一同出海，在反复的探索中，一点点打捞回自己和同伴丢失的记忆片段。</p>
   <p>有意思的是，“遗忘”并不只是贴在剧情上的一个漂亮标签，它被结结实实地摁进了玩法里。</p>
@@ -2259,14 +2247,6 @@ gemini 的 api 是否比 deepseek pro 智能一些呢？</p>]]></description>
     <pubDate>Sun, 12 Jul 2026 22:58:18 -0000</pubDate>
     <guid isPermaLink="true">https://sspai.com/post/112215</guid>
     <source url="https://sspai.com/post/112215">少数派</source>
-  </item>
-  <item>
-    <title>[Hacker News] Show HN: Juggler – an open-source GUI coding agent, by the creator of JUCE</title>
-    <link>https://github.com/juggler-ai/juggler</link>
-    <description><![CDATA[<a href="https://news.ycombinator.com/item?id=48883305">Comments</a>]]></description>
-    <pubDate>Sun, 12 Jul 2026 18:28:15 -0000</pubDate>
-    <guid isPermaLink="true">https://github.com/juggler-ai/juggler</guid>
-    <source url="https://github.com/juggler-ai/juggler">Hacker News</source>
   </item>
   <item>
     <title>[小众软件] Koofr 云存储：免费 10GB 空间，支持 WebDAV、Rclone｜终身订阅 1TB 特价129刀【再次】</title>
@@ -3618,6 +3598,14 @@ c:\Tools\frp\frpc.exe -c c:\Tools\frp\frpc.toml
     <source url="https://www.thoughtworks.com/insights/blog/open-source/zero-cost-fallacy-open-source-agentic-era">Hacker News</source>
   </item>
   <item>
+    <title>[Hacker News] Accretive Editing</title>
+    <link>https://justindfuller.com/programming/accretive-editing</link>
+    <description><![CDATA[<a href="https://news.ycombinator.com/item?id=48858541">Comments</a>]]></description>
+    <pubDate>Fri, 10 Jul 2026 11:36:59 -0000</pubDate>
+    <guid isPermaLink="true">https://justindfuller.com/programming/accretive-editing</guid>
+    <source url="https://justindfuller.com/programming/accretive-editing">Hacker News</source>
+  </item>
+  <item>
     <title>[小众软件] Catime 开发者，真跑去种地了？</title>
     <link>https://www.appinn.com/catime-1-5/</link>
     <description><![CDATA[<p class="has-very-light-gray-to-cyan-bluish-gray-gradient-background has-background wp-block-paragraph"><strong>Catime</strong> 是一款只有 1.16MB 的 Windows 桌面透明计时器，运行后内存占用约 3MB。最新版 1.5 不仅重构了底层，还把系统托盘玩出了不少新花样。@<a href="https://www.appinn.com/catime-1-5/">Appinn</a></p>
@@ -4279,14 +4267,6 @@ c:\Tools\frp\frpc.exe -c c:\Tools\frp\frpc.toml
     <pubDate>Fri, 10 Jul 2026 00:05:31 -0000</pubDate>
     <guid isPermaLink="true">http://www.ruanyifeng.com/blog/2026/07/weekly-issue-403.html</guid>
     <source url="http://www.ruanyifeng.com/blog/2026/07/weekly-issue-403.html">阮一峰的网络日志</source>
-  </item>
-  <item>
-    <title>[Hacker News] A tiny cell that broke a big rule of biology</title>
-    <link>https://grist.org/science/nitrogen-cycle-cell-discovery-nitroplast-science-fertilizer-algae-bacteria/</link>
-    <description><![CDATA[<a href="https://news.ycombinator.com/item?id=48847943">Comments</a>]]></description>
-    <pubDate>Thu, 09 Jul 2026 15:50:40 -0000</pubDate>
-    <guid isPermaLink="true">https://grist.org/science/nitrogen-cycle-cell-discovery-nitroplast-science-fertilizer-algae-bacteria/</guid>
-    <source url="https://grist.org/science/nitrogen-cycle-cell-discovery-nitroplast-science-fertilizer-algae-bacteria/">Hacker News</source>
   </item>
   <item>
     <title>[异次元软件世界] FluentCleaner 开源垃圾清理工具 - 在 CCleaner 变味后，终于有更好的替代品了</title>
