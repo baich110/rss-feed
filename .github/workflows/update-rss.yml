@@ -16,6 +16,8 @@ jobs:
     steps:
       - name: 检出仓库
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: 设置Python环境
         uses: actions/setup-python@v5
@@ -29,6 +31,17 @@ jobs:
 
       - name: 运行RSS聚合脚本
         run: python aggregate.py
+
+      - name: 复制RSS到仓库根目录，支持CDN访问
+        run: cp public/feed.xml ./feed.xml
+
+      - name: 提交更新后的RSS文件
+        run: |
+          git config --local user.email "154077481+baich110@users.noreply.github.com"
+          git config --local user.name "baich110"
+          git add feed.xml
+          git diff --cached --quiet || git commit -m "自动更新RSS聚合内容 $(date +'%Y-%m-%d %H:%M')"
+          git push || echo "推送失败或无更新"
 
       - name: 部署到GitHub Pages
         uses: actions/upload-pages-artifact@v3
