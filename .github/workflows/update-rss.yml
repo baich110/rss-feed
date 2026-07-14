@@ -1,0 +1,40 @@
+name: 自动更新聚合RSS
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # 每小时整点运行
+  workflow_dispatch:  # 支持手动触发
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  update-rss:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 检出仓库
+        uses: actions/checkout@v4
+
+      - name: 设置Python环境
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: 安装依赖
+        run: |
+          python -m pip install --upgrade pip
+          pip install feedparser requests beautifulsoup4 lxml
+
+      - name: 运行RSS聚合脚本
+        run: python aggregate.py
+
+      - name: 部署到GitHub Pages
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./public
+
+      - name: 发布到Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
