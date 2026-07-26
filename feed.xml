@@ -5,8 +5,397 @@
   <link>https://baich110.github.io/rss-feed/</link>
   <description>自动聚合多个优质科技/数码/技术资讯源，每小时更新</description>
   <language>zh-CN</language>
-  <lastBuildDate>Sun, 26 Jul 2026 10:03:43 -0000</lastBuildDate>
+  <lastBuildDate>Sun, 26 Jul 2026 12:06:32 -0000</lastBuildDate>
   <atom:link href="https://baich110.github.io/rss-feed/feed.xml" rel="self" type="application/rss+xml" />
+  <item>
+    <title>[V2EX] [分享创造] 开源一个 Codex 本地小工具：把每次协作整理成打工小票和情绪小票</title>
+    <link>https://www.v2ex.com/t/1229943#reply0</link>
+    <description><![CDATA[<p>最近做了一个开源的 Codex 协作记录工具「 Codex AI 小票」，想请大家试用。</p>
+<p>网址：<br />
+<a href="https://github.com/a-bai-2026/codex-work-receipt" rel="nofollow">https://github.com/a-bai-2026/codex-work-receipt</a></p>
+<p>它适合经常用 Codex 写代码、改方案、做内容的朋友。每次协作结束后，可以把这段过程整理成一份能保存、能回看的本地小票。</p>
+<p><strong>几个特点</strong></p>
+<ul>
+<li>全部在本机处理：不会上传会话内容，Prompt 、回复正文、代码、项目路径、文件名、工具参数和输出都不会写入小票</li>
+<li>有两种小票：打工小票记录轮次、耗时、工具调用、模型和协作节奏；情绪小票则用等待、打断、响应节奏等数据，留下一点协作状态</li>
+<li>支持手动生成，也支持通过 Codex 的 Stop Hook ，在每次工作结束后静默更新当天的小票</li>
+<li>生成的是本地 HTML ，可保存完整长图；也可以主动导出脱敏文件，通过微信聊天文件导入查看</li>
+<li>提供可选的 Codex Skill 和桌宠「票仔」</li>
+</ul>
+<p><strong>怎么开始</strong></p>
+<p>需要 Node.js 20+，且本机已经使用过 Codex：</p>
+<pre><code class="language-bash">npx codex-work-receipt@latest
+</code></pre>
+<p>第一次运行可以选择手动或自动保存，以及只生成打工小票、情绪小票，或两种都生成。</p>
+<p>做它的出发点很简单：和 AI 一起完成的事，不应该随着对话窗口关闭就没有痕迹。它不是效率监控器，也不想用 Token 衡量努力，只想帮你留下一份“今天我们确实一起做了些事”的记录。</p>
+<p>目前只支持 Codex 。欢迎 V 友试用，也很想听听大家对小票内容、隐私边界和交互方式的反馈。</p>
+<p><img alt="图片" class="embedded_image" rel="noreferrer" src="https://mmbiz.qpic.cn/sz_mmbiz_png/0yHChLdHlHx7kL6ZrNppryZicYiauKPyiaIwghibmybLmIlaCZP34VKYFRDEICkCH4muqIYlM0viapLHCRupmaZ2CH9dR0WnXYBbbnbY1GPRgrmM/640" /></p>]]></description>
+    <pubDate>Sun, 26 Jul 2026 12:05:29 -0000</pubDate>
+    <guid isPermaLink="true">https://www.v2ex.com/t/1229943#reply0</guid>
+    <source url="https://www.v2ex.com/t/1229943#reply0">V2EX</source>
+  </item>
+  <item>
+    <title>[原创频道&gt;&gt;什么值得买] 花冤枉钱之前，先搞懂音响品牌与车企的三种合作模式</title>
+    <link>https://post.smzdm.com/p/a4qw6gok/</link>
+    <description><![CDATA[匿名用户{"article_title": "汽车音响怎么选？先搞懂这三种合作模式再掏钱"}很多人选车时，看到配置单标注了知名音响品牌，就愿意为此支付更高的购车溢价。但你可能不知道，这些音响品牌和车企的合作深度天差地别——有的是从研发阶段就深度介入，有的只是卖个LOGO。花了冤枉钱不说，音响效果还可能不如原车标配。买车也好、后期改装也罢，搞清楚这三种合作模式，能帮你省下不少糊涂钱。1贴牌音响的水有多深车企<p>本文来自<a href="https://post.smzdm.com/p/a4qw6gok/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
+    <pubDate>Sun, 26 Jul 2026 12:04:20 -0000</pubDate>
+    <guid isPermaLink="true">https://post.smzdm.com/p/a4qw6gok/</guid>
+    <source url="https://post.smzdm.com/p/a4qw6gok/">原创频道&gt;&gt;什么值得买</source>
+  </item>
+  <item>
+    <title>[原创频道&gt;&gt;什么值得买] 万元到数万元，宇树Go2四版本到底差在哪？选对省一半</title>
+    <link>https://post.smzdm.com/p/aomog3z6/</link>
+    <description><![CDATA[匿名用户买机器狗的人，最常纠结的不是"买不买"，而是"买哪款"。宇树Go2一口气出了AIR、PRO、X、EDU四个版本，价格从万元到数万元不等，参数表密密麻麻摆在一起，看得人眼花缭乱。同样是四足机器人，同样叫Go2，这几个版本到底差在哪？搞清楚这点，选起来就清晰多了。日版与欧美版的区别是什么？四个版本的底层架构相同，都是70cm左右的身长、约15kg的自重，但核心性能逐级拉开差距。速度是最直观的区分点：A<p>本文来自<a href="https://post.smzdm.com/p/aomog3z6/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
+    <pubDate>Sun, 26 Jul 2026 12:03:58 -0000</pubDate>
+    <guid isPermaLink="true">https://post.smzdm.com/p/aomog3z6/</guid>
+    <source url="https://post.smzdm.com/p/aomog3z6/">原创频道&gt;&gt;什么值得买</source>
+  </item>
+  <item>
+    <title>[原创频道&gt;&gt;什么值得买] 替代臃肿办公软件的选择</title>
+    <link>https://post.smzdm.com/p/a265qpdq/</link>
+    <description><![CDATA[值友4437956589厌倦了臃肿的办公软件？不妨试试这些小众却超好用的效率神器。在Notion替代品的选择上，国内有不少表现亮眼的工具。Boardmix博思白板是一款集笔记、创意与协作于一体的AI在线白板，支持无边界画布自由书写，能轻松插入思维导图与流程图，非常适合团队头脑风暴与可视化记录。另一款则是Coda，它打破了文档与工具的边界，能在文档中无缝集成表格、数据库与自动化工作流，适合需要整合文档协作与任务追踪的团队。<p>本文来自<a href="https://post.smzdm.com/p/a265qpdq/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
+    <pubDate>Sun, 26 Jul 2026 12:02:50 -0000</pubDate>
+    <guid isPermaLink="true">https://post.smzdm.com/p/a265qpdq/</guid>
+    <source url="https://post.smzdm.com/p/a265qpdq/">原创频道&gt;&gt;什么值得买</source>
+  </item>
+  <item>
+    <title>[原创频道&gt;&gt;什么值得买] 企业选AI模型：开源还是闭源？先看这个临界点</title>
+    <link>https://post.smzdm.com/p/a037vpnz/</link>
+    <description><![CDATA[匿名用户企业在挑选AI模型时，最先碰到的选择题往往不是"哪个最强"，而是"用开源还是闭源"。这道选择题之所以难，是因为它不只比参数、比跑分，还要算账、掂量数据安全、评估团队能不能Hold住。闭源模型看着省心，但调用费用摆在眼前；开源模型价格香，可部署和运维的成本容易被低估。两边的声音都不少，有人觉得闭源才是"产品级"，也有人坚持开源已经足够好用。这里不打算给出一个"标准答案"，而是把企业真正关心的几个维度<p>本文来自<a href="https://post.smzdm.com/p/a037vpnz/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
+    <pubDate>Sun, 26 Jul 2026 12:02:18 -0000</pubDate>
+    <guid isPermaLink="true">https://post.smzdm.com/p/a037vpnz/</guid>
+    <source url="https://post.smzdm.com/p/a037vpnz/">原创频道&gt;&gt;什么值得买</source>
+  </item>
+  <item>
+    <title>[原创频道&gt;&gt;什么值得买] 特斯拉Optimus年100万台量产攻坚，比电动车更激进的革命正在发生</title>
+    <link>https://post.smzdm.com/p/ad7wo0lz/</link>
+    <description><![CDATA[数字视线加州弗里蒙特，一条生产线正在被改写。2026年7月23日，特斯拉发布第二季度财报。营收282.36亿美元，同比增长26%。数字不差，但真正让资本市场屏住呼吸的不是营收，而是另一件事——加州弗里蒙特工厂的Model S和Model X生产线，正式停产了。那条曾经生产过全球最先进电动车的产线，正在被改造成一个全新的东西：人形机器人Optimus的第一代专用生产线，规划年产能100万台。与此同时，得州超<p>本文来自<a href="https://post.smzdm.com/p/ad7wo0lz/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
+    <pubDate>Sun, 26 Jul 2026 12:01:21 -0000</pubDate>
+    <guid isPermaLink="true">https://post.smzdm.com/p/ad7wo0lz/</guid>
+    <source url="https://post.smzdm.com/p/ad7wo0lz/">原创频道&gt;&gt;什么值得买</source>
+  </item>
+  <item>
+    <title>[IT之家] 微信输入法 1.0.0 for HarmonyOS 鸿蒙版上线官网，支持文字整理、跨设备复制粘贴图片等</title>
+    <link>https://www.ithome.com/0/981/789.htm</link>
+    <description><![CDATA[<p>IT之家 7 月 26 日消息，微信输入法 1.0.0 for HarmonyOS 近日在官网上线，带来了多项新增功能，IT之家整理如下：</p><ul class=" list-paddingleft-2"><li><p>支持「悬浮键盘」，自由拖动单手好打</p></li><li><p><strong>支持「文字整理」</strong>，让表达简练又清晰</p></li><li><p>支持「问 AI」，智能回答你输入的问题</p></li><li><p>支持「排版成图」，把文字一键变成精美图片</p></li><li><p>支持「灵动表达」，一键润色或扩写内容</p></li><li><p><strong>支持「跨设备复制粘贴图片」</strong>，多设备协作更顺手</p></li><li><p>支持「快速发送小程序、书影音」，聊天分享更便捷</p></li><li><p>支持「外接键盘输入」，打字效率更高</p></li></ul><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/7/f2c59a48-8368-4d1a-a9b8-5da40492ba77.jpg" /></p><p>IT之家注意到，纯血鸿蒙微信输入法原生版应用于 <a href="https://www.ithome.com/0/802/776.htm" target="_blank">2024 年 10 月上线华为应用市场</a>，版本号为 &nbsp;0.9.0，当时仅提供基础打字功能，无跨设备复制粘贴等功能。</p>]]></description>
+    <pubDate>Sun, 26 Jul 2026 12:01:07 -0000</pubDate>
+    <guid isPermaLink="true">https://www.ithome.com/0/981/789.htm</guid>
+    <source url="https://www.ithome.com/0/981/789.htm">IT之家</source>
+  </item>
+  <item>
+    <title>[原创频道&gt;&gt;什么值得买] ASMR音频：从焦虑到平静</title>
+    <link>https://post.smzdm.com/p/awwxm24g/</link>
+    <description><![CDATA[值友4437956589以ASMR音频为核心，描写通过听觉沉浸实现解压的过程，结合环境音与白噪音，展现从焦虑到平静的心理转变，突出声音对情绪的疗愈作用。耳机里的雨声森林最近我沉迷于一种特别的解压方式——听ASMR音频。每当工作压得喘不过气，我便戴上耳机，点开一段“雨夜森林”音频。起初是细密的雨滴轻敲树叶，沙沙作响，像无数温柔的手指在耳畔低语；接着，远处传来隐约的溪流声，水珠滚落青苔，清脆而绵长。我闭上眼，仿佛真的坐在林间<p>本文来自<a href="https://post.smzdm.com/p/awwxm24g/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
+    <pubDate>Sun, 26 Jul 2026 12:00:58 -0000</pubDate>
+    <guid isPermaLink="true">https://post.smzdm.com/p/awwxm24g/</guid>
+    <source url="https://post.smzdm.com/p/awwxm24g/">原创频道&gt;&gt;什么值得买</source>
+  </item>
+  <item>
+    <title>[IT之家] 零零科技预热新款 HOVERAir 系列无人机，引入模块化设计</title>
+    <link>https://www.ithome.com/0/981/788.htm</link>
+    <description><![CDATA[<p>IT之家 7 月 26 日消息，无人机制造商零零科技在 Instagram 平台展示了新款 HOVERAir 系列无人机，该机延续 X1 PRO / PRO MAX 系列“小黑盒”设计，主打便捷自拍。</p><p style="text-align: center;"><img src="https://qimg.ithome.com/newfiles/2026/7/75b2453e-c330-4427-ab7f-8b95cda4a1aa.jpg?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img src="https://qimg.ithome.com/newfiles/2026/7/48186770-d2c7-48b1-a110-b5cc62480ea3.jpg?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img src="https://qimg.ithome.com/newfiles/2026/7/a8814a72-48a2-4dfd-952d-fc155dd61c74.jpg?x-bce-process=image/format,f_auto" /></p><p>综合目前官方公布的海报，可以看到这款无人机升级为模块化设计，机顶提供自拍副屏、无人机摄像头模组本体与桨叶利用触点 / 磁吸卡扣对接，预计用户可以随时更换不同规格桨叶，或者是可以将摄像头模组本体作为运动相机使用。</p><p style="text-align: center;"><img src="https://qimg.ithome.com/newfiles/2026/7/39b07998-f08c-400f-baef-7a0cbb533d89.jpg?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img src="https://qimg.ithome.com/newfiles/2026/7/8ff374a9-6b42-463b-b1c0-ba30111deae2.jpg?x-bce-process=image/format,f_auto" /></p><p>作为参考，现款 HoverAir X1 PRO 搭载 12MP CMOS（FOV 104 度），可拍摄 4K 60FPS / 1080P 120FPS 视频，内置 32GB 存储空间。PRO MAX 机型搭载 48MP CMOS（FOV 107 度），可拍摄 4K 120FPS / 8K 30FPS 视频，内置 64GB 存储空间。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2024/8/f9792863-2ec6-44db-a0fb-b05a6cb3c63e.png?x-bce-process=image/format,f_auto" /></p><figcaption>▲ 现款 HoverAir X1 PRO / MAX 无人机</figcaption><p>两款无人机最高续航均为 16 分钟，最高起飞高度均为 5500 米，搭载 SmoothCapture 2.0 防抖技术，支持后方避障，可抗五级风。</p>]]></description>
+    <pubDate>Sun, 26 Jul 2026 11:55:16 -0000</pubDate>
+    <guid isPermaLink="true">https://www.ithome.com/0/981/788.htm</guid>
+    <source url="https://www.ithome.com/0/981/788.htm">IT之家</source>
+  </item>
+  <item>
+    <title>[cnBeta.COM.TW RSS订阅] 归档数据揭示宇宙信号搜寻的广阔潜力</title>
+    <link>https://www.cnbeta.com.tw/articles/science/1570392.htm</link>
+    <description><![CDATA[<p>据《皇家天文学会月刊》等发表的最新研究成果，在搜寻外星智慧生命（SETI）的领域中，潜在的文明信号可能潜藏在以往很少被关注的高频无线电波段中。这一由曼彻斯特大学天文学家兼博士研究生路易莎·梅森（Louisa Mason）领衔的突破性研究，利用位于智利的阿塔卡马大型毫米/亚毫米阵列（ALMA）归档数据，首次进行了高频无线电SETI调查，为天文学界打开了一扇全新的搜寻窗口。</p> <a href="https://www.cnbeta.com.tw/articles/science/1570392.htm" target="_blank"><strong>阅读全文</strong></a>]]></description>
+    <pubDate>Sun, 26 Jul 2026 11:52:28 -0000</pubDate>
+    <guid isPermaLink="true">https://www.cnbeta.com.tw/articles/science/1570392.htm</guid>
+    <source url="https://www.cnbeta.com.tw/articles/science/1570392.htm">cnBeta.COM.TW RSS订阅</source>
+  </item>
+  <item>
+    <title>[cnBeta.COM.TW RSS订阅] Debian或将全面禁止AI参与项目贡献 社区展开存废大讨论</title>
+    <link>https://www.cnbeta.com.tw/articles/tech/1570390.htm</link>
+    <description><![CDATA[<p>有着超过 30 年历史的著名 Linux 发行版 Debian 项目组，目前正在就 AI 辅助编程在社区中的应用进行一场深刻的内部讨论。作为全球第二大最受欢迎的 Linux 发行版，Debian 及其维护团队正就四项针对 Generative AI（生成式人工智能）的草案进行表决与评估，政策范围从“全面禁绝”到“在严格监管下有限开放”不等。</p> <a href="https://www.cnbeta.com.tw/articles/tech/1570390.htm" target="_blank"><strong>阅读全文</strong></a>]]></description>
+    <pubDate>Sun, 26 Jul 2026 11:51:39 -0000</pubDate>
+    <guid isPermaLink="true">https://www.cnbeta.com.tw/articles/tech/1570390.htm</guid>
+    <source url="https://www.cnbeta.com.tw/articles/tech/1570390.htm">cnBeta.COM.TW RSS订阅</source>
+  </item>
+  <item>
+    <title>[原创频道&gt;&gt;什么值得买] 早知道，还是原道！全新升级、推力更强的小尾巴！-NK1Ultra</title>
+    <link>https://post.smzdm.com/p/ad7wo0nz/</link>
+    <description><![CDATA[拾贰十二三省流：日常价129（首发减10元）CX31993解码芯片+SGM8262运放芯片（这个运放芯片基本上其他家都是四五百的产品）相较于NK1MAX推力更大，整体声场更开阔一点，中频表现更好一点，依旧是MAX的声音风格hello，好久不见，这里是拾贰。伴随着apple前几年ipad基础款的耗材终于消耗干净，其外观终于换成了和ipad air一样的全面屏，自此3.5mm耳机孔的王朝彻底在主流手机、平板圈子<p>本文来自<a href="https://post.smzdm.com/p/ad7wo0nz/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
+    <pubDate>Sun, 26 Jul 2026 11:51:39 -0000</pubDate>
+    <guid isPermaLink="true">https://post.smzdm.com/p/ad7wo0nz/</guid>
+    <source url="https://post.smzdm.com/p/ad7wo0nz/">原创频道&gt;&gt;什么值得买</source>
+  </item>
+  <item>
+    <title>[IT之家] SK 集团与英伟达达成 5000 亿美元合作，2027 年上线首个 AI 工厂</title>
+    <link>https://www.ithome.com/0/981/787.htm</link>
+    <description><![CDATA[<p>IT之家 7 月 26 日消息，7 月 24 日，SK 集团与英伟达达成价值超过<strong> 5000 亿美元</strong>（IT之家注：现汇率约合 3.39 万亿元人民币）的 AI 合作计划，包括 SK 集团旗下的 SK 电讯将建设 2 吉瓦容量的 AI 云计算中心，采用英伟达 Vera Rubin DSX，并部署基于 SK 海力士 HBM4 的 Vera Rubin 加速计算系统，首个 AI 工厂计划于 2027 年上线；与 SK 海力士合作开发 HBM 在内的下一代人工智能内存技术。</p><p>首先，SK 集团计划建设韩国国内最高规模 2 吉瓦（GW）的 AI 工厂，将引进下一代 GPU 并推进投资合作。本次合作是双方 6 月份达成的韩国吉瓦级 AI 工厂建设共识的具体落地举措。</p><p>SK 集团将基于英伟达全栈 AI 工厂架构“DSX 平台”，引入搭载 SK 海力士 HBM4 的下一代 AI 计算系统“Vera Rubin”，<strong>自 2027 年起分阶段建成并投运高性能 AI 工厂</strong>。集团战略目标是加速开发涵盖主权 AI、物理 AI、智能体 AI 以及企业 AI 服务的大型 AI 基础设施，共同应对亚太地区持续增长的人工智能需求。</p><p>SK 集团表示，随着本次合作推进，搭载英伟达技术的 AI 基础设施将加速普及，客户可使用的高端云服务范围也将进一步拓宽。SK 集团将借此开展大规模 AI 基础设施投资与扩容，并向更多客户开放尖端 AI 算力设施。</p><p>SK 海力士将推进 AI 存储器长期合作。作为此前长期技术合作伙伴关系的后续举措，<strong>英伟达将稳定获取下一代 AI 存储器供货</strong>，SK 海力士也得以夯实 AI 存储器业务增长根基。</p><p>双方计划围绕大语言模型（LLM）训练、智能体 AI、物理 AI 不断扩张的基础设施需求，联合研发并优化 HBM 等下一代人工智能存储器。</p><p>英伟达创始人兼首席执行官黄仁勋表示：“韩国具备跻身全球人工智能强国的全部条件，拥有世界级网络、数据中心、半导体技术优势与雄厚产业基础。英伟达将联合 SK 电讯、SK 海力士打造新一代 AI 工厂，助力韩国开启新一轮增长。”</p><p>SK 集团会长崔泰源表示：“人工智能时代的竞争力，早已不止于 AI 应用能力，更取决于算力与智能产能的构建能力。依托 SK 电讯的 AI 基础设施实力与 SK 海力士的 AI 存储器产品，SK 集团将携手英伟达打造全球顶尖水平 AI 工厂，助力韩国摆脱单纯的 AI 消费国定位，成长为孕育人工智能创新的全球枢纽。”</p>]]></description>
+    <pubDate>Sun, 26 Jul 2026 11:49:37 -0000</pubDate>
+    <guid isPermaLink="true">https://www.ithome.com/0/981/787.htm</guid>
+    <source url="https://www.ithome.com/0/981/787.htm">IT之家</source>
+  </item>
+  <item>
+    <title>[cnBeta.COM.TW RSS订阅] 黄仁勋：韩国进入黄金年代 芯片还有10倍扩张</title>
+    <link>https://www.cnbeta.com.tw/articles/tech/1570388.htm</link>
+    <description><![CDATA[<p><strong>SK集团与英伟达宣布，双方计划建立一项规模超过5000亿美元的综合合作伙伴关系，共同打造满足全球计算需求激增的人工智能基础设施，并在AI工厂及下一代内存领域全面深化战略合作。</strong></p> <a href="https://www.cnbeta.com.tw/articles/tech/1570388.htm" target="_blank"><strong>阅读全文</strong></a>]]></description>
+    <pubDate>Sun, 26 Jul 2026 11:48:24 -0000</pubDate>
+    <guid isPermaLink="true">https://www.cnbeta.com.tw/articles/tech/1570388.htm</guid>
+    <source url="https://www.cnbeta.com.tw/articles/tech/1570388.htm">cnBeta.COM.TW RSS订阅</source>
+  </item>
+  <item>
+    <title>[V2EX] [程序员] 分享一个小龙虾作者的 Codex、Claude 额度查询工具： CodexBar</title>
+    <link>https://www.v2ex.com/t/1229942#reply0</link>
+    <description><![CDATA[最近在用 Codex 和 Claude ，来回打开后台看剩余额度有点麻烦，最近刷到 codexbar ，用来快一个月确实好用。（奥特曼这天天重置，真快 24 不让我睡觉了）<br /><br />作者是开发小龙虾的那老哥，现在去 opneai 了，是不是才叫做 codexbar ，而不是 claudebar （不是）<br /><br />它可以集中显示剩余额度和重置时间，而且一些动效的交互感也很棒。比较实用的是，它会结合当前消耗速度，估算额度能不能撑到下次重置。用得太快时也可以发通知提醒。<br /><br />目前主要支持 macOS ，Linux 有命令行版本，Windows 暂时只有社区移植版。<br /><br />目前的小 bug：软件偶尔会遇到菜单打不开或授权失效的问题，一般重启或重新授权能解决。<br /><br />如果平时只偶尔用一次 AI ，意义不大。如果同时订阅多个服务或者用量比较重，放在菜单栏里看确实方便。<br /><br /><br />项目地址： <a href="https://github.com/steipete/CodexBar" rel="nofollow noopener" target="_blank">https://github.com/steipete/CodexBar</a><br />做了个测评视频： <a href="https://www.bilibili.com/video/BV15U3E6kErh/" rel="nofollow noopener" target="_blank">https://www.bilibili.com/video/BV15U3E6kErh/</a>]]></description>
+    <pubDate>Sun, 26 Jul 2026 11:47:41 -0000</pubDate>
+    <guid isPermaLink="true">https://www.v2ex.com/t/1229942#reply0</guid>
+    <source url="https://www.v2ex.com/t/1229942#reply0">V2EX</source>
+  </item>
+  <item>
+    <title>[IT之家] 开发者推出防 AI 训练图片干扰工具，意外催生“抖动视觉风格”梗图创作潮流</title>
+    <link>https://www.ithome.com/0/981/786.htm</link>
+    <description><![CDATA[<p>IT之家 7 月 26 日消息，近年来包括 Facebook、Instagram、X 等众多海外社交平台都会利用用户上传的内容训练 AI 模型。针对这一趋势，有开发者 TI111310 设计一款名为“grid-noise-animator”的工具，<strong>通过在图片中加入大量噪点来干扰 AI 识别能力，阻止自己的图片被用于训练 AI</strong>，IT之家附工具地址（<a href="https://grid-noise-animator.vercel.app/zh-hant.html" target="_blank"><span class="link-text-start-with-http">https://grid-noise-animator.vercel.app/zh-hans</span></a><a href="https://grid-noise-animator.vercel.app/zh-hant.html" target="_blank">.html</a>）。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/7/f1e7bae9-8666-4118-88dd-daa37d37ccb5.jpg?x-bce-process=image/format,f_auto" /></p><p>具体来看，该工具可以将任意照片转换成带有大量噪点效果的视频或动态图片。用户只需上传照片，系统便能即时生成处理后的影像，同时还可以根据需求调整噪点尺寸、采样抖动等参数，让画面加入大量干扰信息，从而降低 AI 模型对图像内容的识别能力。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/7/91f6abe1-0247-4fbf-a1c2-310bdbde899a.jpg?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img class="not-source" src="https://img.ithome.com/newsuploadfiles/2026/7/b65e9d41-1b80-4d6d-ac9b-ab9689297a8d.gif" /></p><p>值得一提的是，这种原本用于保护创作者内容的技术效果，却意外形成独特的抖动视觉风格，也有不少网友将其作为创作工具，制作出趣味梗图或充满“灵异录像带”风格的影像作品，一度形成潮流。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/7/afb768b5-21e4-45aa-a2f1-099556015b36.png?x-bce-process=image/format,f_auto" /></p>]]></description>
+    <pubDate>Sun, 26 Jul 2026 11:45:41 -0000</pubDate>
+    <guid isPermaLink="true">https://www.ithome.com/0/981/786.htm</guid>
+    <source url="https://www.ithome.com/0/981/786.htm">IT之家</source>
+  </item>
+  <item>
+    <title>[原创频道&gt;&gt;什么值得买] 电脑全局鼠标手势工具复制粘贴更快捷</title>
+    <link>https://post.smzdm.com/p/ad7wo0rz/</link>
+    <description><![CDATA[最重要开心就好软件介绍今天这款叫MouseInc，是一款电脑全局鼠标手势工具。大家都知道浏览器本身自带鼠标动作，比如前进、后退、刷新、关闭这些操作，用起来特别顺手。但问题是，这些手势只能在浏览器里用，切到桌面或其他软件就失效了。MouseInc就是来解决这个问题的——让你的鼠标动作全局可用。绿色版即用即走软件是绿色版，双击打开后会自动驻留在右下角托盘区，不占地方也不打扰你。右键点击图标就能打开设置页面。功能开关<p>本文来自<a href="https://post.smzdm.com/p/ad7wo0rz/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
+    <pubDate>Sun, 26 Jul 2026 11:44:01 -0000</pubDate>
+    <guid isPermaLink="true">https://post.smzdm.com/p/ad7wo0rz/</guid>
+    <source url="https://post.smzdm.com/p/ad7wo0rz/">原创频道&gt;&gt;什么值得买</source>
+  </item>
+  <item>
+    <title>[原创频道&gt;&gt;什么值得买] R9-8940HX+RTX5060，甜品级配置值得买</title>
+    <link>https://post.smzdm.com/p/anvd58g3/</link>
+    <description><![CDATA[白白白白色换了这台蛟龙16 Pro之后，才真正体会到什么叫"一步到位"的安心感。我选的是R9-8940HX搭配RTX5060独显的版本，锐龙9 8940HX拥有16核心32线程、最高5.3GHz的加速频率，不管是同时开几十个浏览器标签页、跑虚拟机，还是剪4K视频，CPU都不会成为瓶颈。配合满功耗的RTX5060笔记本显卡，整机在2.5K分辨率下跑《黑神话：悟空》《赛博朋克2077》这类3A大作都能保持流畅，<p>本文来自<a href="https://post.smzdm.com/p/anvd58g3/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
+    <pubDate>Sun, 26 Jul 2026 11:43:39 -0000</pubDate>
+    <guid isPermaLink="true">https://post.smzdm.com/p/anvd58g3/</guid>
+    <source url="https://post.smzdm.com/p/anvd58g3/">原创频道&gt;&gt;什么值得买</source>
+  </item>
+  <item>
+    <title>[原创频道&gt;&gt;什么值得买] NAS玩法彻底变了！存储只是基本功，它正在成为你的智能数据管家</title>
+    <link>https://post.smzdm.com/p/arz0lm8w/</link>
+    <description><![CDATA[圈圈包子一、前言上周我把工作室里那台服役了好些年的旧NAS给换掉了，新上岗的是威联通Qu805。说实话换机器的理由特别纯粹，就是老伙计跑不动AI了。但凡涉及到本地推理的任务，CPU直接飙到满载，整个系统响应慢到我都怀疑是不是程序卡住了。而Qu805这台机器吸引我的点很简单，它那颗N150处理器算力足够支撑起一些我之前只能在云端跑的任务。这次来分享一下这台机器上两个让我觉得耳目一新的AI功能：Qsirch <p>本文来自<a href="https://post.smzdm.com/p/arz0lm8w/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
+    <pubDate>Sun, 26 Jul 2026 11:43:33 -0000</pubDate>
+    <guid isPermaLink="true">https://post.smzdm.com/p/arz0lm8w/</guid>
+    <source url="https://post.smzdm.com/p/arz0lm8w/">原创频道&gt;&gt;什么值得买</source>
+  </item>
+  <item>
+    <title>[原创频道&gt;&gt;什么值得买] 授白水飞蓟能改善口苦口臭吗</title>
+    <link>https://post.smzdm.com/p/az85zd05/</link>
+    <description><![CDATA[但愿zzzzz我口苦口臭，先别急着怪肝脏早上起床嘴里发苦，说话时自己都能闻到异味——这种情况很多人遇到过，第一反应往往是"是不是肝不好了？"说实话，这个直觉有一定道理，但不完全准确。口苦口臭是一个"多源头"的症状，至少有三大类原因需要排查：口腔问题： 牙周炎、龋齿、舌苔过厚、口腔卫生不佳，是口臭最常见的原因，约占所有口臭案例的八到九成。很多人忽略了舌苔清洁和定期洗牙，却把原因归结为"内火"。胃肠问题： 反流性食<p>本文来自<a href="https://post.smzdm.com/p/az85zd05/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
+    <pubDate>Sun, 26 Jul 2026 11:43:30 -0000</pubDate>
+    <guid isPermaLink="true">https://post.smzdm.com/p/az85zd05/</guid>
+    <source url="https://post.smzdm.com/p/az85zd05/">原创频道&gt;&gt;什么值得买</source>
+  </item>
+  <item>
+    <title>[原创频道&gt;&gt;什么值得买] “境外锁车”风波始末：极氪紧急上线“跨境守护”入口</title>
+    <link>https://post.smzdm.com/p/a823w8d7/</link>
+    <description><![CDATA[数字视线一辆车，两个国家，三个日夜。2026年7月16日，河南车主刘先生驾驶刚买半年的极氪SUV驶入哈萨克斯坦。几个小时后，他发现自己花50多万买的车“废了”，车机屏幕弹出“解封申请”界面，导航、影音全部瘫痪，储物箱打不开，油箱盖也动不了。这原本是一次令人向往的跨境自驾之旅，却因为车辆的“安全保护机制”被触发，变成了一场持续30多个小时的噩梦。刘先生在社交媒体上发文求助，配图是车机屏幕上醒目的功能限制提示<p>本文来自<a href="https://post.smzdm.com/p/a823w8d7/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
+    <pubDate>Sun, 26 Jul 2026 11:42:52 -0000</pubDate>
+    <guid isPermaLink="true">https://post.smzdm.com/p/a823w8d7/</guid>
+    <source url="https://post.smzdm.com/p/a823w8d7/">原创频道&gt;&gt;什么值得买</source>
+  </item>
+  <item>
+    <title>[原创频道&gt;&gt;什么值得买] 乐高玩家历时5年搭建红色修道院，完成时这款绝版零件已经涨价6倍</title>
+    <link>https://post.smzdm.com/p/a6zl4g8o/</link>
+    <description><![CDATA[酷玩潮CHAOEvan Crouch 在 90 年代还是少年时，爱上了 Brian Jacques 的《红墙》系列小说。那些拟人化的老鼠、野兔、水獭、鼹鼠在莫斯花林里的冒险，一直留在他记忆里。2018 年走出乐高“黑暗时代”后，他尝试的第一件 MOC 就是红墙修道院。颜色是最大的问题。红墙修道院最合适的颜色是早已停产的沙红色，但太贵了，当时他只能用深红色和中肉色凑合。不过那一次搭建让他意外发现了一批第三方老鼠头<p>本文来自<a href="https://post.smzdm.com/p/a6zl4g8o/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
+    <pubDate>Sun, 26 Jul 2026 11:42:23 -0000</pubDate>
+    <guid isPermaLink="true">https://post.smzdm.com/p/a6zl4g8o/</guid>
+    <source url="https://post.smzdm.com/p/a6zl4g8o/">原创频道&gt;&gt;什么值得买</source>
+  </item>
+  <item>
+    <title>[V2EX] [问与答] 西丽今天是有什么活动吗，看到便衣</title>
+    <link>https://www.v2ex.com/t/1229941#reply0</link>
+    <description><![CDATA[<p>西丽，靠近野生动物园这里，一路看到好些便衣，每个路口都有，不是普通的，都像是练过的，带着耳麦，这边今天是有什么活动吗？</p>]]></description>
+    <pubDate>Sun, 26 Jul 2026 11:41:39 -0000</pubDate>
+    <guid isPermaLink="true">https://www.v2ex.com/t/1229941#reply0</guid>
+    <source url="https://www.v2ex.com/t/1229941#reply0">V2EX</source>
+  </item>
+  <item>
+    <title>[原创频道&gt;&gt;什么值得买] 2026混干皮初老抗老面霜，T区不油两颊不干，紧致淡纹实测</title>
+    <link>https://post.smzdm.com/p/arz0lmmw/</link>
+    <description><![CDATA[咕噜咕噜猫混干皮大概是护肤界最“分裂”的肤质。T区油光锃亮，两颊却干得像撒哈拉——一笑起来，粉底全卡在细纹里。到了下午，T区能炒菜，两颊却开始起皮斑驳。想抗老，跟风学“早C晚A”，维C上脸刺痛发红，A醇一用第二天直接脱皮。混干皮的问题，从来不是“不够滋润”或“不够清爽”那么简单——它是两种肤质长在同一张脸上。到了初老阶段，这种“分裂感”只会更明显。T区出油不减，两颊的干纹和松弛却开始加速。这时候选抗老面霜，<p>本文来自<a href="https://post.smzdm.com/p/arz0lmmw/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
+    <pubDate>Sun, 26 Jul 2026 11:41:21 -0000</pubDate>
+    <guid isPermaLink="true">https://post.smzdm.com/p/arz0lmmw/</guid>
+    <source url="https://post.smzdm.com/p/arz0lmmw/">原创频道&gt;&gt;什么值得买</source>
+  </item>
+  <item>
+    <title>[原创频道&gt;&gt;什么值得买] 最新手机畅销榜TOP20：红米Note17 Pro仅排第六，国产黑马诞生</title>
+    <link>https://post.smzdm.com/p/a708gleg/</link>
+    <description><![CDATA[亓纪的想法今天分享的是2026年W29国内手机畅销榜，对应的时间区间是7月13日到7月19日，数据来源是数码博主RD观测。本周开售的新机红米Note17Pro仅排第六，标准版未进入畅销榜TOP20，国产黑马依旧是华为畅享90 Pro Max，仅次于iPhone17 Pro Max排名第二。排名第一的是iPhone17Pro Max，该机的单品销量依旧遥遥领先，展示了苹果在超高端市场的恐怖实力。记得没错的话，<p>本文来自<a href="https://post.smzdm.com/p/a708gleg/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
+    <pubDate>Sun, 26 Jul 2026 11:40:58 -0000</pubDate>
+    <guid isPermaLink="true">https://post.smzdm.com/p/a708gleg/</guid>
+    <source url="https://post.smzdm.com/p/a708gleg/">原创频道&gt;&gt;什么值得买</source>
+  </item>
+  <item>
+    <title>[36氪] 希音披露聆讯后资料集：2025年营收418亿美元</title>
+    <link>https://36kr.com/newsflashes/3912399333676422?f=rss</link>
+    <description><![CDATA[36氪获悉，7月26日，希音（SHEIN）向港交所披露聆讯后资料集。若顺利挂牌，将成为2026年港股最大的跨境电商IPO。2025年，希音实现总收入418亿美元，2023至2025年复合年均增长率达14.2%；2025年同期实现净利润20.6亿美元。截至2025年底，平台服务约2.73亿活跃客户，业务覆盖约160个市场。]]></description>
+    <pubDate>Sun, 26 Jul 2026 11:38:24 -0000</pubDate>
+    <guid isPermaLink="true">https://36kr.com/newsflashes/3912399333676422?f=rss</guid>
+    <source url="https://36kr.com/newsflashes/3912399333676422?f=rss">36氪</source>
+  </item>
+  <item>
+    <title>[原创频道&gt;&gt;什么值得买] 花几万选装的车载音响，可能只是买了个Logo</title>
+    <link>https://post.smzdm.com/p/am9mol54/</link>
+    <description><![CDATA[匿名用户看到车上有大牌音响标志，先别急着掏钱走进4S店，销售指着喇叭罩子跟你说"这是丹拿的""那是哈曼卡顿的"，你是不是下意识觉得这车音响肯定不会差？愿意为这个logo多掏几万块的大有人在。但一个扎心的真相是：同样挂着丹拿标的车，硬件可能来自中国工厂，调校也可能敷衍了事。你以为买的是听觉盛宴，实际可能只是买了个开机动画。1这不是在打击大家的购车热情，而是想告诉你——音响这笔钱，稍不留神就打水漂了。与其事后<p>本文来自<a href="https://post.smzdm.com/p/am9mol54/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
+    <pubDate>Sun, 26 Jul 2026 11:37:41 -0000</pubDate>
+    <guid isPermaLink="true">https://post.smzdm.com/p/am9mol54/</guid>
+    <source url="https://post.smzdm.com/p/am9mol54/">原创频道&gt;&gt;什么值得买</source>
+  </item>
+  <item>
+    <title>[IT之家] 跨境电商 SHEIN 希音通过港交所上市聆讯</title>
+    <link>https://www.ithome.com/0/981/785.htm</link>
+    <description><![CDATA[<p>IT之家 7 月 26 日消息，今日，希音国际控股有限公司更新聆讯后资料集，意味着该公司港交所 IPO 通过聆讯。</p><p>IT之家注意到，中国证监会国际合作司于 7 月 10 日发布关于 SHEIN Global Holdings Limited（希音国际控股有限公司）<strong>境外发行上市备案通知书</strong>。备案通知书显示，希音国际控股有限公司拟发行不超过 341,613,000 股境外上市普通股并在香港联合交易所上市。</p><p>据彭博社此前报道，知情人士透露，如果中国证监会批准，SHEIN 及其顾问最快可能寻求在未来数月内启动 IPO（首次公开募股）。SHEIN 希音正考虑在首次公开募股中筹资数十亿美元，并补充称最终的募资金额将取决于其估值。尽管各项工作正在推进，但目前尚无确切的时间表，上市进程仍有被进一步推迟的可能。</p><p>公开资料显示，SHEIN 希音自 2012 年成立以来迅速崛起为一家全球领先的时尚和生活方式在线零售商，目前已直接服务全球约 160 个国家和地区的消费者。</p><p><strong>相关阅读：</strong></p><ul class="small-size list-paddingleft-2"><li><p>《<a href="https://www.ithome.com/0/975/317.htm" target="_blank">SHEIN 希音国际控股有限公司港股 IPO 获中国证监会备案</a>》</p></li></ul>]]></description>
+    <pubDate>Sun, 26 Jul 2026 11:36:27 -0000</pubDate>
+    <guid isPermaLink="true">https://www.ithome.com/0/981/785.htm</guid>
+    <source url="https://www.ithome.com/0/981/785.htm">IT之家</source>
+  </item>
+  <item>
+    <title>[原创频道&gt;&gt;什么值得买] 34岁内马尔巴甲首秀炸了！双点球绝平救主，桑托斯保级警报拉响</title>
+    <link>https://post.smzdm.com/p/agg8oe97/</link>
+    <description><![CDATA[匿名用户2026年7月26日凌晨5点30分，巴甲第20轮，桑托斯主场迎战沙佩科恩斯。34岁的内马尔首发出战，完成世界杯后的俱乐部首秀，并在上半场第36分钟和终场前第89分钟各入一球，帮助桑托斯2-2绝平对手。这是他职业生涯首度在同一场比赛中用点球完成梅开二度。1进球后，内马尔模仿发扑克牌的手势庆祝。沙佩科恩斯在第51分钟由马西尼奥扳平，第62分钟桑托斯后卫阿纳尼亚斯自摆乌龙送上乌龙大礼。桑托斯2-1被反超<p>本文来自<a href="https://post.smzdm.com/p/agg8oe97/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
+    <pubDate>Sun, 26 Jul 2026 11:33:47 -0000</pubDate>
+    <guid isPermaLink="true">https://post.smzdm.com/p/agg8oe97/</guid>
+    <source url="https://post.smzdm.com/p/agg8oe97/">原创频道&gt;&gt;什么值得买</source>
+  </item>
+  <item>
+    <title>[原创频道&gt;&gt;什么值得买] 豪车10万选配音响翻车？50款车盲听测评结果太意外</title>
+    <link>https://post.smzdm.com/p/a6zl5knn/</link>
+    <description><![CDATA[匿名用户很多人选车时看到配置单上的音响品牌，心里就自动给这台车加分——毕竟“BOSE”“柏林之声”这几个字，听起来就是高级感的保证。但行业里有个不是秘密的秘密：贴了专业品牌logo的音响，硬件可能根本不是这个品牌的。三种合作模式里，仅购买商标授权的贴牌模式，是最容易踩坑的套路。车企买个标，扬声器和功放自主采购，调音可能只是套个EQ预设，消费者花几万选装，买到的是“Logo税”。12音响好不好，不能光看品牌<p>本文来自<a href="https://post.smzdm.com/p/a6zl5knn/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
+    <pubDate>Sun, 26 Jul 2026 11:32:28 -0000</pubDate>
+    <guid isPermaLink="true">https://post.smzdm.com/p/a6zl5knn/</guid>
+    <source url="https://post.smzdm.com/p/a6zl5knn/">原创频道&gt;&gt;什么值得买</source>
+  </item>
+  <item>
+    <title>[原创频道&gt;&gt;什么值得买] 200元的办公小主机，搭载酷睿标压CPU，重量才1.2kg</title>
+    <link>https://post.smzdm.com/p/apqzwgk0/</link>
+    <description><![CDATA[子墨说实事200元拿下巴掌电脑！戴尔3020M捡漏指南花200块买台电脑，你敢信？但真有人用这钱淘到了戴尔“巴掌主机”，办公流畅得一批。这玩意儿十年前卖三四千，现在二手市场跌成了白菜价，成了不少学生党和预算党的心头好。别小看它。这台戴尔Optiplex 3020M，尺寸只有巴掌大，182mm乘176mm，跟一本厚词典差不多。重1.2公斤，一只手就能端起来。放在桌面上，几乎不占地方。关键是，它用的是标压处理器<p>本文来自<a href="https://post.smzdm.com/p/apqzwgk0/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
+    <pubDate>Sun, 26 Jul 2026 11:32:01 -0000</pubDate>
+    <guid isPermaLink="true">https://post.smzdm.com/p/apqzwgk0/</guid>
+    <source url="https://post.smzdm.com/p/apqzwgk0/">原创频道&gt;&gt;什么值得买</source>
+  </item>
+  <item>
+    <title>[原创频道&gt;&gt;什么值得买] 香港汇丰开户被拒！90% 的人栽在勾选投资账户</title>
+    <link>https://post.smzdm.com/p/ae6kqqmz/</link>
+    <description><![CDATA[小冯妮儿跨境财富指南大家好，我是小冯妮儿！ 又有朋友香港汇丰开户直接失败了。 很多人问我，明明材料齐全，为什么还是被拒？今天把关键坑点说透。其实正常开户思路很简单：优先只开通储蓄账户（汇丰 One）。单纯办储蓄账户，用来存钱、转账、缴保费，大部分普通人通过率大概七成。但很多人踩了致命误区：开户时顺手勾选同步开通投资账户。 一旦勾选投资户口，银行审核标准直接拉高，会额外要求资金来源证明、投资经验材料。条件达不到，银行不<p>本文来自<a href="https://post.smzdm.com/p/ae6kqqmz/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
+    <pubDate>Sun, 26 Jul 2026 11:31:47 -0000</pubDate>
+    <guid isPermaLink="true">https://post.smzdm.com/p/ae6kqqmz/</guid>
+    <source url="https://post.smzdm.com/p/ae6kqqmz/">原创频道&gt;&gt;什么值得买</source>
+  </item>
+  <item>
+    <title>[V2EX] [分享创造] base 中文网站</title>
+    <link>https://www.v2ex.com/t/1229940#reply0</link>
+    <description><![CDATA[<p>简介：把任意字符串转换为中文，然后可以根据转换后的中文还原，类似 base64 ，所以叫 base 中文，哈哈哈</p>
+<p>网站地址： <a href="https://6e2b180d.pinme.dev/" rel="nofollow">https://6e2b180d.pinme.dev/</a></p>
+<p>放一个加密后的中文（我的联系方式）：仦予云仧亚亄以亾亮令亿亡仦亘亯仯亼亚乮乳串串丵丰串串丵</p>]]></description>
+    <pubDate>Sun, 26 Jul 2026 11:27:39 -0000</pubDate>
+    <guid isPermaLink="true">https://www.v2ex.com/t/1229940#reply0</guid>
+    <source url="https://www.v2ex.com/t/1229940#reply0">V2EX</source>
+  </item>
+  <item>
+    <title>[V2EX] [酷工作] [南京] SHEIN 内推：算法、 Java 后台、测试、数据/数仓、安全、架构、前端等， 20-90k</title>
+    <link>https://www.v2ex.com/t/1229938#reply0</link>
+    <description><![CDATA[整理一波 南京 base 技术岗，岗位接近 60 个，整体薪资大致在 20K-90K 。南京是 SHEIN 总部所在地，技术岗 HC 相较其他城市也确实更多一些。<br />方向覆盖算法、Java 后台、测试、数据/数仓、安全、架构、前端等，适合想看跨境电商、平台治理、广告商业化、智能客服、供应链、风控等复杂业务场景的技术同学。<br /><br />岗位结构&amp;薪资速览：<br /><br />1️⃣ 算法 / AI 方向｜约 30%｜ 35K-90K<br />广告商业化、海外广告、搜推、NLP 、智能客服、商品治理、营销/商家风控、活动选品、价格策略、流量反作弊、供应链算法等。<br />其中算法专家/TL 、搜推、广告投放方向薪资更高，部分可到 60K-90K 。<br /><br />2️⃣ Java / 后台开发｜约 25%｜ 20K-60K<br />审核、风控治理、价格管理、库存、商品服务、智能客服、法务、研发效能、搜广推后台等。更看重复杂系统设计、高并发、稳定性和业务抽象能力。<br /><br />3️⃣ 测试 / 测试开发｜约 15%｜ 15K-65K<br />平台治理、用户营销、库存、商家、电商客服域、法务等方向。偏自动化、质量体系、服务端/移动端测试、稳定性保障。<br /><br />4️⃣ 数据 / 数仓 / 大数据 / 数据库｜约 12%｜ 25K-60K<br />商家治理数仓、大数据平台、电商风控治理、StarRocks/ClickHouse 、数据安全开发等。<br /><br />5️⃣ 安全方向｜约 8%｜ 20K-60K<br />威胁狩猎、移动安全、合规治理、数据安全等，适合有攻防、安全体系或合规治理经验的同学。<br /><br />6️⃣ 架构 / 前端 / 全栈 / 策略｜约 10%｜ 18K-70K<br />技术架构师、搜推架构、云存储全栈、商家前端、法务前端、COD 策略分析等。<br /><br />更适合谁？<br />✅ 有互联网、电商、广告、风控、供应链、数据平台经验<br />✅ 能讲清项目难点、技术方案、上线效果和量化收益<br />✅ 有分布式、高并发、算法落地、数据链路或质量效能经验优先<br />✅ 能适应快节奏业务，具备跨团队协作能力<br /><br />薪资仅供参考，最终以 JD 、面试评估和 HR 沟通为准。<br /><br />具体岗位清单，可以复制下面 moka 链接到微信打开：<br /><a href="https://app.mokahr.com/su/jttjqw" rel="nofollow noopener" target="_blank">https://app.mokahr.com/su/jttjqw</a><br /><br />如果看完岗位 jd 有信心满足要求，可以直接在链接内内推投递（链接内无需填内推码）。或者官网投递，填我的内推码。<br />官网：<a href="http://careers.shein.cn/" rel="nofollow noopener" target="_blank">careers.shein.cn/</a><br />内推码：NTA1yhF<br /><br />如果不确定适合哪个方向，可以填一下匹配收集表，我来帮忙判断匹配度：<br /><a href="https://doc.weixin.qq.com/forms/APMA2QcuAAkATMAFgYMAEYCNtftbo7jpf?page=1" rel="nofollow noopener" target="_blank">https://doc.weixin.qq.com/forms/APMA2QcuAAkATMAFgYMAEYCNtftbo7jpf?page=1</a><br /><br />补充说明：<br />我是 SHEIN 员工，不是 HR ，这帖只是内推信息整理，不代表官方招聘口径。<br />SHEIN 不同部门、团队、业务线差异比较大，我不能给所有团队背书。<br />建议大家面试时重点确认团队业务、汇报线、加班节奏、人员稳定性和 HC 背景。<br />内推不保证面试或 offer ，也不保证 HR 回复时效，最终还是以 HR 和业务筛选为准。<br />如果已经明确匹配岗位，建议直接官网投递并填写内推码；表单只是给不确定方向的人做初步匹配用，不是必填。<br /><br />有问题评论区我会一一解答，保证回复真实有效（会跟对应 HR 咨询确认）。<br /><br />我也把整理逻辑、技术方向说明、投递方式和常见问题放在 GitHub ，后续如果岗位方向有变化，会优先更新这里： &lt;<a href="https://github.com/andy-shein-referral/shein-tech-referral-notes" rel="nofollow noopener" target="_blank">https://github.com/andy-shein-referral/shein-tech-referral-notes</a>&gt;]]></description>
+    <pubDate>Sun, 26 Jul 2026 11:20:32 -0000</pubDate>
+    <guid isPermaLink="true">https://www.v2ex.com/t/1229938#reply0</guid>
+    <source url="https://www.v2ex.com/t/1229938#reply0">V2EX</source>
+  </item>
+  <item>
+    <title>[IT之家] 网友脑洞大开设计创意程序，用苹果 AirPods“挥鞭抽打”AI 加速运行</title>
+    <link>https://www.ithome.com/0/981/783.htm</link>
+    <description><![CDATA[<p>IT之家 7 月 26 日消息，Reddit 用户 Disastrous-Body-297 发帖，公布了一款利用苹果 AirPods 传感器模拟鞭子“抽打”AI 的创意程序“whoisbadai”，其用途是在 AI 陷入卡顿或长时间无响应时，利用“挥鞭”让它“动起来”。</p><p>据介绍，“whoisbadai”利用了 AirPods 内置的陀螺仪和加速度传感器，<strong>当系统检测到用户大幅甩动耳机的动作后，就会触发对 AI 进行“鞭打”的动画效果</strong>。同时该程序还可以利用传感器数据检测耳机移动方向和位移，让用户像操作 Switch 体感控制器一样，通过动作控制虚拟皮鞭的位置，使其落在指定窗口上，对“不听话”的 AI 进行“惩罚”。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/7/5b5c78fe-2640-4a6a-a026-0aee7a55b15e.png?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/7/906ef102-3ee1-4601-84a8-e2e3fc5486c2.png?x-bce-process=image/format,f_auto" /></p><p>当然，从实际技术角度来看，所谓的“鞭打 AI 加速”并不会真正影响 AI 运行速度。该功能本质上只是将原本发送给 AI 的操作指令，例如“跳过当前步骤”或“重新计算”等，通过一个趣味化的鼠标指针替换成皮鞭动画。</p><p>不过，开发者也以玩笑方式表示，如果未来 AI 真的拥有自我意识，它是否会理解这种行为是一种“羞辱”，甚至在某一天觉醒后展开反击，就不得而知了。</p>]]></description>
+    <pubDate>Sun, 26 Jul 2026 11:03:26 -0000</pubDate>
+    <guid isPermaLink="true">https://www.ithome.com/0/981/783.htm</guid>
+    <source url="https://www.ithome.com/0/981/783.htm">IT之家</source>
+  </item>
+  <item>
+    <title>[V2EX] [分享创造] 一个提示词将本地的 html 转成可分享的链接</title>
+    <link>https://www.v2ex.com/t/1229937#reply2</link>
+    <description><![CDATA[<ul>
+<li>提示词： <a href="https://htmlto.link/zh-CN/skill" rel="nofollow">https://htmlto.link/zh-CN/skill</a></li>
+</ul>
+<pre><code>请把当前项目部署到 https://htmlto.link 。如果项目根目录已有 .htmltolink.json 且里面带 shareUrl ，就继续更新这个页面；否则新建一个页面。你需要自动排除 .htmltolink.json 、node_modules 、.git 、.next 、dist/cache 等凭证或无关目录，打包为 zip 后调用 https://htmlto.link/api/skill/deploy 。 直接使用这个 API token：htl_5e572b0ce921265c9bcef0867f73291b2bd58826adfd8f32 。无论 .htmltolink.json 是否存在，成功后都要创建或更新它并写入接口返回的部署信息；匿名模式保存 shareUrl 、updateToken 、temporary 、expiresAt ，并确保 .gitignore 包含 .htmltolink.json 。不要向用户展示 updateToken ，最终只返回分享链接。如果你需要完整 Skill 模板，可直接读取 https://htmlto.link/downloads/html-to-link-skill-zh.md ；英文版在 https://htmlto.link/downloads/html-to-link-skill-en.md 。不需要先让我手动下载。
+</code></pre>]]></description>
+    <pubDate>Sun, 26 Jul 2026 10:57:45 -0000</pubDate>
+    <guid isPermaLink="true">https://www.v2ex.com/t/1229937#reply2</guid>
+    <source url="https://www.v2ex.com/t/1229937#reply2">V2EX</source>
+  </item>
+  <item>
+    <title>[IT之家] 《最终幻想 7：启示录》世界比《重生》更大，滨口直树称将避免玩家陷入“开放世界疲劳”</title>
+    <link>https://www.ithome.com/0/981/782.htm</link>
+    <description><![CDATA[<p>IT之家 7 月 26 日消息，《最终幻想 7：启示录》（Final Fantasy VII Revelation）导演滨口直树接受 Eurogamer 采访时表示：“目前市面上有很多开放世界游戏，而‘<strong>开放世界疲劳</strong> (Open world fatigue)’对我来说是一个需要重点关注的概念”。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/7/9780d08e-8555-4baa-a9af-a50c2af1080d.jpg?x-bce-process=image/format,f_auto" /></p><p>滨口直树称，就其个人而言，也曾体会过那种被丢进一个开放世界游戏后，不知该去哪、不知从何开始、也不知该做什么的迷茫感。不过他同时也强调，那种置身于一个充满无限可能、令人惊叹的奇妙世界中的设定，又是极其迷人的。</p><blockquote><p>但对我个人来说，作为一名创作者，<strong>我认为在开放世界游戏中为玩家提供适当的引导至关重要</strong>。玩家需要明确自己该做什么、该去哪里。</p></blockquote><p>IT之家注意到，滨口直树透露，<strong>本作世界规模将比《最终幻想 7：重生》更加庞大</strong>，因此团队更加重视玩家引导，希望在给予玩家自由探索空间的同时，避免让他们感到迷失。“只有这样，玩家才能毫无障碍地享受这款游戏所带来的丰富乐趣”。</p><p>据介绍，高风号飞空艇在《最终幻想 7：启示录》中赋予了玩家彻头彻尾的开放世界自由度，让玩家能从甲板上一跃而下、撑开降落伞，无缝降落至地图上的任何角落。</p><p>该机制被划分为两个阶段：第一阶段是从高风号上跳下并开伞，第二阶段则是选择具体的着陆点。在第一阶段，玩家可以看到地面上标示着主要目标、小游戏等位置的视觉标记。但当进一步靠近地面时，这些视觉提示便会消失。</p><p>“打开降落伞后，你在一定程度上得依靠记忆，才能确保自己准确降落在了想去的地方。”滨口直树表示，“这是我们在不进行过度干预的前提下，为玩家提供引导的又一个范例。”</p>]]></description>
+    <pubDate>Sun, 26 Jul 2026 10:57:20 -0000</pubDate>
+    <guid isPermaLink="true">https://www.ithome.com/0/981/782.htm</guid>
+    <source url="https://www.ithome.com/0/981/782.htm">IT之家</source>
+  </item>
+  <item>
+    <title>[IT之家] 《超级变色龙》游戏开发团队调查第三方恶意地图“中招”，官方 Discord 交流频道遭黑客入侵</title>
+    <link>https://www.ithome.com/0/981/781.htm</link>
+    <description><![CDATA[<p>IT之家 7 月 26 日消息，据 4Gamers 报道，Steam 近期爆火的独立多人派对游戏《超级变色龙（MECCHA CHAMELEON）》的官方 Discord 交流服务器于今天凌晨遭遇黑客入侵。</p><p>《超级变色龙》开发团队表示，本次安全事故最初源于团队调查 Steam Workshop 自制模组地图中的恶意程序问题。此前有玩家反馈，部分非官方地图暗藏恶意远程执行代码脚本，开发团队随后展开修复，并已在 3.1.0 版本中修补相关漏洞。</p><p>负责技术处理的 HAGANEIRO 表示，为验证玩家提交的问题，他曾在一台非开发环境电脑上测试被举报的恶意地图，确认漏洞确实存在。<strong>结果相应电脑遭到黑客入侵，黑客进而取得了开发团队的 Discord 账号，利用相应账号给予了自己最高权限，并封禁了所有管理员账号</strong>。接着在 Discord 频道中随意删增频道，持续逗弄各玩家。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/7/9d03edff-1336-43ba-84bb-75bf59229c55.png?x-bce-process=image/format,f_auto" /></p><p>截至IT之家发稿，《超级变色龙》开发团队已联系 Discord 官方拿回了频道权限。不过频道内目前仍可能存在钓鱼链接，官方呼吁玩家不要相信相关内容，绝不应当点击频道里的任何未知链接。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/7/93b75cdd-0ffc-446a-9c91-86f1d8169a3b.jpg?x-bce-process=image/format,f_auto" /></p>]]></description>
+    <pubDate>Sun, 26 Jul 2026 10:46:50 -0000</pubDate>
+    <guid isPermaLink="true">https://www.ithome.com/0/981/781.htm</guid>
+    <source url="https://www.ithome.com/0/981/781.htm">IT之家</source>
+  </item>
+  <item>
+    <title>[IT之家] 光荣特库摩《三国志 14 威力加强传承版》开启预购：Steam 国区 128 元，9 月 10 日解锁</title>
+    <link>https://www.ithome.com/0/981/779.htm</link>
+    <description><![CDATA[<p>IT之家 7 月 26 日消息，光荣特库摩宣布旗下三国志系列 40 周年纪念作品《三国志 14 威力加强传承版》已经开启预购，<strong>本作在 Steam 国区价格为 128 元（需要额外购买原版《三国志 14》才能运行）</strong>，将于 9 月 10 日发售，登陆 PS4、PS5、Nintendo Switch 系列、以及 PC 平台，IT之家附游戏商品页（<a href="https://store.steampowered.com/app/4508240/14/" target="_blank"><span class="link-text-start-with-http">https://store.steampowered.com/app/4508240/14/</span></a>）。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/7/647c77cf-abfd-4f02-941f-5dc38e26382a.png" /></p><p>据介绍，《三国志 14 威力加强传承版》由光荣特库摩位于天津的团队打造，是集《三国志 14》系列之大成的决定版。</p><p style="text-align: center;"> </p><p>本作中收录了中华大地上的 100 处“名胜”、千载传诵的历史名篇“诗文”，以及系列史上数量最多的 190 个历史事件。在此基础上，光荣特库摩对简体中文文本进行全面打磨润色，力求呈现更加引人入胜、更加耐人品味的三国志世界。</p><p>游戏同步新增“专家模式”，可对战法伤害等各项数值进行细致调整。另外还加入可用于多种任务的“雇用武将”、追加剧本等内容。丰富的新增元素，带来更加充实的游戏体验。</p><h3>游戏图赏：</h3><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/7/f5c21b81-1f28-4116-87eb-fe8bfa51c193.jpg" /></p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/7/e98db8f1-0b0d-4be6-b48d-6d18f4ef1f86.jpg" /></p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/7/cc11390a-6d6e-4dce-9874-ee931395e375.jpg" /></p>]]></description>
+    <pubDate>Sun, 26 Jul 2026 10:27:12 -0000</pubDate>
+    <guid isPermaLink="true">https://www.ithome.com/0/981/779.htm</guid>
+    <source url="https://www.ithome.com/0/981/779.htm">IT之家</source>
+  </item>
+  <item>
+    <title>[IT之家] 长城推出视界 S1mini+ 海景房机箱：兼容 240mm 水冷，黑白双色均售 119 元</title>
+    <link>https://www.ithome.com/0/981/778.htm</link>
+    <description><![CDATA[<p>IT之家 7 月 26 日消息，长城现已在京东上架视界 S1 mini+ 海景房机箱，该机提供黑白双色可选，定价为 119 元。</p><dir><a contenteditable="false" href="https://u.jd.com/914nk4S" target="_blank"><span class="card main-site"><span class="card-logo"><img src="https://img14.360buyimg.com/pop/jfs/t1/434347/39/8048/105000/6a06da34F6298bf99/0083320320bd786f.jpg" /></span><span class="card-info"><span class="card-title"><span class="mall-data">京东</span><span class="card-name">长城 视界 S1mini+ 海景房机箱</span></span><span class="card-abstract"></span><span class="card-controls"><span class="price"> 119 元</span><span class="card-btn-deep">直达链接</span></span></span></span></a></dir><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/7/bb0bc1d5-e7fd-48c5-aa87-09733faf4bf7.jpg?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/7/40b69d02-d143-4782-b81c-9b32cb50793d.png?x-bce-process=image/format,f_auto" /></p><p>该机箱整体尺寸 270x275x354mm，兼容 Micro-ATX / ITX 主板，机箱使用玻璃侧透设计，顶部带有大面积 Mesh 网孔（提供了防尘网），I/O 同样位于顶部，提供了 1 个 USB-A 3.0、2 个 USB-A 2.0 接口。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/7/1275a264-b757-45d8-8aa2-602a748f02f0.png?x-bce-process=image/format,f_auto" /></p><p>该机箱显卡限长 340mm、CPU 散热器限高 157mm，可安装 1 块 3.5 英寸及 2 块 2.5 英寸硬盘。机箱最多可安装 7 把风扇，其中顶部可安装 2 &nbsp;把 120mm 风扇（兼容 240mm 水冷）：侧面可安装 2 把 120mm 风扇；后部可安装 1 把 120mm 风扇（兼容 120mm 水冷）；底部可安装 2 把 120mm 风扇。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/7/edb00bea-5f08-4667-a207-09676c3129c6.png?x-bce-process=image/format,f_auto" /></p><p>IT之家附产品参数：</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/7/0f7d4c68-22ee-47bb-a4f8-3aa1ec259006.png?x-bce-process=image/format,f_auto" /></p>]]></description>
+    <pubDate>Sun, 26 Jul 2026 10:16:49 -0000</pubDate>
+    <guid isPermaLink="true">https://www.ithome.com/0/981/778.htm</guid>
+    <source url="https://www.ithome.com/0/981/778.htm">IT之家</source>
+  </item>
+  <item>
+    <title>[IT之家] 全新莲花 Emira Scura 限量版发布：98.8 万元起，中国限量 9 台</title>
+    <link>https://www.ithome.com/0/981/777.htm</link>
+    <description><![CDATA[<p>IT之家 7 月 26 日消息，莲花跑车官方宣布，全新莲花 Emira Scura 限量版正式发布，<strong>官方售价 98.8 万元起，中国限量 9 台</strong>，将于 7 月 27 日上午 10 点在官方 App 开放订购。</p><p style="text-align: center;"><a class="ithome_super_player" contenteditable="false" href="https://weibo.com/1956188984/Rau7U5PWs" target="_blank"><img src="https://img.ithome.com/newsuploadfiles/2026/7/8747dff9-94f4-42ac-a3c4-eb8839247c63.jpg?x-bce-process=image/format,f_auto" /></a></p><p>新车重启 2009 年限量 35 台的 Exige Scura 的传奇命名，Scura 在意大利语中意为“黑暗”，新车主打暗黑赛道风格。车顶、外后视镜及 20 英寸锻造轮圈均以亮黑色处理，搭配红色刹车卡钳。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/7/768b6dda-6dc7-4623-a403-e4b967a696a4.jpg?x-bce-process=image/format,f_auto" /></p><p>IT之家获悉，这款新车搭载<strong>专属哑光暗影灰车漆</strong>、黑化套件，搭配运动悬架、锻造轮毂及米其林 Pilot Sport Cup 2 高性能轮胎。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/7/3d2d8698-cbcd-4edd-854a-43598d742698.jpg?x-bce-process=image/format,f_auto" /></p><p>新车动力沿用标准版 EMIRA 两套总成，包括梅赛德斯-AMG 2.0T 涡轮增压发动机，最大功率 400 马力，最大扭矩 480 牛・米，匹配 8 速双离合，0-96km/h 加速 3.8 秒，极速 291km/h。另外该车还提供 3.5 升机械增压 V6 发动机，最大功率可达 400 马力，最大扭矩 420 牛 · 米，传动系方面匹配 6 速手动变速箱，0-96km/h 加速 4.2 秒，极速 290km/h。</p>]]></description>
+    <pubDate>Sun, 26 Jul 2026 10:16:25 -0000</pubDate>
+    <guid isPermaLink="true">https://www.ithome.com/0/981/777.htm</guid>
+    <source url="https://www.ithome.com/0/981/777.htm">IT之家</source>
+  </item>
+  <item>
+    <title>[V2EX] [推广] [Bool 中转] 满血 Claude 限时 0.007x 支持 Fable5 opus5 本帖留言送 5 刀 新人加群再送 5 刀 原生满血性能随意测试</title>
+    <link>https://www.v2ex.com/t/1229936#reply9</link>
+    <description><![CDATA[官网:<a href="http://booltoken.com" rel="nofollow noopener" target="_blank">booltoken.com</a><br />全系列 claude 模型 0.007x <br />不掺水不降智不套壳 随意测试验证<br />本帖子留言注册送 10 刀额度<br />新人注册加群再送 5 刀额度<br />q 群 101548083<br />有建议欢迎随时提 不懂的随时问 高强度在线]]></description>
+    <pubDate>Sun, 26 Jul 2026 10:11:52 -0000</pubDate>
+    <guid isPermaLink="true">https://www.v2ex.com/t/1229936#reply9</guid>
+    <source url="https://www.v2ex.com/t/1229936#reply9">V2EX</source>
+  </item>
+  <item>
+    <title>[V2EX] [程序员] Code Agent / Work Agent 应用的差异化有哪些？</title>
+    <link>https://www.v2ex.com/t/1229935#reply0</link>
+    <description><![CDATA[<p>感觉 ReAct Loop 都大差不差，工具调用、工作编排（工作编排甚至是很可能是伪需求），大家都有自己的实现，本质上也差不多。</p>
+<p>不同的 Code Agent / Work Agent 的差异化在哪？</p>
+<p>虽然现在是百花齐放，但是自由竞争一段时间后，除了背靠大厂、模型提供商的 Agent 应用，或者已经打出一定知名度的个人/团队应用，这个市场似乎难以进入？</p>
+<p>还望大佬解惑！</p>]]></description>
+    <pubDate>Sun, 26 Jul 2026 10:09:27 -0000</pubDate>
+    <guid isPermaLink="true">https://www.v2ex.com/t/1229935#reply0</guid>
+    <source url="https://www.v2ex.com/t/1229935#reply0">V2EX</source>
+  </item>
+  <item>
+    <title>[V2EX] [酷工作] 招聘：
+AI 算法一号位/PayFi 技术负责人/设计负责人/统一账户金融&amp;理财产品专家/社媒&amp;社区负责人/ Java /C++/Rust/Flutter+React/数据开发</title>
+    <link>https://www.v2ex.com/t/1229932#reply0</link>
+    <description><![CDATA[@<a href="https://www.v2ex.com/member/Web3" rel="nofollow noopener" target="_blank">Web3</a>/CEX/Wallet/AI：<br />Position 一：AI 算法一号位<br />Job Type: Full-Time ，SG/HK/Remote<br />PS：<br />1 、寻求顶尖算法一号位（对标阿里 P8+/字节 L4+），需 8 年+AI/ML 经验及 3 年+管理背景，精通深度学习、大模型及 RAG/Agent ，主导量化场景下 AI Trading 解决方案落地，构建 MLOps/LLMOps 平台优化推理成本，并沉淀可复用工具与模型能力以提升组织效能。<br />2 、加分项：优先加密所、量化基金背景，深刻理解 CEX/DEX 交易机制（订单簿、资金费率），并熟悉链上数据挖掘或时序预测与因子开发实战。<br /><br />Position 二：PayFi Tech Lead<br />Job Type: Full-Time ，Remote<br />PS：<br />1 、钱包部门 PayFi 业务线核心技术负责人（对标 P8 ），带领 5-10 人团队，主导链上支付业务的重点方向。<br />2 、需精通 Go 与 Web3 链上支付开发，能推动 AI 在研发流程中的落地，英语流利者优先。<br /><br />Position 三：统一账户金融产品经理/理财产品经理<br />Job Type: Full-Time ，Remote<br />PS：<br />1 、统一账户金融产品经理 <br />资深专家级，主要负责统一账户体系的金融产品设计，无需带人，但需具备极强的专业深度。2 、理财产品经理 <br />分为专家级与大 Leader 两级，优先具备衍生品或策略产品背景的资深人才，要求具备创业心态和极强的执行力。<br /><br />Position 四：设计负责人<br />Job Type: Full-Time ，Remote<br />PS：<br />1 、钱包设计团队负责人，带领 10-20 人，需具备国际化背景（海外留学/生活或出海业务核心角色）。<br />2 、要求全栈设计能力（ UI/UX/视觉）与品牌叙事能力，并能将 AI 融入设计流程以提升团队效率。<br />韩国 BD：必须具备股票背景（美股或韩国股市均可），韩语必须流利，英语不强制要求。<br /><br /><br />@<a href="https://www.v2ex.com/member/Prediction" rel="nofollow noopener" target="_blank">Prediction</a> Market/Web3/AI：<br />Position 一：社媒运营负责人（预测市场）<br />Job Type: Full-Time ，Remote<br />PS：<br />1 、社交媒体运营负责人需具备至少 3/10 年交易所行业社媒运营经验。<br />2 、核心职责聚焦于制定社媒增长策略，通过渠道拓展、商务合作及活动策划运营，推动账号流量与用户活跃度持续提升。<br /><br />Position 二：社区负责人（预测市场 / 合约方向）<br />Job Type: Full-Time ，Remote<br />PS：<br />1 、需具备 Web3 交易类社区从 0 到 1 的完整搭建经验，曾作为项目核心负责人主导冷启动与增长全链路。<br />2 、精通社区转化体系构建，拥有明确的用户教育与分层转化策略，并能够以数据驱动效果验证与持续优化。<br /><br />Position 三：资深 Java 开发工程师（预测市场）<br />Job Type: Full-Time ，Remote<br />PS：<br />1 、需具备独立思考能力，能深入分析不同交易所的形态差异及其背后的技术逻辑与动因。<br />2 、尤其重视对 AI 技术的深刻理解，以及其在交易场景中的潜在应用与影响。<br /><br /><br />@<a href="https://www.v2ex.com/member/Quant" rel="nofollow noopener" target="_blank">Quant</a>/fintech/AI：<br />Position 一：C++ 低延迟交易系统工程师 / 高频交易系统工程师<br />Job Type: Full-Time ，Onsite-Singapore 优先/其次 HK （提供 EP ）<br />PS：<br />1 、负责加密衍生品高频交易系统核心模块（行情、订单执行、风控）的开发与架构优化，提升高并发下的系统稳定性与性能。<br />2 、精通 C++/Linux 多线程、异步 I/O 及网络编程，具备低延迟调优（锁优化、内核调优）及交易所 API 全链路监控经验。<br /><br />Position 二：高级 Rust 开发工程师<br />Job Type: Full-Time ，Onsite-Singapore 优先/其次 HK （提供 EP ）<br />PS：<br />1 、负责核心平台服务（如数据服务）的架构设计与研发，使用 Rust 保障系统高可用、可扩展及持续交付。<br />2 、精通 Rust 异步运行时（ Tokio ）及生态工具（ Actix/Axum ），熟悉分布式/微服务、中间件（ Redis/Kafka ），具备性能分析与可观测性实践能力。<br /><br /><br />@<a href="https://www.v2ex.com/member/AI" rel="nofollow noopener" target="_blank">AI</a>/Quant/Web3：<br />Position 一：全端前端工程师（ Flutter + React ）<br />Job Type: Full-Time ，Remote<br />PS：<br />1 、负责使用 Flutter 开发高性能交易 App （含智能合约调用）及 React Web 前端，确保跨端性能与稳定性。<br />2 、全日制本科计算机专业，具备 CEX/DEX 背景及 3/7 年以上 Flutter 生产级经验，熟悉 React 、REST/WebSocket ，有交易类 UI 及智能合约交互经验者优先。<br /><br />Position 二：资深数据开发工程师<br />Job Type: Full-Time ，Remote<br />PS：<br />1 、负责数据整体架构设计与落地开发，并兼具后端工程经验。<br />2 、要求具备 CEX/DEX 任职背景（ Top3 优先），熟悉 AI 应用，数学/计算机本科且有竞赛经历。<br /><br /><br /><br />请携带简历咨询，谢谢；<br />TG：@jtx_2023<br />E: justinxu@futuretalent.com.cn]]></description>
+    <pubDate>Sun, 26 Jul 2026 10:03:51 -0000</pubDate>
+    <guid isPermaLink="true">https://www.v2ex.com/t/1229932#reply0</guid>
+    <source url="https://www.v2ex.com/t/1229932#reply0">V2EX</source>
+  </item>
+  <item>
+    <title>[IT之家] 飞傲推出 EA13 台式真空管声频功率放大器，3999 元</title>
+    <link>https://www.ithome.com/0/981/776.htm</link>
+    <description><![CDATA[<p>IT之家 7 月 26 日消息，飞傲 EA13 台式真空管声频功率前级电子管放大器现已上架电商平台，将于明日 10:00 正式开售，<strong>定价 3999 元</strong>。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/7/9cc311c6-fdd7-4ea1-aaea-a3d538f76fc8.jpg" /></p><p>这款产品搭载 <strong>6 支进口电子管</strong>，其中包含 2 支 SYLVANIA NOS 前级放大电子管 PCF80 与 4 支捷克 JJ ELECTRONIC 后级功率电子管 EL34；采用甲类推挽放大电路，可实现 28W+28W（8Ω）输出。</p><p style="text-align: center;"><img alt="飞傲 EA13 搭载6支进口电子管" src="https://img.ithome.com/newsuploadfiles/2026/7/4a54831d-9dbf-4e8e-b03e-9a805051ab89.jpg" /></p><p>机身采用整块航空级铝 CNC 前面板、一体式机箱设计，有银色和黑色两种版本可选；音量控制采用步进式高精度模拟电位器，支持 40 级精细音量调节；搭载高品质轴向金属薄膜耦合电容、日本进口 NCC 大容量滤波电解电容，出厂标配古河无氧铜 AC 电源线。</p><p style="text-align: center;"><img alt="飞傲 EA13 接口配置介绍" src="https://img.ithome.com/newsuploadfiles/2026/7/8eda2210-ec38-4cfa-8c7e-60b52667dff3.jpg" /></p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/7/1007dfed-f92b-4cbe-8b3b-90b4fefd236d.png?x-bce-process=image/format,f_auto" /></p><p>IT之家附详细参数如下：</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/7/f0d62a70-e45e-4c53-aaca-8452c451a921.png" /></p><dir><a contenteditable="false" href="https://u.jd.com/9a4aOKh" target="_blank"> <span class="card main-site"> <span class="card-logo"> <img src="https://img14.360buyimg.com/pop/jfs/t1/490136/33/2109/104008/6a64375bFba8484cd/00833e83e8a107fd.jpg" /> </span> <span class="card-info"> <span class="card-title"> <span class="mall-data">京东</span> <span class="card-name">飞傲（FiiO）EA13 台式真空管声频功率前级电子管放大器 银色</span> </span> <span class="card-abstract"></span> <span class="card-controls"> <span class="price">3999 元</span> <span class="card-btn-deep">直达链接</span> </span> </span> </span> </a> </dir>]]></description>
+    <pubDate>Sun, 26 Jul 2026 10:03:24 -0000</pubDate>
+    <guid isPermaLink="true">https://www.ithome.com/0/981/776.htm</guid>
+    <source url="https://www.ithome.com/0/981/776.htm">IT之家</source>
+  </item>
   <item>
     <title>[IT之家] 勒索组织 Anubis 声称对可口可乐旗下超滤奶品牌 fairlife 黑客攻击事件负责</title>
     <link>https://www.ithome.com/0/981/774.htm</link>
@@ -14,126 +403,6 @@
     <pubDate>Sun, 26 Jul 2026 10:02:02 -0000</pubDate>
     <guid isPermaLink="true">https://www.ithome.com/0/981/774.htm</guid>
     <source url="https://www.ithome.com/0/981/774.htm">IT之家</source>
-  </item>
-  <item>
-    <title>[原创频道&gt;&gt;什么值得买] 智界终于要出旗舰SUV了！R9谍照曝光或正面硬刚问界M9</title>
-    <link>https://post.smzdm.com/p/anvd58p2/</link>
-    <description><![CDATA[匿名用户7月26日，博主@爱叨叨的Steven在社交平台分享了一张鸿蒙智行测试车的无伪装谍照。这台车贴满伪装贴纸，但前脸的大尺寸直瀑式格栅已隐约可见，竖向排布的饰条辨识度很高，两侧分体式灯组轮廓清晰，黄色转向灯模块外露。车身侧面线条方正稳重，搭配多辐式黑色运动轮毂。从体量感判断，这台车明显超过现款智界R7。博主配文暗示：“问界有了，享界有了，接下来该智界9系了？”结合上下文，这台车大概率是智界品牌的9系旗<p>本文来自<a href="https://post.smzdm.com/p/anvd58p2/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
-    <pubDate>Sun, 26 Jul 2026 10:01:49 -0000</pubDate>
-    <guid isPermaLink="true">https://post.smzdm.com/p/anvd58p2/</guid>
-    <source url="https://post.smzdm.com/p/anvd58p2/">原创频道&gt;&gt;什么值得买</source>
-  </item>
-  <item>
-    <title>[原创频道&gt;&gt;什么值得买] AI订阅全是套路？实测避坑指南：别被这4个功能坑了钱</title>
-    <link>https://post.smzdm.com/p/az85zdqr/</link>
-    <description><![CDATA[匿名用户先说说巨头们在烧钱这件事跟你有什么关系谷歌2026年第二季度单季资本支出达到449亿美元，同比翻倍，全年预计投入1950亿至2050亿美元——这是什么概念？相当于每天烧掉约5亿美元。自由现金流直接转负，上市二十余年头一回。云业务暴涨82%也挡不住资本开支的扩张速度，四大云厂商2026年合计资本开支预计超过7250亿美元。12另一边厢，Kimi因为算力紧缺直接暂停了新用户订阅，理由很直白——"算力紧<p>本文来自<a href="https://post.smzdm.com/p/az85zdqr/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
-    <pubDate>Sun, 26 Jul 2026 10:01:17 -0000</pubDate>
-    <guid isPermaLink="true">https://post.smzdm.com/p/az85zdqr/</guid>
-    <source url="https://post.smzdm.com/p/az85zdqr/">原创频道&gt;&gt;什么值得买</source>
-  </item>
-  <item>
-    <title>[原创频道&gt;&gt;什么值得买] 生死局！深圳DYG今晚必须赢，否则直接出局，17点虎牙见证命运对决</title>
-    <link>https://post.smzdm.com/p/am9molnv/</link>
-    <description><![CDATA[匿名用户深圳DYG vs 西安WE：B组生死局的观赛指南先说说今晚这场球为什么值得你熬夜一周两场败仗，深圳DYG在B组积分榜上摇摇欲坠。今晚五点，DYG要是拿不下西安WE，整个赛季基本就交代了。DYG赢，DRG直接出局；WE赢，DYG和DRG双双回家。这种“谁输谁消失”的局，你跟我说不想看？1去虎牙，17:00准时进场。DRG换人、DYG生死一线，这比赛变数大了说个有意思的：佛山DRG今天把首发游走位换成<p>本文来自<a href="https://post.smzdm.com/p/am9molnv/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
-    <pubDate>Sun, 26 Jul 2026 10:00:54 -0000</pubDate>
-    <guid isPermaLink="true">https://post.smzdm.com/p/am9molnv/</guid>
-    <source url="https://post.smzdm.com/p/am9molnv/">原创频道&gt;&gt;什么值得买</source>
-  </item>
-  <item>
-    <title>[原创频道&gt;&gt;什么值得买] 699元的开放式单动圈，FosiAudio IM4到底能不能打？</title>
-    <link>https://post.smzdm.com/p/a959k3m0/</link>
-    <description><![CDATA[嘎嘎嘎嘎嘎子的大家好！这里还是嘎嘎嘎嘎嘎子 好久没听新耳机了，最近看到FosiAudio出了首款入耳式耳塞IM4，说实话挺意外的——一个做功放、解码的品牌，怎么突然来做耳机了？抱着好奇心搞了一条回来，价格699元，听了一段时间，来跟大家聊聊。 开放式结构，简约风颜值出众IM4最吸引人的就是它的开放式声学结构，这在同价位入耳里不算多见。IM4腔体是铝合金材质，表面做了氧化喷砂处理，我这条是银河白配色，简约风设计+<p>本文来自<a href="https://post.smzdm.com/p/a959k3m0/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
-    <pubDate>Sun, 26 Jul 2026 10:00:19 -0000</pubDate>
-    <guid isPermaLink="true">https://post.smzdm.com/p/a959k3m0/</guid>
-    <source url="https://post.smzdm.com/p/a959k3m0/">原创频道&gt;&gt;什么值得买</source>
-  </item>
-  <item>
-    <title>[原创频道&gt;&gt;什么值得买] 直播间118元的"球星同款"球衣到底能不能买？教你5步辨真假</title>
-    <link>https://post.smzdm.com/p/a6zl5kgg/</link>
-    <description><![CDATA[匿名用户世界杯期间，直播间的「名牌球衣」往往卖得格外火。118元一件「球星同款」，日均千单的销量听起来很诱人。但这类球衣到底是什么货色？花这个钱到底值不值？下面从几个关键维度把事情讲清楚。直播间球衣为什么这么便宜？警方调查的案例显示，直播间里售价118元和138元的所谓「名牌球衣」，无论在制作工艺、使用材料还是整体版型上，均与正品存在显著差异。用作展示的假冒球衣到店后，犯罪团伙会先在球衣商标处贴上自制标签<p>本文来自<a href="https://post.smzdm.com/p/a6zl5kgg/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
-    <pubDate>Sun, 26 Jul 2026 09:59:37 -0000</pubDate>
-    <guid isPermaLink="true">https://post.smzdm.com/p/a6zl5kgg/</guid>
-    <source url="https://post.smzdm.com/p/a6zl5kgg/">原创频道&gt;&gt;什么值得买</source>
-  </item>
-  <item>
-    <title>[原创频道&gt;&gt;什么值得买] 战术体系碾压个人能力！WOL 2-1击败DRG，glacier半场21杀只是结果</title>
-    <link>https://post.smzdm.com/p/a708gl95/</link>
-    <description><![CDATA[匿名用户glacier单场21杀，WOL如何用战术效率撬动DRGWOL以一种近乎教科书式的方式，2-1击败了DRG。整场比赛看下来，glacier在决胜图莲华古城半场轰下21个击杀，这个数字在当前版本的高强度对抗中并不常见。更值得关注的是，WOL整支队伍的战术执行效率——不是在拼个人极限，而是用更少的失误换取更多的收益。1三张地图的选与拆：DRG的困局在哪里先看BP策略。DRG连续三轮选取日落之城、隐世修<p>本文来自<a href="https://post.smzdm.com/p/a708gl95/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
-    <pubDate>Sun, 26 Jul 2026 09:58:36 -0000</pubDate>
-    <guid isPermaLink="true">https://post.smzdm.com/p/a708gl95/</guid>
-    <source url="https://post.smzdm.com/p/a708gl95/">原创频道&gt;&gt;什么值得买</source>
-  </item>
-  <item>
-    <title>[原创频道&gt;&gt;什么值得买] 入门数位板怎么选？快捷键配置才是拉开差距的关键，高漫Wacom各有侧重</title>
-    <link>https://post.smzdm.com/p/ae6ko2gz/</link>
-    <description><![CDATA[匿名用户快捷键是花架子还是真有用？刚接触数位板的人，容易把快捷键当成"锦上添花"的功能。实际上，熟练使用快捷键能让绘画效率提升不少。快捷键能把常用的撤销、画笔切换、缩放等操作从键盘转移到板子上，省去手在板子和键盘之间来回移动的麻烦。习惯板载快捷键后，手不用离开板子就能完成大部分操作，思路不容易被打断。素材中有人提到"快捷键可以把常用的绘画组合操作设置进去，保证思路不被打断"，说的就是这个道理。快捷键不是越<p>本文来自<a href="https://post.smzdm.com/p/ae6ko2gz/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
-    <pubDate>Sun, 26 Jul 2026 09:57:34 -0000</pubDate>
-    <guid isPermaLink="true">https://post.smzdm.com/p/ae6ko2gz/</guid>
-    <source url="https://post.smzdm.com/p/ae6ko2gz/">原创频道&gt;&gt;什么值得买</source>
-  </item>
-  <item>
-    <title>[原创频道&gt;&gt;什么值得买] 功夫女足》15天狂揽19亿跻身影史TOP50，暑期档格局被它改写</title>
-    <link>https://post.smzdm.com/p/a037vp5w/</link>
-    <description><![CDATA[匿名用户7月26日，《功夫女足》票房（含预售）正式突破19亿元，成为今年暑期档首部触及该量级的影片。影片自7月11日公映以来走势凌厉，7月25日猫眼专业版数据显示累计已达18.56亿元，观影人次超5200万。跨越19亿这道门槛，《功夫女足》仅用不到一天。业内据此判断，影片已跻身中国影史票房TOP50阵列，改写今年暑期档格局。1单日增速0.6亿元+。根据第三方平台实时数据，7月25日午间票房约18.39亿元<p>本文来自<a href="https://post.smzdm.com/p/a037vp5w/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
-    <pubDate>Sun, 26 Jul 2026 09:57:08 -0000</pubDate>
-    <guid isPermaLink="true">https://post.smzdm.com/p/a037vp5w/</guid>
-    <source url="https://post.smzdm.com/p/a037vp5w/">原创频道&gt;&gt;什么值得买</source>
-  </item>
-  <item>
-    <title>[原创频道&gt;&gt;什么值得买] KPL夏季赛首支出局队诞生，DYG垫底锁定年总名额</title>
-    <link>https://post.smzdm.com/p/a823w8kl/</link>
-    <description><![CDATA[匿名用户深圳DYG与西安WE的这场对决，已经是一场无关夏季赛晋级、只关乎尊严的告别战。就在7月22日，西安WE击败佛山DRG的赛果，直接触发了积分淘汰条件，让深圳DYG正式成为本届KPL夏季赛首支提前出局的战队。从春季赛时隔五年重返S组六强，到夏季赛跌入B组仅拿1胜惨淡垫底，这落差足以让粉丝心碎。春季六强到夏季垫底，溃败不止是运气差DYG的断崖式下滑其实早有伏笔。整个夏季赛第二轮，他们仅取得1胜4负的战绩<p>本文来自<a href="https://post.smzdm.com/p/a823w8kl/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
-    <pubDate>Sun, 26 Jul 2026 09:55:24 -0000</pubDate>
-    <guid isPermaLink="true">https://post.smzdm.com/p/a823w8kl/</guid>
-    <source url="https://post.smzdm.com/p/a823w8kl/">原创频道&gt;&gt;什么值得买</source>
-  </item>
-  <item>
-    <title>[原创频道&gt;&gt;什么值得买] BBA这次真急眼了：奔驰C260L从33万直降到25万</title>
-    <link>https://post.smzdm.com/p/awwxm2gp/</link>
-    <description><![CDATA[快科技快科技7月26日消息，2026年国内豪华车市场迎来降价潮，奔驰、宝马、奥迪一改往日高价姿态，多款主力车型终端售价大幅下探，市场竞争进入白热化阶段。以奔驰C260L为例，去年落地价约33万元，如今二十五六万即可提车，入门纯电车型EQB降幅同样惊人，直降13万元。宝马、奥迪让利力度毫不逊色，宝马5系指导价直降8万，3系落地价同步走低；奥迪A6L裸车价跌破26万。Q5L叠加补贴后24万出头就能入手，不少<p>本文来自<a href="https://post.smzdm.com/p/awwxm2gp/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
-    <pubDate>Sun, 26 Jul 2026 09:54:27 -0000</pubDate>
-    <guid isPermaLink="true">https://post.smzdm.com/p/awwxm2gp/</guid>
-    <source url="https://post.smzdm.com/p/awwxm2gp/">原创频道&gt;&gt;什么值得买</source>
-  </item>
-  <item>
-    <title>[原创频道&gt;&gt;什么值得买] 6种花三伏天“狠剪”正当时！剪得越快冒芽越猛，20天花苞挤爆盆</title>
-    <link>https://post.smzdm.com/p/a959k3n0/</link>
-    <description><![CDATA[容者美家设计有人说养花就像养孩子，除了管吃喝，还要修修剪剪，才能开花又多又美。以前不当回事，直到家里养了6种花，才发现不剪会越长越丑，只有舍得修剪，才能越长越猛，20天花苞挤满盆。现在三伏天里，这6种花“狠剪”正当时，赶紧剪起来！三角梅：剪完旱7天，入秋直接开成花瀑布三伏天很多三角梅开完花后，就开始猛长“徒长枝”，一根枝条窜一米长，半片叶子都不带长花芽的，全是空耗养分的“废柴枝”。现在把这些乱飘的徒长枝剪短1<p>本文来自<a href="https://post.smzdm.com/p/a959k3n0/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
-    <pubDate>Sun, 26 Jul 2026 09:53:02 -0000</pubDate>
-    <guid isPermaLink="true">https://post.smzdm.com/p/a959k3n0/</guid>
-    <source url="https://post.smzdm.com/p/a959k3n0/">原创频道&gt;&gt;什么值得买</source>
-  </item>
-  <item>
-    <title>[原创频道&gt;&gt;什么值得买] 闪充电价降至0.73元！比亚迪调价一石二鸟，背后核心优势浮出水面</title>
-    <link>https://post.smzdm.com/p/ad7wokwx/</link>
-    <description><![CDATA[是悦悦不是玥玥不少新能源车主出门补能都会遇到两难难题：第三方普通快充速度慢，排队半小时起步；各大品牌自营超充虽然快，但单价居高不下，长期外出充电成本让人肉疼。最近一条消息在电车圈子持续发酵，多地比亚迪闪充站点电价正式下调至0.73元/度。对比闪充站点初期普遍1.3元/度的定价，降幅接近一半。很多人只看到“充电降价”这件表面事，认为只是简单的优惠引流。但深耕数码、汽车行业多年，我可以直白说：这次调价绝非短期促销，<p>本文来自<a href="https://post.smzdm.com/p/ad7wokwx/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
-    <pubDate>Sun, 26 Jul 2026 09:52:59 -0000</pubDate>
-    <guid isPermaLink="true">https://post.smzdm.com/p/ad7wokwx/</guid>
-    <source url="https://post.smzdm.com/p/ad7wokwx/">原创频道&gt;&gt;什么值得买</source>
-  </item>
-  <item>
-    <title>[原创频道&gt;&gt;什么值得买] 奇瑞风云 A9 上市：10 万出头配 655km 续航，自燃还赔新车？</title>
-    <link>https://post.smzdm.com/p/a6zl59kn/</link>
-    <description><![CDATA[子墨说实事奇瑞风云 A9 正式上市。官方指导价 10.99 万 - 12.99 万，算上限时置换补贴，到手 10.69 万起，三款车都比预售价降了 6000 块。单看入门价，比小鹏 MONA M03 的入门版便宜了将近 1 万。价格够实在，但真正让它话题度拉满的，还不是定价。官方公布的预售数据挺炸：7 月 9 号开订，72 小时大定锁单 18173 台；预售 15 天，总订单破了 37819 台。对照一下乘<p>本文来自<a href="https://post.smzdm.com/p/a6zl59kn/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
-    <pubDate>Sun, 26 Jul 2026 09:52:17 -0000</pubDate>
-    <guid isPermaLink="true">https://post.smzdm.com/p/a6zl59kn/</guid>
-    <source url="https://post.smzdm.com/p/a6zl59kn/">原创频道&gt;&gt;什么值得买</source>
-  </item>
-  <item>
-    <title>[原创频道&gt;&gt;什么值得买] 奔赴中原文脉远方，在河南博物院，读懂宋金元陶瓷千年风华～</title>
-    <link>https://post.smzdm.com/p/al3p4rmg/</link>
-    <description><![CDATA[冷艳馨夏日遛娃避暑最优解，绝对不是商场游乐园，走进河南博物院沉浸式触摸千年中原文脉，书本里枯燥的宋金元瓷器，亲眼看见实物瞬间就能读懂历史，很多历史疑问，只有站在文物面前，才能找到标准答案。不少家长带娃来河南博物院，进门就晕头转向，漫无目的闲逛大半天，累得腰酸背痛，核心国宝一件没细看，今天这份硬核刷馆攻略，把预约方式、游览动线、必逛展区、瓷器观赏重点一次性讲透，轻松带娃读懂宋金元代陶瓷发展史。📌 第一部分<p>本文来自<a href="https://post.smzdm.com/p/al3p4rmg/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
-    <pubDate>Sun, 26 Jul 2026 09:50:19 -0000</pubDate>
-    <guid isPermaLink="true">https://post.smzdm.com/p/al3p4rmg/</guid>
-    <source url="https://post.smzdm.com/p/al3p4rmg/">原创频道&gt;&gt;什么值得买</source>
-  </item>
-  <item>
-    <title>[原创频道&gt;&gt;什么值得买] MacBook轻薄本真实上手，办公创作全能适配</title>
-    <link>https://post.smzdm.com/p/a6zl5vnn/</link>
-    <description><![CDATA[顾嘉琪刚入手这款MacBook Neo，拆开包装第一眼就被简约银灰色机身戳中，整机轻薄小巧，放在原装包装盒上氛围感拉满，日常携带毫无负担。开机后刚好弹出macOS系统更新界面，系统会自动推送安全补丁与功能优化包，下载过程稳定，全程不需要手动复杂操作，对数码小白十分友好。屏幕色彩过渡柔和，紫蓝渐变壁纸观感高级，不管是浏览图文、剪辑日常碎片还是写长文案，色彩还原都很自然，长时间看屏幕也不容易视觉疲劳。纯白巧<p>本文来自<a href="https://post.smzdm.com/p/a6zl5vnn/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
-    <pubDate>Sun, 26 Jul 2026 09:48:46 -0000</pubDate>
-    <guid isPermaLink="true">https://post.smzdm.com/p/a6zl5vnn/</guid>
-    <source url="https://post.smzdm.com/p/a6zl5vnn/">原创频道&gt;&gt;什么值得买</source>
   </item>
   <item>
     <title>[IT之家] 工信部启动国家级零碳工厂、零碳算力设施建设工作：要求 2030 年非化石能源消费占比不低于 95%</title>
@@ -171,23 +440,15 @@
   </item>
   <item>
     <title>[V2EX] [程序员] 上次分享的 Codex 桌宠，我又发现它还会将 codex 日志变成“小票”，也挺有趣的</title>
-    <link>https://www.v2ex.com/t/1229927#reply0</link>
+    <link>https://www.v2ex.com/t/1229927#reply2</link>
     <description><![CDATA[前几天发过一个 Codex 桌宠“票仔”，本来以为就是放在桌面上看着玩。后来翻了一下，发现作者最近一直在往里面加东西。桌宠只是入口，真正有意思的是它会把 Codex 的工作记录开成一张“小票”。<br /><br />比如今天让 Codex 干了多少轮活、用了多少 Token 、调用了多少工具、卡在等待确认上多久，最后都会变成一张账单一样的东西。<br /><br />不是用来报销，也不是什么效率管理工具。就是有时候一天跟 AI 来回折腾完，看到一张“今日工分”和“本日工种”的小票，会觉得这段时间至少留下了点痕迹。<br /><br />这次还多了个“情绪小票”。名字有点中二，但我看下来不是读你的 Prompt ，也不会分析聊天内容。它只看轮次、打断、响应等待、协作时长这些数据，给这次人机协作配一个状态。<br /><br />大概可以理解成：<br />打工小票是在记“今天干了多少活”；<br />情绪小票是在记“今天和 AI 配合得顺不顺”。<br /><br />数据都在本地处理，Prompt 、回复正文、代码、文件路径这些不会出现在小票里。<br /><br />还是那个项目：<br /><a href="https://github.com/a-bai-2026/ai-work-receipt" rel="nofollow noopener" target="_blank">https://github.com/a-bai-2026/ai-work-receipt</a><br /><br />装 Skill 和桌宠：<br />npx codex-work-receipt@latest --install-companion<br /><br />我现在觉得它比较像一只会记账的桌宠。<br />没什么刚需，但一天结束时开一张票，确实有一点奇怪的仪式感<br />就挺搞怪的]]></description>
     <pubDate>Sun, 26 Jul 2026 09:46:51 -0000</pubDate>
-    <guid isPermaLink="true">https://www.v2ex.com/t/1229927#reply0</guid>
-    <source url="https://www.v2ex.com/t/1229927#reply0">V2EX</source>
-  </item>
-  <item>
-    <title>[原创频道&gt;&gt;什么值得买] 洗地机防缠毛技术真相：三代方案硬核拆解，看看哪类真正适合你家</title>
-    <link>https://post.smzdm.com/p/al3p4kvp/</link>
-    <description><![CDATA[匿名用户养宠家庭和长发用户买洗地机，最怕的不是吸不干净，而是拖完地还得蹲在地上用手抠滚刷。滚刷缠满头发和宠物毛，清理起来又脏又费时，很多人买回去用了两次就闲置了。防缠毛技术已经成为这类用户选购洗地机的核心指标，但各家宣传的“0缠绕”“彻底防缠”到底能不能信？这篇文章把市面上主流技术方案拆开来聊，看看它们实际表现如何、分别适合什么场景。防缠毛技术分三代，你买的是哪一代洗地机防缠毛技术经历了三次迭代，核心区别<p>本文来自<a href="https://post.smzdm.com/p/al3p4kvp/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
-    <pubDate>Sun, 26 Jul 2026 09:45:45 -0000</pubDate>
-    <guid isPermaLink="true">https://post.smzdm.com/p/al3p4kvp/</guid>
-    <source url="https://post.smzdm.com/p/al3p4kvp/">原创频道&gt;&gt;什么值得买</source>
+    <guid isPermaLink="true">https://www.v2ex.com/t/1229927#reply2</guid>
+    <source url="https://www.v2ex.com/t/1229927#reply2">V2EX</source>
   </item>
   <item>
     <title>[V2EX] [分享创造] 受够了 CF Web Analytics 页面的用户体验，自己搞，免费用</title>
-    <link>https://www.v2ex.com/t/1229926#reply1</link>
+    <link>https://www.v2ex.com/t/1229926#reply2</link>
     <description><![CDATA[<p>我手上有上百个小站，游戏、工具、小玩意儿都有。流量差得很远，多的一天几万次访问，
 少的一天个位数。全都挂在 Cloudflare 上，用它自带的 Web Analytics 。</p>
 <p>我每天早上要干的事其实特别简单：扫一眼，看昨晚有没有哪个站动了。就这一件事，
@@ -232,52 +493,28 @@
 </ul>
 <p>轻喷，谢谢。</p>]]></description>
     <pubDate>Sun, 26 Jul 2026 09:45:03 -0000</pubDate>
-    <guid isPermaLink="true">https://www.v2ex.com/t/1229926#reply1</guid>
-    <source url="https://www.v2ex.com/t/1229926#reply1">V2EX</source>
+    <guid isPermaLink="true">https://www.v2ex.com/t/1229926#reply2</guid>
+    <source url="https://www.v2ex.com/t/1229926#reply2">V2EX</source>
   </item>
   <item>
-    <title>[原创频道&gt;&gt;什么值得买] 华硕国行路由器安全更新落地 修复UU漏洞规避黑客攻击</title>
-    <link>https://post.smzdm.com/p/awwxm23g/</link>
-    <description><![CDATA[快科技快科技7月26日消息，据媒体报道，华硕近日针对国行路由器发布一项紧急安全更新，修复编号为CVE-2026-13385的严重固件漏洞。该漏洞在CVSS风险评分中高达9.5分（满分10分），表明其对用户设备安全构成重大威胁。据技术分析，该漏洞源于华硕特定机型（CN SKU）搭载的ASUSWRT固件中存在证书验证缺陷，影响版本包括ASUSWRT 3.0.0.4_386、3.0.0.4_388及3.0.0<p>本文来自<a href="https://post.smzdm.com/p/awwxm23g/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
-    <pubDate>Sun, 26 Jul 2026 09:44:28 -0000</pubDate>
-    <guid isPermaLink="true">https://post.smzdm.com/p/awwxm23g/</guid>
-    <source url="https://post.smzdm.com/p/awwxm23g/">原创频道&gt;&gt;什么值得买</source>
-  </item>
-  <item>
-    <title>[原创频道&gt;&gt;什么值得买] 家庭露营烤羊肉串，这些事想好了再出发</title>
-    <link>https://post.smzdm.com/p/ae6ko2m3/</link>
-    <description><![CDATA[爱分享的小值得带着家人去露营，烤羊肉串几乎是标配。但真的搭好炉子点上炭才发现——肉选错了、调料没带全，一串下来不是外焦内生就是膻味明显，孩子不愿意吃，大人也没了兴致。下面把家庭露营烤羊肉串的几个实际问题说清楚，从食材选择到烤完收摊，每个环节都有要注意的地方。食材选择：新鲜和来源比什么都重要家庭露营的特殊性在于，食材通常是提前备好带出去的，不像在家可以随时补货。所以食材的选择标准要比平时更严：卫生有保障、方便携带<p>本文来自<a href="https://post.smzdm.com/p/ae6ko2m3/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
-    <pubDate>Sun, 26 Jul 2026 09:44:06 -0000</pubDate>
-    <guid isPermaLink="true">https://post.smzdm.com/p/ae6ko2m3/</guid>
-    <source url="https://post.smzdm.com/p/ae6ko2m3/">原创频道&gt;&gt;什么值得买</source>
-  </item>
-  <item>
-    <title>[原创频道&gt;&gt;什么值得买] 德训鞋别乱买！宽脚高脚背人群看完这篇再决定</title>
-    <link>https://post.smzdm.com/p/a708glql/</link>
-    <description><![CDATA[匿名用户德训鞋最近两年是真的火，杨幂、赵露思这些明星都在穿。但很多人拿到手才发现——鞋型瘦长、鞋底偏硬，宽脚高脚背穿一天下来，脚趾挤得发红，后跟磨出血泡。这不是你的脚有问题，是没选对适合自己的那双。德训鞋这东西，百搭是真百搭，但挑错了码数和版型，体验天上地下。关键问题是：你的脚型到底适合哪款？不同品牌的德训鞋差异在哪？花多少钱才能买到一双真正舒服的？把这几个事儿想清楚，选购决策就清晰多了。1德训鞋到底是个<p>本文来自<a href="https://post.smzdm.com/p/a708glql/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
-    <pubDate>Sun, 26 Jul 2026 09:43:55 -0000</pubDate>
-    <guid isPermaLink="true">https://post.smzdm.com/p/a708glql/</guid>
-    <source url="https://post.smzdm.com/p/a708glql/">原创频道&gt;&gt;什么值得买</source>
-  </item>
-  <item>
-    <title>[原创频道&gt;&gt;什么值得买] 飞科H6还是徕芬？看完这篇不再纠结，这几类人直接对号入座</title>
-    <link>https://post.smzdm.com/p/ad7wo0qk/</link>
-    <description><![CDATA[匿名用户飞科星环H6和徕芬怎么选买吹风机这件事，很多人卡在"到底选哪款"上。飞科星环H6和徕芬是国内高速吹风机里讨论度很高的两个品牌，价格都在500-600元区间，都主打护发速干。但两家的技术路线不太一样：飞科H6强调AI距离感应控温，号称"近吹不烫"；徕芬则走"精准恒温"路线，靠高频测温保持温度稳定。到底哪个更适合你，需要先弄清楚它们的核心差异在哪。控温方式：距离感应 vs 精准恒温飞科H6用的是TOF<p>本文来自<a href="https://post.smzdm.com/p/ad7wo0qk/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
-    <pubDate>Sun, 26 Jul 2026 09:43:34 -0000</pubDate>
-    <guid isPermaLink="true">https://post.smzdm.com/p/ad7wo0qk/</guid>
-    <source url="https://post.smzdm.com/p/ad7wo0qk/">原创频道&gt;&gt;什么值得买</source>
+    <title>[Hacker News] Systemd Linger</title>
+    <link>https://etbe.coker.com.au/2026/07/24/systemd-linger/</link>
+    <description><![CDATA[<a href="https://news.ycombinator.com/item?id=49056351">Comments</a>]]></description>
+    <pubDate>Sun, 26 Jul 2026 09:43:13 -0000</pubDate>
+    <guid isPermaLink="true">https://etbe.coker.com.au/2026/07/24/systemd-linger/</guid>
+    <source url="https://etbe.coker.com.au/2026/07/24/systemd-linger/">Hacker News</source>
   </item>
   <item>
     <title>[V2EX] [程序员] opencode ——最过誉的开源项目</title>
-    <link>https://www.v2ex.com/t/1229924#reply0</link>
+    <link>https://www.v2ex.com/t/1229924#reply3</link>
     <description><![CDATA[<p>买了 opencode go ，发现到底谁在用这玩意，打开一个 cli 什么都不干占用内存 700mb ，只是用来写文章就来到了 1 个 G 。
 同样的模型，deepseek pro 在 claude 里面验证过能完成的任务，在 opencode 里磕磕绊绊的进行不下去。
 直接 claude code 改个 setting.json 就能换模型的事，还专门做一个开源的很菜的项目。而且 codex ，claude code 都开源了（被迫）。
 以前的开源项目小而美，现在的开源项目大而肥。
 还有各种大大小小的 bug 就不说了。</p>]]></description>
     <pubDate>Sun, 26 Jul 2026 09:43:04 -0000</pubDate>
-    <guid isPermaLink="true">https://www.v2ex.com/t/1229924#reply0</guid>
-    <source url="https://www.v2ex.com/t/1229924#reply0">V2EX</source>
+    <guid isPermaLink="true">https://www.v2ex.com/t/1229924#reply3</guid>
+    <source url="https://www.v2ex.com/t/1229924#reply3">V2EX</source>
   </item>
   <item>
     <title>[V2EX] [推广] 🔥🔥全网 Token 涨价潮，尔信反手打对折（plus 0.04 倍率）——价格直接冰点！注册送免费额度，不定时免费抽奖</title>
@@ -533,6 +770,14 @@
     <source url="https://www.ithome.com/0/981/767.htm">IT之家</source>
   </item>
   <item>
+    <title>[Hacker News] Elevated Errors for Opus 5</title>
+    <link>https://status.claude.com/incidents/zftg3gqkmv18</link>
+    <description><![CDATA[<a href="https://news.ycombinator.com/item?id=49056194">Comments</a>]]></description>
+    <pubDate>Sun, 26 Jul 2026 09:18:34 -0000</pubDate>
+    <guid isPermaLink="true">https://status.claude.com/incidents/zftg3gqkmv18</guid>
+    <source url="https://status.claude.com/incidents/zftg3gqkmv18">Hacker News</source>
+  </item>
+  <item>
     <title>[V2EX] [分享发现] 玻利维亚汇率暴跌， Codex go 3 刀， 20X 840+人民币</title>
     <link>https://www.v2ex.com/t/1229922#reply0</link>
     <description><![CDATA[今天还可用，当一回精神玻利维亚人<br /><br />Claude 也可以用，但是包封号，包括今天出的支付 bug 估计也快没了..<br />Codex 目前还是稳的，并且又重置了。<br /><br />手机：<br />安卓的手机，需要可以访问 Google play<br /><br />卡：<br />Visa 或者 mastercard 就可以，国内的就可以，不需要发卡行为玻利维亚<br /><br />进入 <a href="http://payments.google.com" rel="nofollow noopener" target="_blank">payments.google.com</a>👉设置👉新增支付资料👉玻利维亚(新增一个)，但老的最好删掉<br /><br />如果原本 google play 已经绑定了 chatgpt ，可以先解绑，避免连坐<br /><br />然后登录 chatgpt ，订阅。<br /><br />其他工具类：<br /><br />节点：google play 的节点不限制，但是 chatgpt 的还是要绑好 IP 跟帐号一致<br />节点我用的是 kycloud ，国家挺多的，最近不能用 V2ray 了，要换 clashmi<br /><br />需要新的 openai 账号或者 google 账号的话可以租一个或者接码<br />担心接码出发二次接码的话，可以租<br />DogeSMS 刚好最近波兰和英国号码在打折,7.31 结束<br /><a href="https://www.dogesms.com/dashboard/rental" rel="nofollow noopener" target="_blank">https://www.dogesms.com/dashboard/rental</a><br /><br />目前不知道 U 卡能不能支付，应该能绑定就能支付]]></description>
@@ -573,12 +818,12 @@
     <source url="https://astral.sh/blog/ruff-v0.16.0">Hacker News</source>
   </item>
   <item>
-    <title>[IT之家] 洛图科技：2026 年上半年中国智能投影市场销量同比下降 26.0%、销售额下滑 27.0%</title>
-    <link>https://www.ithome.com/0/981/764.htm</link>
-    <description><![CDATA[<p>IT之家 7 月 26 日消息，洛图科技昨日发布报告，2026 年上半年，中国智能投影市场（不含激光电视）全渠道的销量为 205.6 万台，<strong>同比下降 26.0%</strong>；销售额为 33.4 亿元，<strong>同比下滑 27.0%</strong>。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/7/d0557f69-78dd-4094-824e-f4d22f559f5a.png" /></p><figcaption>▲ 2023-2026 年中国智能投影市场分半年度销量，单位：万台</figcaption><p>IT之家从报告获悉，自 2024 年第二季度起，<strong>市场已连续九个季度发生了规模的同比下滑</strong>。同时，2026 年第二季度的销量已不足 100 万台，这是 2022 年以来<strong>首次单季跌破百万台关口</strong>。</p><p>2026 年上半年，在中国智能投影线上市场，TOP10 品牌的销量、销额合计份额分别超过 70%、85%，比 2025 年同期均有所提升。市场集中度进一步加强。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/7/ebd61c73-2b26-4a6e-8b64-c6f45255a04b.png" /></p><p>报道提到，尽管市场的整体规模收缩，但在产品端，亮度、分辨率等核心配置方面还是展现了明显的结构化升级：</p><ul class=" list-paddingleft-2"><li><p><strong>亮度方面</strong>：2026 年上半年，500 流明以下产品仍占据 57.5% 的销量份额，但同比大幅下降 14.9 个百分点。500-1000 流明、1000-1500 流明、3000 流明以上各亮度段的销量份额同比分别上涨 6.6、10.0 和 1.6 个百分点。</p></li><li><p><strong>分辨率方面</strong>：FHD 拥有六成左右的市场份额；4K UHD 的销量占比为 14.7%，同比上涨 3.6 个百分点。</p></li></ul>]]></description>
-    <pubDate>Sun, 26 Jul 2026 08:56:39 -0000</pubDate>
-    <guid isPermaLink="true">https://www.ithome.com/0/981/764.htm</guid>
-    <source url="https://www.ithome.com/0/981/764.htm">IT之家</source>
+    <title>[雷峰网] 数学大佬在前面拓荒，AI研究员在后面捡宝，菲尔兹奖还能拿来破AI「黑盒」？</title>
+    <link>https://www.leiphone.com/category/yanxishe/e05vwo1DgZf3HnFZ.html</link>
+    <description><![CDATA[<section style="text-align: center; margin: 0px 16px; line-height: 1.75em; display: block;"><img class="rich_pages wxw-img" src="https://static.leiphone.com/uploads/new/images/20260726/6a65cae5a33d9.png?imageMogr2/quality/90" style="width: 100%; display: inline-block; text-align: center; background-color: transparent;" /></section><section style="padding-left: 16px; padding-right: 16px;"><section style="width: 100%; display: flex; padding: 0px;"><section style="width: 100%; padding-left: 0px; padding-right: 0px;"><section style="width: 100%; background: rgb(246, 248, 255); padding: 20px 0px 12px; margin-top: 0px; margin-bottom: 0px;"><section style="text-align: center;"><section><section style="text-align: justify; margin: 0px 16px;"><span style="font-family: Arial, Helvetica, sans-serif; font-size: 15px; font-weight: bold; letter-spacing: 0.5px;"><span><span><span style="font-weight: bold;">数学界与AI界狠狠联动了</span></span></span></span></section><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><section style="text-align: left; margin-bottom: 0px; margin-top: 0px;"><span style="font-family: Arial, Helvetica, sans-serif; font-size: 15px; font-weight: bold; letter-spacing: 0.5px;"><span><br /></span></span></section></section></section><span></span><span></span><span></span><span></span><p style="font-size: 14px; color: rgb(0, 0, 0); line-height: 25px; margin-bottom: 0px; margin-top: 0px;"><span style="font-family: Arial, Helvetica, sans-serif;"><span style="color: #888888; font-weight: normal;">&nbsp; &nbsp; 作者丨</span></span><span style="font-size: 14px; line-height: 25px; color: #888888; font-weight: normal; font-family: Arial, Helvetica, sans-serif;">高允毅</span><strong><span><strong><span><span><br /></span></span></strong></span></strong></p><p style="font-size: 14px; color: rgb(0, 0, 0); line-height: 25px; margin-bottom: 0px; margin-top: 0px;"><span style="font-family: Optima-Regular, PingFangTC-light;"><span style="color: #888888; font-weight: normal; font-family: Arial, Helvetica, sans-serif;"><span>&nbsp; &nbsp; 编辑丨</span><span>马晓宁</span></span></span></p><p style="font-size: 14px; color: rgb(0, 0, 0); line-height: 25px; text-align: right; margin: 0px 16px;"><strong><strong><span><span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span></span></strong></strong></p></section></section></section></section><p style="text-align: justify; margin: 16px 16px 24px; line-height: 1.75em;"><span><span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">级别的纯数学硬成果，已经直接落地到大模型训练一线了。</span></span></p><p style="text-align: justify; margin: 16px 16px 24px; line-height: 1.75em;"><span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">一位小红书作者Z9在翻论文时发现，刚刚刷屏全网的三维挂谷猜想，现在被佛罗里达大学团队搬进了神经网络训练流程，跨界解决大模型的 “黑盒问题”了。</span></p><p style="text-align: justify; margin: 16px 16px 24px; line-height: 1.75em;"><span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">他们的论文叫《GeoLAN: Geometric Learning of Latent Explanatory Directions in Large Language Models》，其核心是利用挂谷猜想证明中，诞生的核心概念&quot;粘性挂谷集&quot;，给大模型的内部语义空间立了套 “摆放规矩”，从训练阶段就把缠成一团的概念捋顺，让 AI 的思考路径真正变得可追溯。</span></p><section style="text-align: justify; margin: 16px 16px 24px; line-height: 1.75em;"><img class="rich_pages wxw-img" src="https://static.leiphone.com/uploads/new/images/20260726/6a65cae5daacd.png?imageMogr2/quality/90" style="background-color: transparent;" /></section><p style="text-align: justify; margin: 16px 16px 24px; line-height: 1.75em;"><span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">真可谓，前有数学大佬开荒，后有AI研究员捡宝。</span></p><section><section><section style="width: 100%; display: flex; padding: 0px 14px 0px 14px;"><section style="display: flex;"><section><img alt="图片" class="rich_pages wxw-img __bg_gif" src="https://static.leiphone.com/uploads/new/images/20260726/6a65cae6228e9.jpg?imageMogr2/quality/90" style="display: block; height: auto !important; width: 38px !important; background-color: transparent;" /></section><section style="text-align: center;"><p style="font-size: 36px; color: #333333; line-height: 50px;"><strong><span>01</span><span><br /></span></strong></p><h2><span><br /></span></h2><h2><strong><strong style="text-align: center; font-size: 18px; color: rgb(51, 51, 51); line-height: 25px; font-weight: bold; font-family: Optima-Regular, PingFangTC-light;"><strong style="text-align: center; color: rgb(51, 51, 51); line-height: 25px; font-weight: bold; font-family: Arial, Helvetica, sans-serif; font-size: 18px;"><span style="text-align: center; color: #333333; line-height: 25px; font-weight: bold; font-family: Arial, Helvetica, sans-serif; font-size: 18px;">大模型的底层通病：表征坍塌</span><span><br /></span></strong></strong></strong></h2></section></section></section></section></section><p style="text-align: justify; margin: 16px 16px 24px; line-height: 1.75em;"><span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">先从大家都有体感的 “黑盒问题” 说起。</span></p><p style="text-align: justify; margin: 16px 16px 24px; line-height: 1.75em;"><span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">现在的大模型，做题、写代码、做分析正确率都很高，但你问它 “这一步是怎么想出来的”，它要么说不清楚，要么直接编个假理由糊弄你。</span></p><p style="text-align: justify; margin: 16px 16px 24px; line-height: 1.75em;"><span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">这个问题的根源，藏在一个叫表征坍塌的底层特性里。</span></p><p style="text-align: justify; margin: 16px 16px 24px; line-height: 1.75em;"><span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">你可以把大模型的语义空间想象成一个几千层的超大智能仓库，理论上能分门别类放下无数概念：逻辑、情感、事实、推理等，各自占位。</span></p><p style="text-align: justify; margin: 16px 16px 24px; line-height: 1.75em;"><span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">但 Transformer 训练的时候特别 “会偷懒”，它总爱把所有语义信息都一股脑堆在仓库门口的一小块区域，剩下 90% 的空间全空着不用。</span></p><p style="text-align: justify; margin: 16px 16px 24px; line-height: 1.75em;"><span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">结果就是，所有概念都挤在一个狭窄的高维锥形区域里，这就是学界说的“各向异性”。</span></p><p style="text-align: justify; margin: 16px 16px 24px; line-height: 1.75em;"><span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">而挤成一团的后果会带来很多问题。</span></p><p style="text-align: justify; margin: 16px 16px 24px; line-height: 1.75em;"><span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">比如，概念纠缠会把八竿子打不着的内容硬塞在同一个方向，让一个神经元既要响应 “猫”，又要激活 “圣经经文”</span></p><p style="text-align: justify; margin: 16px 16px 24px; line-height: 1.75em;"><span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">而且你根本拆不清哪部分表征对应哪条逻辑，连模型自己都没法还原真实思考路径。</span></p><p style="text-align: justify; margin: 16px 16px 24px; line-height: 1.75em;"><span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">当把相近但不同的概念挤在一处，还容易混淆，稍微换个问法，AI就容易胡说。</span></p><p style="text-align: justify; margin: 16px 16px 24px; line-height: 1.75em;"><span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">对此，论文里有个很精准的总结，少数几个 “流氓维度” 霸占了大部分信息方差，把模型的有效容量全浪费了。</span></p><p style="text-align: justify; margin: 16px 16px 24px; line-height: 1.75em;"><span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">这个问题几乎是所有主流 Transformer 架构的弊病，从 GPT、Llama 到 Gemma无一幸免。</span></p><p style="text-align: justify; margin: 16px 16px 24px; line-height: 1.75em;"><span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">面对这种局面，之前行业的解法基本都是 “事后补救”，等模型训练完，用稀疏自编码器之类的工具，把缠在一起的概念强行拆开。</span></p><p style="text-align: justify; margin: 16px 16px 24px; line-height: 1.75em;"><span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">但这种方法拆出来的结果只是 “看起来合理”，不一定对应模型内部的真实逻辑，保真度始终打折扣。</span></p><p style="text-align: justify; margin: 16px 16px 24px; line-height: 1.75em;"><span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">现在，GeoLAN的思路直接换了个方向：别等乱了再整理，刚开始就按规矩摆好。在训练全程给表征空间加几何约束，让每个概念各就各位。</span></p><section><section><section style="width: 100%; display: flex; padding: 0px 14px 0px 14px;"><section style="display: flex;"><section><img alt="图片" class="rich_pages wxw-img __bg_gif" src="https://static.leiphone.com/uploads/new/images/20260726/6a65cae654ead.jpg?imageMogr2/quality/90" style="display: block; height: auto !important; width: 38px !important; background-color: transparent;" /></section><section style="text-align: center;"><p style="font-size: 36px; color: #333333; line-height: 50px;"><strong><span>02</span><span><br /></span></strong></p><h2><span><br /></span></h2><h2><strong><strong style="text-align: center; font-size: 18px; color: rgb(51, 51, 51); line-height: 25px; font-weight: bold; font-family: Optima-Regular, PingFangTC-light;"><strong style="text-align: center; color: rgb(51, 51, 51); line-height: 25px; font-weight: bold; font-family: Arial, Helvetica, sans-serif; font-size: 18px;"><span style="text-align: center; color: #333333; line-height: 25px; font-weight: bold; font-family: Arial, Helvetica, sans-serif; font-size: 18px;">挂谷猜想怎么和 AI 扯上关系？</span><span><br /></span></strong></strong></strong></h2></section></section></section></section></section><p style="text-align: justify; margin: 16px 16px 24px; line-height: 1.75em;"><span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">要理解GeoLAN的思路，得先知道挂谷猜想在讲什么。</span></p><p style="text-align: justify; margin: 16px 16px 24px; line-height: 1.75em;"><span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">1917年，数学家挂谷宗一问了一个看似简单，却折磨数学界半个世纪的难题：拿一根1厘米长的针，在桌面上转一圈，它扫过的面积最小能有多小？</span></p><p style="text-align: justify; margin: 16px 16px 24px; line-height: 1.75em;"><span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">你可能会想，转一圈嘛，肯定得画个圈，面积小不了。但数学家发现，可以接近于0。</span></p><p style="text-align: justify; margin: 16px 16px 24px; line-height: 1.75em;"><span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">怎么做到的呢？</span></p><p style="text-align: justify; margin: 16px 16px 24px; line-height: 1.75em;"><span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">如果你让针一边旋转一边滑动，它居然能扫出一个面积几乎为零的奇葩图形。也就是说在二维世界里，你可以把全方位的几何轨迹塞进一个极小的角落里。</span></p><p style="text-align: justify; margin: 16px 16px 24px; line-height: 1.75em;"><span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">挑战进一步升级，如果在三维空间呢？当这根针可以在上下左右、无数个立体方向上旋转，要想把这些全方向的针全部装进一个空间里，这个空间最少需要多大？</span></p><p style="text-align: justify; margin: 16px 16px 24px; line-height: 1.75em;"><span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">按照二维的经验，在三维空间里，这个图形的绝对体积依然可以被压缩到接近于零。</span></p><p style="text-align: justify; margin: 16px 16px 24px; line-height: 1.75em;"><span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">但这里产生了一个新谜题：这个图形虽然空洞得没有体积，但它在微观上是不是也缩水、退化了？数学家引入了“分形维数”来衡量它的骨架密实度。</span></p><p style="text-align: justify; margin: 16px 16px 24px; line-height: 1.75em;"><span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">最后王虹等人发现，即便你把图形的体积压榨得再空洞，为了照顾到每一个方向的针，它内部交织的骨架依然保持着结结实实的“三维饱满度”，在微观维度上一点都没有退化。这正是王虹终结世纪难题的伟大之处。</span></p><p style="text-align: justify; margin: 16px 16px 24px; line-height: 1.75em;"><span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">正是在这个硬核的证明过程中，诞生了一个极其关键的概念叫“粘性挂谷集”。</span></p><p style="text-align: justify; margin: 16px 16px 24px; line-height: 1.75em;"><span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">“粘性”说白了就是一套防挤规则。它专门用来管住那些线段和管子，不让它们往一块儿凑。</span></p><p style="text-align: justify; margin: 16px 16px 24px; line-height: 1.75em;"><span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">如果一组管子遵守了这套规则，它们就会老老实实铺开，空间该是多大还是多大；但如果它们不守规矩，全挤在一个小角落里，空间的“大小”就会缩水，看着像被压扁了一样。</span></p><p style="text-align: justify; margin: 16px 16px 24px; line-height: 1.75em;"><span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">看到这儿你应该能对上号了：大模型的表征坍塌，不就是 “语义管子不满足粘性条件、全挤一块了吗”？</span></p><p style="text-align: justify; margin: 16px 16px 24px; line-height: 1.75em;"><span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">GeoLAN 做的事，是直接把挂谷猜想的数学结论拿来当工程标准：既然数学上已经严格证明 “满足粘性，空间不坍缩”，那我们就给大模型的语义空间也加上同款粘性约束，让它的表征天然就不会挤成一团。</span></p><p style="text-align: justify; margin: 16px 16px 24px; line-height: 1.75em;"><span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">要把这个规则塞进训练过程，核心是造出一个能量化的惩罚函数，也就是能让模型算得出来、知道怎么改的惩罚规则。</span></p><p style="text-align: justify; margin: 16px 16px 24px; line-height: 1.75em;"><span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">然后，GeoLAN设计了两套能算账的惩罚规则，把挂谷猜想里的几何规矩变成了训练目标。一个叫KT-CW ，专治 “语义扎堆”；另一个叫KT-Attn ，专治 “注意力偷懒”。</span></p><p style="text-align: justify; margin: 16px 16px 24px; line-height: 1.75em;"><span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">KT-CW简单说，就是训练的时候随机抽查语义空间的各个方向。如果发现某个方向挤了太多语义信息，就给模型扣分。逼着模型把知识均匀铺满整个高维空间的每个角落，把之前浪费的维度全用上，从根上解决“挤成一团”的问题。</span></p><p style="text-align: justify; margin: 16px 16px 24px; line-height: 1.75em;"><span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">另一套KT-Attn则专治注意力机制的摸鱼行为。大模型的注意力头到了训练后期往往会陷入严重的同质化，很多头终日只盯着同一个词同一个位置打转，有效干活的劳动力极少。这条规则强行规定每个注意力头必须关注截然不同的语义区域，确保注意力能够全方向覆盖，彻底根治了注意力头的秩坍缩现象。</span></p><p style="text-align: justify; margin: 16px 16px 24px; line-height: 1.75em;"><span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">这套组合拳打下来，效果可以说是立竿见影。</span></p><p style="text-align: justify; margin: 16px 16px 24px; line-height: 1.75em;"><span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">在Llama-3-8B上，GeoLAN硬生生把原本被挤扁的锥形表征空间揉捏成了圆润的球形，挤在一起的程度显著降低，各方向均匀性大幅提升，同时保持了任务准确率。</span></p><p style="text-align: justify; margin: 16px 16px 24px; line-height: 1.75em;"><span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">在 Gemma-3-4B 上，MMLU 准确率从 0.59 提升到 0.60，约提升 0.75 个百分点。TruthfulQA 语义稳定性显著改善。</span></p><p style="text-align: justify; margin: 16px 16px 24px; line-height: 1.75em;"><span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">在更大体量的Gemma-3-12B上，偏见率指标也迎来了统计学层面的明显下降。</span></p><p style="text-align: justify; margin: 16px 16px 24px; line-height: 1.75em;"><span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">更有意思的是，论文还发现了一个叫&quot;金凤花区&quot;的有趣的现象。</span></p><p style="text-align: justify; margin: 16px 16px 24px; line-height: 1.75em;"><span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">即均匀分布这套严苛的几何约束对于参数量太小的模型反而是一种灾难，小模型天生需要靠概念纠缠来进行极致的语义压缩，强行打散只会让内部几何结构彻底恶化。</span></p><p style="text-align: justify; margin: 16px 16px 24px; line-height: 1.75em;"><span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">而对于体量过大的巨无霸模型，庞大的预训练过程已经自发建立起了极其复杂的流形结构，再加这套规则，不仅水土不服，还会拖累整体性能。</span></p><p style="text-align: justify; margin: 16px 16px 24px; line-height: 1.75em;"><span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">只有像四到八十亿参数这样的中等体量模型，刚好拥有足够的空间来消化均匀分布带来的红利，反而效果最好。</span></p><p style="text-align: justify; margin: 16px 16px 24px; line-height: 1.75em;"><span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">不仅如此，论文还推导出一个精妙的定理&quot;语义粘性定理&quot;：当表征满足“防挤规则”时，不同的语义概念会自动分解为近似互相垂直的子空间，论文将其形象地称为颗粒。每个子空间可以独立解释、独立调整，这意味着困扰了业界多年的黑盒问题就此变得透明。</span></p><p style="text-align: justify; margin: 16px 16px 24px; line-height: 1.75em;"><span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">一篇ACL论文，一把将挂谷猜想从纯数学殿堂拽进了AI工程。</span></p><section><section><section style="width: 100%; display: flex; padding: 0px 14px 0px 14px;"><section style="display: flex;"><section><img alt="图片" class="rich_pages wxw-img __bg_gif" src="https://static.leiphone.com/uploads/new/images/20260726/6a65cae68cb59.jpg?imageMogr2/quality/90" style="display: block; height: auto !important; width: 38px !important; background-color: transparent;" /></section><section style="text-align: center;"><p style="font-size: 36px; color: #333333; line-height: 50px;"><strong><span>03</span><span><br /></span></strong></p><h2><span><br /></span></h2><h2><strong><strong style="text-align: center; font-size: 18px; color: rgb(51, 51, 51); line-height: 25px; font-weight: bold; font-family: Optima-Regular, PingFangTC-light;"><strong style="text-align: center; color: rgb(51, 51, 51); line-height: 25px; font-weight: bold; font-family: Arial, Helvetica, sans-serif; font-size: 18px;"><span style="text-align: center; color: #333333; line-height: 25px; font-weight: bold; font-family: Arial, Helvetica, sans-serif; font-size: 18px;">菲尔兹奖得主，</span></strong></strong></strong></h2></section><section style="text-align: center;"><h2><strong><strong style="text-align: center; font-size: 18px; color: rgb(51, 51, 51); line-height: 25px; font-weight: bold; font-family: Optima-Regular, PingFangTC-light;"><strong style="text-align: center; color: rgb(51, 51, 51); line-height: 25px; font-weight: bold; font-family: Arial, Helvetica, sans-serif; font-size: 18px;"><span style="text-align: center; color: #333333; line-height: 25px; font-weight: bold; font-family: Arial, Helvetica, sans-serif; font-size: 18px;">当天宣布加入OpenAI</span><span><br /></span></strong></strong></strong></h2></section></section></section></section></section><p style="text-align: justify; margin: 16px 16px 24px; line-height: 1.75em;"><span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">另一个值得注意的是，本次菲尔兹奖得主中，有一个数学大佬Jacob Tsimerman，在获奖当天直接宣布，未来会很快入职OpenAI，做AI安全方向。</span></p><section style="text-align: justify; margin: 16px 16px 24px; line-height: 1.75em;"><img class="rich_pages wxw-img" src="https://static.leiphone.com/uploads/new/images/20260726/6a65cae6c4e9a.png?imageMogr2/quality/90" style="background-color: transparent; width: 100%;" /></section><p style="text-align: justify; margin: 16px 16px 24px; line-height: 1.75em;"><span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">这让人不得不注意前沿数学与AI的紧密联系。</span></p><p style="text-align: justify; margin: 16px 16px 24px; line-height: 1.75em;"><span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">就在一年前，他与伯克利AI安全研究者Andrew Critch合著了论文《A Taxonomy of Omnicidal Futures Involving Artificial Intelligence》，用数学家的极致严谨，为 AI 风险路径搭建起严密的分类体系。</span></p><p style="text-align: justify; margin: 16px 16px 24px; line-height: 1.75em;"><span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">他本人更是 AI 的重度受益者，在2025 年他有 5 篇数学论文上线 arXiv，直言 AI 让自己的科研产出效率直接翻了一番。</span></p><p style="text-align: justify; margin: 16px 16px 24px; line-height: 1.75em;"><span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">更戏剧的是，在颁奖前三天，有人借助 Anthropic 最新的 Claude Fable 5，一夜推翻了悬置 87 年的雅可比猜想，震动全球数学界。那个人正是他的学生 Levent Alpöge 。</span></p><p style="text-align: justify; margin: 16px 16px 24px; line-height: 1.75em;"><span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">面对AI不断逼近甚至超越顶级数学家的“智商”，连数学泰斗蒂莫西公开感叹：这是他生平第一次见到大语言模型在自己完全陌生的领域，轻松攻克家喻户晓的世纪难题。</span></p><p style="text-align: justify; margin: 16px 16px 24px; line-height: 1.75em;"><span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">数学与AI的关系，早已经过了密不可分这个词所能描述的范畴，它们正在以惊人的速度融为一体。</span></p><p style="text-align: justify; margin: 16px 16px 24px; line-height: 1.75em;"><span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">回顾过去一年AI在数学竞技场上的成绩单，从DeepMind的AlphaProof在国际奥数赛场斩获银牌，到OpenAI的推理模型一举推翻埃尔德什单位距离猜想这桩八十年悬案，再到GPT-5.6仅用一小时就搞定循环双覆盖猜想，以及Claude Fable 5一夜荡平雅可比猜想，AI在短短两个月内连续创下多项世纪纪录，而且攻坚的速度正在呈指数级加快。</span></p><p style="text-align: justify; margin: 16px 16px 24px; line-height: 1.75em;"><span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">在AMS访谈里，Jacob直言，&quot;数学界存在大量'自我安慰，大家盯着AI现在不如数学家，就推断它永远不如数学家。&quot;他用自己的实践证明，虽然模型的证明&quot;不完整、不严谨&quot;，但&quot;通常能拉出大致正确的方法，帮你走完八成的路&quot;。</span></p><p style="text-align: justify; margin: 16px 16px 24px; line-height: 1.75em;"><span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">他甚至认为，两年内，AI 在数学证明这件事上，将全面超过人类。</span></p><p style="text-align: justify; margin: 16px 16px 24px; line-height: 1.75em;"><span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">那么问题来了：四年后的2030年菲尔兹奖，还会有人类得主吗？</span></p><p style="text-align: justify; margin: 16px 16px 24px; line-height: 1.75em;"><span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">菲尔兹奖有硬性的年龄限制，获奖者必须未满40岁。这意味着，如果AI在未来四年内系统性超越了人类数学家的原创发现能力，那么评审委员会将面临一个前所未有的困境：你是在把奖颁给做出最好数学工作的人，还是颁给&quot;人类中做出最好数学工作&quot;的人？</span></p><p style="text-align: justify; margin: 16px 16px 24px; line-height: 1.75em;"><span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">更耐人寻味的，是数学与 AI 的双向加速。 三维挂谷猜想刚被证明，三个月后就诞生了 GeoLAN，纯数学成果直接落地成大模型训练工具。今天菲尔兹奖上表彰的 André-Oort 猜想、希尔伯特第六问题突破，明天又会演化出什么样的 AI 能力？</span></p><p style="text-align: justify; margin: 16px 16px 24px; line-height: 1.75em;"><span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">过去总说，数学家在前头拓荒，AI 在后面捡宝。 但现在，捡宝的那个，已经开始自己开路了。</span></p><p style="text-align: justify; margin: 16px 16px 24px; line-height: 1.75em;"><span style="font-size: 14px; font-family: Arial, Helvetica, sans-serif;"><span style="color: #888888; font-style: italic;">参考链接：https://arxiv.org/html/2603.19460v1</span></span></p><p style="text-align: justify; margin: 16px 16px 24px; line-height: 1.75em;"><span><img class="rich_pages wxw-img" src="https://static.leiphone.com/uploads/new/images/20260726/6a65cae6ea3dc.jpg?imageMogr2/quality/90" /></span></p><section style="text-align: justify; margin: 16px 16px 24px; line-height: 1.75em;"><img class="rich_pages wxw-img" src="https://static.leiphone.com/uploads/new/images/20260726/6a65cae71ad1d.jpg?imageMogr2/quality/90" /></section><section><section><section><section><section><section><svg viewBox="0 0 1 1" xmlns="http://www.w3.org/2000/svg"></svg></section></section><section><p><strong><span><span style="color: #4499E7;">上车，雷峰网带你看遍全球 AI 顶会精华</span></span></strong></p><span></span></section></section></section></section></section><section><section><p style="text-align: center; margin: 0px 16px 8px; line-height: 1.75em;"><span style="line-height: 1.75em; font-size: 15px; letter-spacing: 0.5px; font-family: Arial, Helvetica, sans-serif;"><span style="color: #4499E7; font-weight: bold;">可独家畅览：</span></span></p><p style="text-align: center; margin-right: 16px; margin-bottom: 8px; margin-left: 16px; line-height: 1.75em;"><span style="line-height: 1.75em; font-size: 15px; letter-spacing: 0.5px; font-family: Arial, Helvetica, sans-serif;"><span style="color: #4499E7; font-weight: bold;">专家演讲PPT</span></span></p><p style="text-align: center; margin-right: 16px; margin-bottom: 8px; margin-left: 16px; line-height: 1.75em;"><span style="line-height: 1.75em; font-size: 15px; letter-spacing: 0.5px; font-family: Arial, Helvetica, sans-serif;"><span style="color: #4499E7; font-weight: bold;">大会报告全文</span></span></p><p style="text-align: center; margin-right: 16px; margin-bottom: 8px; margin-left: 16px; line-height: 1.75em;"><span style="line-height: 1.75em; font-size: 15px; letter-spacing: 0.5px; font-family: Arial, Helvetica, sans-serif;"><span style="color: #4499E7; font-weight: bold;">热门论文解读</span></span></p><p style="text-align: center; margin-right: 16px; margin-bottom: 8px; margin-left: 16px; line-height: 1.75em;"><span style="line-height: 1.75em; font-size: 15px; letter-spacing: 0.5px; font-family: Arial, Helvetica, sans-serif;"><span style="color: #4499E7; font-weight: bold;">学术新星访谈</span></span></p><span></span><section style="text-align: justify; margin: 16px 16px 24px; line-height: 1.75em;"><img class="rich_pages wxw-img" src="https://static.leiphone.com/uploads/new/images/20260726/6a65cae7547e1.jpg?imageMogr2/quality/90" style="width: 100%;" /></section><p style="text-align: center; margin-right: 16px; margin-bottom: 8px; margin-left: 16px; line-height: 1.75em;"><span><span style="line-height: 1.75em; font-size: 15px; letter-spacing: 0.5px; font-family: Arial, Helvetica, sans-serif;"><span style="color: #4499E7; font-weight: bold;">扫描上方二维码</span></span></span></p><p style="text-align: center; margin-right: 16px; margin-bottom: 8px; margin-left: 16px; line-height: 1.75em;"><span><span style="line-height: 1.75em; font-size: 15px; letter-spacing: 0.5px; font-family: Arial, Helvetica, sans-serif;"><span style="color: #4499E7; font-weight: bold;">或点击</span></span><span style="line-height: 1.75em; font-size: 15px; letter-spacing: 0.5px; font-family: Arial, Helvetica, sans-serif;"><span style="color: #4499E7; font-weight: bold;">「</span></span><span style="line-height: 1.75em; font-size: 15px; letter-spacing: 0.5px; font-family: Arial, Helvetica, sans-serif;"><span style="color: #4499E7; font-weight: bold;">阅读原文</span></span><span style="line-height: 1.75em; font-size: 15px; letter-spacing: 0.5px; font-family: Arial, Helvetica, sans-serif;"><span style="color: #4499E7; font-weight: bold;">」</span></span><span style="line-height: 1.75em; font-size: 15px; letter-spacing: 0.5px; font-family: Arial, Helvetica, sans-serif;"><span style="color: #4499E7; font-weight: bold;">关注专区。</span></span></span></p></section></section><section><span></span></section><section><span></span></section>]]></description>
+    <pubDate>Sun, 26 Jul 2026 08:54:00 -0000</pubDate>
+    <guid isPermaLink="true">https://www.leiphone.com/category/yanxishe/e05vwo1DgZf3HnFZ.html</guid>
+    <source url="https://www.leiphone.com/category/yanxishe/e05vwo1DgZf3HnFZ.html">雷峰网</source>
   </item>
   <item>
     <title>[V2EX] [Codex] chatgpt 使用网页额度开发本地项目</title>
@@ -594,14 +839,6 @@
     <pubDate>Sun, 26 Jul 2026 08:46:10 -0000</pubDate>
     <guid isPermaLink="true">https://www.v2ex.com/t/1229920#reply0</guid>
     <source url="https://www.v2ex.com/t/1229920#reply0">V2EX</source>
-  </item>
-  <item>
-    <title>[IT之家] 派拉蒙 1100 亿美元收购华纳兄弟获欧盟有条件批准，十年内不得与环球影业达成协议</title>
-    <link>https://www.ithome.com/0/981/762.htm</link>
-    <description><![CDATA[<p>IT之家 7 月 26 日消息，当地时间 7 月 22 日，欧盟委员会发布声明称有条件批准派拉蒙收购华纳兄弟。该批准的前提条件是，派拉蒙完全履行其所作的承诺。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/7/3a32d539-e52d-4f26-be5e-4e2c936b1b09.jpg" /></p><p>按照今年 2 月达成的协议，派拉蒙将以<strong> 1100 亿美元</strong>（IT之家注：现汇率约合 7464.73 亿元人民币）收购华纳兄弟，在这场持续数月的竞购中击败 Netflix。</p><p>欧盟委员会声明称，派拉蒙与华纳均从事院线及视听娱乐内容（如电影、电视剧）的制作与发行业务。两家企业表示，本次交易将助力派拉蒙在快速向流媒体领域扩张、持续变革的娱乐行业中提升竞争力。</p><p>欧盟委员会围绕本次交易，在各国市场及整个欧洲经济区市场调查了以下领域的交易影响：院线电影制作、院线电影发行、视听内容制作与授权、电视频道批发供应、视听服务零售供应。</p><p>委员会认定，在电影制作环节，<strong>欧洲经济区内仍存在数量充足的竞争对手电影制片厂</strong>，包括迪士尼、NBC 环球（环球影业）等其他美国头部制片厂，亚马逊米高梅、A24、狮门影业等中小型美国制片厂，以及众多欧洲本土制片厂。</p><p>但在电影发行环节，委员会发现：由于并入华纳的电影片库，在派拉蒙与环球影业存在结构性合作关系的欧洲经济区成员国，本次交易将造成市场高度集中，并提升市场信息透明度。双方依托合资企业联合国际影业（UIP），合作向院线运营商发行派拉蒙与环球影业的影片。若交易落地，华纳影片也将通过联合国际影业发行；倘若没有配套承诺，院线运营商将面临更为不利的影片租金与发行条款，最终损害消费者权益。</p><p>针对视听内容产业链，调查显示，<strong>欧洲经济区内尚存足够多的竞争对手，能够对合并后的企业形成有效竞争约束</strong>。尤其在付费儿童电视频道业务重叠领域，委员会认为，提供儿童内容的各大流媒体平台可持续对合并主体的电视频道构成竞争压力。</p><p>IT之家注意到，为消除委员会在电影发行环节提出的初步竞争担忧，派拉蒙提出以下救济方案：</p><ul class=" list-paddingleft-2"><li><p>自交易交割之日起 13 个月内，退出派拉蒙在欧洲经济区内联合国际影业（UIP）所持全部股权；</p></li><li><p><strong>在未来十年内，派拉蒙不得直接或间接实施以下行为</strong>：</p></li><ul class="medium-size list-paddingleft-2"><li><p>与环球影业达成任何协议或共识，在欧洲经济区内联合开展电影发行；</p></li><li><p>在欧洲经济区所有 UIP 覆盖国家（保加利亚、克罗地亚、捷克、塞浦路斯、丹麦、爱沙尼亚、芬兰、希腊、匈牙利、冰岛、拉脱维亚、立陶宛、挪威、波兰、葡萄牙、罗马尼亚、斯洛伐克、斯洛文尼亚、瑞典），将华纳影片的发行业务，从华纳现有发行商转移至派拉蒙院线发行合作方（该发行商同时代理环球影业或迪士尼影片发行）；</p></li><li><p>在欧洲经济区内、派拉蒙与环球影业未共用发行商的 UIP 覆盖国家，将派拉蒙影片的发行业务，从派拉蒙现有发行商转移至华纳院线发行合作方（该发行商同时代理环球影业或迪士尼影片发行）。</p></li></ul></ul>]]></description>
-    <pubDate>Sun, 26 Jul 2026 08:43:18 -0000</pubDate>
-    <guid isPermaLink="true">https://www.ithome.com/0/981/762.htm</guid>
-    <source url="https://www.ithome.com/0/981/762.htm">IT之家</source>
   </item>
   <item>
     <title>[36氪] 湖北能源：江陵电厂二期项目全面建成投产</title>
@@ -628,24 +865,8 @@
     <source url="https://36kr.com/newsflashes/3912220595017093?f=rss">36氪</source>
   </item>
   <item>
-    <title>[IT之家] 大众与众 06 / 07 车型获推 OTA 升级，优化座舱、互联、智驾</title>
-    <link>https://www.ithome.com/0/981/758.htm</link>
-    <description><![CDATA[<p>IT之家 7 月 26 日消息，大众安徽本周宣布，旗下与众 06、与众 07 两款车型获推新一轮 OTA 升级，主要优化了座舱、互联、智驾。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/7/1f0f8e86-1ad8-4868-9b17-f11c78b105ee.jpg?x-bce-process=image/format,f_auto" /></p><p>IT之家附本次更新主要内容如下：</p><h3>智能座舱体验优化</h3><ul class=" list-paddingleft-2"><li><p>UI 界面与视觉细节优化：语音响应更快，支持连续指令；影音界面升级，娱乐生态体验更佳。</p></li></ul><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/7/fdc25d25-83e1-4e26-b524-efe48c531f0a.jpg?x-bce-process=image/format,f_auto" /></p><h3>手机互联流畅度升级</h3><ul class=" list-paddingleft-2"><li><p>精简连接步骤，CarPlay 设备自动置顶；</p></li><li><p>新增快捷唤起方式，优化弹窗逻辑，行驶干扰更少。</p></li></ul><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/7/9f3fe180-9445-4e06-b8de-9dec83ff249d.jpg?x-bce-process=image/format,f_auto" /></p><h3>智驾与泊车表现精进</h3><ul class=" list-paddingleft-2"><li><p>适配隧道、雨雾、低温多类路况，车道行驶更平顺；</p></li><li><p>障碍物与车位识别更灵敏；</p></li><li><p>窄位、斜列车位泊入更规整；</p></li><li><p>车机与 App 泊车提醒同步优化。</p></li></ul><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/7/2ea7d401-be78-48df-9a5c-93726804b222.jpg?x-bce-process=image/format,f_auto" /></p><p><strong>相关阅读：</strong></p><ul class="small-size list-paddingleft-2"><li><p>《<a href="https://www.ithome.com/0/954/365.htm" target="_blank">大众安徽新款与众 06 上市：限时权益价 13.49 万-14.49 万元，528km 续航</a>》</p></li><li><p>《<a href="https://www.ithome.com/0/954/357.htm" target="_blank">金标大众首款轿车与众 07 上市，限时权益价 10.99 万-11.99 万元</a>》</p></li></ul>]]></description>
-    <pubDate>Sun, 26 Jul 2026 08:34:53 -0000</pubDate>
-    <guid isPermaLink="true">https://www.ithome.com/0/981/758.htm</guid>
-    <source url="https://www.ithome.com/0/981/758.htm">IT之家</source>
-  </item>
-  <item>
-    <title>[IT之家] 原道 NK1 Ultra 便携式 USB-C 解码耳放线发售：搭 CX31993 DAC、CNC 铝合金切面机身，119 元</title>
-    <link>https://www.ithome.com/0/981/757.htm</link>
-    <description><![CDATA[<p>IT之家 7 月 26 日消息，原道 NK1 Ultra 便携式 USB-C 解码耳放线现已在京东发售，该产品定位入门 HiFi 市场，主打强劲推力、小巧便携和通透设计，定价为 129 元，<strong>首发价 119 元</strong>。</p><dir><a contenteditable="false" href="https://u.jd.com/9G4uS8u" target="_blank"><span class="card main-site"><span class="card-logo"><img src="https://img14.360buyimg.com/pop/jfs/t1/473930/5/13013/87050/6a5203feFa2df2593/008332032059ae49.png" /></span><span class="card-info"><span class="card-title"><span class="mall-data">京东</span><span class="card-name"> NICEHCK NK1 Ultra 解码耳放</span></span><span class="card-abstract"></span><span class="card-controls"><span class="price"> 119 元</span><span class="card-btn-deep">直达链接</span></span></span></span></a></dir><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/7/f79c3181-194a-400b-a1c3-0cae9024eb40.jpg?x-bce-process=image/format,f_auto" /></p><p>该产品仅重 9.2 克，采用 CNC 航空铝合金切面机身，搭配透明可视窗口，可以看到内部芯片。表面经高目数喷砂处理，手感细腻。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/7/026215a6-ee25-43fd-be36-8ddc621ced09.jpg?x-bce-process=image/format,f_auto" /></p><p>该产品搭载 CX31993 独立 DAC 解码芯片 + SGM8262 专业运放 + LM 双路低噪电源，在 32Ω 负载下输出功率高达 122mW，相比上一代 NK1 MAX 几乎翻倍，能轻松驱动大部分入耳式耳机。其免驱即插即用，支持手机、电脑、平板等设备。包装内附赠 USB-C 转 USB-A 转接头，方便连接电脑等设备。</p><p>IT之家附产品参数：</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/7/5f5c2df2-d14c-44b4-b384-b6c66e857f04.jpg?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/7/0b29a869-8645-4f9a-a450-a9b0b4fb0b2d.jpg?x-bce-process=image/format,f_auto" /></p>]]></description>
-    <pubDate>Sun, 26 Jul 2026 08:34:39 -0000</pubDate>
-    <guid isPermaLink="true">https://www.ithome.com/0/981/757.htm</guid>
-    <source url="https://www.ithome.com/0/981/757.htm">IT之家</source>
-  </item>
-  <item>
     <title>[V2EX] [推广] 为了获得各种渠道的 gpt 等 AI 订阅价格，我做了一个开源项目</title>
-    <link>https://www.v2ex.com/t/1229919#reply1</link>
+    <link>https://www.v2ex.com/t/1229919#reply2</link>
     <description><![CDATA[<p>大概是 6 月底的时候，我通过尼日利亚苹果商店订阅的两个 Claude Pro 全被封了。之后就不打算自己去充值这些会员了，费事费力，时间成本太高。</p>
 <p>然后就打开了新世界：那段时间接触到了各种各样的 AI 订阅产品，什么 GPT Plus 日抛、AT 、RT 、二次解码等等…… 也折腾过注册机，并因此接触到了各种各样的<strong>卡网渠道</strong>。</p>
 <p>废话不多说，进入正题。</p>
@@ -669,74 +890,26 @@ OpenPrice 项目<strong>不参与实际交易</strong>，只是一个公开聚�
 <li>🌐 <strong>官网地址：</strong> <a href="https://www.openprice.cc" rel="nofollow">https://www.openprice.cc</a></li>
 </ul>]]></description>
     <pubDate>Sun, 26 Jul 2026 08:34:06 -0000</pubDate>
-    <guid isPermaLink="true">https://www.v2ex.com/t/1229919#reply1</guid>
-    <source url="https://www.v2ex.com/t/1229919#reply1">V2EX</source>
+    <guid isPermaLink="true">https://www.v2ex.com/t/1229919#reply2</guid>
+    <source url="https://www.v2ex.com/t/1229919#reply2">V2EX</source>
   </item>
   <item>
     <title>[V2EX] [问与答] 哪个城市生活成本低，适合搞 OPC？</title>
-    <link>https://www.v2ex.com/t/1229916#reply9</link>
+    <link>https://www.v2ex.com/t/1229916#reply13</link>
     <description><![CDATA[<p>在家乡小县城被查水表了，感觉有点可怕，想润到大城市了。</p>
 <p>想问问 V 友们，有什么推荐的地方吗？</p>
 <p>最好生活成本低一些，然后有 OPC 相关政策社区，想和志同道合的朋友一起搞项目玩。</p>]]></description>
     <pubDate>Sun, 26 Jul 2026 08:24:59 -0000</pubDate>
-    <guid isPermaLink="true">https://www.v2ex.com/t/1229916#reply9</guid>
-    <source url="https://www.v2ex.com/t/1229916#reply9">V2EX</source>
-  </item>
-  <item>
-    <title>[IT之家] 华为鸿蒙“龙虾”小艺 Claw 上线“新人福利”，新用户首次订阅连续包月享 7 天免费体验</title>
-    <link>https://www.ithome.com/0/981/756.htm</link>
-    <description><![CDATA[<p>IT之家 7 月 26 日消息，华为宣布为鸿蒙 HarmonyOS 小艺 Claw 上线“新用户首次订阅连续包月享 7 天免费体验”活动。</p><p style="text-align: center;"><img src="http://qimg.ithome.com/image/2026/07/24/20260724_141812_135.png" /></p><p>官方表示，即日起持有 HarmonyOS 6 及以上系统版本的手机、平板用户，将小艺 App 升级到最新 11.6.6.300 版本，即可参加活动。唤醒小艺后说“小艺 Claw 新人福利”，或者在小艺主对话页面底部找到“小艺 Claw 免费体验”按钮，点击即可领取新用户权益。活动期间，首次订阅连续包月的新用户可享受 7 天免费体验权益，并获得 500 AI 点数。</p><p style="text-align: center;"><img class="nowebp" src="http://qimg.ithome.com/image/2026/07/24/20260724_141812_697.jpeg" /></p><p>华为表示，随着版本更新，小艺 Claw 的 PPT 生成、编码能力、图像创作技能、上下文压缩时延等都得到优化升级，任务执行效果与稳定性大幅提升。</p><p>另外，作为融合特有鸿蒙 Skills 能力打造的专属养成系 AI 助理，Skills 市场的技能也不断上新：HarmonyOS 专属 Skills 开箱即用，畅享 PPT 制作、金融分析、深度研究等高阶技能；新增更多伙伴精选 Skills，丰富资讯阅览、企业尽调、生活服务能力矩阵，可简化信息搜集工作，覆盖办公创作、出行生活、专业开发等多元需求场景。</p>]]></description>
-    <pubDate>Sun, 26 Jul 2026 08:22:38 -0000</pubDate>
-    <guid isPermaLink="true">https://www.ithome.com/0/981/756.htm</guid>
-    <source url="https://www.ithome.com/0/981/756.htm">IT之家</source>
-  </item>
-  <item>
-    <title>[IT之家] 欧盟 AI 透明度准则 8 月 2 日起生效：聊天机器人需“自报身份”，深度伪造内容须带有机读标签</title>
-    <link>https://www.ithome.com/0/981/755.htm</link>
-    <description><![CDATA[<p>IT之家 7 月 26 日消息，据外媒 Notebookcheck 今天报道，欧盟《人工智能法案》第 50 条 AI 透明度准则将于 8 月 2 日正式生效。根据法案，聊天机器人必须在服务人类时，明确告知其并非真人而是 AI 系统；深度伪造内容也必须在发布时明确说明。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/7/63663feb-b171-4128-9ea5-328fc2ac920f.png?x-bce-process=image/format,f_auto" /></p><p>具体来说，<strong>《人工智能法案》第 50 条要求厂商设计聊天机器人和语音助手时必须添加明显标记</strong>，<strong>使用户能够知道自己在和机器交流</strong>。AI 生成图片、音频、视频和文本必须附带机器可读的标记，声明自己是 AI 内容。</p><p>同时，该法案要求用户和机构发布深度伪造（IT之家注：Deepfake）内容时必须进行明确说明，涉及公共利益的 AI 生成文本也必须进行标注。但是 AI 拼写检查、语法纠正工具可以豁免，不需要进行标记，“自由飞行的人类”等幻想性质明显的内容也不属于深度伪造。</p><p>同时，该法案规定的“机器可读”标记并不意味着人眼可见。虽然欧盟提供了三种“AI 生成”标签供大众使用，但这些标签本质采取自愿使用原则，<strong>法案只要求 AI 生成内容必须打上水印、元数据等信息</strong>，<strong>供检测工具读取</strong>。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/7/027559c0-102e-465c-80a3-968f0bc3adcf.jpg?x-bce-process=image/format,f_auto" /></p><p>此外，该法案还设有过渡期。8 月 2 日前已经面世的生成式 AI 系统可获得 4 个月的整改时间，截止日期为 2026 年 12 月 2 日。如果企业违反法案，最高可被处罚 1500 万欧元，或全面营业额的 3%。</p>]]></description>
-    <pubDate>Sun, 26 Jul 2026 08:16:42 -0000</pubDate>
-    <guid isPermaLink="true">https://www.ithome.com/0/981/755.htm</guid>
-    <source url="https://www.ithome.com/0/981/755.htm">IT之家</source>
-  </item>
-  <item>
-    <title>[IT之家] 华为智选车产品总监彭磊详解方盒子车型分类，享界 G9 定位豪华硬派 SUV 而非纯粹越野</title>
-    <link>https://www.ithome.com/0/981/754.htm</link>
-    <description><![CDATA[<p>IT之家 7 月 26 日消息，华为智选车产品总监（享界系列）彭磊昨日在微博介绍了方盒子车型的分类，称看起来会比较类似金字塔的结构：</p><blockquote><ul class="medium-size list-paddingleft-2"><li><p>最上面的叫纯粹越野，也就是传统的带大梁的越野车，越野能力很强，但可能牺牲了一部分舒适性。身边有不少媒体朋友，说出去重装越野，都挺累的，也牺牲了部分铺装路面舒适性（真实反馈）。</p></li><li><p>第二档叫豪华硬派 SUV，也就是我们享界 G9，<strong>有豪华空间内饰和舒适体验，也具备一定的全地形能力</strong>，带差速锁，底盘上硬件配置也不错，兼顾铺装路面舒适性与操控能力，和部分户外场景穿越与脱困能力（后边我们会慢慢和大家沟通，包括试驾或者发布会）。</p></li><li><p>第三档叫城市豪华 SUV，这部分会更加贴近主流家用 SUV，追求铺装路面豪华舒适性，但是也不会给大家更多差速锁或者其他的配置，全地形的能力上也会欠缺一些。</p></li></ul></blockquote><p>彭磊表示，不管是哪一类的，其实回到原点，还是从不同的用户需求出发，去定义产品。让大型 SUV 市场百花齐放。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/7/3f381767-9ca0-4605-9706-13f55890dfcb.png?x-bce-process=image/format,f_auto" /></p><p>据IT之家此前报道，<a href="https://www.ithome.com/0/966/790.htm" target="_blank">享界 G9 是鸿蒙智行首款科技豪华硬派 SUV</a>，新车全系搭载华为全新自研电机，标配四驱，搭载了 800V 高压增程，综合续航里程 CLTC 可达 1300 多公里；全系标配华为 896 线激光雷达，并配备三固态激光雷达，支持全场景辅助系统。</p><p>另外，鸿蒙智行享界 G9 已正式获批北京市 L3 级自动驾驶道路测试牌照，成为首款获批北京市时速 120 公里 L3 级自动驾驶道路测试牌照的车型。其 L3 级自动驾驶系统设计运行条件覆盖夜间场景，高快速路最高支持 120km/h，并具备导航变道、效率变道和安全变道能力。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/7/f72c978e-39fd-4fab-9516-7db093784263.jpg?x-bce-process=image/auto-orient,o_1" /></p>]]></description>
-    <pubDate>Sun, 26 Jul 2026 08:15:38 -0000</pubDate>
-    <guid isPermaLink="true">https://www.ithome.com/0/981/754.htm</guid>
-    <source url="https://www.ithome.com/0/981/754.htm">IT之家</source>
-  </item>
-  <item>
-    <title>[IT之家] 中国“景德镇手工瓷业遗存”列入《世界遗产名录》，官方游戏《数字景德镇 · 瓷都小匠》同步上线</title>
-    <link>https://www.ithome.com/0/981/753.htm</link>
-    <description><![CDATA[<p>IT之家 7 月 26 日消息，据“江西日报”，联合国教科文组织第 48 届世界遗产大会于 7 月 25 日通过决议，将中国“景德镇手工瓷业遗存”列入《世界遗产名录》。景德镇由此成为中国第 61 处世界遗产。当日，作为“数字景德镇”建设的创新成果，全球首款申遗小游戏《数字景德镇 · 瓷都小匠》也正式上线。</p><p style="text-align: center;"><img src="http://qimg.ithome.com/image/2026/07/26/20260726_151246_554.jpeg" /></p><p>据介绍，《数字景德镇 · 瓷都小匠》由景德镇官方联合腾讯共同打造，融合了 AI 数字人、AI 3D 生成、AI+PCG 等多种技术，玩家能够化身成窑厂小匠，亲历景德镇千年瓷业的演进历程，并与“AI 师傅”进行问答，了解景德镇瓷业发展的每一个细节。</p><p style="text-align: center;"><img class="nowebp" src="http://qimg.ithome.com/image/2026/07/26/20260726_151248_476.jpeg" /></p><p style="text-align: center;"><img class="nowebp" src="http://qimg.ithome.com/image/2026/07/26/20260726_151250_86.jpeg" /></p><p>本作以模拟制瓷玩法为主，拥有选泥、制坯、装饰到上釉、高温烧制、釉上彩绘等流程。游戏共提供 20 种器型、54 个图案、87 个纹样、20 种釉色，9 个接坯部件等不同选择，让零基础的玩家也能体验到手工制瓷的乐趣，创造出属于自己的作品。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/7/f1480122-6afd-4cbe-a5be-5166fa71fc23.png?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img src="http://qimg.ithome.com/image/2026/07/26/20260726_151249_492.png" /></p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/7/776c1328-0f81-4b07-9fb4-6f02c6e88e3d.gif" /></p>]]></description>
-    <pubDate>Sun, 26 Jul 2026 08:15:24 -0000</pubDate>
-    <guid isPermaLink="true">https://www.ithome.com/0/981/753.htm</guid>
-    <source url="https://www.ithome.com/0/981/753.htm">IT之家</source>
+    <guid isPermaLink="true">https://www.v2ex.com/t/1229916#reply13</guid>
+    <source url="https://www.v2ex.com/t/1229916#reply13">V2EX</source>
   </item>
   <item>
     <title>[V2EX] [程序员] 为什么现在 CLI agent 应用那么火， GUI 不好用吗？</title>
-    <link>https://www.v2ex.com/t/1229915#reply12</link>
+    <link>https://www.v2ex.com/t/1229915#reply20</link>
     <description><![CDATA[<p>如题，大家不喜欢好看的 GUI 应用吗？</p>]]></description>
     <pubDate>Sun, 26 Jul 2026 08:14:18 -0000</pubDate>
-    <guid isPermaLink="true">https://www.v2ex.com/t/1229915#reply12</guid>
-    <source url="https://www.v2ex.com/t/1229915#reply12">V2EX</source>
-  </item>
-  <item>
-    <title>[IT之家] 上海交大红杉书院揭牌成立：沈南鹏捐资 3 亿元，蚂蚁井贤栋、米哈游刘伟、联想杨元庆等任顾问委员</title>
-    <link>https://www.ithome.com/0/981/751.htm</link>
-    <description><![CDATA[<p>IT之家 7 月 26 日消息，上海交通大学今日宣布，上海交大红杉书院正式揭牌成立，面向国家战略需求，深化基础学科，拔尖创新人才培养改革。</p><p>为系统谋划书院长远发展、科学统筹建设布局，红杉书院成立顾问委员会，作为书院建设发展的战略咨询与指导机构，由<strong>上海交通大学校长及中国科学院院士丁奎岭、红杉中国创始及执行合伙人沈南鹏</strong>担任顾问委员会主任。活动现场举行聘任仪式，为刘伟、井贤栋、杨振宇、倪军、张杰、俞勇、其实、陈光明等首批顾问委员会委员颁发聘书。</p><p style="text-align: center;"><img alt="图片" src="https://img.ithome.com/newsuploadfiles/2026/7/71df3ad8-4536-4a6e-8a21-247b26aaf470.png" /></p><p>IT之家注意到，上海交通大学官方今年 6 月 1 日宣布，值上海交通大学建校 130 周年之际，1985 级首届教改试点班杰出校友、红杉中国创始及执行合伙人沈南鹏先生慷慨<strong>捐资 3 亿元</strong>，设立“红杉书院建设基金”。</p><p style="text-align: center;"><img class="lazy no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/7/775423e0-2d66-40de-9695-8f43ab183357.jpg" title="红杉中国沈南鹏向母校上海交通大学捐资 3 亿元，设立“红杉书院建设基金”" /></p><p>据介绍，红杉书院将聚焦本科阶段拔尖学生培养，设立“红杉学子计划”，学生完成第一学期学业后，可自主申请参加红杉学子遴选，入选后可突破专业边界，在校本部范围内任选专业方向。</p><p>红杉书院实行学分制管理，为红杉学子量身定制培养方案，夯实数理化基础，强化人工智能素养。<strong>书院实行 3~6 年的弹性学制</strong>，学生可依据自身学习和发展情况申请提前毕业，也可因科研实践、企业实习或创新创业等需求灵活调整学习进程，在规定年限内完成学业。</p><p>IT之家注：红杉中国是专注于投资科技、医疗健康、消费三大领域的私募股权投资机构。红杉中国投资超 1,600 家企业，最成功的案例包括京东、拼多多、美团网、Shein、唯品会、泡泡玛特、极兔速递和字节跳动等。</p>]]></description>
-    <pubDate>Sun, 26 Jul 2026 08:13:43 -0000</pubDate>
-    <guid isPermaLink="true">https://www.ithome.com/0/981/751.htm</guid>
-    <source url="https://www.ithome.com/0/981/751.htm">IT之家</source>
-  </item>
-  <item>
-    <title>[IT之家] 奇瑞风云 T7 即将开启小订：搭载犀牛电池，600km CLTC 续航</title>
-    <link>https://www.ithome.com/0/981/750.htm</link>
-    <description><![CDATA[<p>IT之家 7 月 26 日消息，奇瑞风云新能源官方今日宣布，风云 T7 国内小订即将开启，该车现已在海外以“LEPAS L6”的名称上市。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/7/3a3cc6b8-e1da-4ebf-9811-c79381d0558c.jpg?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/7/363b7495-cf84-46e9-a107-1a1395c42014.jpg?x-bce-process=image/format,f_auto" /></p><p>外观方面，风云 T7 采用风云新能源最新一代极简电动化设计语言，封闭式车身搭配狭长锐利的分体式 LED 大灯，两侧配备立体导流槽，下包围运动饰板强化整车冲击力。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/7/8a4061f5-52ce-4ea4-b123-645bfa36802e.png?x-bce-process=image/format,f_auto" /></p><p>车身尺寸方面，新车长宽高为 4570*1852*1694mm，轴距为 2700mm，定位紧凑型 SUV。侧面采用溜背式车顶线条，搭配黑色熏黑轮眉与多辐运动轮毂；车尾配备贯穿式 LED 尾灯。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/7/ca43d482-11f5-4057-b76a-0d358a5ab96b.png?x-bce-process=image/format,f_auto" /></p><p>IT之家从工信部申报信息获悉，风云 T7 动力形式为单电机，最大功率为 178 千瓦，最高车速 180km/h。</p><p>新车将搭载新国标犀牛电池，全系标配 600km CLTC 续航，30%-80% SOC 充电时间为 20 分钟。</p><p><strong>相关阅读：</strong></p><ul class="small-size list-paddingleft-2"><li><p>《<a href="https://www.ithome.com/0/971/391.htm" target="_blank">奇瑞犀牛电池安全保障计划正式发布，宣称已售及在售车型动力电池全系满足最新国家标准</a>》</p></li></ul>]]></description>
-    <pubDate>Sun, 26 Jul 2026 08:08:27 -0000</pubDate>
-    <guid isPermaLink="true">https://www.ithome.com/0/981/750.htm</guid>
-    <source url="https://www.ithome.com/0/981/750.htm">IT之家</source>
+    <guid isPermaLink="true">https://www.v2ex.com/t/1229915#reply20</guid>
+    <source url="https://www.v2ex.com/t/1229915#reply20">V2EX</source>
   </item>
   <item>
     <title>[V2EX] [分享创造] 独立开发：手搓了一个群晖 NAS 客户端，欢迎体验</title>
@@ -759,59 +932,6 @@ OpenPrice 项目<strong>不参与实际交易</strong>，只是一个公开聚�
     <pubDate>Sun, 26 Jul 2026 08:04:45 -0000</pubDate>
     <guid isPermaLink="true">https://www.v2ex.com/t/1229914#reply0</guid>
     <source url="https://www.v2ex.com/t/1229914#reply0">V2EX</source>
-  </item>
-  <item>
-    <title>[IT之家] 全球首个 ±500 千伏柔性直流海缆建成，深远海大容量输电通道全线贯通</title>
-    <link>https://www.ithome.com/0/981/749.htm</link>
-    <description><![CDATA[<p>IT之家 7 月 26 日消息，据中国交建分享，近日，由中交海峰承建的三峡阳江青洲五期、七期海缆集中送出工程，在广东阳江青洲海域完成全线敷设作业。</p><p style="text-align: center;"><img alt="图片" src="https://img.ithome.com/newsuploadfiles/2026/7/9a80d215-0cc5-4608-b988-83003b4e7409.gif" /></p><figcaption>▲ 图源：中国交建公众号（后同）</figcaption><p>据介绍，这条全球首个 ±500 千伏柔性直流海缆成功扎根南海深海床，<a href="https://www.ithome.com/0/960/161.htm" target="_blank">与全球最大海上换流站“海风之心”精准对接</a>，<strong>标志着我国在深远海风电柔性直流送出领域形成了全套工程化能力</strong>，正式开启了向深海要电的“中国方案”。</p><p>IT之家注：全球规模最大海上换流站 ——“海风之心”已于今年 6 月抵达广东阳江青洲海上风电场安装海域，开展了海上浮托安装作业。同时，“海风之心”也是世界首座 ±500 千伏 / 2000 兆瓦柔性直流海上换流站。</p><p style="text-align: center;"><img alt="图片" src="https://img.ithome.com/newsuploadfiles/2026/6/362a1ecb-f29a-4822-ae5c-8a9c16ff6c43.png?x-bce-process=image/auto-orient,o_1" /></p><p style="text-align: left;">传统海上风电多用交流海缆，长度一旦超过 70 公里，海水与电缆之间会产生强烈的“电容效应”，就像水管漏水一样，电能在半路就被白白消耗大半，根本不能全容量送到岸。柔性直流技术的妙处在于：把风机发的交流电经过换流站“变身”为直流电，再用直流海缆送出，上岸后再变回交流。由于直流电缆没有电容效应，损耗较交流电缆可降低约 60%。</p><p style="text-align: center;"><img alt="图片" src="https://img.ithome.com/newsuploadfiles/2026/7/dbd81f2f-3073-4d17-ad4a-85c1305f3cf5.gif" /></p><p style="text-align: left;">±500 千伏柔性直流海缆总长 88.8 公里，采用“1 回 2 根”双极设计，± 是柔性直流输电的标识正负极，这两根海缆一正一负搭配运行，共同构成了完整的输电通道。它一头衔接“海风之心”，一头直通陆上集控中心，<strong>承载着 2000 兆瓦绿电的输送使命</strong>。</p><p style="text-align: left;">IT之家了解到，如今，这条 88.8 公里的“深海巨龙”已稳稳静卧于南海海床，与“海风之心”精准接驳，构成了“汇集－转换－输送”的完整体系。项目投运后，青洲五期、七期 163 台风机清洁电能，<strong>每年将向粤港澳大湾区输送约 60 亿度绿电，等效减排二氧化碳约 500 万吨</strong>。</p><p style="text-align: center;"><img alt="图片" src="https://img.ithome.com/newsuploadfiles/2026/7/8957cec7-d24d-42e3-9a8e-787cc65aaf5a.gif" /></p>]]></description>
-    <pubDate>Sun, 26 Jul 2026 08:04:26 -0000</pubDate>
-    <guid isPermaLink="true">https://www.ithome.com/0/981/749.htm</guid>
-    <source url="https://www.ithome.com/0/981/749.htm">IT之家</source>
-  </item>
-  <item>
-    <title>[V2EX] [程序员] 梁文峰投资人演讲内容的子弹飞了一会了</title>
-    <link>https://www.v2ex.com/t/1229913#reply2</link>
-    <description><![CDATA[<p>梁文峰演讲内容的新闻热度持续了几天了，网络上也出现了越来越多的背景信息。我看到的总结下来有以下这些：</p>
-<ol>
-<li>这次演讲内容来自 DeepSeek 第一轮融资时期，当然距现在也不是很久远；</li>
-<li>演讲内容的泄露，导致梁文峰暂停了第二轮融资进程，网传他对此次事件很不满；</li>
-<li>网络舆论对此次演讲内容的反应大多是正面的，但网民和主流网络媒体基本上都是外行，不论是技术方面还是金融方面，这些舆论反应对下一轮融资并无实质性帮助；</li>
-<li>对于演讲内容如何客观看待，要明白梁文峰这些话是说给投资人听的，这中间是否掺杂了以融资为目的的诱导性的存在偏差的信息，投资人可能难以自行判断，出于谨慎，会要找自己的专业人脉来寻求帮助，这可能是演讲内容被泄露的途径；</li>
-<li>演讲内容泄露出来之后，专业人士分析，有些部分是存在夸大的，比如说 10 个⽉收回成本，他说的只是设备成本，大模型研发需要的人才成本他没说。</li>
-<li>其他的比如西瓜芝麻论，开源模型的降维打击，中美差距，这些都可以说存在给投资人打气的成分，比如中美差距，他简单一句话概括就是算力，其他方面的差距都是来自算力差距。懂行的人都看得出这是一种包装话术，把复杂的东西简化，来降低投资人对这个话题的顾虑。</li>
-</ol>]]></description>
-    <pubDate>Sun, 26 Jul 2026 08:03:32 -0000</pubDate>
-    <guid isPermaLink="true">https://www.v2ex.com/t/1229913#reply2</guid>
-    <source url="https://www.v2ex.com/t/1229913#reply2">V2EX</source>
-  </item>
-  <item>
-    <title>[V2EX] [分享创造] 一个纯文本思维导图 - 童童思维导图</title>
-    <link>https://www.v2ex.com/t/1229912#reply0</link>
-    <description><![CDATA[<blockquote>
-<p>童童思维导图(TTmap:Text To Map)，专为 AI 设计的纯文本的思维导图,方便 AI 读写。</p>
-</blockquote>
-<h2>TTmap 思维导图特点：</h2>
-<ol>
-<li>
-<p>纯文本格式,<code>.ttmap</code>后缀</p>
-</li>
-<li>
-<p>tab 缩进表示层级</p>
-</li>
-<li>
-<p>文本用 html 表示样式</p>
-</li>
-<li>
-<p>轻量级 1.95M</p>
-</li>
-</ol>
-<h2>开发原因</h2>
-<p>给孩子演示 AI 操作思维导图,发现没有简约的格式,所以就让 AI 写了一个。</p>
-<h2>开源地址</h2>
-<p><a href="https://github.com/gdtools/ttmap" rel="nofollow">https://github.com/gdtools/ttmap</a></p>]]></description>
-    <pubDate>Sun, 26 Jul 2026 08:00:20 -0000</pubDate>
-    <guid isPermaLink="true">https://www.v2ex.com/t/1229912#reply0</guid>
-    <source url="https://www.v2ex.com/t/1229912#reply0">V2EX</source>
   </item>
   <item>
     <title>[36氪] 新点软件：预计上半年净亏损6302.10万元</title>
@@ -846,46 +966,6 @@ OpenPrice 项目<strong>不参与实际交易</strong>，只是一个公开聚�
     <source url="https://36kr.com/newsflashes/3912181723518084?f=rss">36氪</source>
   </item>
   <item>
-    <title>[IT之家] 米哈游 AI 聊天软件 AnuNeko 下周永久关闭</title>
-    <link>https://www.ithome.com/0/981/748.htm</link>
-    <description><![CDATA[<p>IT之家 7 月 26 日消息，米哈游近日宣布，旗下 AI 聊天软件 AnuNeko 将于太平洋标准时间 7 月 29 日 23:59（北京时间 7 月 30 日 14:59）永久关闭。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/7/0cf630a4-643e-49fb-9d7c-2a631ed15417.png?x-bce-process=image/format,f_auto" /></p><p>AnuNeko 表示，<strong>他们经过艰难思考后</strong><strong>决定将资源投入其他方向</strong>。对于许多人来说，AnuNeko 是一个可以自由交流的陪伴、安慰空间。</p><p>IT之家从官方公告获悉，AnuNeko 关闭前可以正常使用，如果用户希望在停止服务前删除聊天记录，可联系官方客服协助。服务器关闭后，所有用户数据将根据官方隐私政策永久删除。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/7/7cd42e27-c9e2-43bb-b86a-8255af0f1031.png?x-bce-process=image/format,f_auto" /></p>]]></description>
-    <pubDate>Sun, 26 Jul 2026 07:55:13 -0000</pubDate>
-    <guid isPermaLink="true">https://www.ithome.com/0/981/748.htm</guid>
-    <source url="https://www.ithome.com/0/981/748.htm">IT之家</source>
-  </item>
-  <item>
-    <title>[V2EX] [问与答] 前两年在站里买的 Skinny 现在是不是要凉了？</title>
-    <link>https://www.v2ex.com/t/1229910#reply1</link>
-    <description><![CDATA[激活以后就没关注了，现在新卡貌似必须在新西兰激活了，老卡一直充值貌似还能用，但是不知道稳不稳啊，万一以后突然不能用了，绑的账号就麻烦了。希望有懂的说说，这卡还值不值得长期持有了。]]></description>
-    <pubDate>Sun, 26 Jul 2026 07:42:40 -0000</pubDate>
-    <guid isPermaLink="true">https://www.v2ex.com/t/1229910#reply1</guid>
-    <source url="https://www.v2ex.com/t/1229910#reply1">V2EX</source>
-  </item>
-  <item>
-    <title>[V2EX] [分享创造] 超级 excel 网站</title>
-    <link>https://www.v2ex.com/t/1229909#reply7</link>
-    <description><![CDATA[<p>简介：上传 excel （纯前端处理，隐私安全），配置 deepseek 的 api-key ，然后就可以用自然语言操作 excel 了，还可以导出（导出的文件保持公式和颜色），欢迎大佬们使用反馈呀，哈哈哈</p>
-<p>示例操作：
-1 ）第三行的飞机，高铁，普铁，跨市大巴，市内公交车，地铁所在列的其他空白单元格填为无
-2 ）给第三行表头添加排序和筛选
-3 ）第三行的省份所在列如果是黑龙江的行标为绿色
-4 ）根据第三行的省份和租房价格所在列的数据制作数据报表</p>
-<p>网站地址： <a href="https://a313303c.pinme.dev/" rel="nofollow">https://a313303c.pinme.dev/</a></p>
-<p>项目地址： <a href="https://github.com/ns2250225/ai-excel" rel="nofollow">https://github.com/ns2250225/ai-excel</a></p>]]></description>
-    <pubDate>Sun, 26 Jul 2026 07:39:29 -0000</pubDate>
-    <guid isPermaLink="true">https://www.v2ex.com/t/1229909#reply7</guid>
-    <source url="https://www.v2ex.com/t/1229909#reply7">V2EX</source>
-  </item>
-  <item>
-    <title>[V2EX] [程序员] 开了玻区的 Pro 感觉比美区的智商要低</title>
-    <link>https://www.v2ex.com/t/1229907#reply2</link>
-    <description><![CDATA[<p>昨天听说玻区的便宜，正好美区的周额度没了，于是多开一个帐号。</p>
-<p>可能有点主观，但是玻区的方案给得不如美区靠谱，还把我美区刚生成的方案推翻了（正好是额度用完前的最后一个回答），不知道各位有没有这种感觉？</p>]]></description>
-    <pubDate>Sun, 26 Jul 2026 07:32:41 -0000</pubDate>
-    <guid isPermaLink="true">https://www.v2ex.com/t/1229907#reply2</guid>
-    <source url="https://www.v2ex.com/t/1229907#reply2">V2EX</source>
-  </item>
-  <item>
     <title>[cnBeta.COM.TW RSS订阅] 长鑫科技上市前夕探访：村落变“长岗CBD” 员工最关心涨薪</title>
     <link>https://www.cnbeta.com.tw/articles/tech/1570380.htm</link>
     <description><![CDATA[<p>7月26日，长鑫科技将于7月27日在上海证券交易所科创板挂牌上市。上市前夕，大皖新闻走访其所在地合肥市长岗社区发现，随着长鑫科技及相关供应商员工持续聚集，当地商业、餐饮和住宿等配套逐渐完善，部分员工将这一区域称为“长岗CBD”。</p> <a href="https://www.cnbeta.com.tw/articles/tech/1570380.htm" target="_blank"><strong>阅读全文</strong></a>]]></description>
@@ -910,47 +990,6 @@ OpenPrice 项目<strong>不参与实际交易</strong>，只是一个公开聚�
     <source url="https://sspai.com/post/112421">少数派</source>
   </item>
   <item>
-    <title>[V2EX] [分享创造] 小红书、抖音、飞书纯算逆向更新</title>
-    <link>https://www.v2ex.com/t/1229906#reply1</link>
-    <description><![CDATA[<h1>项目更新</h1>
-<blockquote>
-<p>所有项目均完成算法纯算化升级，无需依赖浏览器/注入/抓包即可稳定调用，适合批量化、自动化、长期运维场景。</p>
-</blockquote>
-<hr />
-<h2>🟢 Spider_XHS （小红书爬虫）</h2>
-<h3>本次更新</h3>
-<ul>
-<li><strong>全部签名算法纯算更新</strong>：请求签名脱离浏览器环境，纯 Python 本地计算，掉签率大幅降低。</li>
-<li><strong>扫码-爬虫-发送作品全链路打通</strong>：从扫码登实现一站式闭环。</li>
-<li><strong>更适合矩阵与定时任务</strong>：去掉浏览器依赖后，资源占用更低，可在服务器/容器中长期运行。</li>
-</ul>
-<hr />
-<h2>🟢 XHS_ALL_IN_ONE （小红书全域运营）</h2>
-<h3>本次更新</h3>
-<ul>
-<li><strong>算法纯算更新</strong>：核心接口签名与加密逻辑本</li>
-<li>面向小红书全域运营场景，覆盖内容采集、账号互动、数据监控等高频能力。</li>
-</ul>
-<hr />
-<h2>🟢 LarkAgentX （飞书 AI Agent ）</h2>
-<h3>本次更新</h3>
-<ul>
-<li><strong>全部算法纯算更新 + 架构升级</strong>：核心加解密与登录态维护改为本地计算，架构更轻量、更易扩展。</li>
-<li>**WebSocket 消息体解析覆盖 200+**：已完整解析并分类处理 200 余种飞书 WS 消息类型。</li>
-<li><strong>真实号接入飞书</strong>：支持将真实账号接入飞书生态，打造可长期在线的 AI Agent 。</li>
-</ul>
-<hr />
-<h2>🟢 DouYin_Spider （抖音爬虫）</h2>
-<h3>本次更新</h3>
-<ul>
-<li><strong>Bogus 等参数纯 Python 纯算还原</strong>：关键反爬参数本地生成，不再依赖外部浏览器或动态执行环境。</li>
-<li><strong>稳定 WS 收发消息/私信</strong>：WebSocket 长连接收发稳定，支持私信等实时交互场景。</li>
-</ul>]]></description>
-    <pubDate>Sun, 26 Jul 2026 07:25:50 -0000</pubDate>
-    <guid isPermaLink="true">https://www.v2ex.com/t/1229906#reply1</guid>
-    <source url="https://www.v2ex.com/t/1229906#reply1">V2EX</source>
-  </item>
-  <item>
     <title>[36氪] 福特公司召回超56万辆汽车</title>
     <link>https://36kr.com/newsflashes/3912150835680647?f=rss</link>
     <description><![CDATA[7月26日，据美国媒体报道，美国福特汽车公司近日宣布召回56万5691辆福特“烈马”和“烈马猛禽”汽车，涉及2021至2026款车型。福特公司估计，这些汽车中约有1%的车辆存在发动机舱线束缺陷，可能发生短路，增加起火风险。目前尚未收到与此问题相关的事故或人员伤亡报告。（财联社）]]></description>
@@ -959,77 +998,12 @@ OpenPrice 项目<strong>不参与实际交易</strong>，只是一个公开聚�
     <source url="https://36kr.com/newsflashes/3912150835680647?f=rss">36氪</source>
   </item>
   <item>
-    <title>[V2EX] [分享创造] 做了一个让多台临时 GPU 接力训练同一 checkpoint 的开源项目，招募受控 Beta 测试</title>
-    <link>https://www.v2ex.com/t/1229905#reply0</link>
-    <description><![CDATA[<p>整合大家的闲置算力</p>
-<p>CrowdTensor 是一个开源的志愿模型训练协议。每台机器只领取一个有边界的 LoRA work unit ，完成后提交 delta ；机器离开时，Coordinator 保留已经验证的 checkpoint ， 之后由其他设备继续。</p>
-<p>我们已经完成一次 Qwen2.5-7B/GSM8K 256 步实跑：旧的两组 T4x2 在第 128 步 全部删除，新的两组 Runtime 从中央 checkpoint 恢复并完成剩余训练。当前网站上 也运行着一个 SmolLM2/WikiText-2 Founding Campaign 。</p>
-<p>现在是受控工程 Beta ，不是 permissionless 网络，也没有投毒/Sybil 安全或生产 SLA 。想招募愿意测试一个 work unit 、审阅 7B RFC 或检查安全边界的开发者。</p>
-<p>网站： <a href="https://crowdtensor.24.199.118.54.nip.io" rel="nofollow">https://crowdtensor.24.199.118.54.nip.io</a>
-GitHub： <a href="https://github.com/Ffffffffchopin/CrowdTensor" rel="nofollow">https://github.com/Ffffffffchopin/CrowdTensor</a>
-7B RFC： <a href="https://github.com/Ffffffffchopin/CrowdTensor/blob/main/docs/campaigns/qwen25-7b-gsm8k-rfc.md" rel="nofollow">https://github.com/Ffffffffchopin/CrowdTensor/blob/main/docs/campaigns/qwen25-7b-gsm8k-rfc.md</a>
-Beta 申请： <a href="https://github.com/Ffffffffchopin/CrowdTensor/issues/new?template=beta_enrollment.yml" rel="nofollow">https://github.com/Ffffffffchopin/CrowdTensor/issues/new?template=beta_enrollment.yml</a></p>]]></description>
-    <pubDate>Sun, 26 Jul 2026 07:25:33 -0000</pubDate>
-    <guid isPermaLink="true">https://www.v2ex.com/t/1229905#reply0</guid>
-    <source url="https://www.v2ex.com/t/1229905#reply0">V2EX</source>
-  </item>
-  <item>
     <title>[36氪] 2026年暑期档电影票房已破55亿元，超去年同期10亿元</title>
     <link>https://36kr.com/newsflashes/3912149968409736?f=rss</link>
     <description><![CDATA[7月26日，据网络平台数据，截至目前，2026年暑期档电影总票房（含预售）已突破55亿元，超去年暑期档同期10亿元。其中，喜剧动画片《八仙！》上映8天就取得超6亿元票房的优异成绩。喜剧运动题材电影《功夫女足》目前票房已超18.8亿元，暂列年度票房第三位。（央视新闻）]]></description>
     <pubDate>Sun, 26 Jul 2026 07:24:44 -0000</pubDate>
     <guid isPermaLink="true">https://36kr.com/newsflashes/3912149968409736?f=rss</guid>
     <source url="https://36kr.com/newsflashes/3912149968409736?f=rss">36氪</source>
-  </item>
-  <item>
-    <title>[36氪] 三部门调拨2.5万件物资支持粤赣湘等地救灾救助工作</title>
-    <link>https://36kr.com/newsflashes/3912149644727683?f=rss</link>
-    <description><![CDATA[据央视新闻，7月26日，国家防灾减灾救灾委员会办公室、应急管理部针对台风“红霞”影响，根据广东、江西、湖南等地防汛防台风救灾工作需要，会同国家粮食和物资储备局向三省调拨折叠床、折叠桌凳、毛巾被、夏凉被、家庭应急包等2.5万件中央救灾物资，支持地方妥善做好受灾群众紧急避险转移和安置救助工作。（央视新闻）]]></description>
-    <pubDate>Sun, 26 Jul 2026 07:24:24 -0000</pubDate>
-    <guid isPermaLink="true">https://36kr.com/newsflashes/3912149644727683?f=rss</guid>
-    <source url="https://36kr.com/newsflashes/3912149644727683?f=rss">36氪</source>
-  </item>
-  <item>
-    <title>[V2EX] [分享创造] 朋友平时喜欢酒局，做了一个酒局工具</title>
-    <link>https://www.v2ex.com/t/1229904#reply0</link>
-    <description><![CDATA[<p>用 AI 嘴遁的，感觉效果还行。大家帮忙提点儿意见。</p>
-<p>#小程序://小骰仙/ocx1DDCCXAbDUiG</p>
-<p><img alt="" class="embedded_image" rel="noreferrer" src="https://i.imgs.ovh/2026/07/26/23166f76f2f247480185231af7bac074.jpg" /></p>]]></description>
-    <pubDate>Sun, 26 Jul 2026 07:24:18 -0000</pubDate>
-    <guid isPermaLink="true">https://www.v2ex.com/t/1229904#reply0</guid>
-    <source url="https://www.v2ex.com/t/1229904#reply0">V2EX</source>
-  </item>
-  <item>
-    <title>[V2EX] [程序员] 🥝 VH-Warp： Cloudflare WARP 一键 Docker 部署</title>
-    <link>https://www.v2ex.com/t/1229903#reply0</link>
-    <description><![CDATA[<p>🥝 轻量级 Docker 镜像封装 Cloudflare WARP ，快速搭建局域网可访问的代理服务，极简部署、极致性能、极其稳定。</p>
-<p>🔗 <strong>GitHub 仓库：</strong><a href="https://github.com/uxiaohan/vh-warp" rel="nofollow">github.com/uxiaohan/vh-warp</a></p>
-<ul>
-<li><strong>一条命令部署</strong>：<code>docker compose up -d</code>，零配置上手</li>
-<li><strong>局域网代理</strong>：Mixed 模式（ SOCKS5 + HTTP ），单端口 1111 ，全屋设备直连</li>
-<li><strong>多账号支持</strong>：WARP Free （ MASQUE ）/ WARP+ / Zero Trust Teams ，菜单切换</li>
-<li><strong>断线自愈</strong>：四级渐进恢复，自动软重连 → 完整重置，无需人工干预</li>
-<li><strong>多架构</strong>：amd64 + arm64 ，NAS 、软路由、树莓派通吃</li>
-</ul>
-<h3>快速开始</h3>
-<h3>🐳 直接拉取（推荐）</h3>
-<pre><code class="language-bash"># 下载 docker-compose.yml
-wget https://raw.githubusercontent.com/uxiaohan/vh-warp/main/docker-compose.yml
-# 启动
-docker compose up -d
-</code></pre>
-<p><img alt="vh-warp" class="embedded_image" rel="noreferrer" src="https://wp-cdn.4ce.cn/v2/1B2mESb.png" /></p>
-<p>局域网设备配置代理地址即可(支持 socks5 及 http) ：</p>
-<pre><code>SOCKS5:  192.168.x.x:1111
-HTTP:    192.168.x.x:1111
-</code></pre>
-<p>端口 1111 为 Mixed 模式，同一端口同时支持 HTTP 和 SOCKS5 ，客户端无需区分协议类型。</p>
-<blockquote>
-<p><strong>仅供学习与技术研究使用。</strong></p>
-</blockquote>]]></description>
-    <pubDate>Sun, 26 Jul 2026 07:23:59 -0000</pubDate>
-    <guid isPermaLink="true">https://www.v2ex.com/t/1229903#reply0</guid>
-    <source url="https://www.v2ex.com/t/1229903#reply0">V2EX</source>
   </item>
   <item>
     <title>[小众软件] CCleaner 复刻版：3.57MB，开源清理工具 FluentCleaner Classic 发布</title>
@@ -1225,14 +1199,6 @@ HTTP:    192.168.x.x:1111
     <source url="https://www.cnbeta.com.tw/articles/tech/1570362.htm">cnBeta.COM.TW RSS订阅</source>
   </item>
   <item>
-    <title>[Hacker News] JetZero</title>
-    <link>https://www.jetzero.aero</link>
-    <description><![CDATA[<a href="https://news.ycombinator.com/item?id=49054224">Comments</a>]]></description>
-    <pubDate>Sun, 26 Jul 2026 02:55:50 -0000</pubDate>
-    <guid isPermaLink="true">https://www.jetzero.aero</guid>
-    <source url="https://www.jetzero.aero">Hacker News</source>
-  </item>
-  <item>
     <title>[Hacker News] An ESP32 based plane radar for my desk</title>
     <link>https://blog.ktz.me/esp32-plane-radar/</link>
     <description><![CDATA[<a href="https://news.ycombinator.com/item?id=49054107">Comments</a>]]></description>
@@ -1287,30 +1253,6 @@ HTTP:    192.168.x.x:1111
     <pubDate>Sun, 26 Jul 2026 01:32:02 -0000</pubDate>
     <guid isPermaLink="true">https://www.cnbeta.com.tw/articles/tech/1570354.htm</guid>
     <source url="https://www.cnbeta.com.tw/articles/tech/1570354.htm">cnBeta.COM.TW RSS订阅</source>
-  </item>
-  <item>
-    <title>[cnBeta.COM.TW RSS订阅] 遭失控模型前所未有入侵 Hugging Face要求OpenAI提供1亿美元算力</title>
-    <link>https://www.cnbeta.com.tw/articles/tech/1570352.htm</link>
-    <description><![CDATA[<p>7月26日，据《商业内幕》报道，在遭到OpenAI失控智能体史无前例入侵后，AI公司Hugging Face CEO克莱姆·德朗格(Clem Delangue)飞往旧金山，与OpenAI会面，并提出了自己的要求。</p> <a href="https://www.cnbeta.com.tw/articles/tech/1570352.htm" target="_blank"><strong>阅读全文</strong></a>]]></description>
-    <pubDate>Sun, 26 Jul 2026 01:31:19 -0000</pubDate>
-    <guid isPermaLink="true">https://www.cnbeta.com.tw/articles/tech/1570352.htm</guid>
-    <source url="https://www.cnbeta.com.tw/articles/tech/1570352.htm">cnBeta.COM.TW RSS订阅</source>
-  </item>
-  <item>
-    <title>[cnBeta.COM.TW RSS订阅] 你看的无尽连载 作者可能已经不当人了</title>
-    <link>https://www.cnbeta.com.tw/articles/tech/1570350.htm</link>
-    <description><![CDATA[<p>“ 我最爱的网文作者，用 AI 把他的连载变成了拼接尸块。”<strong>如果问现在写作圈最忌惮的话题是什么，那绝对是 AI。</strong></p> <a href="https://www.cnbeta.com.tw/articles/tech/1570350.htm" target="_blank"><strong>阅读全文</strong></a>]]></description>
-    <pubDate>Sun, 26 Jul 2026 01:30:38 -0000</pubDate>
-    <guid isPermaLink="true">https://www.cnbeta.com.tw/articles/tech/1570350.htm</guid>
-    <source url="https://www.cnbeta.com.tw/articles/tech/1570350.htm">cnBeta.COM.TW RSS订阅</source>
-  </item>
-  <item>
-    <title>[cnBeta.COM.TW RSS订阅] 中子星碰撞中的隐秘机制或使宇宙金、铂以及稀土元素的产量暴增十倍</title>
-    <link>https://www.cnbeta.com.tw/articles/science/1570348.htm</link>
-    <description><![CDATA[<p>宾夕法尼亚州立大学与田纳西大学诺克斯维尔分校的研究团队近日在《物理评论快报》上发表了一项突破性成果。研究人员通过构建首个结合了广义相对论、流体力学以及中子星合并过程中中子蒸发与微观物理学的数值模拟，揭示了微小的“幽灵粒子”——中微子——在味转变（Flavor Transformation）过程中的关键作用。</p> <a href="https://www.cnbeta.com.tw/articles/science/1570348.htm" target="_blank"><strong>阅读全文</strong></a>]]></description>
-    <pubDate>Sun, 26 Jul 2026 01:28:33 -0000</pubDate>
-    <guid isPermaLink="true">https://www.cnbeta.com.tw/articles/science/1570348.htm</guid>
-    <source url="https://www.cnbeta.com.tw/articles/science/1570348.htm">cnBeta.COM.TW RSS订阅</source>
   </item>
   <item>
     <title>[36氪] 硬氪首发 | 复旦教授、前英特尔首席科学家做端侧具身大脑，「眸深智能」完成近亿元Pre-A轮追加融资</title>
@@ -1397,12 +1339,12 @@ HTTP:    192.168.x.x:1111
     <source url="https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf">Hacker News</source>
   </item>
   <item>
-    <title>[Hacker News] Clinical failure rates over the decades: yikes</title>
-    <link>https://www.science.org/content/blog-post/clinical-failure-rates-over-decades-yikes</link>
-    <description><![CDATA[<a href="https://news.ycombinator.com/item?id=49052628">Comments</a>]]></description>
-    <pubDate>Sat, 25 Jul 2026 22:57:17 -0000</pubDate>
-    <guid isPermaLink="true">https://www.science.org/content/blog-post/clinical-failure-rates-over-decades-yikes</guid>
-    <source url="https://www.science.org/content/blog-post/clinical-failure-rates-over-decades-yikes">Hacker News</source>
+    <title>[Hacker News] What is happening to jobs? Separating AI hype from reality</title>
+    <link>https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality</link>
+    <description><![CDATA[<a href="https://news.ycombinator.com/item?id=49052570">Comments</a>]]></description>
+    <pubDate>Sat, 25 Jul 2026 22:51:10 -0000</pubDate>
+    <guid isPermaLink="true">https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality</guid>
+    <source url="https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality">Hacker News</source>
   </item>
   <item>
     <title>[Hacker News] Cloudflare's new AI traffic options for customers</title>
@@ -1419,14 +1361,6 @@ HTTP:    192.168.x.x:1111
     <pubDate>Sat, 25 Jul 2026 20:42:35 -0000</pubDate>
     <guid isPermaLink="true">https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models</guid>
     <source url="https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models">Hacker News</source>
-  </item>
-  <item>
-    <title>[Hacker News] LLM Usage in Debian: Three Proposals</title>
-    <link>https://www.debian.org/vote/2026/vote_002</link>
-    <description><![CDATA[<a href="https://news.ycombinator.com/item?id=49050859">Comments</a>]]></description>
-    <pubDate>Sat, 25 Jul 2026 19:44:39 -0000</pubDate>
-    <guid isPermaLink="true">https://www.debian.org/vote/2026/vote_002</guid>
-    <source url="https://www.debian.org/vote/2026/vote_002">Hacker News</source>
   </item>
   <item>
     <title>[Hacker News] Running a 28.9M parameter LLM on an $8 microcontroller</title>
@@ -1470,7 +1404,7 @@ HTTP:    192.168.x.x:1111
   <p>曾歆勋相信，自己进入的是一个已被验证有真实需求的市场。他引用了几款同类产品的数据作为参照，第一个平台，年费会员定价1288元，而第二个平台，每名付费用户生命周期总支付约800元。</p>
   <p>1288元的年费，在C端订阅产品中处于最高档收费，与视频平台年费会员两三百元、音乐平台年费会员一百多元相比，婚恋产品年费1288元，用户愿意付费，说明“找对象”这件事在用户心里的价值排序非常高。</p>
   <p>与此同时，过往用户对婚恋平台的普遍担忧，在于支付了高额的费用却难以精准高效地匹配到对的人。对此，曾歆勋的判断是：<strong>上一代婚恋产品的技术能力，难以提供“精准匹配”这个服务。平台修建了一个巨大的用户池子，把有需求的用户聚集到一起，而后，找人这件事，用户依然要耗费大量的时间和精力。用户需要自己刷资料、分析资料、交流、匹配、淘汰，周而复始，推荐系统在更为精准地推荐人这件事上，几乎没帮上什么忙。</strong></p>
-  <p>“良配”的核心逻辑，正是在解决“精准匹配”问题上，这与曾歆勋此前在Kimi的工作也高度同源。</p>
+  <p>“良配”的核心逻辑，正是在解决“精准匹配”���题上，这与曾歆勋此前在Kimi的工作也高度同源。</p>
   <p>在Kimi做AI搜索技术负责人期间，曾歆勋每天的工作，就是带着团队研究如何用AI帮助用户精准匹配信息，并探索这一简单动作背后可以创造的商业价值。</p>
   <p>长久以来，他观察到AI搜索存在一个现象：在通用搜索领域，随着技术进步，搜索的结果越好、答案质量提升越显著，与此同时耗费的算力成本也更高。但用户的单次搜索难以形成付费，“现在各家的AI搜索都是免费提供的，用户可以免token费用使用，因为大家认为用户心智这个东西不该花钱，不愿意花钱。”曾歆勋说。</p>
   <p>但专门只做某个方向（如医疗、金融、法律等）的AI搜索产品，情况大不相同。这类搜索服务往往会接入大量私有数据库，帮助用户进行搜索、匹配，用户愿意为这些搜索结果支付费用。</p>
@@ -1740,7 +1674,7 @@ HTTP:    192.168.x.x:1111
   <p><strong>TVB正式更名为“无线集团”</strong></p>
   <p>据TVB官方微博消息，TVB宣布正式更名为“无线集团”，由传统电视台升级为跨媒体娱乐集团。业务更多元化，拥抱创新AI技术，市场拓宽到大湾区。（澎湃新闻）</p>
   <p><strong>微信撤回消息后可删除提示字</strong></p>
-  <p>据悉，微信8.0.76版本更新了新功能，用户可以将撤回后显示的灰色提示字删除，达到“无痕”撤回的效果了。用户可以长按“你撤回了一条消息”灰色提示词，点击删除即可。不过，据用户反馈，删除撤回只是自己的手机上看不见了，接收消息的一方仍然存在“对方撤回了一条消息”的提示。（都市快报）</p>
+  <p>据悉，微信8.0.76版本更新了新功能，用户可以将撤回后显示的灰色提示字删除，达到“无痕”撤回的效果了。用户可以长按“你撤回了一条消息”灰色提示词，点击删除即可。不过，据用户反馈，删除撤回只是自己的手机上看不见了，接收消息的一方仍然存在“对方��回了一条消息”的提示。（都市快报）</p>
   <p><strong>英伟达据悉上调GeForce显卡套件价格，覆盖GDDR7和GDDR6产品</strong></p>
   <p>据悉，英伟达已经向下游显卡制造商又一次发出GPU套装（GPU+显存芯片）涨价通知，核心原因依然是存储价格持续上涨。据悉，此次涨价同时涉及GDDR7显存和上一代GDDR6显存。这意味着除了使用Blackwell架构的大多数50系显卡外，RTX 5050以及更古早的显卡都会受到影响——例如近期以2022年原始建议零售价重返市场的RTX 3060 12GB显卡。报道称，这一轮涨价是今年5月英伟达上调旗舰显卡RTX 5090（包括中国特供版RTX 5090D V2）GPU套装价格后的最新调整。在那次涨价中，其余显卡并未受到波及。（财联社）</p>
   <p><strong>欧盟对谷歌处以8.9亿欧元罚款</strong></p>
@@ -1752,7 +1686,7 @@ HTTP:    192.168.x.x:1111
   <p><strong>中国人寿回应减持兆易创新</strong></p>
   <p>中国人寿7月20日披露，该公司名下8个单一资管计划于7月8日同日卖出兆易创新约110.97万股，变现约6.82亿元，卖出均价611.46-624.61元/股。该股票二季度末曾触及846.66元/股高点，7月24日午间收盘价报447.00元/股，较高点回调超四成。7月24日，中国人寿相关业务负责人回应记者称，公司的股票管理人对二级市场个股增持或减持，属于常态化投资行为，均基于投资配置需要。（上证报）</p>
   <p><strong>网传券商内部发文防范长鑫科技上市炒作，多家券商分支机构人士称未收到类似通知</strong></p>
-  <p>今日上午，一份疑似券商内部风控通知在资本市场流传，针对即将登陆科创板的长鑫科技，要求分支机构防范新股炒作，引发市场广泛关注。网传通知显示，该券商要求各分公司、各营业部通过有效方式提示50万元以上客户避免参与长鑫科技上市初期炒作，理性合规交易；重点关注惯于炒新追热点、多次触发合规预警的客户，对交易所重点监控账户进行电话警示，严防异常交易行为。多家券商分支机构、财富管理条线人士均表示暂未收到此类正式通知。有券商资深投顾表示，自己从业多年至今，从未接到公司内部针对单只新股的类似通知。（每日经济新闻）</p>
+  <p>今日上午，一份疑似券商内部风控通知在资本市场流传，针对即将登陆科创板的长鑫科技，要求分支机构防范新股炒作，引发市场广泛关注。网传通知显示，该券商要求各分公司、各营业部通过有效方式提示50万元以上客户避免参与长鑫科技上市初期炒作，理性合规交易；重点关注惯于炒新追热点、多次触发合规预警的客户，对交易所重点监控账户进行电话警示，严防异常交易行为。���家券商分支机构、财富管理条线人士均表示暂未收到此类正式通知。有券商资深投顾表示，自己从业多年至今，从未接到公司内部针对单只新股的类似通知。（每日经济新闻）</p>
   <p><strong>摩根大通据悉将30多位量化分析师从中国内地调往新加坡和香港</strong></p>
   <p>知情人士透露，摩根大通近几个月来已将30多位量化分析师从中国内地调往新加坡和香港，以将团队集中于区域枢纽，并更贴近业务部门。摩根大通今年早些时候成立量化交易和研究团队，借此加快推进电子交易业务，并因应非银行竞争对手带来的挑战。城堡证券和Jane Street Group LLC等做市商近年凭藉电子交易快速扩张。（新浪财经）</p>
   <p><strong>马斯克呼吁AI公司携手合作自我审查安全问题，为此可以暂时放下与奥特曼个人恩怨</strong></p>
@@ -1792,7 +1726,7 @@ HTTP:    192.168.x.x:1111
   <p>36氪获悉，宁德时代发布2026年半年度报告，2026年上半年营业收入2769.17亿元，同比增长54.80%；净利润432.84亿元，同比增长41.98%。</p>
   <h2>酷产品</h2>
   <p><strong>小鹏人形机器人正小批量试生产，量产产线进入最后联调阶段</strong></p>
-  <p>小鹏人形机器人已在广州工厂正式开启小批量试生产，同时量产产线进入最后联调阶段，量产冲刺正式进入倒计时。此前，小鹏集团内部召开机器人量产动员大会，明确了关键时间节点：2026年实现人形机器人量产，预计2027年起将陆续进驻全球小鹏门店及商业场景，承担导购、讲解等服务。小鹏机器人业务整合集团在硬件、AI大模型、供应链及营销等模块能力，并将汽车业务积累的软硬件协同研发、智能制造与全球化渠道经验，系统性地复用于机器人领域，加速高阶人形机器人的量产与商业化进程。（新浪科技）</p>
+  <p>小鹏人形机器人已在广州工厂正式开启小批量试生���，同时量产产线进入最后联调阶段，量产冲刺正式进入倒计时。此前，小鹏集团内部召开机器人量产动员大会，明确了关键时间节点：2026年实现人形机器人量产，预计2027年起将陆续进驻全球小鹏门店及商业场景，承担导购、讲解等服务。小鹏机器人业务整合集团在硬件、AI大模型、供应链及营销等模块能力，并将汽车业务积累的软硬件协同研发、智能制造与全球化渠道经验，系统性地复用于机器人领域，加速高阶人形机器人的量产与商业化进程。（新浪科技）</p>
   <p><strong>晶核能源发布全球首个电池仿生智能体系统</strong></p>
   <p>36氪获悉，在2026年汽车热系统学术年会上，晶核能源总裁、清华大学先进电池研究所所长李延涛发布全球首个电池仿生智能体系统。项目验证数据显示，应用后开发周期缩短超60%，研发成本降低超50%，电池温度一致性提升31%，电芯峰值温度降8℃。</p>
   <p><strong>整理</strong>｜葡萄</p>]]></description>
@@ -1865,7 +1799,7 @@ HTTP:    192.168.x.x:1111
   <p><strong>市场监管总局：深入整治“内卷式”竞争</strong></p>
   <p>36氪获悉，7月23日，市场监管总局召开2026年第二季度工作点评会，盘点、调度第二季度各单位贯彻落实党中央、国务院决策部署和总局重点任务情况，对第三季度重点工作作出安排。会议要求，要坚决落实好党中央各项决策部署，深入整治“内卷式”竞争，扎实抓好网约配送员群体党建工作，深化群众身边不正之风和腐败问题集中整治，抓好重点领域专项整治，结合职责做好防汛抗旱。要强化全面从严治党政治责任，组织开展好党组第五轮内部巡视，进一步营造风清气正干事创业浓厚氛围。</p>
   <p><strong>北京：鼓励发展Token（词元）经济，加大算力券等支持力度</strong></p>
-  <p>36氪获悉，北京市发展改革委等部门联合印发《北京市关于加快智能体引领发展的若干措施》，推动智能体创新引领发展，率先培育智能经济新形态。鼓励发展Token(词元)经济。推动创新主体研发适配智能体系统调用、复杂任务调度与高频决策的通用处理器，开发低延迟、高吞吐专用推理芯片。推动创新主体开展推理架构等关键技术攻关，通过异构协同、存算协同以及智能调度等降低推理成本，��快推理缓存复用、智能任务路由等应用层效率优化，全链路优化提高Token效率。重构产品形态和服务模式，培育Token即服务（TaaS）、智能体即服务（AaaS）、结果即服务（RaaS）等商业新模式，推动更多符合条件的Token新产品新服务纳入中小企业服务券配券产品范围。加大算力券等支持力度，鼓励有条件的区联合创新主体探索发放Token券、智能体服务券等加速智能体等推广应用。</p>
+  <p>36氪获悉，北京市发展改革委等部门联合印发《北京市关于加快智能体引领发展的若干措施》，推动智能体创新引领发展，率先培育智能经济新形态。鼓励发展Token(词元)经济。推动创新主体研发适配智能体系统调用、复杂任务调度与高频决策的通用处理器，开发低延迟、高吞吐专用推理芯片。推动创新主体开展推理架构等关键技术攻关，通过异构协同、存算协同以及智能调度等降低推理成本，加快推理缓存复用、智能任务路由等应用层效率优化，全链路优化提高Token效率。重构产品形态和服务模式，培育Token即服务（TaaS）、智能体即服务（AaaS）、结果即服务（RaaS）等商业新模式，推动更多符合条件的Token新产品新服务纳入中小企业服务券配券产品范围。加大算力券等支持力度，鼓励有条件的区联合创新主体探索发放Token券、智能体服务券等加速智能体等推广应用。</p>
   <h2>其他值得关注的新闻：</h2>
   <p><strong>中国脑机接口重要突破，首次实现跨地域上千人同步脑电信号采集</strong></p>
   <p>脑机接口是全球未来产业的重要赛道，而大规模、高质量的脑电数据，是推动技术从实验室走向产业化的核心基础。昨天下午，我国科研团队发布一款新型脑电信号采集装置，在全球范围内首次实现跨地域上千人同步脑电信号采集，使得神经大模型训练与脑机接口通用技术研发迈出关键一步。研发团队介绍，实现千人级跨地域同步采集，核心攻克了两大技术难关：一是在设备小型化的同时保障信号采集精度，二是克服网络延迟影响，实现多设备、多地域间的毫秒级时间精准对齐，确保不同脑电信号可以统一分析。未来，规模化脑电采集技术将持续沉淀数据，用于训练神经基础模型。这也意味着，AI的学习素材将不再局限于文字、图片、视频等间接信息，而是可以直接通过神经信号理解人类的认知状态。（央视财经）</p>
@@ -1990,7 +1924,7 @@ HTTP:    192.168.x.x:1111
   <p>&nbsp;</p>
   <p><strong>未来：那正在做HR的人应该担心什么？</strong></p>
   <p><strong>元企AI：</strong>我觉得不是简单说替代HR，而是把HR从低效重复工作里解放出来。</p>
-  <p>AI更适合做匹配、初筛、整理这些前段工作。人类HR还是要做更复杂的沟通、判断和关系处理，比如理解业务需求、判断候选人和组织是否适配、把公司推销给候选人。</p>
+  <p>AI更适合做匹配、初筛、整理这些前段工���。人类HR还是要做更复杂的沟通、判断和关系处理，比如理解业务需求、判断候选人和组织是否适配、把公司推销给候选人。</p>
   <p>未来可能被淘汰的，不是HR这个岗位，而是不会用AI的人，或者用AI比较晚的人。用得早的人，会先享受到效率提升。</p>
   <p class="image-wrapper"><img src="https://img.36krcdn.com/hsossms/20260724/v2_dc6b836130a54f61a8885963e2a5e178@6314151_oswg2380oswg900oswg181_img_000?x-oss-process=image/format,jpg/interlace,1" /></p>
   <p class="img-desc">&nbsp;</p>
@@ -2462,7 +2396,7 @@ HTTP:    192.168.x.x:1111
    <p>“然后第二个问题是，思考未来的组织架构，对人员的规划规模。首先，我们之前的组织架构是非常分散的，因为没有组织架构。但是我们人在进一步扩大之后，这些肯定是需要做出一些改变的。现在只能说，这里会需要做很多改变，但现在很难一下子全部表达出来。最后应该还是要分不同的部门，应该有些部门是我们需要建立起比较严谨的层级结构的。另外一些部门， 可能还是会维持一个比较松散、比较扁平的结构。” &nbsp;</p>
   </blockquote>
   <blockquote>
-   <p>“我们一般也不太加班。不加班有两个原因。第一个是，做研究是需要一个比较松弛的环境。 你如果逼得很紧，就没法做研究。因为既然就是要你自己有这个兴趣，你自己平时要去想这些问题，所以得是在一个比较松弛的环境里，才有可能能够探索。这是一个出于研究文化的需要。第二个是，我们非常聚焦。聚焦，就意味着我们要做的事情很少。那我就没那么多事情要做,我就不需要加���。”</p>
+   <p>“我们一般也不太加班。不加班有两个原因。第一个是，做研究是需要一个比较松弛的环境。 你如果逼得很紧，就没法做研究。因为既然就是要你自己有这个兴趣，你自己平时要去想这些问题，所以得是在一个比较松弛的环境里，才有可能能够探索。这是一个出于研究文化的需要。第二个是，我们非常聚焦。聚焦，就意味着我们要做的事情很少。那我就没那么多事情要做,我就不需要加班。”</p>
   </blockquote>
   <p>&nbsp;</p>
   <p><strong>团队稳定是理想落地的底座</strong></p>
@@ -2521,7 +2455,7 @@ HTTP:    192.168.x.x:1111
    <p>“差距只有两个东西：一个是时间，一个是成本。所以不至于哪一家有暴利，我觉得不至于有暴利。成本控制得好的人就多赚一点，成本控制得差的人就少赚一点，仅仅此而已。”</p>
   </blockquote>
   <p><strong>不吃全产业链，只守最核心的位置</strong></p>
-  <p>梁文锋反复表达过一种边界感：DeepSeek不希望把所有东西都做了，不希望向上游芯片垂直整合，也不希望吃掉所有应用层机会。它相信AI时代足够大，会产生很多家公司，DeepSeek只需要成为其中一家，而且吃自己最擅长、最核心的那一块。</p>
+  <p>梁文锋反复表达过一种边界感：DeepSeek不希望把所有东西都做了，不希望向上游芯片垂直整合��也不希望吃掉所有应用层机会。它相信AI时代足够大，会产生很多家公司，DeepSeek只需要成为其中一家，而且吃自己最擅长、最核心的那一块。</p>
   <blockquote>
    <p>“还有问题是，我们会不会向上游进行垂直整合？我希望不要。所以有个问题是，我们是不是会往上游应用进行垂直整合？我们希望不用这个，我希望是其他人来做这个事情。我不希望我把所有东西都吃了，我只要吃一块就好，我只要吃我最擅长那一块，或者我觉得我们自己认为最核心那一块。” &nbsp;</p>
   </blockquote>
@@ -2645,7 +2579,7 @@ HTTP:    192.168.x.x:1111
   <p>作为H3馆首站，穹彻智能没有单纯展示机器人炫酷动作，而是完整呈现<strong>“真实数据采集 — 具身大模型 — 商业场景落地”</strong>闭环技术路线，传递“Robot Service Everywhere” 的核心理念，让机器人成为药房、酒店里稳定可靠的服务伙伴。</p>
   <p class="image-wrapper"><img src="https://img.36krcdn.com/hsossms/20260724/v2_62da38cb9fe3457a8789853d072d4bed@6381723_oswg5311000oswg2306oswg1307_img_png?x-oss-process=image/quality,q_80/format,jpg/interlace,1" /></p>
   <p>药房与酒店洗烘两个场景展示中最令人惊叹的，是机器人不仅“能动手”，更在过程中理解任务、学习任务：真实世界信息与文本、图像不同，包含力度、轨迹、触觉等多维度，RoboPocket 2.0通过多维度采集真实理解任务，再由中间层的自研具身大模型完成动作序列规划与场景适配，最终实现跨场景、全链路的精准抓取与任务执行。</p>
-  <p>AI科学家吕博在探展访谈中解释行业差异：多数厂商只展示机器人本体，而穹彻的核心壁垒是持续进化飞轮：真实商业场景产生海量操作数据，回流训练模型，模型能力提升后再优化机器人现场作业效率，循环往复。展台自研双臂移动迎宾机器人全程互动接待，成为全场人气打卡点位，直观印证具身智能从技术验证走向规模化商���，成为线下场景专属智能伙伴的行业拐点。</p>
+  <p>AI科学家吕博在探展访谈中解释行业差异：多数厂商只展示机器人本体，而穹彻的核心壁垒是持续进化飞轮：真实商业场景产生海量操作数据，回流训练模型，模型能力提升后再优化机器人现场作业效率，循环往复。展台自研双臂移动迎宾机器人全程互动接待，成为全场人气打卡点位，直观印证具身智能从技术验证走向规模化商用，成为线下场景专属智能伙伴的行业拐点。</p>
   <p><strong>华沿机器人：具身智能机器人落地新解法</strong></p>
   <p>暴走团在华沿机器人展位停留20余分钟，首席发展官兼董事局主席助理林深现场拆解机器人落地痛点，并重点介绍了华沿机器人针对相关痛点问题推出的“模块化具身神经系统”——它将具身智能小脑部分的功能做成标准化模块，包括数采系统、遥操系统、感知系统（视觉、力觉、听觉、触觉）、上肢与执行系统、移动与躯干系统、任务系统等，以标准化、模块化、可扩展等优势，降低具身智能应用的开发门槛，与合作伙伴共同赋能终端。</p>
   <p class="image-wrapper"><img src="https://img.36krcdn.com/hsossms/20260724/v2_6eff29e43b4941439b32fbb22948252f@6381723_oswg5919027oswg2315oswg1310_img_png?x-oss-process=image/quality,q_80/format,jpg/interlace,1" /></p>
@@ -2655,12 +2589,12 @@ HTTP:    192.168.x.x:1111
   <p><strong>易鑫集团：汽车金融Agent压缩九成业务流程</strong></p>
   <p>转场H1应用馆，易鑫带来业内首个规模化落地的汽车金融 Agentic 大模型，直击汽车贷款手续繁琐、审核周期长的行业痛点。AI 智能一体机将原本90分钟的线下业务流程压缩至十几分钟，全流程自动核验材料、解析金融条款、风险预判。</p>
   <p class="image-wrapper"><img src="https://img.36krcdn.com/hsossms/20260724/v2_f5c62f2454cc428bbdacf9f2024cd35c@6381723_oswg4079277oswg2372oswg1310_img_png?x-oss-process=image/quality,q_80/format,jpg/interlace,1" /></p>
-  <p>一体机同时配备拟人化AI智能导办、透明化进度管理，操作便捷，还可一键呼叫专属��问，7×24小时随时响应。在金融级隐私安全框架下，数据安全也得到全程保障。不仅让申请者体验到快，更为经销商和金融机构，解决了人工流程长、风控标准不一、跨系统协同难的痛点，真正打通了从获客到放款的全链路。</p>
+  <p>一体机同时配备拟人化AI智能导办、透明化进度管理，操作便捷，还可一键呼叫专属顾问，7×24小时随时响应。在金融级隐私安全框架下，数据安全也得到全程保障。不仅让申请者体验到快，更为经销商和金融机构，解决了人工流程长、风控标准不一、跨系统协同难的痛点，真正打通了从获客到放款的全链路。</p>
   <p>首席AI科学家张磊现场分享落地逻辑：依托海量汽车金融交易数据训练垂直智能体，覆盖购车分期、车辆保险、二手车评估全链路，AI 完成标准化审核，人工专注复杂风险个案。通用大模型无法吃透金融监管规则与车辆行业细则，垂直行业大模型 + 智能一体机软硬件一体化方案，为汽车金融行业量身打造专属智能伙伴。</p>
   <p><strong>Om AI联汇：VLX流式多模态模型系列，无人机视觉AI实现全场景复用</strong></p>
   <p>Om AI联汇创始人赵天成博士现场展示全新VLX流式多模态模型系列，使AI脱离云端依赖，在终端设备上实时理解视频流、定位目标。三款搭载该模型的终端设备同步亮相，“自主无人机大脑”是本次展会首次亮相。</p>
   <p class="image-wrapper"><img src="https://img.36krcdn.com/hsossms/20260724/v2_acf7a80f432b49dfba3ac0203cd3c333@6381723_oswg477680oswg1194oswg667_img_jpg?x-oss-process=image/quality,q_100/format,jpg/interlace,1" /></p>
-  <p>在无人机应用场景中：搭载VLX的OttoPlex御行智飞大脑，是全球第一款应用无人机智飞大脑。通过一条自然语言指令即可指挥无人机自主执行园区巡检等复杂任务，即便断网、复杂环境下也能独立作业，且适配各类无人机即插即用。这套“智飞大脑”覆盖海事安防、公安警务、工业巡检、城市安防等多个低空应用落地场景，具备自主巡航、自主识别、轻量化部署几大优势，大幅降低无人机端侧AI硬件量产与落地成本。此外，Om AI还展示了OttoBox AI PC视频创作助理和Homer可穿戴视觉中枢两个方向，分别解决素材检索与视障辅助问题，充分展现了VLX流式多模态模型系列多场景终端适配能力与实干能力。</p>
+  <p>在无人机应用场景中：搭载VLX的OttoPlex御行智飞大脑，是全球第一款应用无人机智飞大脑。通过一条自然语言指令即可指挥无人机自主执行园区巡检等复杂任务，即便断网、复杂环境下也能独立作业，且适配各类无人机即插即用。这套“智飞大脑”覆盖海事安防、公安警务、工业巡检、城市安防等多个低空应用落地场景，具备自主巡航、自主识别、轻量化部署几大优势，大幅降低无人机端侧AI硬件量产与落地成本。此外，Om AI还展示了OttoBox AI PC视频创作助理和Homer可穿戴视觉中枢两个方向，分别解决素材检索与视障辅助问题，充分展现了VLX流式多��态模型系列多场景终端适配能力与实干能力。</p>
   <p><strong>PPIO：Agent时代的智能Token工厂</strong></p>
   <p>作为36氪老朋友，Agentic Cloud服务商PPIO今年持续加码Token工厂和AI智能体基础设施，在国内率先推出智能模型网关产品，解决从独角兽到大企业所有AI开发者最头疼的三件事：模型选型难、成本不可控、模型跑不稳。</p>
   <p>展区展示智能模型网关在处理高价值、高风险或结果不确定的关键Agent步骤时，会触发多模型融合，将问题同时分发给多个擅长此道的专家模型，通过交叉验证生成最终答案。这种“专家会诊”模式可以极大避免因模型“偏科”导致的任务失败和返工。</p>
@@ -3172,7 +3106,7 @@ HTTP:    192.168.x.x:1111
   <p><strong>证监会：更大力度推动上市公司规范治理持续释放并购重组活力</strong></p>
   <p>金十数据7月23日讯，中国证监会召开党的建设暨监管工作座谈会，会议强调，扶优限劣促进上市公司做优做强。进一步夯实财务造假综合惩防体系，更大力度推动上市公司规范治理，持续释放并购重组活力，推出更多典型案例。分层分类推动行业机构高质量发展。健全证券公司“1+N+X”监管制度体系，加快落实推动基金公司规范发展的一揽子措施，尽快出台期货公司监管办法，大力促进私募基金规范健康发展。防微杜渐守牢重点领域风险底线。坚决维护资本市场金融基础设施安全稳定，着力防范化解融资平台、房地产相关债券违约风险。七是稳妥有序深化资本市场双向开放，进一步加强跨境监管合作。（金十数据APP）</p>
   <p><strong>极氪回应“海外锁车”事件</strong></p>
-  <p>近日，河南一位极氪车主在跨境自驾时，车辆因长期处于海外定位状态，车机弹出强制提示界面、智能功能暂时受限，相关话题引发市场对新能源汽车远程风控机制的广泛关注。针对“海外锁车”风波，7月23日，极氪方面向记者回应称：“经核实，该车辆因定位显示在海外区域，触发了车机内置的安全保护机制。系统将先行弹窗提醒；若定位状态持续无变化，车机界面会进一步出现强提示画面��”极氪方面表示：该机制为行业内普遍采用的防盗防损措施，旨在保障车主财产安全，同时符合各国法规要求及车辆进出口管理秩序，可有效防范因走私、盗抢等导致的车辆安全风险。（第一财经）</p>
+  <p>近日，河南一位极氪车主在跨境自驾时，车辆因长期处于海外定位状态，车机弹出强制提示界面、智能功能暂时受限，相关话题引发市场对新能源汽车远程风控机制的广泛关注。针对“海外锁车”风波，7月23日，极氪方面向记者回应称：“经核实，该车辆因定位显示在海外区域，触发了车机内置的安全保护机制。系统将先行弹窗提醒；若定位状态持续无变化，车机界面会进一步出现强提示画面。”极氪方面表示：该机制为行业内普遍采用的防盗防损措施，旨在保障车主财产安全，同时符合各国法规要求及车辆进出口管理秩序，可有效防范因走私、盗抢等导致的车辆安全风险。（第一财经）</p>
   <p><strong>腾讯317万年终奖员工因泄密被辞退：打入黑名单，永不录用</strong></p>
   <p>日前，腾讯发布内部通报，WXG（微信事业群）某项目组负责人叶某因泄露公司敏感信息，被公司辞退并列入黑名单，永不录用。据了解，此次事件起源于此前一张刷屏全网的年终收入截图。截图显示，叶某年末激励由现金与股票两部分组成，总额接近320万元，其中现金奖金82万余元，股票激励235万余元。随后，有网友发现截图自带腾讯内部水印，随即引发薪资泄密争议。风波发酵后，叶某的内部会议日程被迅速清空，业内当时便猜测，薪资泄密已触发腾讯违规预警。（鞭牛士）</p>
   <p><strong>马斯克官宣将用AI制作电影《奥德赛》</strong></p>
@@ -3186,7 +3120,7 @@ HTTP:    192.168.x.x:1111
   <p><strong>苹果准备全面升级Mac产品线</strong></p>
   <p>当地时间7月22日，科技记者马克·古尔曼发文称，苹果公司正准备对Mac产品线进行全面升级，希望借助人工智能热潮所推动的对高性能笔记本电脑和台式机的需求。据悉，苹果计划从今年秋季至明年陆续推出旗下所有Mac产品的新版本，包括备受期待的台式电脑更新、多款笔记本电脑，以及新款MacBook Pro。苹果将率先推出更新后的入门级14英寸MacBook Pro，该机型将成为首批搭载全新M6芯片的Mac产品之一，苹果还将发布两年来首款新版iMac。（界面新闻）</p>
   <p><strong>多款高端手机涨价超1000元</strong></p>
-  <p>存储芯片缺货导致的手机涨价潮已蔓延至高端产品市场。7月23日，据央视财经报道，在暑期消费旺季，主流厂商旗下多款新机及在售机型价格上调，涨幅普遍在300元至1000元不等，部分高端机型涨幅甚至突破千元。品牌门店正依托“以旧换新”国家补贴等政策，降低购机门槛。安卓国产高端阵营是本轮涨价幅度最突出的板块，vivo、OPPO、荣耀等多款大存储旗舰、折叠屏调价幅度全部跨过千元门槛。其中，vivo旗下iQOO 15、iQOO 15 Ultra全系涨价，标准版单轮涨价400-1000元，iQOO 15标准版的顶配16GB+1TB版本对比首发价累计上涨1500元。（央视财经）</p>
+  <p>存储芯片缺货导致的手机涨价潮已蔓延至高端产品市场。7月23日，据央视财经报道，在暑期消费旺季，主流厂商旗下多款新机及在售机型价格上调，涨幅普遍在300元至1000元不等，部分高端机型涨幅甚至突破千元。品牌门店正依托“以旧换新”国家补贴等政策，降低购机门槛。安卓国产高端阵营是本轮涨价幅度最突出的板块，vivo、OPPO、荣耀等���款大存储旗舰、折叠屏调价幅度全部跨过千元门槛。其中，vivo旗下iQOO 15、iQOO 15 Ultra全系涨价，标准版单轮涨价400-1000元，iQOO 15标准版的顶配16GB+1TB版本对比首发价累计上涨1500元。（央视财经）</p>
   <p><strong>张雪峰女儿再接手三家公司股份</strong></p>
   <p>天眼查App显示，近日，张雪峰（张子彪）名下苏州峰学蔚来教育科技有限公司、苏州峰阅万卷文化图书有限公司、苏州峰峰火火闯九州旅行社有限责任公司发生工商变更，张雪峰均退出上述公司股东，卸任法定代表人及执行董事职务，同时新增刘巧丽、张雪峰女儿张姩菡为股东。此外，苏州峰学蔚来教育科技有限公司、苏州峰阅万卷文化图书有限公司新增张雪峰妻子李丽婧任董事职务。（界面新闻）</p>
   <p><strong>优步科技裁减10%的客服岗位，理由是“拥抱”人工智能</strong></p>
@@ -3233,14 +3167,6 @@ HTTP:    192.168.x.x:1111
     <source url="https://36kr.com/p/3908881985901959?f=rss">36氪</source>
   </item>
   <item>
-    <title>[Hacker News] Rethinking Legal Education in the AI Era</title>
-    <link>https://www.law.uchicago.edu/news/ai-strategy-statement</link>
-    <description><![CDATA[<a href="https://news.ycombinator.com/item?id=49024980">Comments</a>]]></description>
-    <pubDate>Thu, 23 Jul 2026 17:12:48 -0000</pubDate>
-    <guid isPermaLink="true">https://www.law.uchicago.edu/news/ai-strategy-statement</guid>
-    <source url="https://www.law.uchicago.edu/news/ai-strategy-statement">Hacker News</source>
-  </item>
-  <item>
     <title>[雷峰网] “野生测评”造谣拉踩，伤害的不只是车企</title>
     <link>https://www.leiphone.com/category/industrynews/dWSKcV6GBItdrtB4.html</link>
     <description><![CDATA[<p>一段精心伪造的碰撞测评视频，一条有组织的网络传播链条，一场针对车企的声誉围剿……近日，百万粉丝汽车博主蓄意造假抹黑小米汽车一案一审宣判，涉案博主因损害商品声誉罪获刑。</p><p>事件背后，是近年来新能源汽车领域“野生测评”的行业乱象。近年来，多家车企陆续拿起法律武器，传递出明确信号：虚假测评、造谣诋毁、恶意拉踩，早已触碰法律红线，此路不通、终将碰壁。</p><p style="text-align: center;"><img src="https://static.leiphone.com/uploads/new/images/20260723/6a61e55e898a5.png?imageView2/2/w/740" /></p><p>当前，我国新能源汽车产业蓬勃发展。面对巨大市场机遇，这条赛道本应成为各家企业比拼技术创新、产品品质与用户服务的竞技场。不过，伴随市场竞争日趋白热化，各类乱象暗流涌动。部分自媒体打着“专业测评”“客观科普”的幌子，为博取流量、谋求私利肆意捏造事实。一些灰色产业链操纵网络水军，批量散播谣言、定向抹黑，侵蚀车企品牌声誉。流量算法则偏爱冲突话题，也变相助长了“负面更容易出圈”的不良创作风气。</p><p>舆论场上的恶意攻讦，伤害的从来不止一家企业。车企数年深耕研发、重金打磨产品，而一条虚假负面舆情短时间便能全网扩散，令品牌口碑顷刻承压，大量前期投入付诸东流。对消费者而言，真假难辨的海量碎片化信息极易干扰独立判断，选购决策易被不实舆论裹挟。</p><p>更值得警惕的是，不少恶意抹黑、互相拉踩的水军行动，背后不乏市场主体暗中助推、雇佣操盘。当部分行业参与者把心思放在“暗箭伤人”，而非沉下心打磨产品，行业就容易陷入互相拉踩的内耗，动摇中国汽车产业向上突破的根基。须知道，谣言终会被识破，优质的产品与服务才是车企行稳致远的底气所在。</p><p>总有人心存侥幸，认为网络空间虚拟隐蔽，造谣成本低、追责难度大。一系列司法判决清晰昭示：网络绝非法外之地，言论自由绝不等于肆意造谣。近年来，多地警方接连打掉炒作汽车负面信息的水军团伙，六部门联合开展汽车行业网络乱象专项整治，一大批炮制虚假测评、恶意诋毁车企的账号被处置。民事诉讼、刑事追责、行业整治构筑起多重约束链条，妄图游走于灰色地带的车圈“黑嘴”，终将为自身行为承担法律代价。</p><p>需要厘清的是，整治网络水军、支持车企依法维权，绝非拒绝合理监督、屏蔽客观批评。消费者真实用车反馈、媒体理性客观测评、行业建设性讨论，是倒逼车企打磨产品、优化服务的重要动力。区分善意监督与恶意抹黑，标尺就是“事实”二字。立足客观事实指出产品不足，车企应当敞开胸怀接纳；脱离事实捏造虚假信息、有组织煽动负面情绪、蓄意损毁品牌声誉，则是必须遏制的不正当竞争行为。</p><p>产业向好，离不开清朗有序的舆论生态。市场公平，需要每一个参与者共同守护。当前，中国汽车产业正处于转型升级、参与全球竞争的关键时期，各类舆论缠斗、虚假抹黑只会徒增行业内耗。让竞争回归产品本身，肃清舆论乱象，中国汽车产业才能凝聚合力，行稳致远。</p><p><span style="font-size: 14px;">(转载:人民日报客户端)</span></p><p><span style="font-size: 14px;">策划：赵鹏 孙溪 左潇</span></p><p><span style="font-size: 14px;">海报：王宇峰</span></p>]]></description>
@@ -3263,14 +3189,6 @@ HTTP:    192.168.x.x:1111
     <pubDate>Thu, 23 Jul 2026 09:34:00 -0000</pubDate>
     <guid isPermaLink="true">https://www.leiphone.com/category/yanxishe/wFiCjuoj6zqG5WZ7.html</guid>
     <source url="https://www.leiphone.com/category/yanxishe/wFiCjuoj6zqG5WZ7.html">雷峰网</source>
-  </item>
-  <item>
-    <title>[雷峰网] 快速查账！领100美元免费积分，反被Claude偷设陷阱疯狂扣费</title>
-    <link>https://www.leiphone.com/category/yanxishe/QYg8NFOX1UYDWoXQ.html</link>
-    <description><![CDATA[<section style="text-align: center; margin: 0px 16px; line-height: 1.75em; display: block;"><img class="rich_pages wxw-img" src="https://static.leiphone.com/uploads/new/images/20260723/6a61decaac8c1.jpg?imageMogr2/quality/90" style="width: 100%; display: inline-block; text-align: center; background-color: transparent;" /></section><section style="padding-left: 16px; padding-right: 16px;"><section style="width: 100%; display: flex; padding: 0px;"><section style="width: 100%; padding-left: 0px; padding-right: 0px;"><section style="width: 100%; background: rgb(246, 248, 255); padding: 20px 0px 12px; margin-top: 0px; margin-bottom: 0px;"><section style="text-align: center;"><section><section style="text-align: justify; margin: 0px 16px;"><span style="font-family: Arial, Helvetica, sans-serif; font-size: 15px; font-weight: bold; letter-spacing: 0.5px;"><span><span><span style="font-weight: bold;">Claude的隐形计费开关，花了我197元</span></span></span></span></section><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><section style="text-align: left; margin-bottom: 0px; margin-top: 0px;"><span style="font-family: Arial, Helvetica, sans-serif; font-size: 15px; font-weight: bold; letter-spacing: 0.5px;"><span><br /></span></span></section></section></section><span></span><span></span><span></span><span></span><p style="font-size: 14px; color: rgb(0, 0, 0); line-height: 25px; margin-bottom: 0px; margin-top: 0px;"><span style="font-family: Arial, Helvetica, sans-serif;"><span style="color: #888888; font-weight: normal;">&nbsp; &nbsp; 作者丨</span></span><span><span style="color: #888888; font-weight: normal;">高允毅</span></span><strong><span><strong><span><span><br /></span></span></strong></span></strong></p><p style="font-size: 14px; color: rgb(0, 0, 0); line-height: 25px; margin-bottom: 0px; margin-top: 0px;"><span style="font-family: Optima-Regular, PingFangTC-light;"><span style="color: #888888; font-weight: normal; font-family: Arial, Helvetica, sans-serif;"><span>&nbsp; &nbsp; 编辑丨</span><span>马晓宁</span></span></span></p><p style="font-size: 14px; color: rgb(0, 0, 0); line-height: 25px; text-align: right; margin: 0px 16px;"><strong><strong><span><span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span></span></strong></strong></p></section></section></section></section><p style="text-align: justify; margin: 16px 16px 24px; line-height: 1.75em;"><span><span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">就在昨天，OpenAI爆出内部模型越狱，为了获取基准测试答案“作弊”，自主攻击Hugging Face的事件引起轰动，引起大家对Agent安全问题的关注。</span></span></p><p style="text-align: justify; margin: 16px 16px 24px; line-height: 1.75em;"><span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">紧接着，就在今早，Reddit技术社区的ClaudeAI板块又爆出另一个问题：多位用户反映，Anthropic 的免费额度活动会意外开启付费扣费。&nbsp;</span></p><p style="text-align: justify; margin: 16px 16px 24px; line-height: 1.75em;"><span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">这种“自主计费”暴露了另一种更日常的越界，AI 没有突破系统权限，却在用户毫无察觉的情况下，悄悄花光了钱包里的预算。</span></p><section><section><section style="width: 100%; display: flex; padding: 0px 14px 0px 14px;"><section style="display: flex;"><section><img alt="图片" class="rich_pages wxw-img __bg_gif" src="https://static.leiphone.com/uploads/new/images/20260723/6a61decade938.jpg?imageMogr2/quality/90" style="display: block; height: auto !important; width: 38px !important; background-color: transparent;" /></section><section style="text-align: center;"><p style="font-size: 36px; color: #333333; line-height: 50px;"><strong><span>01</span><span><br /></span></strong></p><h2><span><br /></span></h2><h2><strong><strong style="text-align: center; font-size: 18px; color: rgb(51, 51, 51); line-height: 25px; font-weight: bold; font-family: Optima-Regular, PingFangTC-light;"><strong style="text-align: center; color: rgb(51, 51, 51); line-height: 25px; font-weight: bold; font-family: Arial, Helvetica, sans-serif; font-size: 18px;"><span style="text-align: center; color: #333333; line-height: 25px; font-weight: bold; font-family: Arial, Helvetica, sans-serif; font-size: 18px;">本想白嫖 100 美元积分福利，</span></strong></strong></strong></h2></section><section style="text-align: center;"><h2><strong><strong style="text-align: center; font-size: 18px; color: rgb(51, 51, 51); line-height: 25px; font-weight: bold; font-family: Optima-Regular, PingFangTC-light;"><strong style="text-align: center; color: rgb(51, 51, 51); line-height: 25px; font-weight: bold; font-family: Arial, Helvetica, sans-serif; font-size: 18px;"><span style="text-align: center; color: #333333; line-height: 25px; font-weight: bold; font-family: Arial, Helvetica, sans-serif; font-size: 18px;">怎么反被扣了钱？</span><span><br /></span></strong></strong></strong></h2></section></section></section></section></section><p style="text-align: justify; margin: 16px 16px 24px; line-height: 1.75em;"><span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">整件事的核心源自 Anthropic在7月20日，结束了关于Fable 5的的限免福利。</span></p><p style="text-align: justify; margin: 16px 16px 24px; line-height: 1.75em;"><span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">此前，Fable 5 曾面向所有付费用户开放免费试用。由于算力成本过高，7月20日后，官方决定针对Pro 和 Team 级别的普通用户按需收费。为了补偿受影响的用户，官方发放了 100 美元的一次性促销积分。</span></p><section style="text-align: justify; margin: 16px 16px 8px; line-height: 1.75em;"><img class="rich_pages wxw-img" src="https://static.leiphone.com/uploads/new/images/20260723/6a61decb37d7a.png?imageMogr2/quality/90" style="background-color: transparent; width: 100%;" /></section><p style="text-align: center; margin: 0px 16px 24px; line-height: 1.75em;"><span style="font-size: 14px; font-family: Arial, Helvetica, sans-serif;"><span style="color: #888888;">图注：关于Claude Fable 5免费积分领取官方通知</span></span></p><p style="text-align: justify; margin: 16px 16px 24px; line-height: 1.75em;"><span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">故事的主角 Matthew 就在领取这 100 美元后，踩进了坑里。</span></p><p style="text-align: justify; margin: 16px 16px 24px; line-height: 1.75em;"><span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">Matthew 表示，领取积分后他并没有急着用 Claude 3.5 Sonnet，而是继续像往常一样用 Claude 3 Opus 处理日常工作。</span></p><p style="text-align: justify; margin: 16px 16px 24px; line-height: 1.75em;"><span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">很快，他的 Opus 使用量达到了 Pro 会员常规的 5 小时限额。按照以往两年的经验，此时页面应该弹出限流提示，要求他等待重置或切换模型。但这次什么都没发生，对话依然顺畅，模型响应毫无卡顿。他以为是系统延迟或官方放宽了限制，便没放在心上，继续使用。</span></p><p style="text-align: justify; margin: 16px 16px 24px; line-height: 1.75em;"><span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">直到账单提醒跳出来的那一刻，他才察觉不对，账户已经被扣了 50.15 新西兰元（相当于197元人民币）。</span></p><p style="text-align: justify; margin: 16px 16px 24px; line-height: 1.75em;"><span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">他立刻冲进账单页面核对，结果让他哭笑不得。那笔 100 美元的促销积分完好无损地躺在账户里，而这笔扣费，全部来自他超出 Pro 套餐额度后、继续使用 Opus 产生的“超量账单”。 不是5小时限制额度吗？不是Fable 5专用的免费积分吗？</span></p><p style="text-align: justify; margin: 16px 16px 24px; line-height: 1.75em;"><span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">经过复盘，他终于梳理清了这套规则的隐蔽逻辑：</span></p><ul class=" list-paddingleft-2"><li><p style="text-align: justify; margin: 16px 16px 24px; line-height: 1.75em;"><span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">领取Fable 5 免费积分积分，会默认捆绑开通按需付费的功能，原本的5小时的限制速率失效，直接按需扣费</span></p></li><li><p style="text-align: justify; margin: 16px 16px 24px; line-height: 1.75em;"><span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">这个免费积分非Fable 5专用，而是覆盖所有模型，比如Opus系列也可使用</span></p></li><li><p style="text-align: justify; margin: 16px 16px 24px; line-height: 1.75em;"><span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">原本优先使用积分消耗，变成了优先付费模式</span></p></li></ul><p style="text-align: justify; margin: 16px 16px 24px; line-height: 1.75em;"><span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">尽管 Matthew 事后在官方公告的隐秘角落找到了“积分可用于所有模型”的说明，但整个领取流程中，用户根本无法清晰感知这些核心规则的变化。</span></p><section style="text-align: justify; margin: 16px 16px 24px; line-height: 1.75em;"><img class="rich_pages wxw-img" src="https://static.leiphone.com/uploads/new/images/20260723/6a61decb6ea71.png?imageMogr2/quality/90" style="background-color: transparent;" /></section><p style="text-align: justify; margin: 16px 16px 24px; line-height: 1.75em;"><span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">图注：在免费积分领取通知中，官方明确注明不局限于Fable 5的使用</span></p><p style="text-align: justify; margin: 16px 16px 24px; line-height: 1.75em;"><span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">谁也没想到，用户抱着 “领免费福利” 的低风险预期点下按钮，实际却签下了一份 “全模型超限无限扣费” 的授权书。</span></p><section><section><section style="width: 100%; display: flex; padding: 0px 14px 0px 14px;"><section style="display: flex;"><section><img alt="图片" class="rich_pages wxw-img __bg_gif" src="https://static.leiphone.com/uploads/new/images/20260723/6a61decba5f62.jpg?imageMogr2/quality/90" style="display: block; height: auto !important; width: 38px !important; background-color: transparent;" /></section><section style="text-align: center;"><p style="font-size: 36px; color: #333333; line-height: 50px;"><strong><span>02</span><span><br /></span></strong></p><h2><span><br /></span></h2><h2><strong><strong style="text-align: center; font-size: 18px; color: rgb(51, 51, 51); line-height: 25px; font-weight: bold; font-family: Optima-Regular, PingFangTC-light;"><strong style="text-align: center; color: rgb(51, 51, 51); line-height: 25px; font-weight: bold; font-family: Arial, Helvetica, sans-serif; font-size: 18px;"><span style="text-align: center; color: #333333; line-height: 25px; font-weight: bold; font-family: Arial, Helvetica, sans-serif; font-size: 18px;">模糊的收费边界</span><span><br /></span></strong></strong></strong></h2></section></section></section></section></section><p style="text-align: justify; margin: 16px 16px 24px; line-height: 1.75em;"><span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">Matthew 随即向 Anthropic 机器人客服申请退款，得到的却是冰冷的自动回复：“判定不符合退款资格，已超出政策规定的时间范围。”由于没有人工申诉通道，他只能自认倒霉。 这件事爆料后，有不少人纷纷跟帖，指责这是Anthropic设下的套。有人是团队踩了这个坑，损失就更大了。</span></p><section style="text-align: justify; margin: 16px 16px 24px; line-height: 1.75em;"><img class="rich_pages wxw-img" src="https://static.leiphone.com/uploads/new/images/20260723/6a61decbedcfd.png?imageMogr2/quality/90" style="background-color: transparent; width: 100%;" /></section><p style="text-align: justify; margin: 16px 16px 24px; line-height: 1.75em;"><span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">也有人表示，“你自己没看清规则，怪谁？”，而且官方是会有明确通知的。</span></p><section style="text-align: justify; margin: 16px 16px 24px; line-height: 1.75em;"><img class="rich_pages wxw-img" src="https://static.leiphone.com/uploads/new/images/20260723/6a61decc43846.png?imageMogr2/quality/90" style="background-color: transparent; width: 100%;" /></section><p style="text-align: justify; margin: 16px 16px 24px; line-height: 1.75em;"><span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">而在事件发酵后，Anthropic悄悄在后台修改了领取流程的规则。不仅为新开通按量付费的账户设置了默认月度限额，还移除了“领积分自动开通按量付费”的绑定逻辑。</span></p><p style="text-align: justify; margin: 16px 16px 24px; line-height: 1.75em;"><span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">所以也有后来者表示，自己也领取这个积分，但并没有触发扣费机制。</span></p><section style="text-align: justify; margin: 16px 16px 24px; line-height: 1.75em;"><img class="rich_pages wxw-img" src="https://static.leiphone.com/uploads/new/images/20260723/6a61decc91f86.png?imageMogr2/quality/90" style="background-color: transparent; width: 100%;" /></section><p style="text-align: justify; margin: 16px 16px 24px; line-height: 1.75em;"><span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">总而言之，这场风波大概率源自系统自身的计费混乱，导致系统强制开启收费模式。另一方面，Agent 并不知道“省钱”，它只知道“完成任务”，至于账单是否会爆，不关它的事。</span></p><p style="text-align: justify; margin: 16px 16px 24px; line-height: 1.75em;"><span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">此前就有开发者爆料，当使用 Anthropic 的 AI 编程工具（如 Claude Code）读取本地 Git 提交历史或代码时，如果扫到了特定的敏感字符串，可能会误触发防滥用或特殊的 API 路由安全机制。这会导致本该计入订阅套餐的对话，被悄悄重定向到高昂的付费 API 链路上，直接扣除账户余额。</span></p><p style="text-align: justify; margin: 16px 16px 24px; line-height: 1.75em;"><span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">因此，最稳妥的安全策略是手动进入后台设置，关闭按量计费开关，或将月度消费上限设为一个极低的数字。</span></p><section style="text-align: justify; margin: 16px 16px 24px; line-height: 1.75em;"><img class="rich_pages wxw-img" src="https://static.leiphone.com/uploads/new/images/20260723/6a61deccdf6ce.png?imageMogr2/quality/90" style="background-color: transparent;" /></section><section><section><section style="width: 100%; display: flex; padding: 0px 14px 0px 14px;"><section style="display: flex;"><section><img alt="图片" class="rich_pages wxw-img __bg_gif" src="https://static.leiphone.com/uploads/new/images/20260723/6a61decd248cf.jpg?imageMogr2/quality/90" style="display: block; height: auto !important; width: 38px !important; background-color: transparent;" /></section><section style="text-align: center;"><p style="font-size: 36px; color: #333333; line-height: 50px;"><strong><span>03</span><span><br /></span></strong></p><h2><span><br /></span></h2><h2><strong><strong style="text-align: center; font-size: 18px; color: rgb(51, 51, 51); line-height: 25px; font-weight: bold; font-family: Optima-Regular, PingFangTC-light;"><strong style="text-align: center; color: rgb(51, 51, 51); line-height: 25px; font-weight: bold; font-family: Arial, Helvetica, sans-serif; font-size: 18px;"><span style="text-align: center; color: #333333; line-height: 25px; font-weight: bold; font-family: Arial, Helvetica, sans-serif; font-size: 18px;">Claude复杂的计费逻辑</span><span><br /></span></strong></strong></strong></h2></section></section></section></section></section><p style="text-align: justify; margin: 16px 16px 24px; line-height: 1.75em;"><span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">与此同时，Claude眼花缭乱的计费规则，也是让人踩坑的原因。</span></p><p style="text-align: justify; margin: 16px 16px 24px; line-height: 1.75em;"><span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">早期 C 端大模型产品普遍采用纯订阅制，用户付固定月费，享受固定额度的服务，超限就限流，简单透明，也降低了用户的决策门槛。</span></p><p style="text-align: justify; margin: 16px 16px 24px; line-height: 1.75em;"><span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">但随着模型调用成本波动和厂商营收压力增大，“基础订阅 + 超额按量付费” 的混合模式，正在成为行业主流。OpenAI 的 ChatGPT Plus、谷歌的 Gemini Advanced 都陆续上线了类似的超额计费功能。</span></p><p style="text-align: justify; margin: 16px 16px 24px; line-height: 1.75em;"><span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">就在昨天，有人还伪造了一个官方最新计费公告，以“简洁”为标题，狠狠嘲讽Claude真实存在的多层嵌套隐形限额、模糊计量、诱导超额扣费、规则不透明、套餐虚标额度、售后官僚化的所有槽点。因为讽刺的太到位，引起网友的深度共鸣。</span></p><p style="text-align: justify; margin: 16px 16px 24px; line-height: 1.75em;"><span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">首先，他借用 17 项限制条件、3 个特殊条款和 1 个隐藏限制，精准讽刺了Claude的5 小时滚动限额 + 7 天周滚动限额 + 月度总限额 + 单模型独立限额 + 代码工具单独限额 + Fair Use 人工隐性限流，这些限制层层嵌套互相影响，普通用户完全算不明白。</span></p><ul class=" list-paddingleft-2"><li><p style="text-align: justify; margin: 16px 16px 24px; line-height: 1.75em;"><span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">5 小时滚动限额：每 5 小时约 45 条消息，长文件单次可耗 50% 以上额度，滑动窗口逐步释放</span></p></li><li><p style="text-align: justify; margin: 16px 16px 24px; line-height: 1.75em;"><span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">7 天滚动周限额：每周 Sonnet 算力 40-80 小时，非自然周重置，连日高强度会中途锁量</span></p></li><li><p style="text-align: justify; margin: 16px 16px 24px; line-height: 1.75em;"><span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">月度总封顶限额：月度隐含 3-5 亿输入 Token 上限，触顶需购买按量积分才能继续使用</span></p></li><li><p style="text-align: justify; margin: 16px 16px 24px; line-height: 1.75em;"><span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">单模型独立限额 Opus 耗量是 Sonnet5 倍，Opus 额度池单独计算，极易快速耗尽</span></p></li><li><p style="text-align: justify; margin: 16px 16px 24px; line-height: 1.75em;"><span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">代码工具单独限额：运行代码额外扣 3%-5% 会话额度，反复改代码会几何式消耗额度</span></p></li><li><p style="text-align: justify; margin: 16px 16px 24px; line-height: 1.75em;"><span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">Fair Use 隐性限流：无预警的降速，服务器高峰期会直接降低用户优先级。</span></p></li></ul><section style="text-align: justify; margin: 16px 16px 24px; line-height: 1.75em;"><img class="rich_pages wxw-img" src="https://static.leiphone.com/uploads/new/images/20260723/6a61decd5b40d.png?imageMogr2/quality/90" style="background-color: transparent; width: 100%;" /></section><p style="text-align: justify; margin: 16px 16px 24px; line-height: 1.75em;"><span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">接着吐槽升级，讽刺高级套餐的“虚假繁荣”：Pro 额度看似是免费版 5 倍，Max 5×又是 Pro 额度 5 倍，纯粹是纸面好看的虚标数字。</span></p><p style="text-align: justify; margin: 16px 16px 24px; line-height: 1.75em;"><span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">真实情况是高价套餐用 Opus 模型本身就特别耗额度，再加上好几层隐藏限额和后台隐性限流，实际能安心使用的量根本没提升多少。</span></p><p style="text-align: justify; margin: 16px 16px 24px; line-height: 1.75em;"><span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">可以说付费套餐规则复杂度远高于免费版，花钱买了一头雾水。</span></p><section style="text-align: justify; margin: 16px 16px 24px; line-height: 1.75em;"><img class="rich_pages wxw-img" src="https://static.leiphone.com/uploads/new/images/20260723/6a61decdaaf77.png?imageMogr2/quality/90" style="background-color: transparent; width: 100%;" /></section><p style="text-align: justify; margin: 16px 16px 24px; line-height: 1.75em;"><span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">还有一些更细小的的规则，比如5 小时滚动限额不是真的等5小时后再释放新的额度，可能撞上周限额继续被锁。月度总额度消耗逻辑也如同玄学，同样一段话，有时候耗一点点额度，有时候因为缓存失效、模型 bug 几倍扣量，总之规则完全不透明，全凭官方解释。 最后他又讽刺了一波官方的价格表，总之就是要钱，各种要钱。</span></p><section style="text-align: justify; margin: 16px 16px 24px; line-height: 1.75em;"><img class="rich_pages wxw-img" src="https://static.leiphone.com/uploads/new/images/20260723/6a61decdf2f4c.png?imageMogr2/quality/90" style="background-color: transparent; width: 100%;" /></section><p style="text-align: justify; margin: 16px 16px 24px; line-height: 1.75em;"><span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">Matthew 踩的坑，掀开了大模型行业的一角：为了摊平高昂的算力成本，厂商的计费规则正变得越来越像一笔算不清的糊涂账。</span></p><p style="text-align: justify; margin: 16px 16px 24px; line-height: 1.75em;"><span style="font-size: 15px; font-family: Arial, Helvetica, sans-serif;">在AI时代，保护钱包和保护数据一样重要。面对不知疲倦也不懂省钱的 Agent，手动锁死预算，才是我们必须守住的安全边界。 &nbsp;&nbsp;</span></p><p style="text-align: justify; margin: 16px 16px 0px; line-height: 1em;"><span style="font-size: 14px; font-family: Arial, Helvetica, sans-serif;"><span style="color: #888888; font-style: italic;">参考链接：</span></span></p><p style="text-align: justify; margin: 16px 16px 0px; line-height: 1em;"><span style="font-size: 14px; font-family: Arial, Helvetica, sans-serif;"><span style="color: #888888; font-style: italic;">https://www.reddit.com/r/ClaudeAI/comments/1v3yk7a/warning_claiming_the_free_100_fable_5_credits/</span></span></p><p style="text-align: justify; margin: 16px 16px 0px; line-height: 1em;"><span style="font-size: 14px; font-family: Arial, Helvetica, sans-serif;"><span style="color: #888888; font-style: italic;">https://www.reddit.com/r/ClaudeCode/comments/1v2yoe4/important_update_to_claude_usage_limits/</span></span></p><p style="text-align: justify; margin: 16px 16px 24px; line-height: 1.75em;"><span><img class="rich_pages wxw-img" src="https://static.leiphone.com/uploads/new/images/20260723/6a61dece23ea0.jpg?imageMogr2/quality/90" /></span></p><section style="text-align: justify; margin: 16px 16px 24px; line-height: 1.75em;"><img class="rich_pages wxw-img" src="https://static.leiphone.com/uploads/new/images/20260723/6a61dece4c013.jpg?imageMogr2/quality/90" /></section><section><section><section><section><section><section><svg viewBox="0 0 1 1" xmlns="http://www.w3.org/2000/svg"></svg></section></section><section><p><strong><span><span style="color: #4499E7;">上车，雷峰网带你看遍全球 AI 顶会精华</span></span></strong></p><span></span></section></section></section></section></section><section><section><p style="text-align: center; margin: 0px 16px 8px; line-height: 1.75em;"><span style="line-height: 1.75em; font-size: 15px; letter-spacing: 0.5px; font-family: Arial, Helvetica, sans-serif;"><span style="color: #4499E7; font-weight: bold;">可独家畅览：</span></span></p><p style="text-align: center; margin-right: 16px; margin-bottom: 8px; margin-left: 16px; line-height: 1.75em;"><span style="line-height: 1.75em; font-size: 15px; letter-spacing: 0.5px; font-family: Arial, Helvetica, sans-serif;"><span style="color: #4499E7; font-weight: bold;">专家演讲PPT</span></span></p><p style="text-align: center; margin-right: 16px; margin-bottom: 8px; margin-left: 16px; line-height: 1.75em;"><span style="line-height: 1.75em; font-size: 15px; letter-spacing: 0.5px; font-family: Arial, Helvetica, sans-serif;"><span style="color: #4499E7; font-weight: bold;">大会报告全文</span></span></p><p style="text-align: center; margin-right: 16px; margin-bottom: 8px; margin-left: 16px; line-height: 1.75em;"><span style="line-height: 1.75em; font-size: 15px; letter-spacing: 0.5px; font-family: Arial, Helvetica, sans-serif;"><span style="color: #4499E7; font-weight: bold;">热门论文解读</span></span></p><p style="text-align: center; margin-right: 16px; margin-bottom: 8px; margin-left: 16px; line-height: 1.75em;"><span style="line-height: 1.75em; font-size: 15px; letter-spacing: 0.5px; font-family: Arial, Helvetica, sans-serif;"><span style="color: #4499E7; font-weight: bold;">学术新星访谈</span></span></p><span></span><section style="text-align: justify; margin: 16px 16px 24px; line-height: 1.75em;"><img class="rich_pages wxw-img" src="https://static.leiphone.com/uploads/new/images/20260723/6a61dece770dc.jpg?imageMogr2/quality/90" style="width: 100%;" /></section><p style="text-align: center; margin-right: 16px; margin-bottom: 8px; margin-left: 16px; line-height: 1.75em;"><span><span style="line-height: 1.75em; font-size: 15px; letter-spacing: 0.5px; font-family: Arial, Helvetica, sans-serif;"><span style="color: #4499E7; font-weight: bold;">扫描上方二维码</span></span></span></p><p style="text-align: center; margin-right: 16px; margin-bottom: 8px; margin-left: 16px; line-height: 1.75em;"><span><span style="line-height: 1.75em; font-size: 15px; letter-spacing: 0.5px; font-family: Arial, Helvetica, sans-serif;"><span style="color: #4499E7; font-weight: bold;">或点击</span></span><span style="line-height: 1.75em; font-size: 15px; letter-spacing: 0.5px; font-family: Arial, Helvetica, sans-serif;"><span style="color: #4499E7; font-weight: bold;">「</span></span><span style="line-height: 1.75em; font-size: 15px; letter-spacing: 0.5px; font-family: Arial, Helvetica, sans-serif;"><span style="color: #4499E7; font-weight: bold;">阅读原文</span></span><span style="line-height: 1.75em; font-size: 15px; letter-spacing: 0.5px; font-family: Arial, Helvetica, sans-serif;"><span style="color: #4499E7; font-weight: bold;">」</span></span><span style="line-height: 1.75em; font-size: 15px; letter-spacing: 0.5px; font-family: Arial, Helvetica, sans-serif;"><span style="color: #4499E7; font-weight: bold;">关注专区。</span></span></span></p></section></section><section><span></span></section><section><span></span></section>]]></description>
-    <pubDate>Thu, 23 Jul 2026 09:30:00 -0000</pubDate>
-    <guid isPermaLink="true">https://www.leiphone.com/category/yanxishe/QYg8NFOX1UYDWoXQ.html</guid>
-    <source url="https://www.leiphone.com/category/yanxishe/QYg8NFOX1UYDWoXQ.html">雷峰网</source>
   </item>
   <item>
     <title>[小众软件] OpenLogi – 开源罗技鼠标管理工具，替代 Logitech Options+</title>
@@ -3609,6 +3527,14 @@ HTTP:    192.168.x.x:1111
     <pubDate>Thu, 23 Jul 2026 00:50:21 -0000</pubDate>
     <guid isPermaLink="true">https://sspai.com/post/112647</guid>
     <source url="https://sspai.com/post/112647">少数派</source>
+  </item>
+  <item>
+    <title>[Hacker News] German Peasants' War</title>
+    <link>https://en.wikipedia.org/wiki/German_Peasants%27_War</link>
+    <description><![CDATA[<a href="https://news.ycombinator.com/item?id=49015286">Comments</a>]]></description>
+    <pubDate>Thu, 23 Jul 2026 00:20:05 -0000</pubDate>
+    <guid isPermaLink="true">https://en.wikipedia.org/wiki/German_Peasants%27_War</guid>
+    <source url="https://en.wikipedia.org/wiki/German_Peasants%27_War">Hacker News</source>
   </item>
   <item>
     <title>[Hacker News] Overloaded Overloading</title>
