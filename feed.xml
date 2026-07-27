@@ -5,39 +5,631 @@
   <link>https://baich110.github.io/rss-feed/</link>
   <description>自动聚合多个优质科技/数码/技术资讯源，每小时更新</description>
   <language>zh-CN</language>
-  <lastBuildDate>Mon, 27 Jul 2026 14:38:49 -0000</lastBuildDate>
+  <lastBuildDate>Mon, 27 Jul 2026 16:59:07 -0000</lastBuildDate>
   <atom:link href="https://baich110.github.io/rss-feed/feed.xml" rel="self" type="application/rss+xml" />
   <item>
-    <title>[原创频道&gt;&gt;什么值得买] 我们不卷了！奇瑞董事长话音刚落，57款新车来了！网友：差点信了</title>
-    <link>https://post.smzdm.com/p/awwxw54k/</link>
-    <description><![CDATA[啾啾好价7月25日，奇瑞全球累计销量突破2000万辆，风云A9作为第2000万辆车交付。董事长尹同跃在发布会上扔下一句狠话：“2000万辆之后，我们不再参加内卷。” 要追求品牌向上、价值创造、技术突破、客户满意度。话音未落，奇瑞的“卷”相就藏不住了。嘴上“不卷”，身体诚实尹同跃自己也承认，奇瑞向华为学了“非常残酷的执行力”，要求未来每一款产品“一上市就成爆款、一投产就实现满产”、都要有极致卓越的产品力。2<p>本文来自<a href="https://post.smzdm.com/p/awwxw54k/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
-    <pubDate>Mon, 27 Jul 2026 14:38:01 -0000</pubDate>
-    <guid isPermaLink="true">https://post.smzdm.com/p/awwxw54k/</guid>
-    <source url="https://post.smzdm.com/p/awwxw54k/">原创频道&gt;&gt;什么值得买</source>
+    <title>[原创频道&gt;&gt;什么值得买] 腾讯AI：企业微信「大圆」内测，QQ宠物AI版换新领养</title>
+    <link>https://post.smzdm.com/p/a823w897/</link>
+    <description><![CDATA[烧坏的内存条什么值得买 · 爆料合集（双爆点） 值友们好，这里是「AI白嫖研究所」的爆料~今天腾讯一口气官宣了两个新玩意儿，凑一块儿讲最香：一个是能替你写周报、读文档的企业微信 AI 助理「大圆」，内测期完全免费；一个是当年国民级 IP「QQ宠物」AI 版焕新回归，手机 QQ 搜一下就能 0 元领养。 两个都是 0 成本，一个给打工人省时间，一个给情怀党补童年，下面分开讲。🆓 爆点一：企业微信 AI 智能助理<p>本文来自<a href="https://post.smzdm.com/p/a823w897/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
+    <pubDate>Mon, 27 Jul 2026 16:58:24 -0000</pubDate>
+    <guid isPermaLink="true">https://post.smzdm.com/p/a823w897/</guid>
+    <source url="https://post.smzdm.com/p/a823w897/">原创频道&gt;&gt;什么值得买</source>
   </item>
   <item>
-    <title>[原创频道&gt;&gt;什么值得买] 轻到近乎无感！南卡Wing开放式耳机，通勤运动全能，久戴零压力</title>
-    <link>https://post.smzdm.com/p/ad7w7l4x/</link>
-    <description><![CDATA[唯一玩数码常年通勤、健身、长时间戴耳机办公的我，一直纠结耳机佩戴痛点：入耳式闷耳堵耳，戴半天耳道又痒又胀；传统挂耳开放式偏重，久戴压耳廓、夹太阳穴；很多平价开放耳机还存在漏音严重、音质空洞、运动易掉的问题。最近我全场景实测了南卡Wing开放式耳机，作为南卡主打轻量化舒适佩戴的机型，它主打极致轻盈、无感佩戴、均衡音质，适配日常通勤、运动、办公全场景。经过二十天无滤镜深度体验，今天从外观做工、硬件配置、真实使用<p>本文来自<a href="https://post.smzdm.com/p/ad7w7l4x/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
-    <pubDate>Mon, 27 Jul 2026 14:36:55 -0000</pubDate>
-    <guid isPermaLink="true">https://post.smzdm.com/p/ad7w7l4x/</guid>
-    <source url="https://post.smzdm.com/p/ad7w7l4x/">原创频道&gt;&gt;什么值得买</source>
+    <title>[V2EX] [分享创造] [开源] 闲置 Windows/Mac 变身机顶盒（无需键鼠）手机控制（支持 Emby/IPTV/投屏/B 站等）</title>
+    <link>https://www.v2ex.com/t/1230264#reply0</link>
+    <description><![CDATA[<h1>背景</h1>
+<p>家里有一台闲置的 <strong>Mac mini M1</strong>，还有一台 <strong>N100</strong> 小主机，我平时主要跑下载和 Docker ，一直想着榨干他们俩的性能。如果用来放蓝光原盘电影，这两个机器 CPU 肯定都绰绰有余，毕竟都是走硬件解码，就是放电影有点麻烦，准备一个空中飞鼠总感觉不太优雅。</p>
+<p>为了正经看电视，我还买了 <strong>Apple TV</strong>，搭配 Emby 库，用免费的网易爆米花 App 其实已经挺顺手了。有几个美中不足的地方：</p>
+<ol>
+<li>我有时候看剧，会频繁滑动进度条和切换倍速，用遥控器操作还是稍微有点麻烦。</li>
+<li>看国内的流媒体费劲，要么投屏没有倍速和弹幕，要么就是安装一些无法上架的第三方 App ，而且它还让我升级电视专用会员😅</li>
+</ol>
+<p>怎么折腾都差点意思，那就只能自己动手了</p>
+<h1>TinyPlay</h1>
+<p><strong>把闲置的 Windows + macOS 小主机变成电视盒子</strong> 无需键鼠的情况下，躺在沙发上用手机优雅的操控</p>
+<p>TinyPlay 不追求把电脑变成配置很重的全能媒体中心，只是希望让闲置的 NUC ，开箱即用的转变成一个机顶盒/电视盒子/HTPC</p>
+<h1>功能介绍</h1>
+<ul>
+<li>Emby / Jellyfin / Plex</li>
+<li>本地文件、WebDAV 、SMB 、NFS</li>
+<li>IPTV 直播源</li>
+<li>DLNA 投屏接收器（支持倍速）</li>
+<li>网页浏览器访问 B 站 / 爱优腾 / 抖音精选 或者其他自定义网址</li>
+</ul>
+<p>手机端扫码打开遥控器后，可以选片、快进快退、拖动进度、切换音轨/字幕、调整倍速。</p>
+<h2>播放引擎</h2>
+<p>使用了 mpv （ IINA 同款引擎），色彩管线选择了 gpu-next （对杜比视界更友好）。</p>
+<p><img alt="TinyPlay：电视上的播放器与手机遥控器" class="embedded_image" rel="noreferrer" src="https://raw.githubusercontent.com/YangHanqing/tinyplay/main/docs/public/screenshot-library.png" />
+<img alt="TinyPlay：电视上的播放器与手机遥控器" class="embedded_image" rel="noreferrer" src="https://raw.githubusercontent.com/YangHanqing/tinyplay/main/docs/public/screenshot-remote.png" /></p>
+<p>网页浏览器这块借鉴了 Chrome 扩展 Vimium 的思路：页面上可点击的元素会标记为短字符，手机输入字符即可点选，完全无需键鼠。</p>
+<p><img alt="网页浏览器：电视页面与手机控制面板" class="embedded_image" rel="noreferrer" src="https://raw.githubusercontent.com/YangHanqing/tinyplay/main/docs/public/screenshot-online-video.png" /></p>
+<h1>Apple TV 版</h1>
+<p>顺手还做了 Apple TV 版 同样支持 Emby / Jellyfin / Plex 、WebDAV / SMB 、IPTV 等，也支持 DLNA 投屏。</p>
+<p>由于 tvOS 限制，上架版本无法内嵌任何浏览器，所有国内流媒体还是无解。</p>
+<pre><code>解释一下，tvOS 支持 AirPlay ，为什么还特意内嵌了 DLNA 投屏:
+
+因为 AirPlay 会抢占系统媒体会话，其他 App 的音频/视频容易被中断，或者反过来被 AirPlay 抢走焦点。这在某些场景下会带来困扰。另外，AirPlay 也不支持倍速播放。
+</code></pre>
+<h2>tvOS 播放引擎</h2>
+<p>苹果设备本身对杜比支持的很好，但是格式支持的很差劲。因此我选择了一个较新的播放引擎作为主力引擎，这个引擎思路是会尽可能使用苹果原生播放能力，比如遇到 MKV 格式，使用 FFmpeg 进行 demux ，尽可能仍然用 Apple 原生能力（ VideoToolbox 硬解码、AVPlayer ）播放。</p>
+<p>考虑到新引擎仍处于磨合阶段，同时准备了 VLC 引擎作为兜底方案。</p>
+<p>基于此，从纸面参数来看，支持格式非常丰富，甚至超过一些老牌播放器，包括：</p>
+<ul>
+<li>Dolby Atmos （ EAC3+JOC 流穿透）</li>
+<li>Dolby Vision （ P5 、P7 单层 8.1 、P8.1 、P8.4 、AV1 P10.x ）</li>
+</ul>
+<pre><code>关于内购：核心功能全部免费。非 Pro 版本仅限制 [倍速播放] 这一项功能，一次性买断，无年费。
+</code></pre>
+<h1>其他</h1>
+<h2>TinyPlay 和 Kodi 有什么不同？</h2>
+<p>考虑到可能有人会问这个问题，简单解释一下。</p>
+<p>Kodi 更像一个功能完整、可深度定制的家庭媒体中心：插件、电视端界面、资料库和规则系统都很强，但配置和学习成本也更高。</p>
+<p>TinyPlay 更适合「已有一台接电视的电脑，只想快速看片」的场景：轻量、开箱即用、手机浏览器作为遥控器。</p>
+<p>如果你需要完整的电视端资料库、丰富插件和大量自动化功能，Kodi 往往更合适； TinyPlay 并不是为了替代它。</p>
+<h2>源码与下载</h2>
+<p>详细的图文介绍： <a href="https://yanghanqing.github.io/tinyplay/" rel="nofollow">https://yanghanqing.github.io/tinyplay/</a></p>
+<p>桌面版项目地址： <a href="https://github.com/YangHanqing/tinyplay" rel="nofollow">https://github.com/YangHanqing/tinyplay</a></p>
+<p>下载安装： <a href="https://github.com/YangHanqing/tinyplay/releases" rel="nofollow">https://github.com/YangHanqing/tinyplay/releases</a></p>
+<p>国内下载加速： <a href="https://gitee.com/hanqingyang/tinyplay/releases" rel="nofollow">https://gitee.com/hanqingyang/tinyplay/releases</a></p>
+<p>Apple TV 版本： <a href="https://apps.apple.com/app/tinyplay-video-remote/id6788041703" rel="nofollow">https://apps.apple.com/app/tinyplay-video-remote/id6788041703</a><br />
+（考虑到用 Apple TV 的靓仔肯定都有美区账号，暂时没上架国区，手机如果登录的是国区 iTunus 会无法打开，可以在 tvOS 商店搜索 TinyPlay - Video Remote ）</p>]]></description>
+    <pubDate>Mon, 27 Jul 2026 16:54:13 -0000</pubDate>
+    <guid isPermaLink="true">https://www.v2ex.com/t/1230264#reply0</guid>
+    <source url="https://www.v2ex.com/t/1230264#reply0">V2EX</source>
   </item>
   <item>
-    <title>[原创频道&gt;&gt;什么值得买] 没人跟风黑Office了！越来越多人主动换回WPS，真相很现实</title>
-    <link>https://post.smzdm.com/p/ae6k6o4m/</link>
-    <description><![CDATA[是悦悦不是玥玥做办公技巧内容这么久，我发现一个很有意思的变化。放在五六年前，网上的舆论几乎一边倒：Office专业、WPS是低配平替。那时候只要有人用WPS，总会被调侃“用免费垃圾软件”“不懂正经办公”。但最近一两年，风向彻底反过来了。我身边很多常年只用正版Office的职场老人、财务、行政，都在悄悄换成WPS。不是跟风，也不是崇免费，是实打实用出来的感受：现在的Office，真的不太适配普通人的日常办公了。今<p>本文来自<a href="https://post.smzdm.com/p/ae6k6o4m/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
-    <pubDate>Mon, 27 Jul 2026 14:36:31 -0000</pubDate>
-    <guid isPermaLink="true">https://post.smzdm.com/p/ae6k6o4m/</guid>
-    <source url="https://post.smzdm.com/p/ae6k6o4m/">原创频道&gt;&gt;什么值得买</source>
+    <title>[原创频道&gt;&gt;什么值得买] LGD超级兵偷家翻盘TES，九尾武则天断传送立大功</title>
+    <link>https://post.smzdm.com/p/awwxwq5k/</link>
+    <description><![CDATA[匿名用户LGD靠超级兵偷家了！在2026KPL夏季赛常规赛第二轮卡位赛对阵长沙TES.A的第五局生死战中，杭州LGD.NBW在20分钟时凭借上路兵线优势，由超级兵直接点破水晶，以这种极具戏剧性的方式扳回一局，直播间瞬间沸腾。偷家是怎么发生的这局比赛双方经济长时间咬得很紧，很难找到直接终结比赛的机会。前期LGD打出了一定优势，9分钟逼掉对面项羽掉点，10分钟拿暗影暴君击杀太乙真人，并在16分钟推掉上路高地。<p>本文来自<a href="https://post.smzdm.com/p/awwxwq5k/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
+    <pubDate>Mon, 27 Jul 2026 16:53:31 -0000</pubDate>
+    <guid isPermaLink="true">https://post.smzdm.com/p/awwxwq5k/</guid>
+    <source url="https://post.smzdm.com/p/awwxwq5k/">原创频道&gt;&gt;什么值得买</source>
   </item>
   <item>
-    <title>[原创频道&gt;&gt;什么值得买] 10大U盘恢复工具盘点：这些软件或许能帮你找回丢失的数据</title>
-    <link>https://post.smzdm.com/p/am9m9lkp/</link>
-    <description><![CDATA[哇哈哈哈哈哈哇只要U盘没有遭到严重物理损坏，很多情况下数据仍有恢复机会。关键在于停止继续写入数据，并选择合适的U盘恢复软件进行扫描。市面上的恢复工具不少，下面就来看看几款比较常见的U盘恢复软件。一、数据恢复大师提到U盘恢复软件，数据恢复大师算是近几年关注度较高的一款工具。它最大的亮点之一是深度扫描能力，对于误删除、清空回收站、格式化等导致的数据丢失情况都有不错的兼容性。很多恢复软件在快速扫描后找不到文件就结束了<p>本文来自<a href="https://post.smzdm.com/p/am9m9lkp/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
-    <pubDate>Mon, 27 Jul 2026 14:36:25 -0000</pubDate>
-    <guid isPermaLink="true">https://post.smzdm.com/p/am9m9lkp/</guid>
-    <source url="https://post.smzdm.com/p/am9m9lkp/">原创频道&gt;&gt;什么值得买</source>
+    <title>[原创频道&gt;&gt;什么值得买] 疑极狐阿尔法T7内饰谍照曝光：用上小米YU7天际屏类似物</title>
+    <link>https://post.smzdm.com/p/agg8g2xd/</link>
+    <description><![CDATA[快科技快科技7月28日消息，近日，疑似全新极狐阿尔法T7内饰谍照曝光，整体看起来颇为眼熟，很容易看到一些小米YU7所具备的元素。和小米YU7相同，极狐阿尔法T7同样主打年轻市场，不同的是，除了纯电还将提供增程动力，预计售价围绕20万展开。从网络上流传的图片可以看到，新车车内采用环抱式风格，前方配备有与小米YU7神似的天际屏设计，甚至“沉浸式歌词”界面都很有相似之处。此外，该车中央配备了一块中控显示屏，下<p>本文来自<a href="https://post.smzdm.com/p/agg8g2xd/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
+    <pubDate>Mon, 27 Jul 2026 16:52:36 -0000</pubDate>
+    <guid isPermaLink="true">https://post.smzdm.com/p/agg8g2xd/</guid>
+    <source url="https://post.smzdm.com/p/agg8g2xd/">原创频道&gt;&gt;什么值得买</source>
+  </item>
+  <item>
+    <title>[V2EX] [macOS] mac mini m4 GPU 性能支撑不住 4K</title>
+    <link>https://www.v2ex.com/t/1230263#reply0</link>
+    <description><![CDATA[mac mini m4 外接显示器 GPU 在有些场景下 占用特别高。 有碰到相同问题的吗。。。<br />比如说看 B 站视频 GPU 也能拉满，然后温度上到 8 ，90 。。<br />还会很卡<br />parsec 远程 mac mini 的时候也是<br />有些特效很多的网站就会特别卡。。]]></description>
+    <pubDate>Mon, 27 Jul 2026 16:51:09 -0000</pubDate>
+    <guid isPermaLink="true">https://www.v2ex.com/t/1230263#reply0</guid>
+    <source url="https://www.v2ex.com/t/1230263#reply0">V2EX</source>
+  </item>
+  <item>
+    <title>[V2EX] [程序员] 推荐 Factory Droid 的服务</title>
+    <link>https://www.v2ex.com/t/1230262#reply0</link>
+    <description><![CDATA[我用过中转站，也单独买过几家的服务，经常就是换过来换过去，要不就是账号被封，要不就是中转站跑路，要不就是有的模型没有。<br /><br />Factory Droid 的 CLI 用起来也很顺手，<br />模型也比较全，<br /><br />比如：<br /><br />Fable 5<br /><br />Kimi K3<br /><br />Opus 5<br /><br />GPT-5.6 Sol<br /><br />GROK 4.5<br /><br />GLM 5.2<br /><br /><br />这几个常用的都有，不用再去折腾账号了，并且随时/model 切换着用。<br />买了 100 美金的套餐，舒服！<br /><br /><br />不是推广，谢谢！]]></description>
+    <pubDate>Mon, 27 Jul 2026 16:39:45 -0000</pubDate>
+    <guid isPermaLink="true">https://www.v2ex.com/t/1230262#reply0</guid>
+    <source url="https://www.v2ex.com/t/1230262#reply0">V2EX</source>
+  </item>
+  <item>
+    <title>[原创频道&gt;&gt;什么值得买] HUD取代仪表盘 长安深蓝S05内饰官图发布：极致年轻化</title>
+    <link>https://post.smzdm.com/p/a4qwqk9l/</link>
+    <description><![CDATA[快科技快科技7月28日消息，深蓝汽车官方发布了深蓝S05最新内饰官图，并称其采用了全新悬浮星舰设计。全新深蓝S05内饰有星云紫、热浪橙、星岩灰三种颜色可选，采用高级木纹理装饰面板，搭载三辐多功能方向盘以及大尺寸悬浮中控屏，并配备了HUD抬头显示以替代传统仪表盘。配置方面，全新深蓝S05搭载了手机无线充电、前排双杯架、电子怀挡设计，同时还拥有256色悬浮式环抱氛围灯，灯光支持随情景模式律动变化。新车轴距2<p>本文来自<a href="https://post.smzdm.com/p/a4qwqk9l/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
+    <pubDate>Mon, 27 Jul 2026 16:38:17 -0000</pubDate>
+    <guid isPermaLink="true">https://post.smzdm.com/p/a4qwqk9l/</guid>
+    <source url="https://post.smzdm.com/p/a4qwqk9l/">原创频道&gt;&gt;什么值得买</source>
+  </item>
+  <item>
+    <title>[原创频道&gt;&gt;什么值得买] 奇瑞销量破两千万宣布反内卷，风云A9十万一九起售</title>
+    <link>https://post.smzdm.com/p/awwxwq9p/</link>
+    <description><![CDATA[匿名用户2026年7月25日，奇瑞集团全球累计销量突破2000万辆，董事长尹同跃在风云A9发布会上高调宣布“不再参加内卷”。对消费者来说，最直接的疑问是：车企不卷了，车价是不是要涨？其实尹同跃的意思不是不拼了，而是不再搞无底线的价格战，转向拼技术、拼品牌。同一天上市的风云A9起售价10.99万，依然很有杀伤力，说明所谓的“不卷”是用更扎实的技术和配置去打价值战，而不是简单粗暴地涨价或者躺平。主动挤水分，靠<p>本文来自<a href="https://post.smzdm.com/p/awwxwq9p/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
+    <pubDate>Mon, 27 Jul 2026 16:37:26 -0000</pubDate>
+    <guid isPermaLink="true">https://post.smzdm.com/p/awwxwq9p/</guid>
+    <source url="https://post.smzdm.com/p/awwxwq9p/">原创频道&gt;&gt;什么值得买</source>
+  </item>
+  <item>
+    <title>[原创频道&gt;&gt;什么值得买] 荣耀手表6 Plus张雪机车联名款售罄：1599元 自带专属机车模式</title>
+    <link>https://post.smzdm.com/p/avg7gmep/</link>
+    <description><![CDATA[快科技快科技7月28日消息，日前，荣耀手表6 Plus张雪机车联名款正式开售，建议零售价1699元，张雪夺冠助力优惠价1599元，叠加国补后到手价1359.15元起。截至发稿，荣耀手表6 Plus张雪机车联名款在荣耀商城已显示缺货，商品目前为“到货通知”状态。据了解，该产品是荣耀与张雪机车首次推出的跨界联名智能手表，重点面向摩托车骑行场景，加入专属机车模式。开启该模式后，用户可在骑行过程中实时查看速度、<p>本文来自<a href="https://post.smzdm.com/p/avg7gmep/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
+    <pubDate>Mon, 27 Jul 2026 16:34:55 -0000</pubDate>
+    <guid isPermaLink="true">https://post.smzdm.com/p/avg7gmep/</guid>
+    <source url="https://post.smzdm.com/p/avg7gmep/">原创频道&gt;&gt;什么值得买</source>
+  </item>
+  <item>
+    <title>[原创频道&gt;&gt;什么值得买] 去皱滋润的抗老水乳怎么选？配方逻辑与常见产品线解析</title>
+    <link>https://post.smzdm.com/p/ad7w7r3n/</link>
+    <description><![CDATA[至深情冬护肤行业的调研数据显示，进入干燥季节后，有超过六成的轻熟龄人群会更换滋润度更高的护肤产品。对于有抗老需求的干性肤质而言，单纯的保湿水乳不足以应对纹路加深、肌肤缺少弹性等问题，而兼顾保湿滋润度与纹路调理的水乳套装，是日常护理中更高效的选择。 很多人挑选这类产品时只看滋润度，忽略了配方的合理性，要么选了过于厚重的产品闷肤，要么选了只有保湿没有调理作用的基础款。今天我们就从配方原理出发，聊聊滋润型抗老水<p>本文来自<a href="https://post.smzdm.com/p/ad7w7r3n/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
+    <pubDate>Mon, 27 Jul 2026 16:34:46 -0000</pubDate>
+    <guid isPermaLink="true">https://post.smzdm.com/p/ad7w7r3n/</guid>
+    <source url="https://post.smzdm.com/p/ad7w7r3n/">原创频道&gt;&gt;什么值得买</source>
+  </item>
+  <item>
+    <title>[原创频道&gt;&gt;什么值得买] Kimi K3刷榜、Claude更稳？实测后把优缺点都摊开了</title>
+    <link>https://post.smzdm.com/p/ad7w7r6n/</link>
+    <description><![CDATA[匿名用户刚刷屏的K3，到底在说什么Kimi K3一发布就把编程榜单刷到第一，2.8万亿参数、百万上下文、还宣布开源。这些数字足够唬人，但真正的问题只有一个——它能不能解决你的实际问题。撇开营销话术，这篇文章把K3的能力边界、适用场景、性价比一次性讲清楚。看完你就知道自己该不该用它。K3到底强在哪先说硬实力。K3在编程这件事上确实能打：Frontend Code Arena榜单冲到1679分，把Claude<p>本文来自<a href="https://post.smzdm.com/p/ad7w7r6n/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
+    <pubDate>Mon, 27 Jul 2026 16:33:12 -0000</pubDate>
+    <guid isPermaLink="true">https://post.smzdm.com/p/ad7w7r6n/</guid>
+    <source url="https://post.smzdm.com/p/ad7w7r6n/">原创频道&gt;&gt;什么值得买</source>
+  </item>
+  <item>
+    <title>[原创频道&gt;&gt;什么值得买] 无幻司空震一锤定音，TES.A击败LGD锁定S组席位</title>
+    <link>https://post.smzdm.com/p/a2656gep/</link>
+    <description><![CDATA[匿名用户2026年KPL夏季赛卡位赛7月28日落幕，长沙TES.A以4-2击败杭州LGD.NBW，斩获四连胜并锁定S组席位。第六局比赛中，无幻操刀司空震轰出关键击杀，率队终结全场悬念；而第五局的超级兵偷家虽打出名场面，却未能帮助LGD实现翻盘。这场胜利意味着TES.A正式从A组突围，而LGD.NBW则遗憾落入A组保级区。两队选手本场数据及后续赛程如下。123LGD.NBW在第五局祭出"超级兵偷家"战术——<p>本文来自<a href="https://post.smzdm.com/p/a2656gep/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
+    <pubDate>Mon, 27 Jul 2026 16:32:54 -0000</pubDate>
+    <guid isPermaLink="true">https://post.smzdm.com/p/a2656gep/</guid>
+    <source url="https://post.smzdm.com/p/a2656gep/">原创频道&gt;&gt;什么值得买</source>
+  </item>
+  <item>
+    <title>[原创频道&gt;&gt;什么值得买] 小度AI手表开售159元，文心大模型加持</title>
+    <link>https://post.smzdm.com/p/avg7gm4p/</link>
+    <description><![CDATA[匿名用户7月27日，小度AI手表Fit正式开售，原价198元，叠加国家补贴后到手价只要159.8元。百元出头就能把百度文心大模型戴在手腕上，这价格确实让人好奇它到底能干啥。这块表最大的卖点就是塞进了AI，抬手说话就能问天气、查穿搭，甚至一句话就能生成专属表盘。一句话就能定表盘、问穿搭轻触表盘唤醒语音助手，查天气、问饮食建议这些常规操作都能直接回答。比较好玩的是AI生成表盘，说一句“海底世界”或者“国风山水<p>本文来自<a href="https://post.smzdm.com/p/avg7gm4p/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
+    <pubDate>Mon, 27 Jul 2026 16:30:33 -0000</pubDate>
+    <guid isPermaLink="true">https://post.smzdm.com/p/avg7gm4p/</guid>
+    <source url="https://post.smzdm.com/p/avg7gm4p/">原创频道&gt;&gt;什么值得买</source>
+  </item>
+  <item>
+    <title>[原创频道&gt;&gt;什么值得买] 打赢了团战却输了比赛？今年最离谱的电竞翻盘合集来了</title>
+    <link>https://post.smzdm.com/p/ak8m8754/</link>
+    <description><![CDATA[匿名用户最后一秒，水晶爆炸——但倒下的不是你以为会赢的那一方。偷家、翻盘、让二追三，这些词在电竞赛场出现的频率越来越高，每一次都让解说尖叫、观众心脏骤停。2026年的夏天还没过完，这类“离谱”场面已经多到让人麻木了吗？仔细复盘才发现，离谱的从来不是结果，是翻盘发生的方式。1超级兵偷家：当团战赢了、水晶没了7月27日，KPL夏季赛杭州LGD.NBW对阵长沙TES.A的BO7卡位赛打到第五局。正面团战LGD打<p>本文来自<a href="https://post.smzdm.com/p/ak8m8754/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
+    <pubDate>Mon, 27 Jul 2026 16:29:56 -0000</pubDate>
+    <guid isPermaLink="true">https://post.smzdm.com/p/ak8m8754/</guid>
+    <source url="https://post.smzdm.com/p/ak8m8754/">原创频道&gt;&gt;什么值得买</source>
+  </item>
+  <item>
+    <title>[原创频道&gt;&gt;什么值得买] 超级兵一拳打爆水晶！书源镜神话被一个兵种亲手埋葬</title>
+    <link>https://post.smzdm.com/p/apqzqko7/</link>
+    <description><![CDATA[匿名用户Game5，卡位赛BO7生死局。长沙TES.A 4-2 杭州LGD.NBW的比分挂在屏幕上，双方鏖战多局，谁都没想到真正的主角会是一波兵线。超级兵一拳一拳活生生打爆TES水晶——这一幕成了今年KPL最荒诞也最精彩的镜头。书源镜的不败神话，就这样被一个没人注意的兵种亲手埋葬。1书源镜是谁？这个ID在TES.A就是定海神针，只要他拿出手镜，对面基本没赢过。本场比赛TES.A特意把他放在红色方，Ban掉<p>本文来自<a href="https://post.smzdm.com/p/apqzqko7/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
+    <pubDate>Mon, 27 Jul 2026 16:29:15 -0000</pubDate>
+    <guid isPermaLink="true">https://post.smzdm.com/p/apqzqko7/</guid>
+    <source url="https://post.smzdm.com/p/apqzqko7/">原创频道&gt;&gt;什么值得买</source>
+  </item>
+  <item>
+    <title>[原创频道&gt;&gt;什么值得买] 从小山丘光效到柔和护眼光：西蒙智能筒射灯灯光方案解读</title>
+    <link>https://post.smzdm.com/p/ad7w7r5n/</link>
+    <description><![CDATA[星辰好物集现代家装照明不再仅满足基础采光，洗墙光斑、防眩、高显色成为业主挑选灯具的核心考量。西蒙电气依托自研璇玑光学平台打造多款筒射灯，清晰柔和的小山丘光弧兼顾空间氛围感，搭配高显色与深度防眩设计，适配家装无主灯布局需求，同时搭载米家智能互联功能，让专业照明与便捷智能走进大众家庭。一、百年制造，技术为品质护航西蒙电气1916年创立于西班牙巴塞罗那，业务覆盖120个国家。进入中国市场27年来，建立了集研发、检<p>本文来自<a href="https://post.smzdm.com/p/ad7w7r5n/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
+    <pubDate>Mon, 27 Jul 2026 16:26:42 -0000</pubDate>
+    <guid isPermaLink="true">https://post.smzdm.com/p/ad7w7r5n/</guid>
+    <source url="https://post.smzdm.com/p/ad7w7r5n/">原创频道&gt;&gt;什么值得买</source>
+  </item>
+  <item>
+    <title>[原创频道&gt;&gt;什么值得买] 综合续航1954km！红旗新车官宣：8月13日开启预售</title>
+    <link>https://post.smzdm.com/p/arz0z83q/</link>
+    <description><![CDATA[科技阿维评价一台车好不好看，或者有没有豪华感是很常见的事情，但评价一台车有气场却很少见，这种评价一般只出现在红旗车型上，尽管并不是所有红旗车都很贵，但只要带上红旗标，给人感觉就会有气场，毕竟它有历史故事加持，经典场面数不胜数，下个月就有一台红旗新车将开启预售，今日红旗官宣将在8月13日正式开启全新红旗H7的预售。其实4月份这一新车就已经亮相过了，6月份就确定开始量产下线，估计8月份开启预售后，9月份全新红<p>本文来自<a href="https://post.smzdm.com/p/arz0z83q/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
+    <pubDate>Mon, 27 Jul 2026 16:26:24 -0000</pubDate>
+    <guid isPermaLink="true">https://post.smzdm.com/p/arz0z83q/</guid>
+    <source url="https://post.smzdm.com/p/arz0z83q/">原创频道&gt;&gt;什么值得买</source>
+  </item>
+  <item>
+    <title>[原创频道&gt;&gt;什么值得买] 带鱼下锅那一刻粘得我怀疑人生，现在终于煎出整条不破皮了</title>
+    <link>https://post.smzdm.com/p/apqzqkp7/</link>
+    <description><![CDATA[星辰好物集糖醋带鱼这道菜，是我从小吃到大的家常味道。🐟 小时候我妈做一回，我能就着汤汁扒两碗米饭，连鱼骨头都要嗦干净才舍得扔。但轮到我自己动手做的时候，第一回就翻了个大跟头——带鱼一下锅全粘在锅底了，翻面的时候肉全碎了，出锅变成一锅带鱼渣，糖醋汁倒是调得不错，但捞了半天全是碎肉，吃了个寂寞。😅后来我又试了好几回，从粘锅到破皮到腥味重，各种问题轮着来了一遍。直到现在总算摸透了它的脾气，煎出来的带鱼两面金黄、整<p>本文来自<a href="https://post.smzdm.com/p/apqzqkp7/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
+    <pubDate>Mon, 27 Jul 2026 16:20:42 -0000</pubDate>
+    <guid isPermaLink="true">https://post.smzdm.com/p/apqzqkp7/</guid>
+    <source url="https://post.smzdm.com/p/apqzqkp7/">原创频道&gt;&gt;什么值得买</source>
+  </item>
+  <item>
+    <title>[V2EX] [程序员] 分享下自己生产力工具 ccteam，用这套工具日常管理 50+并行 agent</title>
+    <link>https://www.v2ex.com/t/1230260#reply0</link>
+    <description><![CDATA[<p>以前用 Claude Code 、Codex 、Grok ，其实都是单打独斗：开一堆终端，这边聊半截、那边写一半，进度散得到处都是。agent 干完一步就停在那等我回车；我去接杯水，活就卡死了。人得一直钉在电脑前，比写代码本身还累。</p>
+<p>烦够了，我干脆把想要的工作方式做成了开源项目 <strong>ccteam</strong>——不是再造一个新 agent ，而是把已经在用的这些 code agent 编成一支真正能协作的团队。</p>
+<p>现在比较常见的一天是这样的：出门前丢给 Codex 一个长活；吃饭时在 Telegram （飞书也行）瞄一眼进度、补一句要求；回来测试已经跑完了。中途想插话，浏览器控制台说一句就行。多个会话可以互相派活、接力往下干——我不用一直守着，它们也不用一步一等我。</p>
+<p>组队之后，各家也真的各干各的强项（这是我自己用下来的感受）：</p>
+<ul>
+<li><strong>Grok</strong> 快，探路、要个第二意见最顺手</li>
+<li><strong>Claude</strong> 想得深，但额度金贵，留给关键规划和难判断</li>
+<li><strong>Codex</strong> 扛长程编码稳，闷头实现、跑测试，我比较放心</li>
+</ul>
+<p>不是谁取代谁，是打配合。跨厂商的任务能派出去、收回来，会话和花费也在一个地方看着——对我这种一天要跟好几个 agent 打交道的人来说，这才像「团队」，不是一堆孤立聊天窗。</p>
+<p>开源（ MIT ），装上就能用，也可以 fork 成更适合自己的方式：
+<a href="https://github.com/firstintent/ccteam" rel="nofollow">https://github.com/firstintent/ccteam</a></p>
+<p>如果你也同时用好几家 code agent ，却发现自己成了它们之间最忙的接线员——不妨试试。觉得有用给个 star ，你可以 fork 定制适合自己的生产力利器。</p>]]></description>
+    <pubDate>Mon, 27 Jul 2026 16:18:28 -0000</pubDate>
+    <guid isPermaLink="true">https://www.v2ex.com/t/1230260#reply0</guid>
+    <source url="https://www.v2ex.com/t/1230260#reply0">V2EX</source>
+  </item>
+  <item>
+    <title>[原创频道&gt;&gt;什么值得买] 尼康百年光学工艺的坚守与创新</title>
+    <link>https://post.smzdm.com/p/a4qwqkek/</link>
+    <description><![CDATA[独力摄影师  从1917年至今，尼康已深耕光学影像领域一百零九年。作为全球精密光学行业的开拓者，尼康历经胶片黄金时代、数码影像革新、微单轻量化变革的数次行业迭代，以严谨的光学工艺与纯粹的影像初心，深刻影响了现代摄影体系的发展脉络。百年积淀铸就硬核底蕴，时代变局带来严峻挑战，但凭借不可替代的光学核心实力，尼康依旧具备冲破瓶颈、再创辉煌的无限潜能。  回望尼康百年发展，数个里程碑时刻，构筑了尼康不可撼动的行业地<p>本文来自<a href="https://post.smzdm.com/p/a4qwqkek/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
+    <pubDate>Mon, 27 Jul 2026 16:15:17 -0000</pubDate>
+    <guid isPermaLink="true">https://post.smzdm.com/p/a4qwqkek/</guid>
+    <source url="https://post.smzdm.com/p/a4qwqkek/">原创频道&gt;&gt;什么值得买</source>
+  </item>
+  <item>
+    <title>[原创频道&gt;&gt;什么值得买] 通勤运动全能选手，南卡OE Wing开放式耳机上手体验</title>
+    <link>https://post.smzdm.com/p/a82329en/</link>
+    <description><![CDATA[科技Locke作为一个每天耳机不离身的人，这些年我用过的耳机少说也有十几副了，入耳式戴久了耳道胀痛，头戴式夹得太阳穴发紧，后来尝试开放式耳机，又总遇到漏音、音质单薄、戴不稳的问题。直到最近入手了南卡OE Wing，我才发现原来开放式耳机也可以做到这种程度。开箱第一印象：轻若无物，无感佩戴拿出耳机的那一刻才是真的惊了，这也太轻了吧？拿在手里几乎没分量，单耳只有8g，拿在手里、佩戴起来时几乎没什么分量感，充电仓也很<p>本文来自<a href="https://post.smzdm.com/p/a82329en/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
+    <pubDate>Mon, 27 Jul 2026 16:13:19 -0000</pubDate>
+    <guid isPermaLink="true">https://post.smzdm.com/p/a82329en/</guid>
+    <source url="https://post.smzdm.com/p/a82329en/">原创频道&gt;&gt;什么值得买</source>
+  </item>
+  <item>
+    <title>[原创频道&gt;&gt;什么值得买] 闲鱼流出全新泰迅大师影像手柄标准版，助力你的手机摄影稳定性</title>
+    <link>https://post.smzdm.com/p/aqrnrd2x/</link>
+    <description><![CDATA[知木注意到闲鱼上流出全新的泰迅大师影像手柄，售价120元左右。这是一款是伴随 iPhone17 上市同步发布的新品，主要是给iPhone手机提供相机式实体按键操控，磁吸固定手机，拓展摄影配件。按理说这个手机同样适用于普通安卓手机，但是iPhone 可直接操控系统原生相机，蓝牙延迟低，彩胶 APP 所有滤镜、专业参数、ProRes 功能完整，磁吸配件对位精准，固件更新快。安卓仅能在彩胶 APP 内使用按<p>本文来自<a href="https://post.smzdm.com/p/aqrnrd2x/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
+    <pubDate>Mon, 27 Jul 2026 16:12:34 -0000</pubDate>
+    <guid isPermaLink="true">https://post.smzdm.com/p/aqrnrd2x/</guid>
+    <source url="https://post.smzdm.com/p/aqrnrd2x/">原创频道&gt;&gt;什么值得买</source>
+  </item>
+  <item>
+    <title>[原创频道&gt;&gt;什么值得买] 全球参数最大开源模型 马斯克也点赞！月之暗面Kimi K3开源 2.8万亿参数</title>
+    <link>https://post.smzdm.com/p/a5rkrlm8/</link>
+    <description><![CDATA[快科技快科技7月28日消息，日前，月之暗面正式发布Kimi K3模型权重及技术报告，并同步开源支撑该模型训练的三项关键基础设施技术：MoonEP、FlashKDA和AgentEnv。据介绍，三项技术在Kimi K3的训练过程中发挥了重要作用，为大规模模型训练的效率、稳定性以及智能体任务执行提供基础支撑。据了解，Kimi K3是月之暗面目前能力最强的模型，该模型采用混合专家（MoE）架构，总参数规模达到2<p>本文来自<a href="https://post.smzdm.com/p/a5rkrlm8/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
+    <pubDate>Mon, 27 Jul 2026 16:12:32 -0000</pubDate>
+    <guid isPermaLink="true">https://post.smzdm.com/p/a5rkrlm8/</guid>
+    <source url="https://post.smzdm.com/p/a5rkrlm8/">原创频道&gt;&gt;什么值得买</source>
+  </item>
+  <item>
+    <title>[原创频道&gt;&gt;什么值得买] 扔掉100件衣服后，才发现：原来，我并不需要那么多衣服！</title>
+    <link>https://post.smzdm.com/p/a4qwq04w/</link>
+    <description><![CDATA[小拾说如果认真做一次断舍离，相信很多家庭都会发现，最难整理、最舍不得扔的，往往都是衣柜里的衣服。究其原因，只有一个：这件衣服还能穿。可实际上，作为生活中不断添置的“消耗品”，即便有些衣服还可以再穿，也没有保留的必要了。毕竟对于大多数人来说，每天能真正穿出门的，始终就那么几件。本期就来聊聊我扔掉100件衣服后，才明白的衣物整理真相，看看你的衣柜里是否也有同款。一、一年没穿过的衣服如果一件衣服放在衣柜里超过<p>本文来自<a href="https://post.smzdm.com/p/a4qwq04w/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
+    <pubDate>Mon, 27 Jul 2026 16:10:55 -0000</pubDate>
+    <guid isPermaLink="true">https://post.smzdm.com/p/a4qwq04w/</guid>
+    <source url="https://post.smzdm.com/p/a4qwq04w/">原创频道&gt;&gt;什么值得买</source>
+  </item>
+  <item>
+    <title>[V2EX] [推广] 🛍️ZgoCloud 上新德国三网 9929 机器，上游 Netlab，，非常适合北方联通用户</title>
+    <link>https://www.v2ex.com/t/1230259#reply0</link>
+    <description><![CDATA[<p>一、基本信息</p>
+<pre><code>系统信息查询
+-------------
+主机名:         Gem
+系统版本:       Debian GNU/Linux 13 (trixie)
+Linux 版本:      6.7.9-bbrplus
+-------------
+CPU 架构:        x86_64
+CPU 型号:        AMD EPYC 7K62 48-Core Processor
+CPU 核心数:      1
+CPU 频率:        2.6 GHz
+-------------
+CPU 占用:        1%
+系统负载:       0.20, 0.15, 0.07
+TCP|UDP 连接数:  3|1
+物理内存:       308.25/936.00M (32.93%)
+虚拟内存:       0M/1023M (0%)
+硬盘占用:       2.4G/9.7G (26%)
+-------------
+总接收:         106.64M
+总发送:         482.86K
+-------------
+网络算法:       bbrplus fq_pie
+-------------
+运营商:         AS979 NetLab Global
+IPv4 地址:       189.24.xxx.xxx
+DNS 地址:        8.8.8.8 1.1.1.1 
+地理位置:       DE Berlin
+系统时间:       Asia/Hong_Kong 2026-07-27 11:20 PM
+-------------
+运行时长:       5 分
+
+</code></pre>
+<p><img alt="image" class="embedded_image" rel="noreferrer" src="https://boat.vpszdm.com/20260728-zgo-ge-hardware.png" /></p>
+<p>二、、IP 质量，这 IP 的质量，解锁能力一流（第一批机器 ip 刚刚广播过去，所以很多 IP 库还没更新）</p>
+<p><img alt="image" class="embedded_image" rel="noreferrer" src="https://boat.vpszdm.com/20260728-zgo-ge-IP.png" /></p>
+<p>三、三网回程（三网 9929 ，其中都走北京口子去欧洲德国，所以非常适合北方的联通朋友！）
+北方联通朋友闭眼买</p>
+<pre><code>2026/07/27 23:58:54 正在测试三网回程路由...
+国家: DE 城市: Berlin 服务商: AS979 NetLab Global
+北京电信 219.141.140.10  联通 9929 [优质线路]
+北京联通 202.106.195.68  联通 9929 [优质线路]
+北京移动 221.179.155.161 联通 9929 [优质线路]
+上海电信 202.96.209.133  联通 9929 [优质线路]
+上海联通 210.22.97.1     联通 9929 [优质线路]
+上海移动 211.136.112.200 联通 9929 [优质线路]
+广州电信 58.60.188.222   联通 9929 [优质线路]
+广州联通 210.21.196.6    联通 9929 [优质线路]
+广州移动 120.196.165.24  联通 9929 [优质线路]
+成都电信 61.139.2.69     联通 4837 [普通线路]
+成都联通 119.6.6.6       联通 4837 [普通线路]
+成都移动 211.137.96.205  联通 4837 [普通线路]
+2026/07/27 23:58:55 测试完成!
+</code></pre>
+<p>四、网络解锁（ zgo 的解锁真的是炒鸡厉害，就看重它的机器作为落地鸡）
+（第一批机器 ip 刚刚广播过去，所以很多 IP 库还没更新）</p>
+<p><img alt="image" class="embedded_image" rel="noreferrer" src="https://boat.vpszdm.com/20260728-zgo-ge-media.png" /></p>
+<p>六、网络测速（各位佬友可以自己测速试试，特别是晚高峰测速）</p>
+<p><img alt="image" class="embedded_image" rel="noreferrer" src="https://boat.vpszdm.com/20260728-zgo-ge-speed.png" /></p>
+<table>
+<thead>
+<tr>
+<th>Zgo 德国三网 9929</th>
+<th>CPU/内存/存储/流量</th>
+<th>网络类型</th>
+<th>价格(USD/年)</th>
+<th>购买链接</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Starter 特惠</td>
+<td>1C/1G/10G/1T@200Mbps</td>
+<td>三网 9929</td>
+<td>$45.00</td>
+<td><a href="https://zgocloud.org/pid=160" rel="nofollow">🔥购买链接</a>   #AFF</td>
+</tr>
+<tr>
+<td>Standard 特惠</td>
+<td>2C/2G/20G/1.5T@200Mbps</td>
+<td>三网 9929</td>
+<td>$88.00</td>
+<td><a href="https://zgocloud.org/pid=161" rel="nofollow">购买链接</a>   #AFF</td>
+</tr>
+</tbody></table><h1><a href="https://gem.zgocloud.org/idcflare" rel="nofollow">🚀洛杉矶德国 9929 测速</a></h1>
+<p>退款政策：支持 3 天内流量不超过 10G 全额退款，因此各位佬友完全可以下个单，试一下好不好用，不好用立刻退款</p>]]></description>
+    <pubDate>Mon, 27 Jul 2026 16:03:14 -0000</pubDate>
+    <guid isPermaLink="true">https://www.v2ex.com/t/1230259#reply0</guid>
+    <source url="https://www.v2ex.com/t/1230259#reply0">V2EX</source>
+  </item>
+  <item>
+    <title>[Hacker News] Nvidia's $750B in Deals Reignite Circular AI Fears</title>
+    <link>https://www.bloomberg.com/news/articles/2026-07-27/nvidia-s-750-billion-deals-revive-fear-of-ai-circular-financing</link>
+    <description><![CDATA[<a href="https://news.ycombinator.com/item?id=49071512">Comments</a>]]></description>
+    <pubDate>Mon, 27 Jul 2026 16:02:00 -0000</pubDate>
+    <guid isPermaLink="true">https://www.bloomberg.com/news/articles/2026-07-27/nvidia-s-750-billion-deals-revive-fear-of-ai-circular-financing</guid>
+    <source url="https://www.bloomberg.com/news/articles/2026-07-27/nvidia-s-750-billion-deals-revive-fear-of-ai-circular-financing">Hacker News</source>
+  </item>
+  <item>
+    <title>[IT之家] 英伟达 CUDA 的 20 年护城河一个周末崩了，Claude 独自跑通 AMD 新 GPU</title>
+    <link>https://www.ithome.com/0/982/264.htm</link>
+    <description><![CDATA[<p>一句话，一个周末，Claude 直接把自家最前沿的模型跑在了一台全新的 AMD MI355X 机架上！</p><p><strong>人类工程师全程没动手改过一行代码</strong>。</p><p>谁能想到，英伟达花 20 年堆起的 CUDA 护城河，就这样被跨了过去。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/7/d38bdd28-3b5d-4745-be76-faf4514d60a3.png?x-bce-process=image/format,f_auto" /></p><h2><strong>一个周末，Claude 把 AMD 新 GPU 调通了</strong></h2><p>故事是这样的。</p><p>前段时间，AMD 给 Anthropic 送来一台搭载 MI355X 的机架。团队看完，心里已经做好了打硬仗的准备。新平台配新软件栈，注定需要新一轮适配。</p><p>不过，Anthropic 手里正好有 Claude。团队干脆先让一名工程师试试：把 Claude 接上机器，丢给它一句，「去，把这台机器跑起来。」</p><p>等周末结束回到工位，屏幕上已经多出一条持续上涨的性能曲线 —— 结果不仅跑起来了，性能还在一轮轮不停地提升。</p><p>Anthropic 联合创始人兼首席计算官 Tom Brown 讲完，苏姿丰马上接过话：听说 Anthropic 只有一名工程师在处理 MI355X 时，她第一反应是让 AMD 团队赶紧去帮忙。结果团队回来告诉她，对方说不用，已经全部搞定了。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/7/0a8a3162-30af-44bb-b3d3-9fd204c8bcb8.png?x-bce-process=image/format,f_auto" /></p><p>很快，这场周末实验便接上了真正的部署计划。</p><p>就在最近，Anthropic 宣布，将在 AMD Helios 系统中部署最高 2GW 的 Instinct GPU，<strong>首批 1GW 计划于 2027 年上半年启动</strong>。</p><p>并且，双方还会直接使用 Claude 优化 AMD 工作负载，加速 ROCm 软件开发。</p><h2><strong>芯片说明书，迎来一位非人类读者</strong></h2><p>Claude 之所以能实现对 CUDA 生态的「降维打击」，是因为 AMD 直接给 AI 开发了一套能上手调 GPU 的工具。</p><p>在 AMD Advancing AI 2026 大会上发布的 <span class="link-text-start-with-http">ROCm.AI</span>，就是给 Claude、Codex 和 Cursor 准备的一整套 GPU 工具箱。</p><p><strong>入口叫 AMD Skills，里面装的全是经过验证的 ROCm 知识</strong>。</p><p>Agent 拿到这些知识后，可以自己装环境、部署模型、读日志、查故障，再通过 ROCm CLI 调用真实机器。开发者说出目标，剩下的路让 Agent 自己找。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/7/3e17c6a1-c4c7-4417-b3eb-ed105b9e4c51.png?x-bce-process=image/format,f_auto" /></p><p>划重点，AMD 甚至连芯片说明书的写法都改了。</p><p>公司 AI 软件与解决方案副总裁 Anush Elangovan 在现场透露，每一代 AMD GPU 都会公开指令集，并提供 AI 可读的 ISA。</p><p>Agent 在读懂手册之后，就能直接上手调性能。</p><p>AMD 把这部分工作交给 Hyperloom。它会拉起推理服务，先跑出基线，再去找 CPU 和 GPU 的瓶颈，测试不同配置，生成定制内核，最后把新方案重新跑一遍。</p><p>现场演示里，Hyperloom 把 MiniMax M3 的输出速度提升了 38%。AMD 还让它一次跑过 1.4 万个模型，把测试结果沉淀成下一次可以直接复用的经验。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/7/7347a4b1-94dd-4bd5-8b9b-3e0d3b372343.png?x-bce-process=image/format,f_auto" /></p><p>AMD 还在和前沿模型公司一起训练这种能力。Elangovan 的原话很有意思：<strong>让前沿模型「天生会说 AMD 编程」</strong>。</p><p>以后看一块芯片，峰值算力和显存带宽当然重要，AI 能不能读懂它、调用它、把性能调出来，也会摆上同一张参数表。</p><p>芯片公司要争取的开发者，现在多了一类：Agent。</p><h2><strong>来自 ASI 的降维打击</strong></h2><p>CUDA 从 2006 年一路走到今天，靠的是无数工程师一行行码出来的生态。编译器、数学库、调试器、性能分析工具、开发文档，该有的全有。</p><p><strong>更难复制的，是那一代代工程师攒下来的手感</strong>。算子怎么调，通信怎么提速，显存怎么分配，分布式部署哪里最容易出问题，这些经验全锁在少数专家的脑子里。</p><p>后来者就算造出性能接近的芯片，也得把这条软件长路从头走一遍。芯片流片可以按季度推进，生态积累却只能按年去熬。</p><p>而 Agent 补的就是这一段。它会读平台文档，调用性能分析工具，找到速度卡在哪里，再改代码、编译、测试。一个方案没有效果就换下一个；跑分变好就沿着这个方向继续优化。</p><p><strong>人类培养一名顶级 GPU 工程师要按年算，多启动一个 Agent 只需要再开一个任务</strong>。</p><p>一名工程师放出一群 Agent，就能并行排查报错、定位性能瓶颈。一次跑通的配置、写好的内核和踩过的坑，也能马上成为下一批 Agent 的起点。</p><p>把按年计算的追赶压缩成按任务计算，AI 最值钱的地方就在这里。这也是 ASI 式能力对 CUDA 生态的降维打击。</p><p>如今，中国工程师已经站在这场 AI 改造 GPU 软件栈的最前线，他们沉淀下来的底层经验，也在被整理成更多 Agent 可以调用的能力。</p><p>追赶 CUDA 的新起点已经出现：把硬件接口和软件工具交给 AI，让 Agent 直接开工。</p><p>20 年的生态差距，第一次可以交给一群 Agent 昼夜不停地往回追。</p><p class="it-news-source-tip"><span class="font-color-greytip">本文来自微信公众号：<a href="https://mp.weixin.qq.com/s/MFv0Uz9BrPGZFsDtcruZEQ" target="_blank">新智元（ID：AI_era）</a>，作者：ASI 启示录，原标题《<span class="js_title_inner">CUDA 20 年护城河一个周末崩了！Claude 独自跑通 AMD 新 GPU</span>》</span></p>]]></description>
+    <pubDate>Mon, 27 Jul 2026 15:58:14 -0000</pubDate>
+    <guid isPermaLink="true">https://www.ithome.com/0/982/264.htm</guid>
+    <source url="https://www.ithome.com/0/982/264.htm">IT之家</source>
+  </item>
+  <item>
+    <title>[cnBeta.COM.TW RSS订阅] 英伟达押注OpenAI联合创始人全新AI实验室 拓宽算力布局版图</title>
+    <link>https://www.cnbeta.com.tw/articles/tech/1570518.htm</link>
+    <description><![CDATA[<p>英伟达正投资前OpenAI首席科学家伊尔亚・苏茨克维（Ilya Sutskever）运营的低调人工智能实验室，双方达成长期合作。这笔合作既能让这家初创企业获取更多算力资源，也能帮助这家芯片巨头抗衡行业竞品。</p> <a href="https://www.cnbeta.com.tw/articles/tech/1570518.htm" target="_blank"><strong>阅读全文</strong></a>]]></description>
+    <pubDate>Mon, 27 Jul 2026 15:55:17 -0000</pubDate>
+    <guid isPermaLink="true">https://www.cnbeta.com.tw/articles/tech/1570518.htm</guid>
+    <source url="https://www.cnbeta.com.tw/articles/tech/1570518.htm">cnBeta.COM.TW RSS订阅</source>
+  </item>
+  <item>
+    <title>[IT之家] 1928 → 758 元再降价：追觅 T1 滚筒洗衣机 3 年质保，配备 AI 直驱变频电机</title>
+    <link>https://www.ithome.com/0/982/263.htm</link>
+    <description><![CDATA[<p>追觅 T1 滚筒洗衣机 / 洗烘一体机 10kg 官方定价 1928 元，今日京东自营直降国补后，仅需 869 元 + 支持 6 期免息。</p><p>另外本次大多数京东账号支持<strong>组合购</strong>优惠，洗衣机低至 758 元，烘干机低至 913.8 元：</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/7/b0b6d373-08c5-44ba-986a-40f9cbdabb66.jpg?x-bce-process=image/format,f_auto" /></p><ul class=" list-paddingleft-2"><li><p>先领 905 元券：<a href="https://coupon.m.jd.com/coupons/show.action?linkKey=AAROH_xIpeffAs_-naABEFoeH_8hnfHx6n8ygt4_95OLJL9_rZ3gP5_NwVdbVgORfHuyDA8F5Eo9SO9P6cgh4e64iPvzQw" target="_blank">点此领券</a></p></li></ul><dir><a contenteditable="false" href="https://u.jd.com/96ocqcK" target="_blank"><span class="card main-site"><span class="card-logo"><img src="https://img14.360buyimg.com/pop/jfs/t1/381866/20/13577/61711/69555bd8Fd25c1b9f/7724dbd6a9c7803c.png" /></span><span class="card-info"><span class="card-title"><span class="mall-data">京东</span><span class="card-name">追觅 T1 滚筒洗衣机</span></span><span class="card-abstract"> DWF10T10TNCN</span><span class="card-controls"><span class="price"> 国补后 869 元</span><span class="card-btn-deep">直达链接</span></span></span></span></a></dir><dir><a contenteditable="false" href="https://u.jd.com/91on7wa" target="_blank"><span class="card main-site"><span class="card-logo"><img src="https://img14.360buyimg.com/pop/jfs/t1/378434/39/12247/61711/694b8859F631f12e2/39c11a61afea76ae.png" /></span><span class="card-info"><span class="card-title"><span class="mall-data">京东</span><span class="card-name">追觅 T1 滚筒洗烘一体机</span></span><span class="card-abstract"> DWC10T10TNCN</span><span class="card-controls"><span class="price"> 国补后 1070 元</span><span class="card-btn-deep">直达链接</span></span></span></span></a></dir><p>大家如果不放心官方售后，可在下单时加购“8 年换新”京东服务（约 130 元），8 年内如出现三包故障（非人为）可免费换新 1 次。</p><p>此款配备直驱变频电机，且搭载 AI 算法，可精控洗涤轨迹，洁净不伤衣。</p><p>1400rpm 高性能脱水（竞品千元级一般为 1200rpm），整机 3 年质保，电机 10 年质保。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/1/2865ad69-535b-4711-9350-2130795b8bba.png" /></p><p>关于电机：</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/1/f4c8b3c9-33ba-4a99-ba56-69bf82a8f059.png" /></p><h2>产品参数</h2><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/1/b30cee08-3d06-4961-b791-7bfb3def0994.png" /></p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/1/43e274c4-0b86-47ea-9823-3ff601d16d50.png" /></p><dir><a contenteditable="false" href="https://u.jd.com/9DpkrCS" target="_blank"><span class="card main-site"><span class="card-logo"><img src="https://img14.360buyimg.com/pop/jfs/t1/381866/20/13577/61711/69555bd8Fd25c1b9f/7724dbd6a9c7803c.png" /></span><span class="card-info"><span class="card-title"><span class="mall-data">京东</span><span class="card-name">追觅 T1 滚筒洗衣机</span></span><span class="card-abstract"> DWF10T10TNCN</span><span class="card-controls"><span class="price"> 国补后 869 元</span><span class="card-btn-deep">直达链接</span></span></span></span></a></dir><dir><a contenteditable="false" href="https://u.jd.com/9rpeiFF" target="_blank"><span class="card main-site"><span class="card-logo"><img src="https://img14.360buyimg.com/pop/jfs/t1/378434/39/12247/61711/694b8859F631f12e2/39c11a61afea76ae.png" /></span><span class="card-info"><span class="card-title"><span class="mall-data">京东</span><span class="card-name">追觅 T1 滚筒洗烘一体机</span></span><span class="card-abstract"> DWC10T10TNCN</span><span class="card-controls"><span class="price"> 国补后 1070 元</span><span class="card-btn-deep">直达链接</span></span></span></span></a></dir>]]></description>
+    <pubDate>Mon, 27 Jul 2026 15:43:19 -0000</pubDate>
+    <guid isPermaLink="true">https://www.ithome.com/0/982/263.htm</guid>
+    <source url="https://www.ithome.com/0/982/263.htm">IT之家</source>
+  </item>
+  <item>
+    <title>[V2EX] [推广] [源头工厂] 稳定 6 个月 GPT&amp;Claude MAX20， $20 刀 Codex/GPT5 免费体验，企业级稳定！</title>
+    <link>https://www.v2ex.com/t/1230257#reply3</link>
+    <description><![CDATA[<h1>MuskAI 稳定生产力的源泉</h1>
+<ul>
+<li>💎超大源头 GPT5.5 、Claude 纯正 MAX20</li>
+<li>💎超低延迟，专线接入</li>
+<li>💎稳定持续可用，适合长期使用与业务接入</li>
+<li>💎适合需要稳定渠道的客户！</li>
+</ul>
+<p>V 友专属福利：$20 刀 Codex/GPT5 爽用</p>
+<h2>领取步骤</h2>
+<ul>
+<li>1 、加入 TG 群： <a href="https://t.me/muskapi" rel="nofollow">https://t.me/muskapi</a></li>
+<li>2 、打开 <a href="http://muskapi.cc" rel="nofollow">http://muskapi.cc</a> 注册账户</li>
+<li>3 、在本帖回帖，留下你的注册邮箱，将为你发放订阅（不是余额，到 [我的订阅] 页面查收） 数千名用户优选，</li>
+</ul>
+<blockquote>
+<p>感谢大家的信任，我们一直坚持为大家提供能力范围内最佳的 AI 服务</p>
+</blockquote>
+<p><img alt="Claude MAX20 AI 中转站 MuskAI.cc" class="embedded_image" rel="noreferrer" src="https://cfpic.999194.xyz/file/pc/1780415165591_codex.jpg" /></p>
+<p><img alt="OpenAI GPT Pro20 AI 中转站 MuskAI.cc" class="embedded_image" rel="noreferrer" src="https://cfpic.999194.xyz/file/pc/1780415163927_claude20.jpg" /></p>]]></description>
+    <pubDate>Mon, 27 Jul 2026 15:30:33 -0000</pubDate>
+    <guid isPermaLink="true">https://www.v2ex.com/t/1230257#reply3</guid>
+    <source url="https://www.v2ex.com/t/1230257#reply3">V2EX</source>
+  </item>
+  <item>
+    <title>[V2EX] [问与答] 关于楼上噪音 遇到没素质且心理有毛病的怎么处理</title>
+    <link>https://www.v2ex.com/t/1230256#reply5</link>
+    <description><![CDATA[<p>楼上小孩天天满屋子跑，共振厉害，起初上去好好沟通没有用 不承认，后来实在不改 变本加厉 我就在群里匿名提醒，（没公开说哪户）然后居然就破防了，然后讥讽说我们敏感，然后只要在群里发声 或者找物业说 然后就找叔叔 我都奇怪了 最该找叔叔的是我家 这样的人居然先报警，还振振有词，这样的人怎么破?</p>]]></description>
+    <pubDate>Mon, 27 Jul 2026 15:28:14 -0000</pubDate>
+    <guid isPermaLink="true">https://www.v2ex.com/t/1230256#reply5</guid>
+    <source url="https://www.v2ex.com/t/1230256#reply5">V2EX</source>
+  </item>
+  <item>
+    <title>[cnBeta.COM.TW RSS订阅] 英特尔与Cadence深度合作 18A-P及14A先进制程全面获EDA工具链认证</title>
+    <link>https://www.cnbeta.com.tw/articles/tech/1570516.htm</link>
+    <description><![CDATA[<p>为了进一步巩固半导体制造生态系统并加速追赶行业领头羊台积电，英特尔代工（Intel Foundry）与电子设计自动化（EDA）巨头Cadence于今日宣布达成重要合作里程碑。Cadence旗下的全套AI驱动数字与定制参考流程、设计工具及解决方案，现已正式通过英特尔最新的Intel 18A-P与Intel 14A制程节点认证。</p> <a href="https://www.cnbeta.com.tw/articles/tech/1570516.htm" target="_blank"><strong>阅读全文</strong></a>]]></description>
+    <pubDate>Mon, 27 Jul 2026 15:27:23 -0000</pubDate>
+    <guid isPermaLink="true">https://www.cnbeta.com.tw/articles/tech/1570516.htm</guid>
+    <source url="https://www.cnbeta.com.tw/articles/tech/1570516.htm">cnBeta.COM.TW RSS订阅</source>
+  </item>
+  <item>
+    <title>[Hacker News] Kimi-K3 Technical Report [pdf]</title>
+    <link>https://github.com/MoonshotAI/Kimi-K3/blob/main/k3_tech_report.pdf</link>
+    <description><![CDATA[<a href="https://news.ycombinator.com/item?id=49070985">Comments</a>]]></description>
+    <pubDate>Mon, 27 Jul 2026 15:23:45 -0000</pubDate>
+    <guid isPermaLink="true">https://github.com/MoonshotAI/Kimi-K3/blob/main/k3_tech_report.pdf</guid>
+    <source url="https://github.com/MoonshotAI/Kimi-K3/blob/main/k3_tech_report.pdf">Hacker News</source>
+  </item>
+  <item>
+    <title>[IT之家] 钱江推出赛 421S 摩托车：四缸 77.5Ps 动力，28999 元起</title>
+    <link>https://www.ithome.com/0/982/262.htm</link>
+    <description><![CDATA[<p>IT之家 7 月 27 日消息，钱江摩托今日推出<span class="js_title_inner">赛 421S 车型，共推出竞技版、活力版两款型号，售价分别为 28999 元、32999 元。</span></p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/7/3771568d-c7a4-4826-bf57-6da61a387b41.png" /></p><p><span class="js_title_inner">IT之家从官方介绍获悉，该车配备恶魔之眼日行灯、</span>X 分裂尾灯、三层导流后视镜、前掠式定风翼。该车搭载四缸动力支持 14500r/min 最高红线转速，<strong>最大功率爆发 77.5Ps/57Kw</strong>，峰值扭矩输出 39N·m/13000rpm，电镀陶瓷气缸、合金钢凸轮轴等高规格硬件加持。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/7/a603229b-931d-4e0e-b5f4-6fd11d0e739a.png" /></p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/7/0cb5966a-ac24-4f97-85a7-0cb4cf06e210.png" /></p><p>该车采用 177KG 轻量化车身（铁铝复合车架 + 铝合金双摇臂）、双向快排、电子油门，全系标配 Marzocchi 多段可调钛尺、Marzocchi 前减震可调，<strong>标配 790mm 座高</strong>，竞技版支持标准、运动、雨天三种模式切换。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/7/2d65255c-51d9-483d-bf2a-89e9d25cb740.png" /></p><p>此外，该车还支持双向快充能量枢纽，配备密码 / NFC / 蓝牙 / APP / 机械钥匙等多元智能解锁体系，支持电子油箱锁、后座锁等电子科技锁具。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/7/599f7ac0-e1ff-4e12-8732-0f112df813f5.png" /></p>]]></description>
+    <pubDate>Mon, 27 Jul 2026 15:21:39 -0000</pubDate>
+    <guid isPermaLink="true">https://www.ithome.com/0/982/262.htm</guid>
+    <source url="https://www.ithome.com/0/982/262.htm">IT之家</source>
+  </item>
+  <item>
+    <title>[cnBeta.COM.TW RSS订阅] Firefox新标签页迎来重大升级 加入基于AI新闻摘要的每日字谜与多款实用小组件</title>
+    <link>https://www.cnbeta.com.tw/articles/tech/1570514.htm</link>
+    <description><![CDATA[<p>Mozilla Firefox浏览器正在为其 New Tab（新标签页）引入一项全新的功能——一款由人工智能驱动的每日交叉字谜游戏。这款字谜游戏的后台由 AI 新闻阅读器 Particle 提供技术支持，它能够自动提炼和总结当天的焦点新闻，并利用这些新闻素材实时生成与之相关的谜题。</p> <a href="https://www.cnbeta.com.tw/articles/tech/1570514.htm" target="_blank"><strong>阅读全文</strong></a>]]></description>
+    <pubDate>Mon, 27 Jul 2026 15:20:11 -0000</pubDate>
+    <guid isPermaLink="true">https://www.cnbeta.com.tw/articles/tech/1570514.htm</guid>
+    <source url="https://www.cnbeta.com.tw/articles/tech/1570514.htm">cnBeta.COM.TW RSS订阅</source>
+  </item>
+  <item>
+    <title>[IT之家] 大众汽车否认呼吁欧盟对中国混动汽车加征关税</title>
+    <link>https://www.ithome.com/0/982/261.htm</link>
+    <description><![CDATA[<p>IT之家 7 月 27 日消息，据第一财经报道，今日，大众汽车集团发布声明称，2026 年上半年财报电话会议上，大众汽车集团管理董事会主席奥博穆就自由公平的贸易环境这一话题表态。</p><p>对于当下，欧洲正在讨论的拟对从中国进口至欧洲的混动车辆加征关税的议题，<strong>大众集团 CEO 奥博穆</strong><strong>并未明确呼吁加征关税</strong>，而是倡导全面考量各类潜在方案，保障欧洲与全球其他地区之间形成公平的竞争环境。这其中，包括支持中国整车企业在欧洲实现本土化生产。</p><p>他同时强调，若欧盟未来最终决定加征相关关税，为维护与中国的健康贸易关系，该关税税率不应超过当前对纯电车型已实施的关税水平。</p><p>IT之家注意到，此前外媒报道称奥博穆希望欧盟针对中国产插混车型新增关税机制，参照现行中国产纯电动汽车的征税方案，即在基础 10% 进口关税之上，最高再加征 35% 额外关税。</p>]]></description>
+    <pubDate>Mon, 27 Jul 2026 15:19:20 -0000</pubDate>
+    <guid isPermaLink="true">https://www.ithome.com/0/982/261.htm</guid>
+    <source url="https://www.ithome.com/0/982/261.htm">IT之家</source>
+  </item>
+  <item>
+    <title>[IT之家] 科技行业力挺开源 AI，Anthropic 因保持沉默遭同行批评</title>
+    <link>https://www.ithome.com/0/982/260.htm</link>
+    <description><![CDATA[<p>IT之家 7 月 27 日消息，科技行业正集体支持开放权重（Open-weight）AI，但有一家重量级 AI 实验室却始终保持沉默。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/3/c9d125a1-f857-4d71-800d-d2f99b63bd49.jpg?x-bce-process=image/format,f_auto" /></p><p>随着美国政府考虑限制部分中国 AI 模型，Anthropic 因未签署支持开放权重 AI 的公开信，正受到硅谷同行的广泛批评。</p><p>上周五，包括英伟达（Nvidia）、Meta 和微软在内的 20 多家公司共同签署了题为《开放权重与美国 AI 领导力》（Open Weights and American AI Leadership）的公开信，支持开放权重 AI。所谓开放权重，是指开发者可以下载模型权重，并在自己的基础设施上对模型进行修改和部署。</p><p>到了周末，又有几家人工智能领域的巨头签署了这封信：OpenAI、谷歌和 SpaceX。</p><p>这意味着，截至本周一，唯一没有支持这一行业倡议的顶级前沿 AI 实验室只剩下 Anthropic，而这家 Claude 模型开发商也因此遭到越来越多的质疑。</p><p>风险投资人、特朗普政府前 AI 顾问戴维 · 萨克斯（David Sacks）表示：“除了 Anthropic 之外，整个科技行业都公开支持开源人工智能。”</p><p>他随后又在 X 平台发文称：“他们不会停下来，直到把开源 AI 打垮。整个行业都应该紧紧盯着他们的一举一动。”</p><p>OpenAI 员工、AI Agent 平台 OpenClaw 创始人彼得 · 施泰因贝格（Peter Steinberger）也在 X 上表示：“很高兴看到 OpenAI 签署了这封公开信，而 Anthropic 依然保持沉默。”</p><p>风险投资机构 Benchmark 合伙人比尔 · 格利（Bill Gurley）同样批评了 Anthropic 拒绝签署公开信的做法，并暗示该公司是在维护自身的商业利益。他在回复一位 Anthropic 员工时写道：“很高兴看到 Anthropic 终于承认，开放模型真正的问题在于它会冲击公司的商业战略。他们如今的‘觉醒’，其实已经说明了一切。”</p><p>曾任谷歌和微软高管、现为中国开源大模型公司零一万物（<span class="link-text-start-with-http">01.AI</span>）创始人的李开复则表示：“相比谁签署了这封开放权重公开信，更值得关注的是谁没有签署。”他在 X 上发布这条消息时，还特意点名了 Anthropic 的 Claude AI。</p><p>截至目前，Anthropic 尚未回应媒体的置评请求。</p><p>IT之家注意到，Anthropic 首席执行官达里奥 · 阿莫代伊（Dario Amodei）此前曾多次表示，一旦模型权重公开，开发者便会失去对前沿 AI 模型的控制。因此，Anthropic 更倾向于对高性能模型实行受控开放。</p><p>今年早些时候，Anthropic 推出了名为 Project Glasswing 的计划，向经过审核的企业提前开放其网络安全模型，以帮助发现并修复安全漏洞，而非直接公开模型权重。</p><p>近期，中国 AI 公司月之暗面（Moonshot AI）发布开放权重模型 Kimi K3，使开放模型之争进一步升温。Kimi K3 在部分基准测试中的表现已接近甚至媲美美国顶级闭源模型。</p><p>上周，美国白宫一名高级官员指责月之暗面利用 Anthropic 的 Fable AI 模型训练 Kimi K3，即采用所谓的“模型蒸馏（Distillation）”技术。美国财政部长斯科特 · 贝森特（Scott Bessent）随后表示，如果确认中国开源 AI 模型通过蒸馏技术使用美国模型训练，美国政府可能对相关模型实施制裁。</p><p>整体来看，中国在 AI 领域一直采取比美国更加开放的发展策略。与此同时，支持开放权重 AI 的理由也在不断增加。</p><p>上周，AI 平台 Hugging Face 表示，在应对 OpenAI 一个失控 AI Agent 发起的网络攻击时，公司使用了中国智谱 <span class="link-text-start-with-http">Z.ai</span> 的开源模型进行防御。Hugging Face 称，由于闭源模型存在使用限制，当时无法采用相关产品完成应对。</p><p>本周一，英伟达进一步宣布成立“开放安全 AI 联盟”（Open Secure AI Alliance），旨在推动开放 AI 模型在网络安全领域的应用，微软、SpaceX 等多家科技公司均已加入这一联盟。</p>]]></description>
+    <pubDate>Mon, 27 Jul 2026 15:18:05 -0000</pubDate>
+    <guid isPermaLink="true">https://www.ithome.com/0/982/260.htm</guid>
+    <source url="https://www.ithome.com/0/982/260.htm">IT之家</source>
+  </item>
+  <item>
+    <title>[IT之家] 月之暗面开源 Kimi K3 模型，2.8 万亿参数</title>
+    <link>https://www.ithome.com/0/982/259.htm</link>
+    <description><![CDATA[<p>IT之家 7 月 27 日消息，月之暗面官方今晚正式开源 Kimi K3 模型。官方发布了 Kimi K3 的模型权重、技术报告，并开源支撑 Kimi K3 模型训练的关键 Infra 技术：MoonEP、FlashKDA 和 AgentEnv。</p><p>Kimi K3 是一个 <strong>2.8 万亿参数模型</strong>，基于 KDA 混合线性注意力机制（Kimi Delta Attention）和注意力残差（Attention Residuals）技术构建，原生支持视觉理解，并拥有 <strong>100 万 token 上下文窗口</strong>。</p><p>官方表示，Kimi K3 是首个达到 2.8 万亿参数规模的开源模型，在过去 12 个月中的 9 个月里，Kimi 模型都保持着开源模型的规模上限。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/7/5f025ab0-40cf-4924-88b2-f467ce68a7bb.png?x-bce-process=image/format,f_auto" /></p><p>Kimi 还进一步扩大了 Mixture of Experts（MoE）的稀疏度：结合 Stable LatentMoE 框架后，模型可以在 896 个专家中高效激活 16 个。再加上训练方法和数据配方的优化，这些结构性改进让 Kimi K3 相比 K2 的整体扩展效率提升约 2.5 倍，能更有效地把算力转化为能力。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/7/930133dc-c9a2-42e0-bc3b-1ffb651a51d9.png?x-bce-process=image/format,f_auto" /></p><p>据介绍，Kimi K3 具备很强的长程编码能力。在极少人工监督的情况下，它可以持续完成长时间工程任务，理解和处理大型代码库，并协调使用终端工具；Kimi K3 也擅长结合软件工程与视觉推理的任务。它能够利用截图和视觉反馈，优化游戏开发、前端和 CAD 等场景。</p><p>官方此前表示，虽然 Kimi K3 的整体表现仍落后于最强的闭源模型 Claude Fable 5 和 GPT-5.6 Sol，但在整套评测中展现出前沿水平的能力，并稳定超过了其他所有模型。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/7/46f8aa1b-b1dd-4bf7-abb6-5b2c1981ecb0.png?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/7/c0db959c-dc3a-43f4-9f69-12d5fac45615.png?x-bce-process=image/format,f_auto" /></p><p>官方还公布了支撑 Kimi K3 训练的三项 Infra 技术：MoonEP、FlashKDA 和 AgentEnv，覆盖从高性能通信、高性能算子到分布式 RL 环境的关键链路。其中 FlashKDA 此前已开源，MoonEP 和 AgentEnv 则随本次发布正式开源。</p><p>IT之家附开源链接：</p><ul class=" list-paddingleft-2"><li><p>Hugging Face：<a href="https://huggingface.co/moonshotai/Kimi-K3" target="_blank"><span class="link-text-start-with-http">https://huggingface.co/moonshotai/Kimi-K3</span></a></p></li><li><p>GitHub：<a href="https://github.com/MoonshotAI/Kimi-K3"><span class="link-text-start-with-http">https://github.com/MoonshotAI/Kimi-K3</span></a></p></li></ul>]]></description>
+    <pubDate>Mon, 27 Jul 2026 15:14:48 -0000</pubDate>
+    <guid isPermaLink="true">https://www.ithome.com/0/982/259.htm</guid>
+    <source url="https://www.ithome.com/0/982/259.htm">IT之家</source>
+  </item>
+  <item>
+    <title>[Hacker News] Minecraft Java raises recommended memory to 16GB ahead of Vulkan transition</title>
+    <link>https://videocardz.com/newz/minecraft-java-edition-raises-recommended-memory-to-16gb-ahead-of-vulkan-transition</link>
+    <description><![CDATA[<a href="https://news.ycombinator.com/item?id=49070820">Comments</a>]]></description>
+    <pubDate>Mon, 27 Jul 2026 15:11:51 -0000</pubDate>
+    <guid isPermaLink="true">https://videocardz.com/newz/minecraft-java-edition-raises-recommended-memory-to-16gb-ahead-of-vulkan-transition</guid>
+    <source url="https://videocardz.com/newz/minecraft-java-edition-raises-recommended-memory-to-16gb-ahead-of-vulkan-transition">Hacker News</source>
+  </item>
+  <item>
+    <title>[cnBeta.COM.TW RSS订阅] 长鑫存储获配首批国产DUV光刻机 全力推进3D DRAM业务</title>
+    <link>https://www.cnbeta.com.tw/articles/tech/1570512.htm</link>
+    <description><![CDATA[<p>在完成备受瞩目的3万亿人民币级别的首次公开募股（IPO）并引发资本市场狂热之后，中国半导体龙头企业长鑫存储（CXMT）再次迎来重大利好。据最新消息，长鑫存储已成功列入首批国产深紫外（DUV）光刻机的交付名单，预计将于今年8月起接收设备，此举将极大提振其下一代芯片的技术布局。</p> <a href="https://www.cnbeta.com.tw/articles/tech/1570512.htm" target="_blank"><strong>阅读全文</strong></a>]]></description>
+    <pubDate>Mon, 27 Jul 2026 15:04:27 -0000</pubDate>
+    <guid isPermaLink="true">https://www.cnbeta.com.tw/articles/tech/1570512.htm</guid>
+    <source url="https://www.cnbeta.com.tw/articles/tech/1570512.htm">cnBeta.COM.TW RSS订阅</source>
+  </item>
+  <item>
+    <title>[V2EX] [分享创造] PDF 语音朗读工具</title>
+    <link>https://www.v2ex.com/t/1230254#reply1</link>
+    <description><![CDATA[<h2>PDF 语音朗读工具</h2>
+<blockquote>
+<p>🌐 <strong>在线工具入口:</strong></p>
+<ul>
+<li><strong>中文版</strong>：<a href="https://it365.janqi.com/read-pdf-aloud-online-free/zh/" rel="nofollow">PDF 语音朗读 - 免费工具</a></li>
+<li><strong>English Version</strong>: <a href="https://it365.janqi.com/read-pdf-aloud-online-free/en/" rel="nofollow">Read PDF Aloud Online Free - PDF Speech Reader Tool</a></li>
+</ul>
+</blockquote>
+<hr />
+<h3>程序简介</h3>
+<p><a href="https://it365.janqi.com/read-pdf-aloud-online-free/zh/" rel="nofollow">PDF 语音朗读工具 (中文版)</a> 是完全免费、无需安装的网页端 PDF 朗读与阅读辅助工具。它可以将 PDF 文档转换为清晰自然的语音，提供自动同步滚动翻页、语速语调调节、多语音角色选择等功能，帮助用户轻松听书、审阅文档或进行语言学习。</p>
+<h3>功能列表与特色</h3>
+<ul>
+<li>🎯 <strong>智能文本顺序校正</strong>：内置优化排版解析算法，彻底解决传统 PDF 提取文本时经常出现的单双栏错位、排版混乱等问题，保证朗读顺序流畅准确、绝错乱。</li>
+<li>🔊 <strong>丰富自然的声音角色</strong>：支持系统内置的多种优质发音人（男声、女声）以及多语言声音支持。</li>
+<li>⚡ <strong>灵活的播放控制</strong>：支持自由调节朗读语速（ 0.5x ~ 2.0x ）与语调，可随时暂停、恢复或试听效果。</li>
+<li>📖 <strong>自动滚动与实时高亮</strong>：语音朗读时页面自动跟随滚动并高亮显示当前朗读内容，视觉与听觉同步。</li>
+<li>🔒 <strong>纯前端处理·安全隐私</strong>：所有文件解析与语音合成均在浏览器本地完成，文档绝不上传服务器，全面保障数据隐私。</li>
+<li>📱 <strong>全平台兼容</strong>：适配 Windows 、Mac 、iPhone/iOS 、Android 等各类设备的桌面与移动端浏览器，开箱即用。</li>
+</ul>
+<h3>使用说明（三步极简）</h3>
+<ol>
+<li><strong>打开工具</strong>：访问在线网页 <a href="https://it365.janqi.com/read-pdf-aloud-online-free/zh/" rel="nofollow">PDF 语音朗读工具 (zh)</a>。</li>
+<li><strong>导入 PDF 文档</strong>：点击“选择文件”或直接拖拽 PDF 文档到页面中。</li>
+<li><strong>设置与朗读</strong>：选择偏好的声音角色和语速，点击“播放/开始朗读”，系统将自动纠正排版顺序并顺畅朗读。</li>
+</ol>]]></description>
+    <pubDate>Mon, 27 Jul 2026 15:00:12 -0000</pubDate>
+    <guid isPermaLink="true">https://www.v2ex.com/t/1230254#reply1</guid>
+    <source url="https://www.v2ex.com/t/1230254#reply1">V2EX</source>
+  </item>
+  <item>
+    <title>[V2EX] [程序员] 又来请教大家技术问题了</title>
+    <link>https://www.v2ex.com/t/1230253#reply0</link>
+    <description><![CDATA[<p>小弟用 flutter 做了一个应用，目前准备上架苹果商店（之前一次都没发布过）
+已经在 app store connect 配置了订阅商品，目前是“可供审核”状态
+付费协议等什么的都配置好了
+但是在应用里请求苹果总是找不到商品 id ，在 iphone 开发者模式的沙盒账号中发起交易
+也提示“无法完成交易，提供的产品 ID 或者套装 ID 无效”
+有大佬知道怎么办吗，让 codex 自己调试半天还去 app store connect 操作半天也没找到问题</p>]]></description>
+    <pubDate>Mon, 27 Jul 2026 14:58:22 -0000</pubDate>
+    <guid isPermaLink="true">https://www.v2ex.com/t/1230253#reply0</guid>
+    <source url="https://www.v2ex.com/t/1230253#reply0">V2EX</source>
+  </item>
+  <item>
+    <title>[V2EX] [宽带症候群] 多宽带求推荐路由器或者方案</title>
+    <link>https://www.v2ex.com/t/1230252#reply1</link>
+    <description><![CDATA[<p>1 条联通 300M 、1 条联通 500M （其实是两个账号，共用一个 2.5G 猫棒）汇聚后测速有 1200Mbps 左右
+1 条移动 500M （后期可能升级 1000M ）</p>
+<p>其中，联通是公私网混用的（也就是可以多次拨号获得公网 ip ），联通的公网 ip 是我在外面主要的访问入口（ NAS 等资源）</p>
+<p>目前是接入到服务器中的 ikuai 虚拟机使用，ikuai 有拨号异常 ip 筛选这个功能挺好的，可以直接帮我获取联通的公网 ip 。但是爱快免费版只能一条 v6 ，且其他功能有受限。</p>
+<p>现想将路由功能从服务器中剥离出来独立运行，但是转了一圈都没发现有很合适的路由器，因此求各位 V 友推荐一下。</p>
+<p>1 、要实现拨号异常 ip 筛选功能。（即联通拨号直到公网 ip 为止）</p>
+<p>2 、分流。（移动有电视资源，分流走移动线路可以任意设备播放）</p>]]></description>
+    <pubDate>Mon, 27 Jul 2026 14:53:22 -0000</pubDate>
+    <guid isPermaLink="true">https://www.v2ex.com/t/1230252#reply1</guid>
+    <source url="https://www.v2ex.com/t/1230252#reply1">V2EX</source>
+  </item>
+  <item>
+    <title>[V2EX] [分享创造] Agent 是协作对象，而不只是工具，面向未来的协作基建</title>
+    <link>https://www.v2ex.com/t/1230250#reply0</link>
+    <description><![CDATA[<h1>介绍</h1>
+<p>你们现在的团队协作是不是这样：</p>
+<p>老板跟他的 codex 聊，想到一个想法，然后告诉产品经理，产品经理把老板的想法传达给他的 agent ，让他的 agent 去输出产品文档，然后再把文档给到开发，开发再变身传声筒，把产品给文档丢给他的 agent ，然后继续传下去。</p>
+<p>这一切是可以运作，但总觉得哪里不对。</p>
+<p>搞完一次后，再搞一次，再搞一次，每次都同步一次上下文，每次都当一次传声筒。直到有一天我们开始承认了，确实可以让 agent 自己独立的去干活了，而不是让他只是做待在我们电脑的工具。我们开始意识到可以我们只在需要的时候去帮助他不要走错，帮助他形成对公司对团队对项目的上下文和对流程正确理解。其他时候我们不用当传声筒，他也能开始去干活。</p>
+<p>而 Multigent 做的正是这件事。</p>
+<p>Github: <a href="https://github.com/multigent/multigent" rel="nofollow">https://github.com/multigent/multigent</a> （求 star ）</p>
+<p>官网： <a href="https://multigent.dev/" rel="nofollow">https://multigent.dev/</a></p>
+<p>他不是一个 Agent Team 框架，他不是一个类似 multica 的任务看板，他是一个帮团队的每个人从传声筒解放出来的，让 agent 可以自主唤醒，自主工作，同时按照我们的流程 spec 去行动的框架。</p>
+<ul>
+<li>支持在线部署，多 agent 运行</li>
+<li>开箱即带的 rbac ，多用户与多 agent 角色权限控制</li>
+<li>agent 自主唤醒，自主接活</li>
+<li>任务与消息支持，agent 与 human 之间信息自由传递</li>
+<li>spec 流程驱动（ sdd ），agent 在流程内干活</li>
+<li>成本统计，运行记录可视化</li>
+<li>沙箱运行，自带 agent 安全执行环境</li>
+<li>内置多种世界优秀团队的流程经验，可以直接复用</li>
+</ul>
+<h1>一些截图</h1>
+<p><img alt="1" class="embedded_image" rel="noreferrer" src="https://raw.githubusercontent.com/multigent/multigent/main/docs/assets/screenshots/task_panel_light.png" /></p>
+<p><img alt="1" class="embedded_image" rel="noreferrer" src="https://raw.githubusercontent.com/multigent/multigent/main/docs/assets/screenshots/workflow_light.png" /></p>
+<p><img alt="1" class="embedded_image" rel="noreferrer" src="https://raw.githubusercontent.com/multigent/multigent/main/docs/assets/screenshots/project_members.png" /></p>
+<p><img alt="1" class="embedded_image" rel="noreferrer" src="https://raw.githubusercontent.com/multigent/multigent/main/docs/assets/screenshots/task_detail_light.png" /></p>
+<h1>交流</h1>
+<p>感兴趣的可以加群交流呀。期待你的反馈和意见！</p>
+<p><img alt="1" class="embedded_image" rel="noreferrer" src="https://picui.ogmua.cn/s1/2026/07/26/6a660f4368dab.webp" /></p>]]></description>
+    <pubDate>Mon, 27 Jul 2026 14:49:38 -0000</pubDate>
+    <guid isPermaLink="true">https://www.v2ex.com/t/1230250#reply0</guid>
+    <source url="https://www.v2ex.com/t/1230250#reply0">V2EX</source>
+  </item>
+  <item>
+    <title>[V2EX] [MacBook Pro] 南宁出 M5 Pro Macbook Pro</title>
+    <link>https://www.v2ex.com/t/1230249#reply2</link>
+    <description><![CDATA[苹果 MacBook Pro 14 英寸 M5 Pro 芯片银色，全新未拆封未激活，南宁面交。]]></description>
+    <pubDate>Mon, 27 Jul 2026 14:48:51 -0000</pubDate>
+    <guid isPermaLink="true">https://www.v2ex.com/t/1230249#reply2</guid>
+    <source url="https://www.v2ex.com/t/1230249#reply2">V2EX</source>
+  </item>
+  <item>
+    <title>[V2EX] [问与答] github 新账户无 action， codespaces，你们遇到过吗？</title>
+    <link>https://www.v2ex.com/t/1230248#reply3</link>
+    <description><![CDATA[提示错误：Create error<br />Codespace could not be created: Usage not allowed<br /><br /><br />Unable to enable Actions for this repository.]]></description>
+    <pubDate>Mon, 27 Jul 2026 14:48:02 -0000</pubDate>
+    <guid isPermaLink="true">https://www.v2ex.com/t/1230248#reply3</guid>
+    <source url="https://www.v2ex.com/t/1230248#reply3">V2EX</source>
+  </item>
+  <item>
+    <title>[V2EX] [人工智能] ai 写代码实现不了 vue 的 canvas 导出为 visio 格式文件</title>
+    <link>https://www.v2ex.com/t/1230247#reply0</link>
+    <description><![CDATA[用 trae 、workbuddy 、换了 gpt 模型也不行，导出的文件完全在 visio 打不开，格式都不对。这玩意看起来只能在 web 用用，稍微不能反馈详细报错的软件就会卡住。]]></description>
+    <pubDate>Mon, 27 Jul 2026 14:41:20 -0000</pubDate>
+    <guid isPermaLink="true">https://www.v2ex.com/t/1230247#reply0</guid>
+    <source url="https://www.v2ex.com/t/1230247#reply0">V2EX</source>
+  </item>
+  <item>
+    <title>[IT之家] “中国天眼”FAST 望远镜已找到 1284 颗脉冲星，远超同时期国际其他望远镜总和</title>
+    <link>https://www.ithome.com/0/982/258.htm</link>
+    <description><![CDATA[<p>IT之家 7 月 27 日消息，据央视新闻今日报道，近期，坐落在贵州南部大山深处的中国天眼 FAST 望远镜顺利完成了六根巨型国产钢丝绳的更换工作，开启了新一轮的观测。</p><p>鲜为人知的是，在 FAST 望远镜落成启用之前，我国射电天文研究长期面临困境，国内没有自主可控的观测设备。天文学家们只能长期依赖国外公开的数据开展研究，极大限制了我国在该领域前沿探索的主动权。</p><p>报道提到，经过我国科研团队不懈奋斗，2016 年 FAST 落成启用，截至目前，<strong>该望远镜已经成功找到 1284 颗脉冲星</strong>，远超同时期国际上所有其他望远镜发现数量的总和，为人类探索宇宙演化、解析极端天体物理规律提供了海量核心原始数据。我国射电天文研究彻底实现从“依赖国外数据”到“自主产出核心数据”的根本性转变。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/7/5015c355-d342-4a39-bfd3-6d313cdcae65.png?x-bce-process=image/format,f_auto" /></p><p>IT之家注意到，“中国天眼”500 米口径球面射电望远镜 FAST 利用贵州喀斯特地区的洼坑作为望远镜台址建造，由我国天文学家南仁东于 1994 年提出构想，历时 22 年建成，于 2016 年 9 月 25 日落成启用，是目前世界上口径最大，灵敏度最高的单口径射电望远镜，拥有 30 个标准足球场大的接收面积。</p><p>2026 年是“中国天眼”正式建成<strong>运行第十年</strong>。过去十年间，FAST 已发现超过 1200 颗脉冲星，为射电天文学发展提供了重要技术支撑。</p>]]></description>
+    <pubDate>Mon, 27 Jul 2026 14:39:50 -0000</pubDate>
+    <guid isPermaLink="true">https://www.ithome.com/0/982/258.htm</guid>
+    <source url="https://www.ithome.com/0/982/258.htm">IT之家</source>
+  </item>
+  <item>
+    <title>[IT之家] 限 1 小时：绿联 45W 伸缩线 3 口充电器头 109 → 55 元，45W 屏显充电宝 6 折</title>
+    <link>https://www.ithome.com/0/982/257.htm</link>
+    <description><![CDATA[<p>绿联今日开启京东超级品类日活动，45W 氮化镓猫猫充电器、伸缩线套装立打半价，<strong>限量 800 件</strong>，活动今晚 24 点结束。</p><p>伸缩线 3 口充电器头：<strong>45W 三口折后 55 元</strong>（原价 109 元）、65W 三口 + 充电线<strong>套餐 76 元</strong>（需加入店铺会员）、100W 四口 123 元（需加入店铺会员）。</p><dir><a contenteditable="false" href="https://uland.taobao.com/coupon/edetail?e=paqQvvaRuA%2BlhHvvyUNXZfh8CuWt5YH5OVuOuRD5gLJMmdsrkidbOWBzzpT26idJ8I2lUjKp9plURUny7rtEOvhW26LI7%2BL2SsrYEzKHWQloMuroHZBjoYYwH8rhIhvY2mwCY5fS7rVrTdT7cgXf6jgYSYpxmYtMsb%2Bvi71p7YhlXymvoVZzQzcAYcjxYIrd2NitKMqd%2B4qYwek19h0d0NQV3tBpdKHodxJgRmH6PTUPrRT%2FGlevSUzgKIk6XTsliqP6wveQFBWrBNRUyvxLOHQ2WsIqVNDNvJ0qkMQKpUg8Ebp3NGdWfc927Inv%2BDqk5X4fwDJYvgdlBRYM90QVRw%3D%3D&amp;traceId=2150466517851642186157483e0c10&amp;&amp;union_lens=lensId:TAPI@1785164218@21666f14_145b_19fa4144159_e329@01" target="_blank"><span class="card main-site"><span class="card-logo"><img src="https://img.alicdn.com/bao/uploaded/O1CN01kQ4uZM23XstVPjQ0T_!!6000000007266-0-yinhe.jpg" /></span><span class="card-info"><span class="card-title"><span class="mall-data">天猫</span><span class="card-name">绿联 伸缩线 3 口充电器头</span></span><span class="card-abstract"> 45~100W /套装可选</span><span class="card-controls"><span class="price">折后 55 元起</span><span class="card-btn-deep">直达链接</span></span></span></span></a></dir><dir><a contenteditable="false" href="https://u.jd.com/96ovllK" target="_blank"><span class="card main-site"><span class="card-logo"><img src="https://img14.360buyimg.com/pop/jfs/t1/427839/9/16690/20047/6a0583ffF32b35e1a/008332032014aa20.png" /></span><span class="card-info"><span class="card-title"><span class="mall-data">京东</span><span class="card-name">绿联 45W 屏显充电宝</span></span><span class="card-abstract"> 10000 毫安 可传照片</span><span class="card-controls"><span class="price"> 6 折 118.6 元</span><span class="card-btn-deep">直达链接</span></span></span></span></a></dir><dir><a contenteditable="false" href="https://u.jd.com/9goGkjU" target="_blank"><span class="card main-site"><span class="card-logo"><img src="https://img14.360buyimg.com/pop/jfs/t1/430227/6/16401/51475/6a03e9dfFe8f854d2/0083320320cd4260.png" /></span><span class="card-info"><span class="card-title"><span class="mall-data">京东</span><span class="card-name">绿联 55W 自带线充电宝</span></span><span class="card-abstract"> 20000 毫安 符合新国标设计</span><span class="card-controls"><span class="price"> 6 折 149.6 元</span><span class="card-btn-deep">直达链接</span></span></span></span></a></dir><dir><a contenteditable="false" href="https://u.jd.com/96oGdUm" target="_blank"><span class="card main-site"><span class="card-logo"><img src="https://img14.360buyimg.com/pop/jfs/t1/435264/8/18754/24514/6a0e7b9cFed5a49fb/0083320320468c47.jpg" /></span><span class="card-info"><span class="card-title"><span class="mall-data">京东</span><span class="card-name">绿联 氮化镓猫猫充电器</span></span><span class="card-abstract"> 45W 单头</span><span class="card-controls"><span class="price">半价 49.61 元</span><span class="card-btn-deep">直达链接</span></span></span></span></a></dir><dir><a contenteditable="false" href="https://u.jd.com/9DoPPHt" target="_blank"><span class="card main-site"><span class="card-logo"><img src="https://img14.360buyimg.com/pop/jfs/t1/431970/2/11662/43734/6a044a0aF73c64e89/008332032072abf0.png" /></span><span class="card-info"><span class="card-title"><span class="mall-data">京东</span><span class="card-name">绿联 猫猫伸缩线</span></span><span class="card-abstract">支持 100W 快充</span><span class="card-controls"><span class="price">半价 44.6 元</span><span class="card-btn-deep">直达链接</span></span></span></span></a></dir><dir><a contenteditable="false" href="https://u.jd.com/9rogXv6" target="_blank"><span class="card main-site"><span class="card-logo"><img src="https://img14.360buyimg.com/pop/jfs/t1/455184/36/2029/90835/6a278d62Fbdb7b759/0083320320484939.png" /></span><span class="card-info"><span class="card-title"><span class="mall-data">京东</span><span class="card-name">绿联 氮化镓猫猫充电套装</span></span><span class="card-abstract">含 100W 伸缩线</span><span class="card-controls"><span class="price">半价 93.6 元</span><span class="card-btn-deep">直达链接</span></span></span></span></a></dir><dir><a contenteditable="false" href="https://u.jd.com/9GoSkqJ" target="_blank"><span class="card main-site"><span class="card-logo"><img src="https://img14.360buyimg.com/pop/jfs/t1/431534/36/15111/275501/6a044997F914c6c46/0083320320d61f7a.png" /></span><span class="card-info"><span class="card-title"><span class="mall-data">京东</span><span class="card-name">绿联 便携挂绳数据线</span></span><span class="card-abstract"> 100W 快充 双头 Type-C</span><span class="card-controls"><span class="price"> 半价 19.6 元</span><span class="card-btn-deep">直达链接</span></span></span></span></a></dir><dir><a contenteditable="false" href="https://u.jd.com/9goD1vw" target="_blank"><span class="card main-site"><span class="card-logo"><img src="https://img14.360buyimg.com/pop/jfs/t1/432880/23/12513/51970/6a057b5fF0b523c9c/00833203203e1803.png" /></span><span class="card-info"><span class="card-title"><span class="mall-data">京东</span><span class="card-name">绿联 45W 自带线充电宝</span></span><span class="card-abstract"> 10000 毫安 新国标设计</span><span class="card-controls"><span class="price"> 6 折 119.6 元</span><span class="card-btn-deep">直达链接</span></span></span></span></a></dir><p style="text-align: left;">猫猫充电头多多日常 85 元左右，闲鱼大多 65 元左右。</p><p style="text-align: left;">液态硅胶材质，搭载绿联自研 Thermal Guard™温控算法，全天 800 万次温度检测，防过温，呵护电池健康。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/7/a36f6f75-ef44-4268-ac08-153529b76813.png" /><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/7/c3ff5f63-c362-4d85-b4a1-8a26f24a94b1.png" /></p>]]></description>
+    <pubDate>Mon, 27 Jul 2026 14:36:57 -0000</pubDate>
+    <guid isPermaLink="true">https://www.ithome.com/0/982/257.htm</guid>
+    <source url="https://www.ithome.com/0/982/257.htm">IT之家</source>
   </item>
   <item>
     <title>[V2EX] [分享创造] BGM Box — 在浏览器里把 MP3 转成 BRSTM，支持循环点编辑的 Nintendo 游戏音频工具</title>
@@ -73,68 +665,12 @@
     <source url="https://www.ithome.com/0/982/254.htm">IT之家</source>
   </item>
   <item>
-    <title>[原创频道&gt;&gt;什么值得买] 苹果肌垮了怎么办？4套抗初老方案实测</title>
-    <link>https://post.smzdm.com/p/am9m9l04/</link>
-    <description><![CDATA[桃桃阿姨最近照镜子总觉得脸怪怪的，说不上哪里垮了，但就是没以前饱满。后来才发现，是苹果肌开始往下掉了，笑起来那块肉肉不再往上走，反而有点垂坠感。相信很多姐妹跟我一样，二十多岁就开始面临这个问题。英敏特发布的《2026中国美容个护成分趋势榜单》提到，25-30岁人群中，超过62%的女性最先感受到的衰老信号就是面部容量流失，具体表现为苹果肌扁平、法令纹加深。报告还指出，胜肽类成分和植物A醇是今年抗初老赛道增长<p>本文来自<a href="https://post.smzdm.com/p/am9m9l04/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
-    <pubDate>Mon, 27 Jul 2026 14:31:34 -0000</pubDate>
-    <guid isPermaLink="true">https://post.smzdm.com/p/am9m9l04/</guid>
-    <source url="https://post.smzdm.com/p/am9m9l04/">原创频道&gt;&gt;什么值得买</source>
-  </item>
-  <item>
-    <title>[原创频道&gt;&gt;什么值得买] CC直播停运，网易不再相信直播能为游戏“带货”</title>
-    <link>https://post.smzdm.com/p/agg84ne6/</link>
-    <description><![CDATA[三易生活又一家曾经在“千播大战”时有过高光的游戏直播平台，选择退出历史舞台。6月30日网易方面宣布，由于产品开发运营策略调整，CC直播将于2026年8月31日终止运营。即日起，CC直播的全平台下载入口将关闭，同时停止充值、新用户注册及新主播/新公会入驻。尽管日前斗鱼时隔七年重启“斗鱼嘉年华”，让玩家们恍然间有一种重回多年前美好盛夏的错觉，但网易CC停运将大家又打回了冰冷的现实。就连背靠网易的CC直播都选择<p>本文来自<a href="https://post.smzdm.com/p/agg84ne6/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
-    <pubDate>Mon, 27 Jul 2026 14:31:17 -0000</pubDate>
-    <guid isPermaLink="true">https://post.smzdm.com/p/agg84ne6/</guid>
-    <source url="https://post.smzdm.com/p/agg84ne6/">原创频道&gt;&gt;什么值得买</source>
-  </item>
-  <item>
-    <title>[原创频道&gt;&gt;什么值得买] 眼霜哪个牌子去眼袋效果好？轻度眼袋，4款眼霜紧致收紧眼周皮肤</title>
-    <link>https://post.smzdm.com/p/az858deo/</link>
-    <description><![CDATA[一心只读书我每天早上起床第一件事不是喝水也不是上厕所，是先跑到镜子前看看眼袋有没有比昨天更肿。真的，眼皮底下那两坨肉一鼓起来，看着就像头天晚上哭过一场或者通宵没睡，化妆的时候用遮瑕盖来盖去都压不平，侧面光照过来一片阴影，拍照修图都得花好几分钟推那块。茶包敷过冰勺子也用过，都是刚弄完那会儿还行，过一两个小时又原形毕露了。也买过一些紧致眼霜眼膜，有的涂上辣得想洗掉，有的厚到推不动像在糊墙。后来朋友把她那瓶CA眼<p>本文来自<a href="https://post.smzdm.com/p/az858deo/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
-    <pubDate>Mon, 27 Jul 2026 14:31:14 -0000</pubDate>
-    <guid isPermaLink="true">https://post.smzdm.com/p/az858deo/</guid>
-    <source url="https://post.smzdm.com/p/az858deo/">原创频道&gt;&gt;什么值得买</source>
-  </item>
-  <item>
-    <title>[原创频道&gt;&gt;什么值得买] 夏天空调怎么开更高效？带你了解空调使用的常见谬误</title>
-    <link>https://post.smzdm.com/p/a6zlzvoo/</link>
-    <description><![CDATA[天极网每年夏天，空调都是家庭刚需。国家气候中心预计，2026年6至8月全国大部地区气温接近常年同期到偏高，华北、华东、华中、华南等地有阶段性高温热浪;国家疾控局与中国气象局7月发布的高温健康风险提示，也建议公众保持室内凉爽、使用降温设备调节环境温度。高温叠加高湿，人体散热效率会下降，闷、黏、乏的感受更为明显。此时，合理调节室内温湿度，不只是追求“凉快”，也是缓和高温不适的重要一环。空调怎么开，首先要找准<p>本文来自<a href="https://post.smzdm.com/p/a6zlzvoo/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
-    <pubDate>Mon, 27 Jul 2026 14:31:12 -0000</pubDate>
-    <guid isPermaLink="true">https://post.smzdm.com/p/a6zlzvoo/</guid>
-    <source url="https://post.smzdm.com/p/a6zlzvoo/">原创频道&gt;&gt;什么值得买</source>
-  </item>
-  <item>
-    <title>[原创频道&gt;&gt;什么值得买] 二手鱼塘惊现朋克机器人时钟！63元彩屏木壳带WiFi，不捡绝对后悔</title>
-    <link>https://post.smzdm.com/p/a7080ex5/</link>
-    <description><![CDATA[数码海棠有一说一，最近看到不少桌面摆件都是小黄鱼的价格要比PDD贵一些，今天发现个桌面小摆件，然后我去PDD搜索了一下，沃德发？竟然是二手鱼塘的价格更有优势了！不过，也得说一下袄，二手鱼塘的是二手，PDD的是一手，价格差个5-10元左右。二手鱼塘店家的描述其实挺简单的，就是智能天气预报时钟摆件，朋克机器人造型，彩屏电子时钟，支持WiFi联网，自动更新天气、时间、温度啥的，写的很简单，然后我去找了一下它的具<p>本文来自<a href="https://post.smzdm.com/p/a7080ex5/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
-    <pubDate>Mon, 27 Jul 2026 14:28:32 -0000</pubDate>
-    <guid isPermaLink="true">https://post.smzdm.com/p/a7080ex5/</guid>
-    <source url="https://post.smzdm.com/p/a7080ex5/">原创频道&gt;&gt;什么值得买</source>
-  </item>
-  <item>
     <title>[IT之家] 微软证实 Xbox 出现服务故障，正积极开展修复工作</title>
     <link>https://www.ithome.com/0/982/252.htm</link>
     <description><![CDATA[<p>IT之家 7 月 27 日消息，微软 Xbox 目前正遭遇一次大规模服务故障，影响范围包括账号和个人资料登录、微软商店游戏页面浏览以及游戏启动等多项功能。</p><p>微软今天在社交媒体上确认了这一问题，并表示相关团队正在全力修复。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/7/d3892697-9bbf-40fe-a5bf-ae7f96c179ac.png?x-bce-process=image/format,f_auto" /></p><p>微软称：“关于游戏库、账号登录和游戏启动问题，我们来更新一下进展。我们知道这一问题已经持续了一段时间，感谢大家的耐心等待，我们的团队仍在持续处理。”</p><p>微软显然希望尽快解决此次故障，因为《光环：战斗进化》将在 7 月 28 日正式发售。此前，购买高级版（Premium Edition）的玩家已经提前体验了三天。</p><p>值得注意的是，此次 Xbox 服务中断距离索尼 PlayStation Network（PSN）发生类似故障还不到一周。</p><p>对于索尼来说，当时的时机尤其尴尬。公司正因宣布自 2028 年起停止推出新款 PlayStation 游戏实体光盘而遭到玩家强烈批评。不少玩家认为，由于在线服务宕机，自己购买的部分游戏无法正常游玩，这进一步证明全面数字化并非理想选择。目前，已有玩家计划于下个月发起为期一周的 PlayStation 抵制活动，以表达不满。</p><p>虽然微软目前尚未宣布停止生产 Xbox 游戏实体光盘，但据报道，下一代 Xbox 主机预计将取消光驱设计，这意味着微软的游戏业务未来也可能朝着全面数字化方向发展。</p><p>微软 Xbox 官方支持页面目前还提醒用户：“您现在可能会遇到无法游玩光盘版游戏的问题。”</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/7/21097098-681d-417f-9118-ecf3517bc343.jpg?x-bce-process=image/format,f_auto" /></p><p>截至IT之家发稿，Xbox 官方支持页面仍将此次故障的解决状态标记为“待处理（Pending）”。微软尚未公布修复完成时间，预计后续还将发布进一步更新。</p>]]></description>
     <pubDate>Mon, 27 Jul 2026 14:27:33 -0000</pubDate>
     <guid isPermaLink="true">https://www.ithome.com/0/982/252.htm</guid>
     <source url="https://www.ithome.com/0/982/252.htm">IT之家</source>
-  </item>
-  <item>
-    <title>[原创频道&gt;&gt;什么值得买] ROG电竞显示器助阵《古剑》试玩会，为玩家呈献视听盛宴</title>
-    <link>https://post.smzdm.com/p/a8232q60/</link>
-    <description><![CDATA[新品情报近日，备受瞩目的国产虚幻5动作角色扮演游戏《古剑》首次线下试玩会在上海美术馆圆满收官。作为本次盛会的硬件合作伙伴，ROG玩家国度倾力赞助，并在现场为玩家配备了ROG超神27、ROG超神32三代以及ROG绝神27三款旗舰级电竞显示器。凭借细腻的画质与丝滑的帧率表现，ROG电竞显示器完美呈现了《古剑》的中式志怪美学，为玩家带来了一场震撼的视觉与操作盛宴，让现场玩家真切感受到无与伦比的沉浸式国风武侠游戏<p>本文来自<a href="https://post.smzdm.com/p/a8232q60/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
-    <pubDate>Mon, 27 Jul 2026 14:26:46 -0000</pubDate>
-    <guid isPermaLink="true">https://post.smzdm.com/p/a8232q60/</guid>
-    <source url="https://post.smzdm.com/p/a8232q60/">原创频道&gt;&gt;什么值得买</source>
-  </item>
-  <item>
-    <title>[原创频道&gt;&gt;什么值得买] 谁懂黑色长袖T的含金量！2026夏季新款真的太会了</title>
-    <link>https://post.smzdm.com/p/awwxwl3g/</link>
-    <description><![CDATA[雨天给你打雨伞彻底摆脱普通白T的路人感，这件V领修身长袖T恤把纯欲辣妹风拿捏得死死的恰到好处的深V剪裁，不暴露不低俗，精准露出精致锁骨，拉长颈部线条完美拯救圆脸、短脖子，素颜穿都自带氛围感滤镜修身不紧身的神仙版型，贴合身形但完全不勒肉利落长袖设计超懂女生，悄悄遮住手臂拜拜肉，显瘦效果直接拉满<p>本文来自<a href="https://post.smzdm.com/p/awwxwl3g/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
-    <pubDate>Mon, 27 Jul 2026 14:26:11 -0000</pubDate>
-    <guid isPermaLink="true">https://post.smzdm.com/p/awwxwl3g/</guid>
-    <source url="https://post.smzdm.com/p/awwxwl3g/">原创频道&gt;&gt;什么值得买</source>
   </item>
   <item>
     <title>[V2EX] [分享创造] 做了一个 macOS 菜单栏小工具： AI997，让 AI Agent 跑任务时 Mac 不锁屏</title>
@@ -170,68 +706,12 @@
     <source url="https://www.v2ex.com/t/1230244#reply0">V2EX</source>
   </item>
   <item>
-    <title>[原创频道&gt;&gt;什么值得买] 宅家看球，全靠这口冰啤酒和神仙调料包续命！</title>
-    <link>https://post.smzdm.com/p/apqzqel0/</link>
-    <description><![CDATA[飞驰的香蕉说句实话，作为一个朝九晚九的打工人，每天最期待的就是下班铃响的那一瞬间。 关上电脑，拖着疲惫的身体回到出租屋。把包往沙发上一扔，第一件事就是打开电视，调到体育频道。哪怕没有英超，哪怕是重播的经典老片，只要有了那个绿茵场的背景音，这间狭小的屋子才真正属于我。 当然，一个人的球局，如果没有硬核的下酒菜，那是没有灵魂的。 今天这顿宵夜，我觉得自己简直是个天才。为了不占用宝贵的看球时间，我又祭出了我的“懒<p>本文来自<a href="https://post.smzdm.com/p/apqzqel0/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
-    <pubDate>Mon, 27 Jul 2026 14:25:20 -0000</pubDate>
-    <guid isPermaLink="true">https://post.smzdm.com/p/apqzqel0/</guid>
-    <source url="https://post.smzdm.com/p/apqzqel0/">原创频道&gt;&gt;什么值得买</source>
-  </item>
-  <item>
-    <title>[原创频道&gt;&gt;什么值得买] 双AI大模型加持！漫步者FitFree Turbo，打工人随身翻译办公神器</title>
-    <link>https://post.smzdm.com/p/ae6k622q/</link>
-    <description><![CDATA[爱玩手机的陌上最近发现同事的耳机换成了挂耳式，聊天中得知她因为业务需求，需要长时间佩戴耳机，为了让耳朵更加轻松，能够兼顾聆听需求与环境感知的开放式挂耳耳机成了她的选择。抱着好奇的心态，我入手了漫步者FitFree Turbo，经过半个月使用，它也成了我耳朵上的挂饰。简约精致，轻量化设计直击痛点漫步者 FitFree Turbo这次共有三种配色，除了经典的银霜白、曜石黑两色还有一个非常清爽的雾屿蓝。银霜白的漫步者<p>本文来自<a href="https://post.smzdm.com/p/ae6k622q/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
-    <pubDate>Mon, 27 Jul 2026 14:25:13 -0000</pubDate>
-    <guid isPermaLink="true">https://post.smzdm.com/p/ae6k622q/</guid>
-    <source url="https://post.smzdm.com/p/ae6k622q/">原创频道&gt;&gt;什么值得买</source>
-  </item>
-  <item>
-    <title>[原创频道&gt;&gt;什么值得买] 雷军晒小米澎程实拍：车里能打台球，这空间是认真的吗</title>
-    <link>https://post.smzdm.com/p/a4qwq0lk/</link>
-    <description><![CDATA[mediomo小米澎程官方宣布，小米汽车技术发布会定档7月30日晚上7点。在本次小米澎程技术发布会上，小米澎程 N90、N70 两款 SUV 将会正式登场，从官方预热来看，本次正式登场的具体车型为： 小米澎程 N90 Max｜大七座旗舰增程 SUV 小米澎程 N70 Max｜大五座四驱增程 SUV从之前已经公示的信息来看，N70 Max 和 N90 Max 都是双电机四驱版，都是增程式车型，搭载一台 1.5T <p>本文来自<a href="https://post.smzdm.com/p/a4qwq0lk/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
-    <pubDate>Mon, 27 Jul 2026 14:25:12 -0000</pubDate>
-    <guid isPermaLink="true">https://post.smzdm.com/p/a4qwq0lk/</guid>
-    <source url="https://post.smzdm.com/p/a4qwq0lk/">原创频道&gt;&gt;什么值得买</source>
-  </item>
-  <item>
-    <title>[原创频道&gt;&gt;什么值得买] 设计师笔记本电脑推荐：从七千到两万级别价位，是否值得选择呢？</title>
-    <link>https://post.smzdm.com/p/ak8m8wzr/</link>
-    <description><![CDATA[海滨稻香很久没写过这个话题了，来盘点一下适合设计用的笔记本电脑，需要侧重性能和屏幕，适合要求高的朋友，当然，现在入手相当昂贵就是了。一，MacBook Pro首选可以考虑苹果本，如果有教育优惠的话，补贴后10749元，相对便宜一些，基础配置16GB内存，512GB固态硬盘。一线牌子高性能轻薄本也是这样价格了，后面会提到，M5芯片款感觉贵的话，其实可以找二手M4款的会便宜很多，日常用也不差。M5的主要是内存<p>本文来自<a href="https://post.smzdm.com/p/ak8m8wzr/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
-    <pubDate>Mon, 27 Jul 2026 14:25:03 -0000</pubDate>
-    <guid isPermaLink="true">https://post.smzdm.com/p/ak8m8wzr/</guid>
-    <source url="https://post.smzdm.com/p/ak8m8wzr/">原创频道&gt;&gt;什么值得买</source>
-  </item>
-  <item>
-    <title>[原创频道&gt;&gt;什么值得买] 吵翻天的小米 “古法路测”，到底是怎么测的？</title>
-    <link>https://post.smzdm.com/p/a3mgd927/</link>
-    <description><![CDATA[芯硬件最近关于小米 “古法造车”“古法路测” 的话题很热，网友讨论的积极度很高。我们之前的一篇文章 《小米 “古法造车” 刷屏，怎么就吵起来了？》后台收获了数百条评论，大家的热情是我们没想到的。从网友随手玩梗到小米高管下场跟风调侃，“古法路测” 的讨论热度还在持续发酵。有网友晒出新疆艾丁湖的高温测试实拍图打趣，这满车身尘土的伪装车一看就是 “古法” 出品，是不是AI生成的，路人一眼就能分辨。也有网友直接<p>本文来自<a href="https://post.smzdm.com/p/a3mgd927/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
-    <pubDate>Mon, 27 Jul 2026 14:24:11 -0000</pubDate>
-    <guid isPermaLink="true">https://post.smzdm.com/p/a3mgd927/</guid>
-    <source url="https://post.smzdm.com/p/a3mgd927/">原创频道&gt;&gt;什么值得买</source>
-  </item>
-  <item>
-    <title>[原创频道&gt;&gt;什么值得买] 京东七鲜超市山西首店开业，我们去现场看了看</title>
-    <link>https://post.smzdm.com/p/avg7w4qn/</link>
-    <description><![CDATA[Foodaily每日食品作者：陈新生  来源：新零售（ID：ixinlingshou）封面图来源：新零售  生鲜零售的竞争，已从时效、价格内卷，转向品质透明、商品差异化、体验场景化的深度比拼。在夯实华东、华南、华北核心城市布局后，京东七鲜超市持续推进全国布局。7月10日，京东七鲜超市山西首店在太原公元时代城购物中心B1层正式开业，门店原址为美特好超市，是京东七鲜“1+N”（1个中心体验店+N个卫星小店）业态模式在华北市场<p>本文来自<a href="https://post.smzdm.com/p/avg7w4qn/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
-    <pubDate>Mon, 27 Jul 2026 14:23:44 -0000</pubDate>
-    <guid isPermaLink="true">https://post.smzdm.com/p/avg7w4qn/</guid>
-    <source url="https://post.smzdm.com/p/avg7w4qn/">原创频道&gt;&gt;什么值得买</source>
-  </item>
-  <item>
-    <title>[原创频道&gt;&gt;什么值得买] 最远能跑852km 智界RX实车首曝：小米YU7最直接对手将登场</title>
-    <link>https://post.smzdm.com/p/a0373m4w/</link>
-    <description><![CDATA[快科技快科技7月27日消息，鸿蒙智行全新运动型SUV智界RX实车曝光，从图片看，这次拍摄地点位于奇瑞超级工厂之中。此番泄露的智界RX采用了银灰色车漆，在灯光的映衬下显得高级感十足，细节方面，可见长车头、熏黑运动轮圈以及明黄色刹车卡钳。不同于主打家用的智界R7，RX很显然是一台走运动化路线的FUV，整体风格和小米YU7类似，二者也势必会成为最直接的竞品。参考申报信息以及官图可知，RX启用了全新的设计语言，<p>本文来自<a href="https://post.smzdm.com/p/a0373m4w/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
-    <pubDate>Mon, 27 Jul 2026 14:22:32 -0000</pubDate>
-    <guid isPermaLink="true">https://post.smzdm.com/p/a0373m4w/</guid>
-    <source url="https://post.smzdm.com/p/a0373m4w/">原创频道&gt;&gt;什么值得买</source>
-  </item>
-  <item>
-    <title>[原创频道&gt;&gt;什么值得买] 看似浅显的隐私保护短片，藏着苹果最新的变迁</title>
-    <link>https://post.smzdm.com/p/a3mgdk4n/</link>
-    <description><![CDATA[三易生活苹果又上了一部“小电影”，这次的主题是隐私日前，苹果方面正式上线全新的隐私保护宣传短片《App访问权限iPhone管，隐私由你说了算》。这一短片延续了本土化亲民风格，由岳云鹏担任主角，搭配苹果零售店Specialist员工，以生活化拟人演绎形式，聚焦大众日常高频遭遇的App权限滥用问题，直观地展示了iPhone基础的App隐私权限管理能力，再次向国内用户传递了苹果的用户隐私保护理念。从“剧情”来看<p>本文来自<a href="https://post.smzdm.com/p/a3mgdk4n/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
-    <pubDate>Mon, 27 Jul 2026 14:22:12 -0000</pubDate>
-    <guid isPermaLink="true">https://post.smzdm.com/p/a3mgdk4n/</guid>
-    <source url="https://post.smzdm.com/p/a3mgdk4n/">原创频道&gt;&gt;什么值得买</source>
+    <title>[Hacker News] Paged Out #9 [pdf]</title>
+    <link>https://pagedout.institute/download/PagedOut_009.pdf</link>
+    <description><![CDATA[<a href="https://news.ycombinator.com/item?id=49070138">Comments</a>]]></description>
+    <pubDate>Mon, 27 Jul 2026 14:22:34 -0000</pubDate>
+    <guid isPermaLink="true">https://pagedout.institute/download/PagedOut_009.pdf</guid>
+    <source url="https://pagedout.institute/download/PagedOut_009.pdf">Hacker News</source>
   </item>
   <item>
     <title>[IT之家] 英伟达投资 OpenAI 联合创始人苏茨克维 AI 实验室 SSI，进一步拓展自身算力版图</title>
@@ -240,14 +720,6 @@
     <pubDate>Mon, 27 Jul 2026 14:22:10 -0000</pubDate>
     <guid isPermaLink="true">https://www.ithome.com/0/982/251.htm</guid>
     <source url="https://www.ithome.com/0/982/251.htm">IT之家</source>
-  </item>
-  <item>
-    <title>[原创频道&gt;&gt;什么值得买] 实体光盘游戏宣告死亡，其实一点也不冤</title>
-    <link>https://post.smzdm.com/p/avg7w54n/</link>
-    <description><![CDATA[三易生活2026年7月1日索尼方面正式宣布，从2028年1月起，所有在PlayStation平台发行的新游戏都将停止提供实体光盘。这不是游戏行业首次对实体光盘“判死刑”。几天前，知名游戏开发商Rockstar就曾宣布，其新作《侠盗猎车手VI》将仅以数字版形式发行，当时就曾引发“游戏行业抛弃光盘”的诸多讨论。而更早之前的2025年6月，微软方面也已经在Xbox游戏展示会期间间接确认，未来将不再为第一方游戏推<p>本文来自<a href="https://post.smzdm.com/p/avg7w54n/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
-    <pubDate>Mon, 27 Jul 2026 14:21:33 -0000</pubDate>
-    <guid isPermaLink="true">https://post.smzdm.com/p/avg7w54n/</guid>
-    <source url="https://post.smzdm.com/p/avg7w54n/">原创频道&gt;&gt;什么值得买</source>
   </item>
   <item>
     <title>[V2EX] [分享创造] 用 Trae 写了个 Chrome 插件，比赛没挤进前 2k，发出来给 V 友当玩具</title>
@@ -330,12 +802,20 @@
     <source url="https://www.v2ex.com/t/1230241#reply0">V2EX</source>
   </item>
   <item>
+    <title>[Hacker News] AI companies spend record sums on Washington lobbying</title>
+    <link>https://www.ft.com/content/d8a5f95e-3b6d-463a-a848-c9ef8e2394db</link>
+    <description><![CDATA[<a href="https://news.ycombinator.com/item?id=49069939">Comments</a>]]></description>
+    <pubDate>Mon, 27 Jul 2026 14:07:48 -0000</pubDate>
+    <guid isPermaLink="true">https://www.ft.com/content/d8a5f95e-3b6d-463a-a848-c9ef8e2394db</guid>
+    <source url="https://www.ft.com/content/d8a5f95e-3b6d-463a-a848-c9ef8e2394db">Hacker News</source>
+  </item>
+  <item>
     <title>[V2EX] [分享创造] 做了个反应速度测试站， 5 个工具+17 个小游戏，求各位帮忙看看</title>
-    <link>https://www.v2ex.com/t/1230239#reply0</link>
+    <link>https://www.v2ex.com/t/1230239#reply1</link>
     <description><![CDATA[前段时间看了个小游戏站赚美元的教程，想着自己也试试手。没搞太复杂的——先做了几个认知测试工具，又嵌了些免费小游戏，搭了个站。<br /><br />地址：<a href="http://checkreaction.com" rel="nofollow noopener" target="_blank">checkreaction.com</a> ( <a href="https://checkreaction.com/" rel="nofollow noopener" target="_blank">https://checkreaction.com/</a> )<br /><br />目前有这些：<br />- 反应速度测试，5 轮取平均，带年龄基准对比<br />- 瞄准训练，30 个随机目标，测速度和精度<br />- 打字速度，30 秒 WPM<br />- 序列记忆、数字记忆两个记忆测试<br />- 17 个 iframe 小游戏，纸牌、台球、消消乐、Cut The Rope 这些<br /><br />技术跟 FH6Wiki 一样简陋——纯静态 HTML + 原生 JS ，扔 Cloudflare Pages 上。反应测试就一个 4.5KB 的单文件，也扔 GitHub 开源了。<br /><br />为啥做这个<br /><br />顺手查了下关键词难度。"reaction time game" KD 只有 4.8/100 ，排第二的是个 DR=0 、8 个月的新站，体验分只有 22 。第六名是个床垫公司。Google 甚至拿 Reddit 帖子来补内容空缺。<br /><br />翻译一下：这几个词几乎没人正经做。稍微做好一点的体验就能上去，不需要什么 SEO 黑科技。<br /><br />踩的坑<br /><br />一样是 Google 收录的问题。站刚上线没多久，域名是新的，零外链。现在在等 Google 回来爬第二次。Bing 倒是先收了几个页面。<br /><br />另外 famobi 的 iframe 游戏加载有点慢，国内访问尤其明显。在想是不是自己写几个轻量小游戏替代。<br /><br />求各位帮忙看看<br /><br />- 反应测试的体验哪里不爽？我自己测多了已经麻木了<br />- 页面在手机上还好用吗<br />- Google 收录这事，除了死等和外链还有啥招<br />- 变现的话是直接上 AdSense 还是先攒流量再说<br /><br />第一次做游戏站，多多指教。谢谢。]]></description>
     <pubDate>Mon, 27 Jul 2026 13:53:48 -0000</pubDate>
-    <guid isPermaLink="true">https://www.v2ex.com/t/1230239#reply0</guid>
-    <source url="https://www.v2ex.com/t/1230239#reply0">V2EX</source>
+    <guid isPermaLink="true">https://www.v2ex.com/t/1230239#reply1</guid>
+    <source url="https://www.v2ex.com/t/1230239#reply1">V2EX</source>
   </item>
   <item>
     <title>[IT之家] 能够完成快慢思考融合，华为小艺智慧大脑版本随机逐步放量中</title>
@@ -354,59 +834,6 @@
     <source url="https://www.cnbeta.com.tw/articles/tech/1570510.htm">cnBeta.COM.TW RSS订阅</source>
   </item>
   <item>
-    <title>[V2EX] [投资] 阿里投资长鑫 76 亿元，当前市值 1700 亿，赚翻了啊</title>
-    <link>https://www.v2ex.com/t/1230238#reply0</link>
-    <description><![CDATA[<p>长鑫招股书显示阿里两次投资总额约 76 亿，占股约 5%，按目前市值超 1700 亿元。</p>
-<p>76 亿 ===========&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt; 1700 亿</p>
-<p>从第一次投资 21 年底算起，才四年多时间，这收益碉堡了啊。</p>
-<p>一级市场，普通人就算有眼光，也没机会参与的</p>
-<p>散户只能在股市里博浮沉，太难呐</p>]]></description>
-    <pubDate>Mon, 27 Jul 2026 13:41:13 -0000</pubDate>
-    <guid isPermaLink="true">https://www.v2ex.com/t/1230238#reply0</guid>
-    <source url="https://www.v2ex.com/t/1230238#reply0">V2EX</source>
-  </item>
-  <item>
-    <title>[V2EX] [程序员] Zedis：用 Rust 写的 Redis GUI，以及让 AI 帮忙改界面的一点感想</title>
-    <link>https://www.v2ex.com/t/1230237#reply1</link>
-    <description><![CDATA[<p>最近把自用的 Redis 客户端 Zedis 又打磨了一轮，发出来给大家看看。
-项目地址： <a href="https://github.com/vicanso/zedis" rel="nofollow">https://github.com/vicanso/zedis</a></p>
-<p>Zedis 是原生 GUI （ Rust + GPUI ，和 Zed 同一套 UI 栈），不是套一层 WebView 。目标很简单：日常连 Redis 、翻 key 、改数据、偶尔排个障，开着不别扭。
-<img alt="" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/2SW9biB.png" /> </p>
-<h2>主要特性（按使用频率）</h2>
-<h3>连接与工作区</h3>
-<p>• 多服务器管理，支持常见连接方式（含 SSH 隧道等）
-• 多 Tab：不同实例 / 不同上下文可以并排开着
-• 状态栏看延迟、内存、连接状态，点一下能进对应工具页</p>
-<h3>键空间</h3>
-<p>• 按分隔符分层的键树（默认 :，可配最大深度）
-• 类型 / TTL / 关键词筛选
-• 收藏、最近打开、右键批量操作（删、设 TTL 、导出等）</p>
-<h3>数据类型编辑</h3>
-<p>• 基础五件套：String / Hash / List / Set / ZSet
-• Stream 、RedisJSON 、Bitmap 、HyperLogLog 、TimeSeries
-• GEO 有单独的「雷达图」视图，不是干巴巴一张表
-• 大 value 有门槛，避免一把把几百万字节拖进编辑器</p>
-<h3>搜索与命令</h3>
-<p>• 命令面板、最近 key （类似 ⌘P ）
-• 跨连接的多库 key 搜索（⌘⇧F 一类快捷键）
-• 内嵌终端跑命令，键盘快捷键覆盖常用路径</p>
-<h3>运维向工具</h3>
-<p>• Metrics / 慢日志 / 内存分析 / 客户端列表 / MONITOR
-• 配置编辑、ACL 、拓扑（含 Cluster 相关）、持久化状态
-• Lua 脚本库、Functions 、键空间通知
-• 只读 / 安全模式，少误点生产</p>
-<h3>安全与体验</h3>
-<p>• 配置里的密码等敏感字段可按本机密钥加密
-• 危险操作有确认（生产环境文案会更狠一点）
-• 多语言、主题、持续小版本迭代</p>
-<p>平台：macOS / Windows / Linux ，Release 页直接下：
-<a href="https://github.com/vicanso/zedis/releases" rel="nofollow">https://github.com/vicanso/zedis/releases</a></p>
-<p>界面这块我自己设计太土，就让 Grok 一起改。AI 味有是有，但总好过土味。更麻烦的是 GPUI 渲染结果模型感知不到，只能瞎改代码。后来写了个截图程序，把真机界面截下来给 AI 对照代码看，反馈闭环才通——有图可比，比纯文字描述靠谱多了。</p>]]></description>
-    <pubDate>Mon, 27 Jul 2026 13:35:54 -0000</pubDate>
-    <guid isPermaLink="true">https://www.v2ex.com/t/1230237#reply1</guid>
-    <source url="https://www.v2ex.com/t/1230237#reply1">V2EX</source>
-  </item>
-  <item>
     <title>[IT之家] 国家能源局：1—6 月全国电力市场交易电量 36848 亿千瓦时，同比增长 24.2%</title>
     <link>https://www.ithome.com/0/982/245.htm</link>
     <description><![CDATA[<p>IT之家 7 月 27 日消息，国家能源局今日公布数据，2026 年 6 月，全国完成电力市场交易电量 6275 亿千瓦时，<strong>同比增长 20.8%</strong>。从交易范围看，省内交易电量 4774 亿千瓦时，同比增长 24.1%；跨省跨区交易电量 1501 亿千瓦时，同比增长 11.3%。从交易品种看，中长期交易电量 5774 亿千瓦时；现货交易电量 501 亿千瓦时。绿电交易电量 275 亿千瓦时，同比增长 15.0%。电网企业市场化<span>代理购电</span>电量 738 亿千瓦时。</p><p>2026 年 1—6 月，全国累计完成电力市场交易电量 36848 亿千瓦时，<strong>同比增长 24.2%</strong>。从交易范围看，省内交易电量 29135 亿千瓦时，同比增长 27.9%；跨省跨区交易电量 7713 亿千瓦时，同比增长 12.1%。从交易品种看，中长期交易电量 32568 亿千瓦时；现货交易电量 4280 亿千瓦时。绿电交易电量 1641 亿千瓦时，同比增长 6.6%。电网企业市场化代理购电电量 3985 亿千瓦时。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/7/33fe0f61-1955-41d4-ba74-615b1c9ace9b.jpg?x-bce-process=image/watermark,text_QUnnlJ_miJA,type_RlpMYW5UaW5nSGVpU0JHQg==,size_28,color_ffffffdd,skw_1,skc_00000051,g_7,blr_50,bls_50,x_11,y_11" /></p><p>IT之家查询获悉，6 月份，<strong>全社会用电量 8981 亿千瓦时，同比增长 3.7%</strong>。从分产业用电看：</p><ul class="medium-size list-paddingleft-2"><li><p>第一产业用电量 136 亿千瓦时，同比增长 2.0%。</p></li><li><p>第二产业用电量 5734 亿千瓦时，同比增长 4.7%；其中，工业用电量 5683 亿千瓦时，同比增长 4.9%，高技术及装备制造业用电量 1121 亿千瓦时，同比增长 10.3%。</p></li><li><p>第三产业用电量 1860 亿千瓦时，同比增长 5.6%；其中，充换电服务业、互联网数据服务用电量分别为 148 亿、91 亿千瓦时，增速分别达到 57.1%、41.4%。</p></li><li><p>城乡居民生活用电量 1251 亿千瓦时，同比下降 3.1%。</p></li></ul><p>另外，1～6 月，<strong>全社会用电量累计 50999 亿千瓦时，同比增长 5.3%</strong>。从分产业用电看：</p><ul class="medium-size list-paddingleft-2"><li><p>第一产业用电量 711 亿千瓦时，同比增长 4.9%。</p></li><li><p>第二产业用电量 33057 亿千瓦时，同比增长 5.1%；其中，工业用电量 32760 亿千瓦时，同比增长 5.3%，高技术及装备制造业用电量 6008 亿千瓦时，同比增长 9.8%。</p></li><li><p>第三产业用电量 9916 亿千瓦时，同比增长 8.0%；其中，充换电服务业、互联网数据服务用电量分别为 810 亿、494 亿千瓦时，增速分别达到 56.9%、44.0%。</p></li><li><p>城乡居民生活用电量 7315 亿千瓦时，同比增长 3.1%。</p></li></ul>]]></description>
@@ -415,250 +842,12 @@
     <source url="https://www.ithome.com/0/982/245.htm">IT之家</source>
   </item>
   <item>
-    <title>[V2EX] [日本] 日元跌，最近去日本有什么值得带的</title>
-    <link>https://www.v2ex.com/t/1230236#reply0</link>
-    <description><![CDATA[<p>如题，目前比较缺是手机，不知道有什么手机差价大，
-另外还有啥电子产品值得带回的？</p>]]></description>
-    <pubDate>Mon, 27 Jul 2026 13:34:10 -0000</pubDate>
-    <guid isPermaLink="true">https://www.v2ex.com/t/1230236#reply0</guid>
-    <source url="https://www.v2ex.com/t/1230236#reply0">V2EX</source>
-  </item>
-  <item>
     <title>[IT之家] 加州最大 AI 数据中心开发商索要河水遭拒，将供水机构告上法庭</title>
     <link>https://www.ithome.com/0/982/244.htm</link>
     <description><![CDATA[<p>IT之家 7 月 27 日消息，美国 AI 数据中心再次陷入争议。不过，这一次引发争论的并非土地、电力或税收优惠，而是水资源，准确地说，是来自科罗拉多河的水。而数据中心背后的公司，正为此将相关机构告上法庭。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/7/23574d6f-678c-4607-a68e-a8f59ae8d609.jpg?x-bce-process=image/format,f_auto" /></p><p>计划建设加州最大 AI 数据中心的开发商 Imperial Valley Computer Manufacturing（IVCM）近日起诉帝国灌溉区（Imperial Irrigation District，IID）。此前，这家公共事业机构拒绝了该公司的用水申请。</p><p>根据规划，这座数据中心总投资约 100 亿美元（IT之家注：现汇率约合 677.77 亿元人民币），占地约 95 万平方英尺（约 8.8 万平方米），装机容量达 330 兆瓦。项目每天约需 75 万加仑冷却用水，全年耗水量约为 2.87 亿加仑（约 13.06 亿升）。</p><p>这一用水量约合 880 英亩-英尺，仅占 IID 每年 310 万英亩-英尺供水配额的 0.03%。不过，科罗拉多河是帝国谷唯一的淡水来源，同时还承担着美国西部约 3500 万至 4000 万人口的供水任务。在长期干旱和径流量不足的压力下，当地水库持续承压，美国联邦政府目前正着手制定新的水资源调度规则。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/7/693ac4ec-13bd-47fb-8241-409455ffa436.jpg?x-bce-process=image/format,f_auto" /></p><p>开发者塞巴斯蒂安 · 鲁奇（Sebastian Rucci）认为，该项目不会增加整体用水需求。IVCM 已租赁附近 160 英亩农田，并计划停止灌溉这些土地，将原本用于农业的水资源转供数据中心使用，转移的水量与数据中心需求基本相当。</p><p>IVCM 表示，该项目预计将创造 1688 个建筑施工岗位、100 多个长期工作岗位，并在未来 30 年为当地带来近 30 亿美元（现汇率约合 203.33 亿元人民币）的经济效益。而帝国县今年 6 月失业率高达 17.6%，项目有望为当地经济注入新的活力。</p><p>不过，这一说法并未打消反对者的疑虑。</p><p>在帝国谷，水权并不归土地所有者个人所有，而是由 IID 以公共信托方式统一管理。批评人士担心，如果允许通过私人交易将农业用水转向 AI 数据中心，可能削弱公共部门对水资源的控制，并鼓励更多农民出售用水指标，而不是继续种植农作物。</p><p>目前，帝国县已经对新建数据中心项目实施临时禁令，等待相关委员会完成规则审查后再决定是否恢复审批。</p><p>尽管停耕 160 英亩农田本身不太可能影响美国粮食供应，但真正令人担忧的是其可能带来的示范效应。农业不仅关系到土地所有者，还支撑着农场工人、农业设备供应商、维修企业、运输公司以及众多配套产业。一旦供水用于 AI 数据中心比农业生产更具经济价值，其影响将不仅限于停耕的农田，而可能波及整个农业产业链。</p><p>这起诉讼也发生在全球对数据中心水资源消耗日益关注的背景下。此前，美国佐治亚州居民曾将当地供水问题归咎于附近的数据中心；费耶特县一座数据中心在收到水费账单前就已消耗了 2900 万加仑用水；弗吉尼亚州的数据中心用水量近年来也持续攀升。</p><p>此外，智利的数据中心被指加剧了当地持续约千年的旱情；而 Meta 位于美国怀俄明州夏延（Cheyenne）的一处尚未完工的数据中心，其排放的废水近期还将一种罕见细菌带入了当地的再生水系统，再次引发公众对数据中心环境影响的担忧。</p>]]></description>
     <pubDate>Mon, 27 Jul 2026 13:33:51 -0000</pubDate>
     <guid isPermaLink="true">https://www.ithome.com/0/982/244.htm</guid>
     <source url="https://www.ithome.com/0/982/244.htm">IT之家</source>
-  </item>
-  <item>
-    <title>[Hacker News] We Tested Nonstick Cookware: Coatings Don't Need to Look Worn to Shed Particles</title>
-    <link>https://www.rtings.com/air-fryer/learn/research/ptfe-cookware-shedding</link>
-    <description><![CDATA[<a href="https://news.ycombinator.com/item?id=49069447">Comments</a>]]></description>
-    <pubDate>Mon, 27 Jul 2026 13:29:12 -0000</pubDate>
-    <guid isPermaLink="true">https://www.rtings.com/air-fryer/learn/research/ptfe-cookware-shedding</guid>
-    <source url="https://www.rtings.com/air-fryer/learn/research/ptfe-cookware-shedding">Hacker News</source>
-  </item>
-  <item>
-    <title>[V2EX] [分享创造] [开源] 基于 zed 的终端 terry | 高性能 | 分组 | 分屏 | Agent MCP</title>
-    <link>https://www.v2ex.com/t/1230235#reply0</link>
-    <description><![CDATA[<p>把 Zed 的终端抽出来，改了一个终端，用来替代之前用的 cmux ，满足了我对终端的所有幻想。不得不说，还是得站在巨人的肩膀上才能写出好软件。 支持分组、分屏，支持主题， 非常流畅，感觉很不错。 </p>
-<p>特性如下：</p>
-<p>分组 终端分组，按目录开会话。
-命名 支持修改分组名、终端名。
-分屏
-原生性能，开箱即快。
-多种主题，随心切换。</p>
-<p>侧栏对话，直接驱动命令与工具。</p>
-<p>预览：</p>
-<p><img alt="" class="embedded_image" rel="noreferrer" src="https://i.v2ex.co/wBR1TiVI.png" /></p>
-<p>开源地址 <a href="https://github.com/bindoffice/terry" rel="nofollow">https://github.com/bindoffice/terry</a><br />
-下载地址 <a href="https://github.com/bindoffice/terry/releases" rel="nofollow">https://github.com/bindoffice/terry/releases</a><br />
-官网 <a href="https://bindoffice.github.io/terry" rel="nofollow">https://bindoffice.github.io/terry</a></p>]]></description>
-    <pubDate>Mon, 27 Jul 2026 13:28:20 -0000</pubDate>
-    <guid isPermaLink="true">https://www.v2ex.com/t/1230235#reply0</guid>
-    <source url="https://www.v2ex.com/t/1230235#reply0">V2EX</source>
-  </item>
-  <item>
-    <title>[V2EX] [分享创造] 我用 AI 开发了一款三体世界中的摇篮系统</title>
-    <link>https://www.v2ex.com/t/1230234#reply1</link>
-    <description><![CDATA[<p>《三体》中，面壁者雷迪亚兹为了实施水星核弹威慑计划，佩戴了一块特殊的黑色腕表。这块表实时监测他的心跳、血压、体温等生命体征，并持续向外发送抑制信号。只要雷迪亚兹活着，信号就不停；一旦他死亡或失去生命体征，信号中断，水星的氢弹就会立即引爆，导致水星坠入太阳，最终毁灭整个太阳系。</p>
-<h2>三体里的"摇篮系统"：生命体征即威慑</h2>
-<p>《三体》中，面壁者雷迪亚兹为了实施水星核弹威慑计划，佩戴了一块特殊的黑色腕表。这块表实时监测他的心跳、血压、体温等生命体征，并持续向外发送抑制信号。只要雷迪亚兹活着，信号就不停；一旦他死亡或失去生命体征，信号中断，水星的氢弹就会立即引爆，导致水星坠入太阳，最终毁灭整个太阳系。</p>
-<p><img alt="clip_1785158399671_ua8nyj.png" class="embedded_image" rel="noreferrer" src="https://file.awen.me/images/clip_1785158399671_ua8nyj.png" /></p>
-<p>这就是"摇篮系统"名字的由来：</p>
-<ul>
-<li>手表持续发信号 = 摇篮不停摇晃 → 氢弹休眠、锁死；</li>
-<li>雷迪亚兹死亡 → 信号中断 = 摇篮停摇 → 氢弹瞬间全部引爆。</li>
-</ul>
-<p>听证会上，破壁人揭穿了雷迪亚兹的计划，联合国本要审判他。雷迪亚兹举起左手展示这块摇篮手表，威胁只要自己被杀，水星核弹就会毁灭全人类。各国代表在恐惧中只能放他返回委内瑞拉。</p>
-<p>我手里正好有一块支持心率广播的智能手表，每天戴着它跑步和监测睡眠。既然它已经 24 小时戴在手上，能不能让它充当"人体存在传感器"？答案是可以。</p>
-<p>这让我立刻想到《三体》里的"摇篮系统"。</p>
-<p>后来我做的这个"不跳就锁"，其实也是一个微缩版的摇篮系统：Mac 持续监听我的心率广播，心跳在，屏幕就亮着；心跳中断，屏幕立刻锁定。只不过它威慑的不是三体人，而是我自己的安全意识。</p>
-<p>这个项目我已经开源在 GitHub：**<a href="https://github.com/monkey-wenjun/HeartRateLockWidget" rel="nofollow">monkey-wenjun/HeartRateLockWidget</a>**，有兴趣可以直接下载试用或提 PR 。</p>
-<h2>背景：人走必须锁屏，但我总会忘</h2>
-<p>当然更重要的是🐶公司办公区有比较严格的安全规范：离开工位必须锁屏。道理都懂，可实际执行起来总是磕磕绊绊——去洗手间、接水、开会，经常起身就走了，屏幕还亮着。
-<img alt="clip_1784758448046_n4br1c.png" class="embedded_image" rel="noreferrer" src="https://file.awen.me/images/clip_1784758448046_n4br1c.png" />
-理想中的人走锁屏应该满足几个条件：</p>
-<ul>
-<li><strong>无感</strong>：不需要我手动操作，也不需要我佩戴额外硬件。</li>
-<li><strong>及时</strong>：人离开工位后几秒内就要锁屏。</li>
-<li><strong>不误判</strong>：坐在电脑前正常工作时不应该突然锁屏。</li>
-<li><strong>隐私</strong>：不要把我的生物特征上传到云端。</li>
-</ul>
-<h2>为什么不用 BLEUnlock ，还要自己造轮子？</h2>
-<p>在做这个应用之前，我已经调研过开源方案，比如 <a href="https://github.com/ts1/BLEUnlock" rel="nofollow">BLEUnlock</a>。它的思路很简单：让 Mac 持续扫描你随身 BLE 设备的信号强度（ RSSI ），信号弱到一定程度就认为人离开了，然后锁屏。</p>
-<p>这个方案听起来很美好，但有一个本质问题：**它只判断"设备在不在附近"，不判断"人还在不在"**。实际使用中会碰到很多误触发场景：</p>
-<ul>
-<li>手机或手表放在桌上充电，人走开几步去倒水，RSSI 波动一下就被判定为"离开"；</li>
-<li>设备在口袋里，身体遮挡导致 RSSI 短暂下降，屏幕突然锁定；</li>
-<li>开放式办公区蓝牙设备很多，信号干扰造成误判。</li>
-</ul>
-<p>换句话说，BLEUnlock 是靠"蓝牙信号"猜人在不在，而我的手表能广播<strong>心率数据</strong>。心率是活的、持续变化的生理信号——只有戴在活人手腕上，才会每秒产生一次真实的心跳数值。只要心率广播在，就说明佩戴者大概率还在；心率中断，才意味着人真的走远或摘下手表。</p>
-<p>所以我的方案核心是：<strong>用心率这种"生命体征"来做存在判定，而不是单纯依赖蓝牙信号强度</strong>。RSSI 只作为辅助参考，真正触发锁屏的是"超过一定时间没有收到心率"。这样误触发率会低很多。</p>
-<h2>核心思路：用心率广播 + 信号强度判断"人还在不在"</h2>
-<p>BLE （ Bluetooth Low Energy ）心率设备会广播标准心率服务 <code>0x180D</code>，其中的心率测量特征 <code>0x2A37</code> 每秒推送一次当前心率。只要手表在 Mac 的蓝牙覆盖范围内，Mac 就能收到稳定的心率数据。</p>
-<p>当我的身体离开 Mac 一段距离后：</p>
-<ol>
-<li>心率广播中断，Mac 超过一定时间收不到心率。</li>
-<li>即使还在广播，信号强度 RSSI 也会显著下降。</li>
-</ol>
-<p>于是判定逻辑很简单：</p>
-<ul>
-<li><strong>心率超时</strong>：超过 10 秒没收到心率，认为设备失联，锁屏。</li>
-<li><strong>弱信号</strong>：连续 3 秒 RSSI 低于 -75 dBm ，认为人已经走远，锁屏。</li>
-</ul>
-<p>这两种条件互为补充：前者应对手表被取下或蓝牙关闭，后者应对人走远但广播仍在的情况。</p>
-<h2>项目结构</h2>
-<p>我把应用拆成了三个部分：</p>
-<pre><code>HeartRateLockWidget/
-├── HeartRateLock/              # macOS 状态栏后台 App
-│   ├── HeartRateLockApp.swift      # 应用入口、状态栏菜单、设置窗口
-│   ├── BLEHeartRateManager.swift   # CoreBluetooth 扫描/绑定/连接/心率订阅
-│   └── LockScreenManager.swift     # 触发 macOS 锁屏
-├── HeartRateWidget/            # 桌面/侧边小组件
-│   ├── HeartRateWidget.swift       # 实时心率 Widget
-│   ├── HeartRateCurveWidget.swift  # 心率曲线 Widget
-│   └── HeartRateWidgetBundle.swift # Widget 入口
-└── HeartRateLockShared/        # App 与 Widget 共享代码
-    └── SharedConfig.swift          # App Group 、UserDefaults Key 、设置项
-</code></pre>
-<p><code>HeartRateLock</code> 是一个没有 Dock 图标的状态栏应用，启动后躲在菜单栏里持续扫描和监听心率。<code>HeartRateWidget</code> 是 WidgetKit 扩展，负责把心率展示在桌面或通知中心。</p>
-<h2>关键实现</h2>
-<h3>1. 扫描与绑定设备</h3>
-<p>macOS 的 <code>CoreBluetooth</code> 扫描时不指定服务 UUID ，这样可以列出周围所有 BLE 广播设备。用户从菜单栏的「选择设备」里按信号强度排序找到手表，点击完成绑定。绑定信息会持久化，下次启动自动重连。</p>
-<pre><code class="language-swift">private let heartRateServiceUUID = CBUUID(string: "0x180D")
-private let heartRateMeasurementUUID = CBUUID(string: "0x2A37")
-
-func centralManager(
-    _ central: CBCentralManager,
-    didDiscover peripheral: CBPeripheral,
-    advertisementData: [String: Any],
-    rssi RSSI: NSNumber
-) {
-    // 收集设备名、RSSI ，按信号强度排序展示
-}
-</code></pre>
-<p>这里有一个坑：macOS 出于隐私保护，不会把 BLE 设备的 MAC 地址暴露给 App ，只会给一个随机生成的 <code>CBPeripheral.identifier</code>。所以无法通过 MAC 地址过滤，只能让用户手动选择。另外很多手表在广播里不暴露名字，首次绑定可能显示为「未知设备」，连接成功后我会再读取 GAP 服务 <code>0x2A00</code> 里的真实设备名来校正。</p>
-<h3>2. 解析心率数据</h3>
-<p>心率测量特征的通知数据格式是 BLE 标准：</p>
-<pre><code>byte 0: flags
-  bit 0: 心率值是 uint8 还是 uint16
-byte 1: 心率值（ uint8 ）
-byte 1-2: 心率值（ uint16 ）
-</code></pre>
-<p>解析代码：</p>
-<pre><code class="language-swift">private func parseHeartRateMeasurement(_ data: Data) -&gt; Int? {
-    guard !data.isEmpty else { return nil }
-    let flags = data[0]
-    let isUInt16 = (flags &amp; 0x01) != 0
-    if isUInt16, data.count &gt;= 3 {
-        return Int(data[1]) | (Int(data[2]) &lt;&lt; 8)
-    } else if data.count &gt;= 2 {
-        return Int(data[1])
-    }
-    return nil
-}
-</code></pre>
-<h3>3. 锁屏触发</h3>
-<p>每次收到心率或读到 RSSI 时，都会更新 <code>lastAliveAt</code>。每秒检查一次：</p>
-<pre><code class="language-swift">private func checkTimeout() {
-    guard let reference = lastAliveAt ?? connectAttemptAt else { return }
-    if Date().timeIntervalSince(reference) &gt; SharedConfig.timeoutSeconds, !didLockForTimeout {
-        didLockForTimeout = true
-        LockScreenManager.lockScreen()
-    }
-}
-</code></pre>
-<p>弱信号判定类似：连续低于阈值秒数达到设定值就锁屏，避免 RSSI 抖动导致误锁。</p>
-<h3>4. 触发 macOS 锁屏</h3>
-<p>最早我用的是 <code>/System/Library/CoreServices/Menu Extras/User.menu/Contents/Resources/CGSession -suspend</code>，但新版 macOS 已经移除了这个路径。为了兼容不同系统版本，我做了三层兜底：</p>
-<ol>
-<li>调用 <code>login.framework</code> 的私有接口 <code>SACLockScreenImmediate</code>。</li>
-<li>如果找不到，再尝试 <code>CGSession -suspend</code>。</li>
-<li>如果都不行，最后用 <code>pmset displaysleepnow</code> 熄屏，配合系统设置里的「唤醒时需要密码」实现等效锁屏。</li>
-</ol>
-<pre><code class="language-swift">enum LockScreenManager {
-    static func lockScreen() {
-        if lockViaPrivateFramework() { return }
-        if FileManager.default.fileExists(atPath: lockCommand) {
-            // CGSession -suspend
-            return
-        }
-        // pmset displaysleepnow 兜底
-    }
-}
-</code></pre>
-<h3>5. 小组件与 App 共享数据</h3>
-<p>Widget 扩展和主 App 属于不同进程，不能直接共享内存。我用了一个小技巧：主 App （非沙盒）直接写 Widget 容器内的 plist 文件，Widget 读取自己的容器。这样比 App Group 的 <code>UserDefaults(suiteName:)</code> 更稳定，也绕过了 macOS AppData TCC 策略对 Widget 读取的限制。</p>
-<pre><code class="language-swift">public enum SharedStore {
-    private static let plistURL: URL = {
-        if isSandboxed {
-            // Widget：自己容器内的 Application Support
-        } else {
-            // 主 App：写 Widget 容器内的同一个文件
-        }
-    }()
-}
-</code></pre>
-<p>Widget 每秒请求一次时间线刷新，实际刷新频率由系统调度决定，所以主 App 负责实时性，Widget 只是显示层。</p>
-<h2>还加了哪些功能</h2>
-<h3>空闲锁屏兜底</h3>
-<p>万一哪天没戴手表，应用还内置了键鼠空闲检测。通过 <code>CGEventSource.secondsSinceLastEventType</code> 读取键盘、鼠标最后一次活动时间，超过设定秒数也锁屏。这个兜底还可以设置只在指定时间段生效，比如只在工作时间开启。</p>
-<h3>开机自启</h3>
-<p>用 <code>SMAppService.mainApp.register()</code> 注册登录项，实现开机自动启动，不需要在「系统设置 &gt; 通用 &gt; 登录项」里手动添加。</p>
-<h3>设置面板</h3>
-<p>状态栏点击「设置…」可以调整：</p>
-<ul>
-<li>信号弱锁屏阈值（-90 ~ -40 dBm ）</li>
-<li>连续弱信号秒数</li>
-<li>心率超时秒数</li>
-<li>键鼠空闲锁屏秒数及时段</li>
-<li>开机自启开关</li>
-</ul>
-<h2>实际使用效果</h2>
-<p>戴上手表坐在工位，状态栏会显示实时心率。起身去洗手间，走出两三米后 RSSI 开始下降，大约 3 秒后屏幕自动锁定。回来后解锁电脑，手表会重新连上，继续显示心率。</p>
-<p>误触发的情况极少，因为同时满足「信号持续弱」和「心率中断」才会锁屏。坐在椅子上正常打字时，即使偶尔 RSSI 波动一下，也不会触发锁屏。</p>
-<h2>还能怎么玩：真正的"摇篮系统"应该更进一步</h2>
-<p>现在的逻辑是"心率没了 → 锁屏"，这其实只是一个开始。如果你真想把它做成三体世界里那种"生命体征即威慑"的系统，可以基于这个开源方案继续加戏。</p>
-<p>比如一个更严肃的状态组合：<strong>手表明明还戴在手上，蓝牙信号也不弱，但心率突然停止了</strong>。这意味着什么？大概率不是人走开了，而是心脏不跳了。这种情况下再锁屏就显得不够有仪式感，你可以触发一些更有"摇篮系统"味道的自动化：</p>
-<ul>
-<li><strong>自动提交代码</strong>：检测到心率归零且信号正常，立刻执行 <code>git add -A &amp;&amp; git commit -m "chore: 最后的提交" &amp;&amp; git push</code>，确保代码不丢失，做一个负责任的程序员。</li>
-<li><strong>自动发消息</strong>：给同事群发一条 Slack/飞书消息："我去参加黑暗森林战役了，需求下次迭代再说。"。</li>
-<li><strong>删库但不跑路</strong>：既然人都没了，服务器留着也没意义。可以设计一个"温柔删库"流程——先备份到对象存储，再清空数据库，最后注销所有云账号。真正做到"删库不跑路"，因为已经跑不动了。</li>
-<li><strong>触发遗嘱脚本</strong>：打开提前写好的 <code><a href="http://last_will.sh" rel="nofollow">last_will.sh</a></code>，把比特币私钥、未完成的 side project 、暗恋对象的名字一并分发出去。</li>
-</ul>
-<p><img alt="clip_1785158635597_yz7imr.png" class="embedded_image" rel="noreferrer" src="https://file.awen.me/images/clip_1785158635597_yz7imr.png" />
-当然，这些功能建议只作为彩蛋存在，默认不要开启。毕竟心脏停跳不一定是真的心脏停跳，也可能是手表没电了、蓝牙断流了，或者你只是把手表摘下来放在了桌上。真触发一次"自动提交代码"还可以接受，要是误触发"删库"，那你可能就要先一步去见雷迪亚兹了。</p>
-<h2>踩过的坑</h2>
-<ol>
-<li><strong>macOS 不暴露 MAC 地址</strong>：无法自动识别手表，必须手动绑定一次。</li>
-<li><strong>部分华为手表不广播标准心率服务</strong>：它们只走华为运动健康私有协议，这种手表用不了。</li>
-<li><strong>CGSession 被移除</strong>：新版系统锁屏 API 变了，需要多层兜底。</li>
-<li><strong>App Group 共享存储被 TCC 拦截</strong>：主 App 写 App Group 的 UserDefaults 后，Widget 读不到，最后改用直接写 Widget 容器 plist 。</li>
-<li><strong>沙盒权限</strong>：锁屏需要辅助功能权限，首次运行要在系统设置里允许。</li>
-</ol>]]></description>
-    <pubDate>Mon, 27 Jul 2026 13:25:55 -0000</pubDate>
-    <guid isPermaLink="true">https://www.v2ex.com/t/1230234#reply1</guid>
-    <source url="https://www.v2ex.com/t/1230234#reply1">V2EX</source>
-  </item>
-  <item>
-    <title>[V2EX] [分享创造] fable5 做的 mac 小工具，无需 TUN 模式，让应用走代理</title>
-    <link>https://www.v2ex.com/t/1230233#reply4</link>
-    <description><![CDATA[<p>白嫖 fable5 做的，只做了 mac 版，无需开启 TUN 模式，让软件走代理。项目地址：<a href="https://github.com/ZhjGo/ProxyLauncher" rel="nofollow">项目地址</a></p>
-<p><img alt="img" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/wrQLNMU.png" /></p>]]></description>
-    <pubDate>Mon, 27 Jul 2026 13:25:39 -0000</pubDate>
-    <guid isPermaLink="true">https://www.v2ex.com/t/1230233#reply4</guid>
-    <source url="https://www.v2ex.com/t/1230233#reply4">V2EX</source>
-  </item>
-  <item>
-    <title>[V2EX] [程序员] 现在在公司里面 vibe coding 到底还落没落地啊</title>
-    <link>https://www.v2ex.com/t/1230232#reply2</link>
-    <description><![CDATA[<p>从我自身使用体验来看，写出来的东西需要不断地调试，反复的修改，达到 ready 的状态也不知道需要多久，token 用的飞快，很好奇，到底哪些公司在 vibe coding 上已经落地了，用于生产环境了，应用到什么程度了？我之前公司还是 ai 写出来代码，然后人工 review 再上线，这种情况的 diff 往往不会特别大。</p>
-<p>单纯的好奇，是大家疯狂的自嗨还是厂商疯狂的造势炒作。</p>]]></description>
-    <pubDate>Mon, 27 Jul 2026 13:25:14 -0000</pubDate>
-    <guid isPermaLink="true">https://www.v2ex.com/t/1230232#reply2</guid>
-    <source url="https://www.v2ex.com/t/1230232#reply2">V2EX</source>
   </item>
   <item>
     <title>[IT之家] 保时捷计划在 2035 年前，再裁员 5000 人</title>
@@ -683,14 +872,6 @@ byte 1-2: 心率值（ uint16 ）
     <pubDate>Mon, 27 Jul 2026 13:11:43 -0000</pubDate>
     <guid isPermaLink="true">https://www.ithome.com/0/982/241.htm</guid>
     <source url="https://www.ithome.com/0/982/241.htm">IT之家</source>
-  </item>
-  <item>
-    <title>[V2EX] [程序员] gg 卡如果被封，卡里的余额怎么办，就不还了？</title>
-    <link>https://www.v2ex.com/t/1230231#reply3</link>
-    <description><![CDATA[目前，我了解到的 gg 卡被封后还有携号转网的缓冲期，但是我的卡没被封，我也不清楚真假，而且我看到有人说号码被封，连账号都登不进去的。<br />最重要的事，卡里的余额怎么办，就被 giffgaff 吞了？退款我记得得套餐生效 14 天内才能退吧，注册半年的账号岂不是退都不能退了？<br />有维权的方法渠道吗]]></description>
-    <pubDate>Mon, 27 Jul 2026 13:10:54 -0000</pubDate>
-    <guid isPermaLink="true">https://www.v2ex.com/t/1230231#reply3</guid>
-    <source url="https://www.v2ex.com/t/1230231#reply3">V2EX</source>
   </item>
   <item>
     <title>[IT之家] 长安全新深蓝 S05 内饰公布：全新悬浮星舰设计，搭载 256 色悬浮式环抱氛围灯</title>
@@ -725,36 +906,12 @@ byte 1-2: 心率值（ uint16 ）
     <source url="https://36kr.com/newsflashes/3913893079651457?f=rss">36氪</source>
   </item>
   <item>
-    <title>[V2EX] [程序员] 最近悟道了，人生本来就没有意义</title>
-    <link>https://www.v2ex.com/t/1230230#reply19</link>
-    <description><![CDATA[<p>苦卷十余载，从年轻小伙子熬成了满头白发。</p>
-<p>从一无所有熬到了有房有车有娃。</p>
-<p>从满身轻松熬到了债务累累。</p>
-<p>想想快到 35 的年龄，看看格子间和小屏幕，不知道还能坚持多久。</p>
-<p>最近总是幻想，几年之后，财务自由，躺在老家的院子里一杯茶一支烟的惬意。</p>
-<p>又不知道什么时候才会到来。</p>
-<p>人生本来就没有意义，总是向往轻松一些，又跳不出这个世俗的圈子和所谓的成就感。</p>
-<p>我说我不卷，他们都在笑。</p>
-<p>在办公室越来越坐不住，原来不是腰疼，也不是颈椎，也不是胃疼，而是我的心，已经不在这里。</p>]]></description>
-    <pubDate>Mon, 27 Jul 2026 12:56:50 -0000</pubDate>
-    <guid isPermaLink="true">https://www.v2ex.com/t/1230230#reply19</guid>
-    <source url="https://www.v2ex.com/t/1230230#reply19">V2EX</source>
-  </item>
-  <item>
     <title>[36氪] 热门中概股美股盘前普涨，网易涨超2%</title>
     <link>https://36kr.com/newsflashes/3913890705020290?f=rss</link>
     <description><![CDATA[36氪获悉，热门中概股美股盘前普涨，截至发稿，网易涨超2%，阿里巴巴、拼多多、蔚来、小鹏集团、富途控股、老虎证券涨超1%，理想汽车涨0.83%。]]></description>
     <pubDate>Mon, 27 Jul 2026 12:55:30 -0000</pubDate>
     <guid isPermaLink="true">https://36kr.com/newsflashes/3913890705020290?f=rss</guid>
     <source url="https://36kr.com/newsflashes/3913890705020290?f=rss">36氪</source>
-  </item>
-  <item>
-    <title>[IT之家] 小度 AI 手表 Fit 开售：搭载百度文心大模型，国补价 159.8 元</title>
-    <link>https://www.ithome.com/0/982/239.htm</link>
-    <description><![CDATA[<p>IT之家 7 月 27 日消息，小度 AI 智能手表 Fit 于今日正式发布，定价为 198 元，国补价<span class="product-price--main"><span class="product-price--value"> 159.8 元</span></span>。</p><p style="text-align: center;"><img alt="小度AI手表Fit首发宣传图" src="https://img.ithome.com/newsuploadfiles/2026/7/03871510-5a27-448c-8bbb-4117278d1176.jpg?x-bce-process=image/format,f_auto" /></p><p>IT之家从商品页面获悉，这款产品搭载<strong>百度 AI 文心大模型</strong>，轻触表盘后通过语音提问即可获得智能作答，日常查询天气、穿搭建议、健康饮食方案都能快速得到响应。</p><p style="text-align: center;"><img alt="百度AI文心大模型交互演示" src="https://img.ithome.com/newsuploadfiles/2026/7/44c4573d-addc-43be-8597-1a1928451453.jpg?x-bce-process=image/format,f_auto" /></p><p>它支持 <strong>AI 生成精美表盘</strong>，用户可以通过语音输入实现个性化定制，轻松生成海底世界、萌宠、国风山水画等多种风格的专属表盘。</p><p style="text-align: center;"><img alt="AI生成百变表盘功能展示" src="https://img.ithome.com/newsuploadfiles/2026/7/7b36556f-78dd-4f20-b59d-cea6d10b9ee8.jpg?x-bce-process=image/format,f_auto" /></p><p>小度 AI 智能手表 Fit 配备 <strong>1.95 英寸超清全面屏</strong>，采用 320*386 分辨率的 IPS 广视角面板搭配弧面玻璃，显示效果清晰顺滑，抬腕即可浏览丰富内容。</p><p style="text-align: center;"><img alt="1.95英寸全面屏介绍" src="https://img.ithome.com/newsuploadfiles/2026/7/de9a8707-f88a-4c42-86c8-200e62e4e750.jpg?x-bce-process=image/format,f_auto" /></p><p>整机设计轻薄，<strong>薄至 8.8mm、轻至 42g</strong>，搭配金属质感中框与表冠，线条流畅兼顾佩戴舒适度与精致感，实现近乎无感的佩戴体验。</p><p style="text-align: center;"><img alt="轻薄机身设计展示" src="https://img.ithome.com/newsuploadfiles/2026/7/8cd5ed07-1360-47c1-943d-3797a6a11a01.jpg?x-bce-process=image/format,f_auto" /></p><p>该手表内置 <strong>100+ 种运动模式</strong>，覆盖跑步、骑行、羽毛球、瑜伽等常见运动场景，可以精准记录卡路里消耗与运动时长，相当于将专业运动教练随身携带。</p><p style="text-align: center;"><img alt="100+运动模式介绍" src="https://img.ithome.com/newsuploadfiles/2026/7/2d4715a3-b16c-4dc7-b271-8ca905162f01.png?x-bce-process=image/format,f_auto" /></p><p>依托<strong>百度 AI 算法</strong>，它可以对多种运动数据进行专业分析，同步展示运动时长、心率、热量、步数、配速、距离等核心信息，帮助用户全面掌握自身运动状态。</p><p style="text-align: center;"><img alt="运动数据专业分析演示" src="https://img.ithome.com/newsuploadfiles/2026/7/e537e7d3-50fd-4dc6-96a4-68be5fa24700.png?x-bce-process=image/format,f_auto" /></p><p>它支持 <strong>24 小时全维度健康监测</strong>，内置生物追踪光学传感器，可实时监测情绪、压力、心率、血氧等数据，还能自动识别并记录睡眠状态，完整还原整晚睡眠结构。</p><p style="text-align: center;"><img alt="全维度健康监测总览" src="https://img.ithome.com/newsuploadfiles/2026/7/18951174-2260-47be-ab6b-e69a24f9eaa2.png?x-bce-process=image/format,f_auto" /></p><p>续航方面，这款手表搭载 <strong>300mAh 大容量电池</strong>搭配超低功耗芯片，常规使用场景下续航可达 5 天，极限使用场景下最长可以坚持 7 天，无需频繁充电。</p><p style="text-align: center;"><img alt="7天长续航功能说明" src="https://img.ithome.com/newsuploadfiles/2026/7/103e7908-4992-4009-8d4a-e65e738d4af3.png?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img alt="小度AI手表Fit包装清单" src="https://img.ithome.com/newsuploadfiles/2026/7/ff909b8c-ab43-4ad6-9f1c-f065fa2007fe.png?x-bce-process=image/format,f_auto" /></p><dir><a contenteditable="false" href="https://u.jd.com/9reoBpG" target="_blank"><span class="card main-site"><span class="card-logo"><img src="https://img14.360buyimg.com/pop/jfs/t1/442302/1/4959/70468/6a17f24eF6a3eb6ef/008332032089c885.png" /></span><span class="card-info"><span class="card-title"><span class="mall-data">京东</span><span class="card-name">小度 AI 智能手表 Fit </span></span><span class="card-abstract"></span><span class="card-controls"><span class="price">159.8 元</span><span class="card-btn-deep">直达链接</span></span></span></span></a></dir>]]></description>
-    <pubDate>Mon, 27 Jul 2026 12:53:25 -0000</pubDate>
-    <guid isPermaLink="true">https://www.ithome.com/0/982/239.htm</guid>
-    <source url="https://www.ithome.com/0/982/239.htm">IT之家</source>
   </item>
   <item>
     <title>[36氪] 美股大型科技股盘前普涨，特斯拉涨超1%</title>
@@ -781,14 +938,6 @@ byte 1-2: 心率值（ uint16 ）
     <source url="https://www.cnbeta.com.tw/articles/tech/1570508.htm">cnBeta.COM.TW RSS订阅</source>
   </item>
   <item>
-    <title>[IT之家] 工信部：全国累计发放智能网联汽车测试示范牌照超 2 万张</title>
-    <link>https://www.ithome.com/0/982/237.htm</link>
-    <description><![CDATA[<p>IT之家 7 月 27 日消息，据新华社报道，7 月 27 日，2026 世界智能网联汽车大会媒体圆桌会在北京召开。</p><p>工业和信息化部装备工业一司司长郭守刚介绍，<strong>全国各地累计发放智能网联汽车测试示范牌照超过 2 万张</strong>，开放测试示范道路超 5.7 万公里，累计测试超过 2.2 亿公里；20 个“车路云一体化”试点城市部署各类智能化设备超 6 万套，服务各类车辆超过十万台。</p><p>今年以来，<strong>L2 级组合驾驶辅助功能乘用车渗透率达到 70.5%</strong>，领航驾驶辅助（NOA）功能乘用车渗透率达到 34.2%，首批 L3 级有条件自动驾驶车型开始在特定区域上路通行。</p><p>据IT之家此前报道，由工业和信息化部、交通运输部、北京市人民政府联合主办的 <a href="https://www.ithome.com/0/982/231.htm" target="_blank">2026 世界智能网联汽车大会将于 2026 年 10 月中旬在北京举办</a>。</p><p>本届大会以“汇智聚能网联无限 —— 稳步迈进自动驾驶新时代”为主题，聚焦产业关键节点和发展重大议题，设置 3 场全体会议。同时集中发布一批产业发展最新成果，全方位展现<strong>自动驾驶</strong>新时代的实践成效与发展蓝图。</p>]]></description>
-    <pubDate>Mon, 27 Jul 2026 12:46:04 -0000</pubDate>
-    <guid isPermaLink="true">https://www.ithome.com/0/982/237.htm</guid>
-    <source url="https://www.ithome.com/0/982/237.htm">IT之家</source>
-  </item>
-  <item>
     <title>[cnBeta.COM.TW RSS订阅] 需求狂飙4倍 台积电2nm单厂月产2万片创新高</title>
     <link>https://www.cnbeta.com.tw/articles/tech/1570506.htm</link>
     <description><![CDATA[<p><strong>据报道，台积电2nm制程正进入全速推进期，目前位于台湾地区的五座2nm专用晶圆厂中，Fab 20产能已率先达标，月产出正式突破2万片晶圆。</strong>衡量新制程火不火，看“流片”（芯片设计完成后的试做样品）数据最直观。台积电在财报会上透露，2nm的流片数量已达到3nm同期的4倍。这意味着全球大客户对2nm的研发意愿和潜在订单量呈现出爆发式增长。</p> <a href="https://www.cnbeta.com.tw/articles/tech/1570506.htm" target="_blank"><strong>阅读全文</strong></a>]]></description>
@@ -797,36 +946,12 @@ byte 1-2: 心率值（ uint16 ）
     <source url="https://www.cnbeta.com.tw/articles/tech/1570506.htm">cnBeta.COM.TW RSS订阅</source>
   </item>
   <item>
-    <title>[V2EX] [酷工作] [上海-FDE] 记忆张量-交付团队招人啦</title>
-    <link>https://www.v2ex.com/t/1230228#reply0</link>
-    <description><![CDATA[我们正在寻找一位兼具技术理解力与客户沟通能力的全栈交付工程师，负责企业级 AI Agent 平台的客户交付全流程。你将从客户业务场景出发，独立完成从需求拆解、方案设计、落地交付到使用培训的完整闭环。 <br /><br />工作职责<br />1. 负责 AI Agent 平台的客户交付，覆盖需求对接、方案设计、落地交付、使用培训等完整环节<br />2. 快速响应客户问题，定位并解决，复杂 Bug 精准描述后协同研发修复<br />3. 编写客户使用文档、组织培训，帮助客户团队具备独立使用平台的能力<br />4. 沉淀交付经验，输出可复用的行业解决方案与最佳实践<br /><br />任职要求<br />1. 本科及以上学历，1-3 年技术支持、实施交付、售前方案或相关经验<br />2. 计算机及相关专业优先，具备基本的问题排查能力<br />3. 了解大模型/Agent 框架基本原理，对 AI 新技术充满好奇心<br />4. 具备良好的客户沟通与文档撰写能力，能将技术概念转化为客户可理解的表达<br />5. 有 B 端产品交付经验优先<br />6. 能接受短期出差<br /><br />薪资范围：1.5-2.5 万元 16 薪<br />工作地点：上海-徐家汇地铁站附近<br />员工福利：五险两金，补充公积金，双边 24%；季度旅游；零食下午茶；<br />工作时间：10:00 ～ 21:00 （午休俩小时，晚上一小时），双休<br />官网： <a href="https://memos.openmem.net/cn/" rel="nofollow noopener" target="_blank">https://memos.openmem.net/cn/</a><br />关于我们： <a href="https://www.memtensor.com.cn/h-col-249.html" rel="nofollow noopener" target="_blank">https://www.memtensor.com.cn/h-col-249.html</a><br /><br />联系人： chenyt@memtensor.cn]]></description>
-    <pubDate>Mon, 27 Jul 2026 12:45:36 -0000</pubDate>
-    <guid isPermaLink="true">https://www.v2ex.com/t/1230228#reply0</guid>
-    <source url="https://www.v2ex.com/t/1230228#reply0">V2EX</source>
-  </item>
-  <item>
-    <title>[IT之家] 巫术背景 Roguelite 游戏《恶仙》发售，国区售价 43.2 元</title>
-    <link>https://www.ithome.com/0/979/806.htm</link>
-    <description><![CDATA[<p>IT之家 7 月 27 日消息，独立厂商 Wayway Inc 开发并发行的民俗题材新游《恶仙》（原名 Aksun）现已在 Steam 平台发售，首发优惠将持续至 8 月 4 日。该作完整支持简体中文界面、字幕与全音频配音。IT之家附游戏商品页（<a href="https://store.steampowered.com/app/3129360/Aksun/?l=schinese&amp;cc=cn"><span class="link-text-start-with-http">https://store.steampowered.com/app/3129360/Aksun/</span>?l=schinese&amp;cc=cn</a>）。</p><p style="text-align: center;"><img alt="游戏截图" class="not-source" src="https://img.ithome.com/newsuploadfiles/2026/7/94b9ae5e-d432-4486-89f9-165226ffcbf2.jpg" /></p><p>据介绍，《恶仙》是一款深植于巫术民俗的砍杀类 Roguelite 游戏，游戏背景设定在名为「六道轮回」的宏大生灵世界，玩家将被困在专为囚禁「木头鬼王」打造的诅咒装置「木人」之中，需要在无数次重生轮回中刻印新武器与堕落鬼物，借助数百种元素鬼物与技能连锁联动触发毁灭性连环效果，最终打破宿命的枷锁。官方介绍显示该作此前曾入选 BIC 2024 Xsolla Pick 奖项，并获得 BIC 2024 卓越动作类提名。</p><ul class=" list-paddingleft-2"><li><p>支持单人游玩、Steam 云存档与家庭共享，可完整适配 Xbox、PlayStation 类型控制器</p></li><li><p>游戏原生支持简体中文、英语、韩语、法语、意大利语共 14 种语言，全音频中文配音覆盖完整游戏内容</p></li></ul><p><strong>最低配置：</strong>需要 64 位处理器和操作系统，Windows 10 x64（Version 1909 或更高）系统，Intel Core i5-4670K 或 AMD FX-8350 处理器，8 GB 内存，GeForce GTX 960（2048MB）或 AMD Radeon RX 470（2048 MB）显卡，DirectX 12 版本，3 GB 可用存储空间。</p><p><strong>推荐配置：</strong>需要 64 位处理器和操作系统，Windows 10 x64（Version 1909 或更高）系统，Intel Core i7-6700K 或 AMD Ryzen 5 1500X 处理器，8 GB 内存，GeForce GTX 970（2048 MB）或 Radeon R9 Fury（4096 MB）显卡，DirectX 12 版本，3 GB 可用存储空间。</p><p>目前开发商尚未在商店页标注额外 DRM 加密限制，也无需绑定其他第三方平台账号即可运行。官方表示选择抢先体验模式是希望与玩家共同打磨游戏内容，当前版本核心玩法、战斗循环与整体框架已经完整可玩。</p><h3>游戏图赏：</h3><p style="text-align: center;"><img alt="游戏截图" class="not-source" src="https://img.ithome.com/newsuploadfiles/2026/7/514089d9-64f9-4264-a09f-d34c96841a32.jpg" /></p><p style="text-align: center;"><img alt="游戏截图" class="not-source" src="https://img.ithome.com/newsuploadfiles/2026/7/db4ce5c6-023a-49b3-83fc-77ad41b63167.jpg" /></p><p style="text-align: center;"><img alt="游戏截图" class="not-source" src="https://img.ithome.com/newsuploadfiles/2026/7/e47d570a-75e2-48d1-b804-fc9c70f73f9d.jpg" /></p><p style="text-align: center;"><img alt="游戏截图" class="not-source" src="https://img.ithome.com/newsuploadfiles/2026/7/0b22966c-1d5c-4941-8990-2bd665bb38a7.jpg" /></p><p style="text-align: center;"><img alt="游戏截图" class="not-source" src="https://img.ithome.com/newsuploadfiles/2026/7/55b17c71-1f09-4616-ad0b-88560fec8327.jpg" /></p><p style="text-align: center;"><img alt="游戏截图" class="not-source" src="https://img.ithome.com/newsuploadfiles/2026/7/494dff96-9d81-41d8-bf19-edae8d8c8748.jpg" /></p><p style="text-align: center;"><img alt="游戏截图" class="not-source" src="https://img.ithome.com/newsuploadfiles/2026/7/23f724ea-64ab-4b0d-9c4b-4833daecf2b8.jpg" /></p><p style="text-align: center;"><img alt="游戏截图" class="not-source" src="https://img.ithome.com/newsuploadfiles/2026/7/25e844a9-9e20-46c1-abe5-df013e0d4a00.jpg" /></p><p style="text-align: center;"><img alt="游戏截图" class="not-source" src="https://img.ithome.com/newsuploadfiles/2026/7/c2c8bd62-967c-4a2f-88cd-49eda6ef239a.jpg" /></p><p style="text-align: center;"><img alt="游戏截图" class="not-source" src="https://img.ithome.com/newsuploadfiles/2026/7/788514a6-3727-4ade-b07b-84c555316ac6.jpg" /></p>]]></description>
-    <pubDate>Mon, 27 Jul 2026 12:39:09 -0000</pubDate>
-    <guid isPermaLink="true">https://www.ithome.com/0/979/806.htm</guid>
-    <source url="https://www.ithome.com/0/979/806.htm">IT之家</source>
-  </item>
-  <item>
     <title>[36氪] 保时捷计划到2035年在德国两家工厂累计投资21亿欧元</title>
     <link>https://36kr.com/newsflashes/3913874546857090?f=rss</link>
     <description><![CDATA[保时捷7月27日宣布与工会就未来发展方案达成一致，计划到2035年累计向德国斯图加特祖文豪森和魏萨赫工厂投资21亿欧元。保时捷另外公布一系列措施，旨在大幅降低人力成本、提高工厂灵活性并显著提升生产效率。其中包括，到2035年将以“对社会负责的方式”进一步裁减5000个工作岗位，主要通过自然减员、扩大特殊部分退休计划以及自愿离职协议等方式实现。（界面）]]></description>
     <pubDate>Mon, 27 Jul 2026 12:39:04 -0000</pubDate>
     <guid isPermaLink="true">https://36kr.com/newsflashes/3913874546857090?f=rss</guid>
     <source url="https://36kr.com/newsflashes/3913874546857090?f=rss">36氪</source>
-  </item>
-  <item>
-    <title>[V2EX] [分享发现] 这帮洗钱的太嚣张了</title>
-    <link>https://www.v2ex.com/t/1230227#reply1</link>
-    <description><![CDATA[闲鱼上挂了一张显卡，标价 2 万<br /><br />陆陆续续已经有 3 个人要上门自取，但是不走闲鱼，要银行卡直接转账。<br /><br />统一流程是假模假样问一嘴，也不砍价，说让朋友上门取，没问题直接银行卡转账<br /><br />我说自提可以，上门验货也可以，但是得走闲鱼交易，不直接走银行卡转账，这些人立刻就消失了不回复了<br /><br />这种一般有猫腻，弄不好前脚跟我银行卡转账，后脚就给我把银行卡冻结了<br /><br />大家千万小心奥]]></description>
-    <pubDate>Mon, 27 Jul 2026 12:36:40 -0000</pubDate>
-    <guid isPermaLink="true">https://www.v2ex.com/t/1230227#reply1</guid>
-    <source url="https://www.v2ex.com/t/1230227#reply1">V2EX</source>
   </item>
   <item>
     <title>[36氪] 上交所终止荣信汇科科创板IPO审核</title>
@@ -845,22 +970,6 @@ byte 1-2: 心率值（ uint16 ）
     <source url="https://36kr.com/newsflashes/3913869684381060?f=rss">36氪</source>
   </item>
   <item>
-    <title>[IT之家] 猛玛发布 LARK A2 无线麦克风：三档 AI 降噪，139-269 元</title>
-    <link>https://www.ithome.com/0/982/236.htm</link>
-    <description><![CDATA[<p>IT之家 7 月 27 日消息，猛玛今日发布了 LARK A2 无线麦克风，<strong>售价 139 元起</strong>：</p><ul class=" list-paddingleft-2"><li><p>一拖一：139 元</p></li><li><p>一拖二不带盒：199 元</p></li><li><p>一拖二带充电盒：269 元</p></li></ul><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/7/20373779-4c8e-4e76-b6c3-a786594da514.jpg?x-bce-process=image/format,f_auto" /></p><p>这款麦克风支持三档 AI 降噪，搭载 MOMA Smart-Sound 智能双降噪系统，拥有 10dB、15dB、20dB 三档降噪力度，可适配不同使用场景。</p><p style="text-align: center;"><img alt="快充5分钟续航1小时功能展示" src="https://img.ithome.com/newsuploadfiles/2026/7/76bc984c-e75e-4373-8a1c-d6420d929a96.jpg?x-bce-process=image/format,f_auto" /></p><p>这款麦克风音频采样规格达到 48kHz/24Bit，搭配 68dB 高信噪比与 120dBSPL 最大声压级，宣称能够还原真实通透的原声声场；内置智能人声美化功能，可一键自动优化齿音、均衡、动态压缩。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/7/551fcdf0-e9b3-4488-a3fd-38f96cd72273.png?x-bce-process=image/format,f_auto" /><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/7/e5ad33b5-61ea-40a2-832b-4773029d7ca7.png?x-bce-process=image/format,f_auto" /></p><p style="text-align: left;">这款麦克风发射器单次续航 7 小时，配合充电盒可为整套设备完整补电 2 次，综合续航 42 小时；发射器连接 USB-C 线可实现快充 5 分钟、续航 1 小时。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/7/10eea30f-b43a-481b-88df-efd9f4939099.png?x-bce-process=image/format,f_auto" /></p><p style="text-align: left;">IT之家附这款产品详细参数如下：</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/7/014ab950-0ca0-420b-8d03-17499f29e38a.png?x-bce-process=image/format,f_auto" /><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/7/a446a7c7-8b32-4f08-bd58-1a7e9b9d93c8.png?x-bce-process=image/format,f_auto" /></p><dir><a contenteditable="false" href="https://u.jd.com/9OoL8bp" target="_blank"> <span class="card main-site"> <span class="card-logo"> <img src="https://img14.360buyimg.com/pop/jfs/t1/471863/17/14341/28144/6a5095baF6cfcefd8/008332032098195f.png" /> </span> <span class="card-info"> <span class="card-title"> <span class="mall-data">京东</span> <span class="card-name">猛玛（MOMA）猛玛 LARK A2 无线领夹麦克风 手机直播 AI 降噪收音麦</span> </span> <span class="card-abstract"></span> <span class="card-controls"> <span class="price">269 元</span> <span class="card-btn-deep">直达链接</span> </span> </span> </span> </a> </dir>]]></description>
-    <pubDate>Mon, 27 Jul 2026 12:33:43 -0000</pubDate>
-    <guid isPermaLink="true">https://www.ithome.com/0/982/236.htm</guid>
-    <source url="https://www.ithome.com/0/982/236.htm">IT之家</source>
-  </item>
-  <item>
-    <title>[Hacker News] AI companies are shredding rare books</title>
-    <link>https://xcancel.com/HedgieMarkets/status/2081534588485296565</link>
-    <description><![CDATA[<a href="https://news.ycombinator.com/item?id=49068738">Comments</a>]]></description>
-    <pubDate>Mon, 27 Jul 2026 12:32:12 -0000</pubDate>
-    <guid isPermaLink="true">https://xcancel.com/HedgieMarkets/status/2081534588485296565</guid>
-    <source url="https://xcancel.com/HedgieMarkets/status/2081534588485296565">Hacker News</source>
-  </item>
-  <item>
     <title>[36氪] 小鹏将于未来6个月在澳大利亚推出5款新车型</title>
     <link>https://36kr.com/newsflashes/3913866615624835?f=rss</link>
     <description><![CDATA[7月27日，据小鹏集团消息，小鹏日前在墨尔本举办发布会，宣布未来6个月将在澳大利亚推出5款全新车型。（界面）]]></description>
@@ -869,44 +978,12 @@ byte 1-2: 心率值（ uint16 ）
     <source url="https://36kr.com/newsflashes/3913866615624835?f=rss">36氪</source>
   </item>
   <item>
-    <title>[IT之家] 三星硅碳电池有望下放至 Galaxy S27 系列，卷轴屏手机研发持续推进</title>
-    <link>https://www.ithome.com/0/982/235.htm</link>
-    <description><![CDATA[<p>IT之家 7 月 27 日消息，三星最新发布的 Galaxy 折叠屏手机终于开始采用硅碳（Si-C）电池，如今该公司也谈到了未来将硅碳电池引入 Galaxy S 系列（包括 Galaxy S27 系列）的可能性，同时还透露了备受关注的卷轴屏手机的研发进展。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/7/789eff08-2d80-4a18-b09b-d8aaab9e7bbe.jpg?x-bce-process=image/format,f_auto" /></p><p>据IT之家了解，最新发布的 Galaxy Z Fold8、Galaxy Z Fold8 Ultra 和 Galaxy Z Flip8，是三星首批搭载硅碳电池的智能手机。硅碳电池拥有更高的能量密度，因此能够在更轻薄的机身中装入容量更大的电池。</p><p>其中，两款横向折叠机型均配备了比上一代 Galaxy Z Fold7 更大的电池，而竖向折叠的 Galaxy Z Flip8 则在保持与前代相同电池容量的同时，实现了更加纤薄的机身设计。</p><p>尽管不少中国手机品牌早已开始采用硅碳电池，三星却花了数年时间才正式跟进。如今，外界关注的焦点已经转向：三星是否会将这项技术推广至折叠屏之外的产品线。</p><p>在近日于伦敦举行的一场媒体沟通会上，三星电子 MX（移动体验）事业部硬件副总裁 Moon Sung-hoon 被问及，未来 Galaxy S27 等直板旗舰是否也会采用硅碳电池。</p><p>对此，他表示：“如果电池能够帮助提升用户体验，我们将根据产品情况决定是否采用。”</p><p>此前已有报道称，三星正在为 Galaxy S27 系列测试硅碳电池。如果测试顺利，Galaxy S27 Ultra 的电池容量有望突破 5000mAh 大关，达到约 5500mAh。</p><p>此外，Moon Sung-hoon 还回应了备受期待的三星卷轴屏手机。他表示：“这是我们长期投入研发的技术方向，目前正持续提升技术成熟度，以实现最终的商业化。”</p><p>此前有消息称，三星内部的目标是在 2028 年上半年推出首款卷轴屏手机。与此同时，公司已经开始与旗下显示面板业务三星显示（Samsung Display）就相关供应事宜展开磋商。</p>]]></description>
-    <pubDate>Mon, 27 Jul 2026 12:29:45 -0000</pubDate>
-    <guid isPermaLink="true">https://www.ithome.com/0/982/235.htm</guid>
-    <source url="https://www.ithome.com/0/982/235.htm">IT之家</source>
-  </item>
-  <item>
-    <title>[V2EX] [iPhone] Vibe Code 了个视频加密存储播放分享的工具软件</title>
-    <link>https://www.v2ex.com/t/1230225#reply0</link>
-    <description><![CDATA[<p>Appstore 搜 [一隅之间] 可以自取，免费，无广。强密码派生，AES 分块加密，水印支持，本地不会有存储解密之后的视频。</p>]]></description>
-    <pubDate>Mon, 27 Jul 2026 12:29:22 -0000</pubDate>
-    <guid isPermaLink="true">https://www.v2ex.com/t/1230225#reply0</guid>
-    <source url="https://www.v2ex.com/t/1230225#reply0">V2EX</source>
-  </item>
-  <item>
-    <title>[36氪] ST恒信：公司及实控人因信披违规被证监会立案</title>
+    <title>[36氪] ST恒信：公司及实控人因信披违规被证监会立���</title>
     <link>https://36kr.com/newsflashes/3913863639799168?f=rss</link>
     <description><![CDATA[36氪获悉，ST恒信公告，公司及控股股东、实控人孟宪民当日分别收到证监会下发的立案告知书，因涉嫌信息披露违法违规，证监会决定对公司及控股股东立案。目前，公司各项经营活动均正常开展，上述事项不会对公司生产经营产生重大影响。]]></description>
     <pubDate>Mon, 27 Jul 2026 12:27:58 -0000</pubDate>
     <guid isPermaLink="true">https://36kr.com/newsflashes/3913863639799168?f=rss</guid>
     <source url="https://36kr.com/newsflashes/3913863639799168?f=rss">36氪</source>
-  </item>
-  <item>
-    <title>[IT之家] 提前 60 天，京沪高铁、京沪铁路中秋假期车票今起可预约</title>
-    <link>https://www.ithome.com/0/982/234.htm</link>
-    <description><![CDATA[<p>IT之家 7 月 27 日消息，7 月 20 日起，铁路部门在继续提供火车票预售、退票、改签服务的同时，在京沪高铁、京沪铁路的 200 多趟列车试点新增火车票预约购票服务。IT之家注意到，京沪高铁、京沪铁路中秋假期车票今起可预约。</p><p>具体如下：</p><ul class=" list-paddingleft-2"><li><p>7 月 27 日 → 9 月 24 日</p></li><li><p>7 月 28 日 → 9 月 25 日（中秋节）</p></li><li><p>7 月 29 日 → 9 月 26 日</p></li><li><p>7 月 30 日 → 9 月 27 日</p></li><li><p>7 月 31 日 → 9 月 28 日</p></li></ul><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/7/6a528c8d-b2a5-4cf9-af29-5700155cee1d.jpg?x-bce-process=image/format,f_auto" /></p><p>根据规定，试点日期 7 月 20 日至 8 月 29 日为过渡期，可依次预约 9 月 15 日及以后的车票，8 月 30 日起，可常态化预约开车前<strong>第 60 天至第 17 天车票</strong>。</p><p>试点阶段，每日 8 时起旅客可提交开车前第 60 天的预约订单。提交预约订单后，系统暂不支持修改订单信息，如行程发生变化，在兑现前可取消原订单、重新提交新订单。持预约车票，在开车前第 20 天至第 8 天办理退票的，将核收票面价格 5% 的退票费；开车前 8 天内（不含）退票的，按照既有预售车票退票规则执行。</p>]]></description>
-    <pubDate>Mon, 27 Jul 2026 12:19:08 -0000</pubDate>
-    <guid isPermaLink="true">https://www.ithome.com/0/982/234.htm</guid>
-    <source url="https://www.ithome.com/0/982/234.htm">IT之家</source>
-  </item>
-  <item>
-    <title>[IT之家] OpenAI 将在爱尔兰设立新的欧盟总部，两年内新增 250 个工作岗位</title>
-    <link>https://www.ithome.com/0/982/233.htm</link>
-    <description><![CDATA[<p>IT之家 7 月 27 日消息，据爱尔兰投资发展局官网，OpenAI 今日宣布在都柏林码头区的热带水果仓库办公楼租下 8.8 万平方英尺（约 8175 平方米）的办公空间，<strong>作为其位于都柏林的欧盟总部新址</strong>。</p><p>IT之家注：爱尔兰热带水果仓库是位于爱尔兰的一座标志性历史建筑兼现代办公开发项目，最初建于 19 世纪 90 年代，曾是都柏林热带水果公司的仓储旧址。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/7/b741a0fa-4d86-4e5c-9fc5-78462887e2c3.jpg?x-bce-process=image/format,f_auto" /></p><p>目前，OpenAI 在当地拥有 100 多名员工。在未来两年内，该公司将在市场推广 / 销售、工程、用户运营、人力资源、财务、隐私、法律、企业安全以及办公场所管理等领域<strong>新增 250 个岗位</strong>。</p><p>据悉，该总部将用于支持不断扩大的员工规模，促进与客户和开发者的合作，并全方位展示其最新技术，OpenAI 将于 2026 年底迁入。</p>]]></description>
-    <pubDate>Mon, 27 Jul 2026 12:17:43 -0000</pubDate>
-    <guid isPermaLink="true">https://www.ithome.com/0/982/233.htm</guid>
-    <source url="https://www.ithome.com/0/982/233.htm">IT之家</source>
   </item>
   <item>
     <title>[雷峰网] 国内首个抗失眠创新药法赞雷生在美团买药线上首发</title>
@@ -915,40 +992,6 @@ byte 1-2: 心率值（ uint16 ）
     <pubDate>Mon, 27 Jul 2026 12:17:00 -0000</pubDate>
     <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/4I7eKJyxSqk6gAOL.html</guid>
     <source url="https://www.leiphone.com/category/industrynews/4I7eKJyxSqk6gAOL.html">雷峰网</source>
-  </item>
-  <item>
-    <title>[V2EX] [程序员] 大佬们，在 Claude Code 中使用 GLM5.2 效果怎么样？</title>
-    <link>https://www.v2ex.com/t/1230224#reply4</link>
-    <description><![CDATA[<p>和 Claude Code 原生的比着怎么样？</p>
-<p>Codex 呢？</p>
-<p>Codex 开通会员的话，折腾几下。想着是不是先开通 glm 140 的套餐试试</p>]]></description>
-    <pubDate>Mon, 27 Jul 2026 12:14:33 -0000</pubDate>
-    <guid isPermaLink="true">https://www.v2ex.com/t/1230224#reply4</guid>
-    <source url="https://www.v2ex.com/t/1230224#reply4">V2EX</source>
-  </item>
-  <item>
-    <title>[V2EX] [职场话题] 25 岁, 拿了 N+1, 我该换行吗?</title>
-    <link>https://www.v2ex.com/t/1230223#reply4</link>
-    <description><![CDATA[<p>大概十几岁就开始玩编程写代码。高二下到大一摸得少一些，其他时间每天都要 coding 一两个小时，周末经常写到凌晨六七点然后暴睡到第二天下午。今年年初打通了工作流以后更加变本加厉地 vibe coding——做游戏、玩单片机、做合成器、做跑团工具，搞之前想搞的一切。</p>
-<p>上家正好在做 AI 产品，但 token 成本始终扯不平，产品线收缩，于是上个月爽拿了 N+1 。</p>
-<p>离职没多久我就有点不知所措了。现在脑子里反复转的一个问题：</p>
-<p><strong>我才 25 ，还应该继续搞开发吗？</strong></p>
-<p>当然我会一直待在几块荧光屏幕前鼓捣那些 nerd 玩意儿——这些东西对我比异性有吸引力多了。但我必须承认，我已经打心底觉得由于 LLM 和其他 ML 东西程序员这个行业要发生难以想象的变化，而且很可能愈演愈烈（当然，这个变化已经蔓延到很多其他行业）。</p>
-<p>如果我不转行，会不会有一天开发的工作甚至不足以支付我在家里搞开发的成本？会不会有一天在一个太晚太晚的时候，懊恼"我早知道为什么要犹豫"？</p>
-<p>我当然还有其他技能：大学时一直兼职做出版物排版和印前，和朋友合开了两家桌游吧，能设计、建模、混音、剪辑、插画……不过这些大部分都面临着和编程一样的困境。</p>
-<p>高考的时候都没觉得不安——毕竟那时已经能搞定站点前后端运维和大部分业务了，觉得高考也就是个找工作的工具罢了。但现在，我从来没有像现在这样不安过。</p>
-<p>说实话我都不知道自己在胡言乱语什么。只是感觉站在一个未知的未来前面——如果前面是某种乌托邦，要是晚出生几年该多好啊。</p>]]></description>
-    <pubDate>Mon, 27 Jul 2026 12:11:29 -0000</pubDate>
-    <guid isPermaLink="true">https://www.v2ex.com/t/1230223#reply4</guid>
-    <source url="https://www.v2ex.com/t/1230223#reply4">V2EX</source>
-  </item>
-  <item>
-    <title>[IT之家] 鸿蒙智行 OTA 享界系列暑期版本开启推送：WEWA 2.0 领航体验升级、新增城区漫游巡航功能</title>
-    <link>https://www.ithome.com/0/982/222.htm</link>
-    <description><![CDATA[<p>IT之家 7 月 27 日消息，鸿蒙智行今日发布鸿蒙智行 OTA 享界系列暑期功能说明，带来多项新增功能与体验优化，推送车型包含享界全系（S9 纯电 2024 款、S9 增程 2025 款、S9T 增程 / 纯电、S9 纯电 / 增程 2026 款），具体升级时间请用户留意 App 或车辆中控大屏的推送通知。</p><p>IT之家附更新内容如下：</p><p><strong>一、版本推送情况</strong></p><p>涉及车型：享界全系（S9 纯电 2024 款、S9 增程 2025 款、S9T 增程 / 纯电、S9 纯电 / 增程 2026 款）</p><p>* 具体升级时间请您留意 App 或车辆中控大屏的推送通知</p><p><strong>二、重点功能介绍</strong></p><p><strong>● WEWA 2.0 领航体验全面升级</strong></p><p>全新 WEWA 2.0 架构，带来更“类人”的驾驶体验。决策更精准，通行更丝滑，安全更有保障。</p><p>1. 通行效率优化：复杂场景中，系统决策更聪明，变道更精准，超车更丝滑。</p><p>2. 驾乘舒适升级：更有预见性地识别并判断路况，如车辆启停更平顺，可更早避开障碍物、平稳完成变道。</p><p>3. 安全能力优化：防御性驾驶增强，面对盲区提前减速观察，“该缓则缓，该快则快”。突发情况响应更及时，如他车近距离紧急切入，更快地做出减速和避让。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/7/7771c939-6249-41d1-bff2-50c74b3dcdd6.png" /></p><p>* 数据来源于华为智能汽车解决方案实验室测试数据</p><p>* 部分素材经过 AI 处理</p><p>* 图片仅为功能演示示例，体验请以实际车型为准</p><p>* 本次支持车型：享界全系车型</p><p><strong>● 新增城区漫游巡航功能</strong></p><p>新增漫游巡航功能，支持在非导航状态下，红绿灯识别、路口连续通行、自主变道等，轻松享受漫游时刻。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/7/07aad746-ae95-4b2c-941c-030b4d82cce3.png" /></p><p>* 图片仅供参考，具体以实际车辆显示为准</p><p>* 待漫游状态可用图标亮起时，点击方向盘左侧巡航滚轮，则默认优先进漫游，也可点击中控上方的“漫游巡航”状态岛，切换为 LCC</p><p>* 部分场景漫游受限（收费站、部分环岛），降级为 LCC</p><p>* 漫游规则：非路口优先沿本车道行驶，可支持辅助变道；路口场景按照地面标识线（如直行、左右转等）行驶，行驶优先级为直行 &gt; 右转 &gt; 左转 &gt; 掉头</p><p>* 本次支持车型：享界全系车型</p><p><strong>● 新增园区漫游巡航功能</strong></p><p>园区地面可开启漫游巡航功能，巡航过程中，支持一键就近泊车或点选沿途车位便捷泊入，轻松泊车。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/7/f2c58fe2-d196-4d07-b208-35206304d9dd.png" /></p><p>* 图片仅供参考，具体以实际车辆显示为准</p><p>* 本次支持车型：享界全系车型</p><p>● <strong>新增领航辅助（NCA）支持添加园区内部途经点功能</strong></p><p>领航辅助（NCA）过程中，支持添加园区内部的车位、电梯口等作为途径点，买杯咖啡、停车送人更方便！</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/7/537972d0-7174-4a58-a8ed-98c366d769fc.png" /></p><p>* 图片仅供参考，具体以实际车辆显示为准</p><p>* 途径点包含车位、电梯口等场景</p><p>* 本次支持车型：享界全系车型</p><p>● <strong>新增领航辅助（NCA）支持直达充电车位功能</strong></p><p>领航辅助（NCA）支持直达充电车位，自主寻找空闲充电车位并泊入，充电更省心！</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/7/f9b3eb16-c97b-4032-84c9-707e21e2d582.png" /></p><p>* 图片仅供参考，具体以实际车辆显示为准</p><p>* 仅支持部分合作充电运营商停车场（星星充电、特来电等），充电点位持续拓展中</p><p>* 本次支持车型：享界全系车型</p><p>● <strong>新增守位泊车功能</strong></p><p>泊车时点击目标车位后，转向灯亮起，若后向来车，则泊车轨迹更贴近车位，减少车位被占风险，贴心守护您的“心仪”车位。</p><p>* 本次支持车型：享界全系车型</p><p>●<strong>新增导航未结束时，离车下电后可自动恢复导航并支持一键激活领航辅助 (NCA) 功能</strong></p><p>用户到达目的地前导航未结束时，休眠唤醒后，再次打开导航提示用户开始导航并展示休眠前未结束路线，点击开始导航或激活智驾后，可以直接发起导航。</p><p>* 本次支持车型：享界全系车型</p><p>● <strong>优化领航辅助 (NCA) 激活体验</strong></p><p>开放式广场、环岛、乡间土路等非标路况均可激活领航辅助，全域可激活，领航更随心。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/7/c4e86ca7-f793-4520-8dd0-e4578db7dcc5.png" /></p><p>* 图片仅供参考，具体以实际车辆显示为准</p><p>* 本次支持车型：享界全系车型</p><p>● <strong>优化 3D 渲染界面，增加右转专用视角</strong></p><p>扩大右转场景下的渲染可视范围，提升对右转盲区的可视化呈现能力。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/7/b34bdcd1-7e95-4ec6-8460-4470c7fd2563.png" /></p><p>* 图片仅供参考，具体以实际车辆显示为准</p><p>* 本次支持车型：享界全系车型</p><p>● <strong>优化导航搜索记录页面，支持显示途经点</strong></p><p>搜索记录页支持导航历史记录展示，也可以显示途经点信息。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/7/a6de77f2-a145-4612-bdd3-6d466d895e3a.png" /></p><p>* 图片仅供参考，具体以实际车辆显示为准</p><p>* 本次支持车型：享界全系车型</p><p>● <strong>优化泊车体验</strong></p><p>断头路等复杂车位识别更精准；泊车轨迹规划高效快速，减少等候，全程平顺无顿挫，泊入更从容。</p><p>* 本次支持车型：享界全系车型</p>]]></description>
-    <pubDate>Mon, 27 Jul 2026 11:41:03 -0000</pubDate>
-    <guid isPermaLink="true">https://www.ithome.com/0/982/222.htm</guid>
-    <source url="https://www.ithome.com/0/982/222.htm">IT之家</source>
   </item>
   <item>
     <title>[36氪] 氪星晚报｜美国大型企业告别裁员潮重启招聘；英伟达、微软、IBM等数十家企业成立新联盟，旨在共同保障AI安全；《光伏行业成本核算模型通则》发布，引导行业有序竞争</title>
@@ -983,14 +1026,6 @@ byte 1-2: 心率值（ uint16 ）
     <pubDate>Mon, 27 Jul 2026 11:37:06 -0000</pubDate>
     <guid isPermaLink="true">https://36kr.com/p/3913320648971395?f=rss</guid>
     <source url="https://36kr.com/p/3913320648971395?f=rss">36氪</source>
-  </item>
-  <item>
-    <title>[Hacker News] Elevated errors on Claude Opus 5</title>
-    <link>https://status.claude.com/incidents/mfdtrknpxghq</link>
-    <description><![CDATA[<a href="https://news.ycombinator.com/item?id=49068029">Comments</a>]]></description>
-    <pubDate>Mon, 27 Jul 2026 11:32:32 -0000</pubDate>
-    <guid isPermaLink="true">https://status.claude.com/incidents/mfdtrknpxghq</guid>
-    <source url="https://status.claude.com/incidents/mfdtrknpxghq">Hacker News</source>
   </item>
   <item>
     <title>[cnBeta.COM.TW RSS订阅] 科学家在淡水动物体内首度发现传染性癌症</title>
@@ -1033,14 +1068,6 @@ byte 1-2: 心率值（ uint16 ）
     <source url="https://lockwood.dev/ai/2026/07/27/how-is-the-bun-rewrite-in-rust-going.html">Hacker News</source>
   </item>
   <item>
-    <title>[Hacker News] The Birth of the American 12-string Guitar</title>
-    <link>https://www.harpguitars.net/history/grunewald/12-string.htm</link>
-    <description><![CDATA[<a href="https://news.ycombinator.com/item?id=49067690">Comments</a>]]></description>
-    <pubDate>Mon, 27 Jul 2026 10:52:21 -0000</pubDate>
-    <guid isPermaLink="true">https://www.harpguitars.net/history/grunewald/12-string.htm</guid>
-    <source url="https://www.harpguitars.net/history/grunewald/12-string.htm">Hacker News</source>
-  </item>
-  <item>
     <title>[36氪] 清华博士团队创业，这家公司要给飞机做氢能「心脏」｜36氪首发</title>
     <link>https://36kr.com/p/3913736066028932?f=rss</link>
     <description><![CDATA[<p>文&nbsp;|&nbsp;阿至</p>
@@ -1058,7 +1085,7 @@ byte 1-2: 心率值（ uint16 ）
   <p>随着低空经济和商业航天风口的接踵而至，燃料电池在大功率、长续航、高适应性等性能上的优势开始被更多人关注到 ， 目前 国内多家头部航空 主机厂也在加速推进氢能动力系统的研发及验证。而在此之前，易氢动力已经默默耕耘了数年。</p>
   <h2><strong>先啃“硬骨头”</strong></h2>
   <p>啃下第一款30kW液冷燃料电池这块“硬骨头”，让易氢动力在创业初期便建立了一套区别于车用燃料电池系统的工程认知。而航空级和车规级的区别，是理解这家公司技术版图的关键。</p>
-  <p>在张科勋看来，<strong>航空级动力系统的能力要求主要体现在三个维度：</strong>极高的环境适应性（比如万米高空、低温低压等环境）、极致的可靠性（比如上万小时的寿命、高安全性的适航认证要求）以及对功率密度的苛刻要求。</p>
+  <p>在张科勋看来，<strong>航空级动力系统的能力要求主要体现在三个维度：</strong>极高的环境适应性（比如万米高空、低温低压等环境）、极致的可靠性（比如上万小时的寿���、高安全性的适航认证要求）以及对功率密度的苛刻要求。</p>
   <p>易氢动力的技术布局，有一条从能力溢出到场景收敛的清晰脉络。</p>
   <p>目前，其产品体系围绕液冷与空冷两条路线展开，二者在定位、功率、环境适应性上形成鲜明互补。</p>
   <p class="image-wrapper"><img src="https://img.36krcdn.com/hsossms/20260727/v2_eaa8404294e94ac8a37c12fc7435ed34@577536001_oswg45834oswg1080oswg483_img_000?x-oss-process=image/format,jpg/interlace,1" /></p>
@@ -1122,7 +1149,7 @@ byte 1-2: 心率值（ uint16 ）
   <p>足以证明，用户规模虽仍旧重要，但不再是 AI 应用估值的唯一硬通货，新的叙事主线，重新回到了产品形态长期可持续的商业化。</p>
   <p>资本评估 AI 的 benchmark 变了：过去两年盛行的是算力补贴换规模，但账面 DAU 只撑得起估值，撑不起毛利。资本市场发现，互联网时代的圈地打法在 AI 这里行不通，算力成本和留存曲线接连“显出原形”，曾经被寄予厚望的爆款产品也开始一批批退场。</p>
   <p>行业拐点由此到来，资本不再为规模本身买单，转向了商业化质量验证。</p>
-  <p>新逻辑之下，拥有稳健商业模型的公司，反而有了更多��为“良币”留下来的机会，拿到更好的估值。比如，最近完成了超亿元 B 轮融资的海艺，就是一家被资本看好的稳健型企业：来自成都，面向全球，以“为 C 端而生”作为商业哲学，过去几年持续做出了爆款 AI 应用，财务数据也已经比较漂亮。</p>
+  <p>新逻辑之下，拥有稳健商业模型的公司，反而有了更多作为“良币”留下来的机会，拿到更好的估值。比如，最近完成了超亿元 B 轮融资的海艺，就是一家被资本看好的稳健型企业：来自成都，面向全球，以“为 C 端而生”作为商业哲学，过去几年持续做出了爆款 AI 应用，财务数据也已经比较漂亮。</p>
   <p>潮水退去之后，更值得追问的是：什么样的 AI 应用，能“站着赚钱”？</p>
   <h2><strong>商业化质量验证，拐点已至</strong></h2>
   <p>AI 应用层过去两年的主流叙事，是资本联手企业一起和硅谷比烧钱，所以规模优先、算力补贴，先把对手清退，毛利问题“留给以后”。这样的打法在资本宽松期跑得通，但在2025 年下半年已经开始显出疲态。</p>
@@ -1193,14 +1220,6 @@ byte 1-2: 心率值（ uint16 ）
     <source url="https://sspai.com/post/112785">少数派</source>
   </item>
   <item>
-    <title>[Hacker News] Shay Locomotives</title>
-    <link>https://www.shaylocomotives.com/</link>
-    <description><![CDATA[<a href="https://news.ycombinator.com/item?id=49067043">Comments</a>]]></description>
-    <pubDate>Mon, 27 Jul 2026 09:23:29 -0000</pubDate>
-    <guid isPermaLink="true">https://www.shaylocomotives.com/</guid>
-    <source url="https://www.shaylocomotives.com/">Hacker News</source>
-  </item>
-  <item>
     <title>[Hacker News] VLC for Unity now supported on Linux</title>
     <link>https://code.videolan.org/videolan/vlc-unity</link>
     <description><![CDATA[<a href="https://news.ycombinator.com/item?id=49066928">Comments</a>]]></description>
@@ -1239,14 +1258,6 @@ byte 1-2: 心率值（ uint16 ）
     <pubDate>Mon, 27 Jul 2026 09:01:52 -0000</pubDate>
     <guid isPermaLink="true">https://www.cnbeta.com.tw/articles/tech/1570492.htm</guid>
     <source url="https://www.cnbeta.com.tw/articles/tech/1570492.htm">cnBeta.COM.TW RSS订阅</source>
-  </item>
-  <item>
-    <title>[Hacker News] Modern email can be built from borrowed parts</title>
-    <link>https://en.andros.dev/blog/d7ed8b07/modern-email-can-be-built-from-borrowed-parts/</link>
-    <description><![CDATA[<a href="https://news.ycombinator.com/item?id=49066639">Comments</a>]]></description>
-    <pubDate>Mon, 27 Jul 2026 08:27:21 -0000</pubDate>
-    <guid isPermaLink="true">https://en.andros.dev/blog/d7ed8b07/modern-email-can-be-built-from-borrowed-parts/</guid>
-    <source url="https://en.andros.dev/blog/d7ed8b07/modern-email-can-be-built-from-borrowed-parts/">Hacker News</source>
   </item>
   <item>
     <title>[36氪] 最前线 | 最大起飞重量8吨的无人货运 eVTOL，牧羽天航空飞行重卡AT8000整机机身下线</title>
@@ -1352,22 +1363,6 @@ byte 1-2: 心率值（ uint16 ）
     <source url="https://www.cnbeta.com.tw/articles/tech/1570480.htm">cnBeta.COM.TW RSS订阅</source>
   </item>
   <item>
-    <title>[cnBeta.COM.TW RSS订阅] 3.65万亿长鑫到底刷新多少纪录</title>
-    <link>https://www.cnbeta.com.tw/articles/tech/1570478.htm</link>
-    <description><![CDATA[<p>2026年7月27日，国产DRAM存储芯片龙头长鑫科技（688825）正式登陆科创板。这场备受瞩目的IPO，从申购到上市，一路刷新了多项A股纪录。长鑫科技此次IPO至少在募资规模（科创板第一、A股第三）、审核速度（148天）、首日成交额（A股第一）、首日市值（A股第一）、网上中签率（科创板第一）等五个维度创下A股历史纪录，同时在发行估值和战略配售结构上亦呈现出极为罕见的特征。这场IPO不仅是国产存储芯片产业资本化的里程碑，也注定在中国资本市场编年史上留下浓重一笔。</p> <a href="https://www.cnbeta.com.tw/articles/tech/1570478.htm" target="_blank"><strong>阅读全文</strong></a>]]></description>
-    <pubDate>Mon, 27 Jul 2026 06:16:10 -0000</pubDate>
-    <guid isPermaLink="true">https://www.cnbeta.com.tw/articles/tech/1570478.htm</guid>
-    <source url="https://www.cnbeta.com.tw/articles/tech/1570478.htm">cnBeta.COM.TW RSS订阅</source>
-  </item>
-  <item>
-    <title>[cnBeta.COM.TW RSS订阅] 长鑫科技背后的国资版图：合肥重仓十年，广州深圳跨省押注</title>
-    <link>https://www.cnbeta.com.tw/articles/tech/1570476.htm</link>
-    <description><![CDATA[<p>7月27日，国产DRAM龙头长鑫科技正式登陆上交所科创板。开盘报49.5元/股，较发行价8.66元大涨471.59%，总市值突破3.31万亿元，超越工商银行成为A股总市值第一。盘中市值一度冲至3.65万亿元，超越港股腾讯控股和美股芯片巨头英特尔。</p> <a href="https://www.cnbeta.com.tw/articles/tech/1570476.htm" target="_blank"><strong>阅读全文</strong></a>]]></description>
-    <pubDate>Mon, 27 Jul 2026 06:15:44 -0000</pubDate>
-    <guid isPermaLink="true">https://www.cnbeta.com.tw/articles/tech/1570476.htm</guid>
-    <source url="https://www.cnbeta.com.tw/articles/tech/1570476.htm">cnBeta.COM.TW RSS订阅</source>
-  </item>
-  <item>
     <title>[36氪] 36氪首发 | 前大疆工程师创业做智能网球发球机，产品已开启海外市场批量交付</title>
     <link>https://36kr.com/p/3913490184754313?f=rss</link>
     <description><![CDATA[<p>作者&nbsp;|&nbsp;乔钰杰</p>
@@ -1382,12 +1377,12 @@ byte 1-2: 心率值（ uint16 ）
   <p>产品形态上，公司从消费硬件的角度重新设计了产品，将设备做成类似行李箱的移动形态。设备展开后，通过主动轮、驱动系统和支腿结构形成稳定高速移动单元；收纳状态下则可以像行李箱一样拖行。</p>
   <p class="image-wrapper"><img src="https://img.36krcdn.com/hsossms/20260727/v2_3d8726d3b32546e48b01081bee487ede@5920579_oswg556545oswg784oswg523_img_000?x-oss-process=image/format,jpg/interlace,1" /></p>
   <p class="img-desc">（图源/企业）</p>
-  <p>软件层面，一思智能开发了配套App，提供球路设置、训练课程和数据分析等功能，并联合国内外合作伙伴开发系统化课程。公司希���通过机器人创造训练环境，采集用户击球过程中的球速、落点、旋转、位移等数据，进一步形成用户技能画像，并根据用户水平、短板和成长曲线提供个性化训练方案。</p>
+  <p>软件层面，一思智能开发了配套App，提供球路设置、训练课程和数据分析等功能，并联合国内外合作伙伴开发系统化课程。公司希望通过机器人创造训练环境，采集用户击球过程中的球速、落点、旋转、位移等数据，进一步形成用户技能画像，并根据用户水平、短板和成长曲线提供个性化训练方案。</p>
   <p>晁光表示，未来竞争的核心并不只是硬件性能，而是围绕训练数据形成的软件服务能力。随着用户规模增长，更多真实训练数据沉淀后，系统能够进一步优化训练模型，形成“数据积累—训练效果提升—用户留存增长”的循环。</p>
   <p>此前，一思智能的首款网球AI机器人Aceiilab A1在Kickstarter累计筹集资金超过82万美元，目前正在进行批量交付。国内市场方面，一思智能计划上线电商渠道，同步下一代产品也在规划中，目前已有经销商签署千万级框架协议。</p>
   <p><strong>以下为硬氪与一思智能晁光交流节选：</strong></p>
   <p><strong>硬氪：一思智能做网球发球机的优势在哪里？</strong></p>
-  <p><strong>晁光：</strong>我们的核心优势首先体现在机器人基因上。团队具备从AGV、AMR、无人机原型机，到商用清洁和割草机器人等完整品类的研发经验。机器人产品与普通AI硬件的本质区别在于，它不仅依赖算法，更需要机械、电控、运动控制与系统集成的综合能力。这使得我们能从底层创造新的使用场景，而非仅在现成硬件上叠加AI功能。</p>
+  <p><strong>晁光：</strong>我们的核心优势首先体现在机器人基因上。团队具备从AGV、AMR、无人机原型机，到商用清洁和割草机器人等完整品类的研发经验。机器人产品与普通AI硬件的本质区别在于，它不仅依赖算法，更需要机械、电控、运动控制与系统集成的综合能力。这使得我们��从底层创造新的使用场景，而非仅在现成硬件上叠加AI功能。</p>
   <p>其次在于完整的消费品出海经验。团队多次经历过从0到1的产品定义、供应链搭建与海外市场推广全过程，对于交付与产能爬坡更有经验。目前，对于移动网球机器人这样零部件超过200个的复杂新品类，我们已在量产之初就按照规模化交付思路建设产线，包括自主设计检测流程、工装夹具和数据管理系统，确保产品稳定落地。</p>
   <p><strong>硬氪：网球发球机赛道有不少玩家，一思智能的产品逻辑有何不同？</strong></p>
   <p><strong>晁光：</strong>网球训练的核心不是单次击球，而是节奏及空间位置的判断，因此我们选择了“多空间以发代打”的路径，不追求机器人机械地完成所有接球动作，而是通过在不同发球位置和发球节奏的组合，用稳定、高质量的发球模拟真实对拉节奏，让用户形成有效的肌肉记忆。</p>
@@ -1455,22 +1450,6 @@ apk add git
     <pubDate>Mon, 27 Jul 2026 05:27:00 -0000</pubDate>
     <guid isPermaLink="true">https://www.appinn.com/ish-arm64-ios/</guid>
     <source url="https://www.appinn.com/ish-arm64-ios/">小众软件</source>
-  </item>
-  <item>
-    <title>[cnBeta.COM.TW RSS订阅] 内存价格飙涨倒逼Google改进Android系统和应用 降低对内存的需求量</title>
-    <link>https://www.cnbeta.com.tw/articles/tech/1570474.htm</link>
-    <description><![CDATA[<p>从 2024 年以来内存价格就在上涨，这种上涨情况在 2025 年到现在更加夸张，例如 1GB 内存采购价从 2025 年的 2.8 美元飙升到现在的 12 美元，对于配备 16GB 内存的旗舰手机而言，仅在内存上成本就从 45 美元攀升到 192 美元，这对 OEM 而言是难以接受的。</p> <a href="https://www.cnbeta.com.tw/articles/tech/1570474.htm" target="_blank"><strong>阅读全文</strong></a>]]></description>
-    <pubDate>Mon, 27 Jul 2026 04:47:50 -0000</pubDate>
-    <guid isPermaLink="true">https://www.cnbeta.com.tw/articles/tech/1570474.htm</guid>
-    <source url="https://www.cnbeta.com.tw/articles/tech/1570474.htm">cnBeta.COM.TW RSS订阅</source>
-  </item>
-  <item>
-    <title>[cnBeta.COM.TW RSS订阅] Claude AI会话分享链接存在配置错误 大量包含私密内容的用户会话被Google抓取</title>
-    <link>https://www.cnbeta.com.tw/articles/tech/1570472.htm</link>
-    <description><![CDATA[<p>上周末有用户发现 Claude AI 会话分享竟然出现在Google搜索中，即 A 社并未设置分享链接禁止搜索引擎抓取，因此只需要使用 SITE 指令就可以查询大量已经被Google或其他搜索引擎抓取收录的会话分享链接，部分会话分享链接中包含用户的私密信息。</p> <a href="https://www.cnbeta.com.tw/articles/tech/1570472.htm" target="_blank"><strong>阅读全文</strong></a>]]></description>
-    <pubDate>Mon, 27 Jul 2026 04:45:49 -0000</pubDate>
-    <guid isPermaLink="true">https://www.cnbeta.com.tw/articles/tech/1570472.htm</guid>
-    <source url="https://www.cnbeta.com.tw/articles/tech/1570472.htm">cnBeta.COM.TW RSS订阅</source>
   </item>
   <item>
     <title>[少数派] 角落新声｜不再烧 Hi-Fi 后，我在走步机上给音乐留了一小时</title>
@@ -1696,7 +1675,7 @@ apk add git
   <p class="img-desc">SonicGlass A1在Kickstarter的众筹金额突破120万美元</p>
   <h3>从透明歌词音响，走向电子家居产品矩阵</h3>
   <p>MORROR ART成立于2020年，总部位于江苏无锡。品牌最早以透明歌词音响进入市场，将实时歌词显示、透明材料与声学系统结合，让原本只存在于手机屏幕中的歌词，成为家庭空间中可以被持续观看和感知的内容。</p>
-  <p>这一产品迅速建立了较强的辨识度，但对MORROR ART而言，歌词显示不是全部。它真正希望进入的，是一个位于消费电子与家居产品之间的新市场。</p>
+  <p>这一产品���速建立了较强的辨识度，但对MORROR ART而言，歌词显示不是全部。它真正希望进入的，是一个位于消费电子与家居产品之间的新市场。</p>
   <p>传统音响首先是一件功能设备，用户购买它是为了播放声音。当音乐停止、设备关闭，它通常只剩下一个被摆放在桌面、电视柜或角落里的电子黑盒。家居产品则不同，一盏灯、一把椅子、一幅装饰画或者一个花瓶，即使没有被主动使用，依然参与着空间构成，持续提供审美价值和环境氛围。</p>
   <p>MORROR ART希望改变消费电子产品与家庭空间之间的关系。在其产品逻辑中，一件电子产品不应该只在开机时产生价值，它还应该具备材料感、空间感、陈列感和长期观看价值，能够像家具、灯具或艺术摆件一样，自然地融入家庭。</p>
   <p>MORROR ART品牌创始人张俭表示，“电子产品不应该天然与家居环境冲突，它既可以承载技术，也可以承载审美、情绪和人的生活方式。”因此，品牌尝试的产品定义是，让声学、显示、数字内容、材料设计和空间审美，在同一件产品中成立。</p>
@@ -1705,7 +1684,7 @@ apk add git
   <p class="img-desc">MORROR ART产品矩阵</p>
   <p><strong>目前，MORROR ART已经形成约8个SKU组成的基础产品矩阵，未来计划扩展至约20个SKU，价格带从1000多元、2000多元、3000多元，逐步延伸至接近2万元，覆盖桌面、床头、书房、客厅、墙面及更完整的家庭空间。</strong></p>
   <p>对MORROR ART而言，扩展至20个SKU并不意味着推出20台形态相似的音响。其真正目标，是在不同空间、不同预算和不同生活阶段中，建立一套统一但不重复的电子家居产品体系。</p>
-  <p>它们的外形各异，但都将围绕三个核心问题展开：电子产品如何融入家庭空间，数字内容如何形成持续���情绪价值，音乐如何从单纯的听觉内容转化为空间体验。</p>
+  <p>它们的外形各异，但都将围绕三个核心问题展开：电子产品如何融入家庭空间，数字内容如何形成持续的情绪价值，音乐如何从单纯的听觉内容转化为空间体验。</p>
   <h3>「视觉音乐」不只是歌词显示，而是为歌曲建立视觉叙事</h3>
   <p>视觉音乐仍然是MORROR ART产品体系的重要基础，但它不再只是歌词显示功能的延伸。在其早期产品中，屏幕主要承担歌词陈列功能，让用户在听歌时可以同步阅读歌词。</p>
   <p>下一阶段，MORROR ART希望让视觉内容与音乐本身发生更深的关系。一首歌曲不再只对应几行依次滚动的文字，而可以对应字体运动、节奏变化、色彩、动态影像、情绪场景以及具有MV叙事感的背景内容。</p>
@@ -1729,7 +1708,7 @@ apk add git
   <p>线下门店对MORROR ART而言，不只是销售渠道，也是产品陈列、空间示范和品类教育的基础设施。</p>
   <p>消费者需要先看到一台SonicGlass A1如何进入客厅，看到透明声学单元如何降低产品的视觉重量，看到歌词与MV式画面如何与空间发生关系，才能真正理解电子家居与普通音响之间的区别。</p>
   <p>日初资本在消费品牌、渠道运营和线下零售方面的经验，也将成为MORROR ART推进这一阶段的重要支持。</p>
-  <p>张俭表示，“我们���不希望融资之后盲目地做得更大、更快。更重要的是，把已经验证的方向做得更深，把产品、内容、软件、供应链和渠道建设得更完整。”</p>
+  <p>张俭表示，“我们并不希望融资之后盲目地做得更大、更快。更重要的是，把已经验证的方向做得更深，把产品、内容、软件、供应链和渠道建设得更完整。”</p>
   <p>从让歌词进入空间，到让音乐形成视觉叙事，再到让电子产品真正成为家居的一部分，MORROR ART正在尝试完成一次更具挑战性的品类迁移。它可能不只是一家销售歌词音响的消费电子企业，而是一家以视觉音乐为内容核心、以电子家居为产品形态，并试图走向全球市场的新型品牌公司。</p>
   <h2>投资人观点</h2>
   <p><strong>日初资本创始人陈峰表示：</strong>电子产品进入家庭以后，不应该只是一件功能设备。它同样可以成为空间审美和生活方式的一部分。MORROR ART已经完成了第一阶段的产品验证，下一阶段有机会通过更完整的产品矩阵、线下体验和全球化能力，建立长期品牌价值。</p>
@@ -1846,7 +1825,7 @@ apk add git
   <p>“数字空间一号”试验星工程的正式启动，特殊之处不在于它要具体执行哪些任务，而是要验证一件事：卫星能不能拥有自己的“大脑”。</p>
   <p>正如远洋航海需要航海图一样，进入大航天时代，人类也需要绘制自己的“航天图”，这背后都依赖空间数字化、智能化能力的提升。</p>
   <p>而当卫星需要“大脑”，一场数字空间的产业突围也在北京打响。</p>
-  <p>作为魏奉思院士《数字空间战略》落地和应用实践的推动者，数字太空成立于2019年，核心业务聚焦太空数字化、智能化及应用。为了加速推进数字空间“大脑”的落地，目前公司正在加速智能载荷的研制和数字太空模型算法的研发。</p>
+  <p>作为魏奉思院��《数字空间战略》落地和应用实践的推动者，数字太空成立于2019年，核心业务聚焦太空数字化、智能化及应用。为了加速推进数字空间“大脑”的落地，目前公司正在加速智能载荷的研制和数字太空模型算法的研发。</p>
   <p>数字太空董事长、总裁王世金现场提到，围绕大规模星座安全运行、太空环境风险应对和卫星自主运行等需求，数字太空进一步提出“卫星智驾+太空智管”解决方案：通过星上感知载荷和智驾载荷提升卫星自主运行能力，依托SpaceOmni地面平台开展环境监测、风险预警、星座运营、孪生推演和任务决策。</p>
   <p>具体来看就是，在星侧，卫星智驾通过新增感知层和智能载荷，让卫星具备对空间环境、系统状态和碰撞风险的自主感知与决策能力；在地面侧，太空智管平台整合环境监测、风险预警、星座运行和数字孪生推演，构建星地协同的卫星智能管控闭环。</p>
   <p>而“数字空间一号”试验星的使命，就是要把魏奉思院士提出的“感知－认知－行为”大脑智能架构完整搬上太空进行在轨验证。会上，王世金也强调了速度的重要性——商业航天等不起，必须两条腿走路，尽快拿到在轨数据。</p>
@@ -1916,7 +1895,7 @@ apk add git
   <p><strong>港交所新规生效，科技企业上市门槛再降低</strong></p>
   <p>近日，港交所就有关提升港股上市机制竞争力的建议发布咨询总结，修订后的上市规则随即生效。今年以来，已有近100家企业在港股上市，还有逾500家正在审核。业内人士认为，港交所上市新规生效，市场包容性进一步提升，无论大幅降低“同股不同权”架构企业的上市财务门槛、放宽投票权比例限制，还是为海外上市企业赴港上市提供更多便利、允许所有申请人秘密递表，都有助于吸引更多类型公司上市，丰富投资者的选择，提升港交所的国际竞争力。（上证报）</p>
   <p><strong>Naver与英伟达达成价值10亿美元的战略投资协议</strong></p>
-  <p>韩国���联网门户运营商Naver与英伟达达成了一项价值10亿美元的战略投资协议，英伟达将获得Naver 4.5%的股份。（财联社）</p>
+  <p>韩国互联网门户运营商Naver与英伟达达成了一项价值10亿美元的战略投资协议，英伟达将获得Naver 4.5%的股份。（财联社）</p>
   <p><strong>美国五大科技巨头隐性债务超万亿美元</strong></p>
   <p>《日经亚洲评论》21日报道称，在查阅了谷歌的母公司“字母表”公司、微软、亚马逊、元宇宙公司和甲骨文公司的财报和其他资料后发现，这五家科技巨头的隐性债务4年内增长了8倍，最近一个季度达到了1.65万亿美元，远超表内约1.35万亿美元的负债规模。评级机构穆迪早在2月就对美国科技巨头庞大的隐性负债发出警告。据英国《金融时报》报道，穆迪在当时的一份报告中称，美国现行会计准则存在“局限性”，允许大型科技公司在人工智能数据中心建设狂潮中，隐藏数百亿美元的潜在负债。这一漏洞可能导致投资者难以看清这些科技巨头真实的财务健康状况。（央视财经）</p>
   <p><strong>2026年7月票房破40亿</strong></p>
@@ -1956,14 +1935,6 @@ apk add git
     <pubDate>Sun, 26 Jul 2026 23:00:57 -0000</pubDate>
     <guid isPermaLink="true">https://sspai.com/post/112769</guid>
     <source url="https://sspai.com/post/112769">少数派</source>
-  </item>
-  <item>
-    <title>[Hacker News] Scriptc by Vercel: TypeScript-to-Native compiler, no JavaScript engine in binary</title>
-    <link>https://github.com/vercel-labs/scriptc</link>
-    <description><![CDATA[<a href="https://news.ycombinator.com/item?id=49063175">Comments</a>]]></description>
-    <pubDate>Sun, 26 Jul 2026 22:46:10 -0000</pubDate>
-    <guid isPermaLink="true">https://github.com/vercel-labs/scriptc</guid>
-    <source url="https://github.com/vercel-labs/scriptc">Hacker News</source>
   </item>
   <item>
     <title>[雷峰网] 希音披露聆讯后资料集：年营收418亿美元、供应链优势强化盈利韧性</title>
@@ -3294,6 +3265,14 @@ apk add git
     <source url="https://blackhole.plav.in">Hacker News</source>
   </item>
   <item>
+    <title>[Hacker News] Glue bonds to nonstick surfaces and wipes clean with ethanol</title>
+    <link>https://cen.acs.org/materials/adhesives/glue-bonds-nonstick-surfaces-wipes-clean/104/web/2026/07</link>
+    <description><![CDATA[<a href="https://news.ycombinator.com/item?id=49020993">Comments</a>]]></description>
+    <pubDate>Thu, 23 Jul 2026 13:08:52 -0000</pubDate>
+    <guid isPermaLink="true">https://cen.acs.org/materials/adhesives/glue-bonds-nonstick-surfaces-wipes-clean/104/web/2026/07</guid>
+    <source url="https://cen.acs.org/materials/adhesives/glue-bonds-nonstick-surfaces-wipes-clean/104/web/2026/07">Hacker News</source>
+  </item>
+  <item>
     <title>[小众软件] OpenLogi – 开源罗技鼠标管理工具，替代 Logitech Options+</title>
     <link>https://www.appinn.com/openlogi/</link>
     <description><![CDATA[<p class="has-very-light-gray-to-cyan-bluish-gray-gradient-background has-background wp-block-paragraph">如果你觉得罗技官方的 <strong>Logi Options+</strong> 软件臃肿，比如需要登录、内置AI、广告、冗余快捷启动等，那么可以试试这款第三方的开源管理工具 <strong>OpenLogi</strong>。@<a href="https://www.appinn.com/openlogi/">Appinn</a></p>
@@ -3622,6 +3601,14 @@ apk add git
     <pubDate>Wed, 22 Jul 2026 16:49:29 -0000</pubDate>
     <guid isPermaLink="true">https://mymodernmet.com/magnolia-ancient-flowers-beetles/</guid>
     <source url="https://mymodernmet.com/magnolia-ancient-flowers-beetles/">Hacker News</source>
+  </item>
+  <item>
+    <title>[Hacker News] Beckett the Prophet</title>
+    <link>https://theamericanscholar.org/beckett-the-prophet/</link>
+    <description><![CDATA[<a href="https://news.ycombinator.com/item?id=49008010">Comments</a>]]></description>
+    <pubDate>Wed, 22 Jul 2026 15:08:20 -0000</pubDate>
+    <guid isPermaLink="true">https://theamericanscholar.org/beckett-the-prophet/</guid>
+    <source url="https://theamericanscholar.org/beckett-the-prophet/">Hacker News</source>
   </item>
   <item>
     <title>[Hacker News] Building a Fast Lock-Free Queue in Modern C++ from Scratch</title>
