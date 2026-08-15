@@ -5,43 +5,381 @@
   <link>https://baich110.github.io/rss-feed/</link>
   <description>自动聚合多个优质科技/数码/技术资讯源，每小时更新</description>
   <language>zh-CN</language>
-  <lastBuildDate>Sat, 15 Aug 2026 13:31:27 -0000</lastBuildDate>
+  <lastBuildDate>Sat, 15 Aug 2026 14:24:00 -0000</lastBuildDate>
   <atom:link href="https://baich110.github.io/rss-feed/feed.xml" rel="self" type="application/rss+xml" />
   <item>
-    <title>[原创频道&gt;&gt;什么值得买] JBL PartyBox接麦克风总没声？老玩家血泪踩坑总结：接口选错白忙活</title>
-    <link>https://post.smzdm.com/p/a70kl97d/</link>
-    <description><![CDATA[匿名用户JBL PartyBox连接麦克风和乐器：老玩家压箱底的实操经验JBL PartyBox系列能唱歌、能接乐器，听起来很美好。但真到现场操作，十个人里有八个会在“接口插哪儿”“怎么没声音”“延迟怎么这么大”这几个环节卡壳。问题不在设备本身，而在于这套系统的连接逻辑跟家用蓝牙音箱完全不同——它是专业扩声设备的简化版，不是消费级蓝牙设备的增强版。搞懂这个区别，操作就顺畅了一半。先说接口。PartyBox<p>本文来自<a href="https://post.smzdm.com/p/a70kl97d/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
-    <pubDate>Sat, 15 Aug 2026 13:30:42 -0000</pubDate>
-    <guid isPermaLink="true">https://post.smzdm.com/p/a70kl97d/</guid>
-    <source url="https://post.smzdm.com/p/a70kl97d/">原创频道&gt;&gt;什么值得买</source>
+    <title>[原创频道&gt;&gt;什么值得买] 苏超生死战南京队遭点球绝杀，跌出晋级区</title>
+    <link>https://post.smzdm.com/p/a6zwkg4o/</link>
+    <description><![CDATA[匿名用户苏超第9轮的生死战中，南京队主场0:1不敌扬州队。全场比赛最后时刻，扬州队获得点球机会，吴雷主罚命中完成绝杀。这场关键对决的直接结果就是让两队的晋级形势瞬间反转：扬州队赢球后冲进前八晋级区，而输球的南京队则滑落至第九名，被挤出淘汰赛门槛。89分钟点球绝杀，南京饮恨主场赛前这场比赛就被定义为“卡位生死战”，双方都输不起。上半场两队互交白卷，场面胶着，谁都不敢贸然压上。僵局直到比赛第89分钟才被打破，<p>本文来自<a href="https://post.smzdm.com/p/a6zwkg4o/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
+    <pubDate>Sat, 15 Aug 2026 14:22:53 -0000</pubDate>
+    <guid isPermaLink="true">https://post.smzdm.com/p/a6zwkg4o/</guid>
+    <source url="https://post.smzdm.com/p/a6zwkg4o/">原创频道&gt;&gt;什么值得买</source>
   </item>
   <item>
-    <title>[原创频道&gt;&gt;什么值得买] 上海高考数学计算器选错型号直接作废！这些机型千万别带</title>
-    <link>https://post.smzdm.com/p/ad7d05ed/</link>
-    <description><![CDATA[匿名用户上海高考数学能带计算器，但90%的人只用了10%的功能。这不是夸张。看看你手里的卡西欧fx-991CN X——能解二元到四元方程组、能算矩阵行列式、能做回归分析、能求定积分数值、能处理复数运算。这么多功能，平时拿来干什么？按1+1=2。更扎心的是，一道需要手算15分钟的解析几何大题，用计算器的方程模式30秒出答案。你还在草稿纸上埋头苦算，别人已经翻到下一页了。1先搞清楚：你的机型能带进考场吗别急着<p>本文来自<a href="https://post.smzdm.com/p/ad7d05ed/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
-    <pubDate>Sat, 15 Aug 2026 13:30:40 -0000</pubDate>
-    <guid isPermaLink="true">https://post.smzdm.com/p/ad7d05ed/</guid>
-    <source url="https://post.smzdm.com/p/ad7d05ed/">原创频道&gt;&gt;什么值得买</source>
+    <title>[V2EX] [分享发现] 全网寻找 100 个独立开发者</title>
+    <link>https://www.v2ex.com/t/1234679#reply0</link>
+    <description><![CDATA[<blockquote>
+<p>悬浮捷径 SoftCircle 是一个迭代了 10 年的开放悬浮容器。本文只讲一件事：怎么用最低成本，让你的产品多一个"始终在用户眼前"的入口。</p>
+</blockquote>
+<p>你花几个月打磨产品，用户装完之后，大部分时间却在手机里吃灰。不是产品不好——是"打开它"这个动作，成本太高了。</p>
+<p>如果用户不用回到桌面、不用点图标，划一下负一屏就能用上你的功能，会怎样？</p>
+<p>悬浮捷径 SoftCircle 已经把这个可能性做完了。它是一个开放的悬浮容器：能把任意内容（ App 、网页、Widget 、原生视图）承载到自身的全局负一屏里，在任意界面悬浮呈现、呼之即来。你要做的，只是选一种方式接进来。</p>
+<hr />
+<h2>三种接法，按成本选</h2>
+<p>全局负一屏里的「第三方面板」是接入的统一入口，与五大内置面板同级。按你内容的形态，成本从零到三步：</p>
+<p><img alt="开发者悬浮共建计划 · 推广海报" class="embedded_image" rel="noreferrer" src="https://softcircle.cn/resources/poster-developer.png" /></p>
+<h3>1. 网页 / Widget：零成本，免 SDK 开箱即用</h3>
+<p>这是最省事的一条路，适合绝大多数场景：</p>
+<ul>
+<li><strong>网页面板</strong>：在负一屏嵌入任意网页（自定义 URL ），比如你的落地页、活动页、工具页、攻略页。用户随拉随看。</li>
+</ul>
+<p><img alt="悬浮网页面板效果" class="embedded_image" rel="noreferrer" src="https://softcircle.cn/resources/web-panel-preview.jpg" /></p>
+<ul>
+<li><strong>Widget 面板</strong>：把系统或第三方小部件（地图、天气、步数等）直接放进负一屏，长按可排序、调尺寸。</li>
+</ul>
+<p><img alt="Widget 面板效果" class="embedded_image" rel="noreferrer" src="https://softcircle.cn/resources/third-party-widget-effect.jpg" /></p>
+<p>两者都由<strong>用户自己添加</strong>，你不用写任何接入代码。</p>
+<blockquote>
+<p>💡 网页和 Widget 均<strong>免 SDK 、开箱即用</strong>——把你现成的 URL 或系统部件放上来就行。</p>
+</blockquote>
+<h3>2. 原生视图（ Native View ）：三步接入，Cursor Skill 辅助</h3>
+<p>如果你想让 App 的原生界面也悬浮进负一屏，需要接入开源 SDK <a href="https://github.com/SoftCircle314/FloatYourApp" rel="nofollow">FloatYourApp</a>。不是一句魔法，是清楚的三步：</p>
+<ol>
+<li><strong>加依赖</strong>：引入内嵌 <code>maven-repo/</code> 的 <code>implementation "com.softcircle.cardwidget:cardwidget-client:0.1.0"</code></li>
+<li><strong>注册面板工厂</strong>：在 <code>Application.onCreate</code> 用 <code>CardWidgetClient.installPanels</code> DSL 声明你的面板</li>
+<li><strong>声明 XML</strong>：基于 <code>res/xml/card_widget_info_default.xml</code>，宿主扫描时不拉起进程</li>
+</ol>
+<p>仓库自带 <strong>Cursor Skill</strong>，能按"依赖 → XML → installPanels → 验证"自动改你的工程，省掉手工对照。</p>
+<blockquote>
+<p>💡 接的是专有 AAR （ binary only ），Demo 、文档与 Skill 全开源。详细见 <a href="https://github.com/SoftCircle314/FloatYourApp/blob/main/docs/cardwidget/quickstart.md" rel="nofollow">快速接入</a>。</p>
+</blockquote>
+<p><img alt="应用面板" class="embedded_image" rel="noreferrer" src="https://softcircle.cn/resources/third-party-app-panel.jpg" /></p>
+<hr />
+<h2>不写一行代码，也能拿到一个"常驻入口"</h2>
+<p>这是最容易被忽略、却最划算的一条：</p>
+<p>把你常用的<strong>落地页、活动页、工具页</strong>，通过「网页面板」免费嵌进用户的负一屏——<strong>零成本、免 SDK</strong>。你的获客页、活动页，从此不用等用户主动来找，而是永远挂在他划一下就能看到的界面上。</p>
+<p>对用户来说，它是一个顺手的格子；对你来说，它是一个永远在线的入口。</p>
+<hr />
+<h2>为什么值得接：触达步骤从 3 降到 1</h2>
+<p>悬浮捷径 SoftCircle 本质上是你产品的<strong>第二触点</strong>：</p>
+<ul>
+<li><strong>触达更短</strong>：用户不用回到你的 App 主页，在当前界面划一下负一屏就能呼出你的功能；</li>
+<li><strong>常驻系统层</strong>：你的内容获得一个全局悬浮位，不再依赖用户主动打开 App ；</li>
+<li><strong>形态全覆盖</strong>：网页、Widget 、原生视图，接入即共享这份全局悬浮能力。</li>
+</ul>
+<p>说白了，触达从"回桌面找图标"的 3 步，降到"划一下负一屏"的 1 步。多一个入口，就多一次被用的机会——真正发光的是你自己的产品，悬浮捷径只是那个容器。</p>
+<hr />
+<h2>两处展示位，达标即上</h2>
+<p>接进来的优质内容，有机会出现在两个地方，不藏私：</p>
+<ul>
+<li><strong>App 内展示位</strong>：用户在「添加面板」时，就能看到推荐的第三方内容——你的面板或原生视图可能被海量用户直接发现。</li>
+<li><strong>官网展示位</strong>：<a href="http://softcircle.cn" rel="nofollow">softcircle.cn</a> 上设有共建专区，对优质内容给予展示与署名。</li>
+</ul>
+<blockquote>
+<p>💡 内容接入并达到基本质量，即有机会同时获得 App 内 + 官网的双重曝光。</p>
+</blockquote>
+<hr />
+<h2>怎么开始</h2>
+<p>三种方式任选，不用先加微信：</p>
+<ul>
+<li><strong>GitHub</strong>：在 <a href="https://github.com/SoftCircle314/FloatYourApp" rel="nofollow">FloatYourApp</a> 提 Issue / PR ，或按 quickstart 自己先跑通 Demo</li>
+<li><strong>邮箱</strong>：把你的接入想法或面板计划发到 <strong>softcircle@foxmail.com</strong></li>
+<li><strong>交流群</strong>：扫码加「悬浮捷径 SoftCircle 」微信好友一起聊</li>
+</ul>
+<p><img alt="悬浮捷径 SoftCircle 微信二维码" class="embedded_image" rel="noreferrer" src="https://softcircle.cn/resources/qr_wechat_group.jpg" /></p>]]></description>
+    <pubDate>Sat, 15 Aug 2026 14:22:00 -0000</pubDate>
+    <guid isPermaLink="true">https://www.v2ex.com/t/1234679#reply0</guid>
+    <source url="https://www.v2ex.com/t/1234679#reply0">V2EX</source>
   </item>
   <item>
-    <title>[原创频道&gt;&gt;什么值得买] MSI冠军跌入谷底后逆袭晋级！HLE用行动证明：真正的强队不会被低谷打倒</title>
-    <link>https://post.smzdm.com/p/arzpm4xg/</link>
-    <description><![CDATA[匿名用户2026年的《英雄联盟》职业赛场上，HLE无疑是最具话题性的队伍之一。从MSI冠军的巅峰，到随后五连败的低谷，再到如今确认晋级全球总决赛，这支队伍的故事堪称一部电竞剧本。8月15日战胜KT的那一刻，HLE终于锁定了前往世界赛的门票——这段从云端跌落又重新爬起的经历，值得好好聊聊。1MSI冠军的光环与随后的至暗时刻时间拨回6月28日，韩国大田，HLE以3比2逆转BLG，捧起了MSI冠军奖杯。这是MS<p>本文来自<a href="https://post.smzdm.com/p/arzpm4xg/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
-    <pubDate>Sat, 15 Aug 2026 13:30:18 -0000</pubDate>
-    <guid isPermaLink="true">https://post.smzdm.com/p/arzpm4xg/</guid>
-    <source url="https://post.smzdm.com/p/arzpm4xg/">原创频道&gt;&gt;什么值得买</source>
+    <title>[IT之家] 1.228 亿股，英伟达成 SpaceX 第六大股东</title>
+    <link>https://www.ithome.com/0/990/179.htm</link>
+    <description><![CDATA[<p>IT之家 8 月 15 日消息，英伟达昨日提交给美国证券交易委员会（SEC）的文件显示，该公司一共持有 1.228 亿股 SpaceX A 类股票，价值约 210 亿美元<span class="exch-money-value">（IT之家注：现汇率约合 1,418.69 亿元人民币）</span>。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/8/79be8b47-496a-4f01-a6ff-117b86ceddbe.jpg" /></p><figcaption>▲ 图源：英伟达</figcaption><p>不过 SpaceX 昨天的收盘价是 140.56 美元<span class="exch-money-value">（现汇率约合 949.6 元人民币）</span>，按照这个价格计算，<strong>英伟达所持股份已下降至 173 亿美元<span class="exch-money-value">（现汇率约合 1,168.73 亿元人民币）</span>左右</strong>。</p><p>作为参考，英伟达目前规模最大的持股是英特尔，第二则是 SpaceX。英伟达当前的英特尔股份价值约 220 亿美元<span class="exch-money-value">（现汇率约合 1,486.24 亿元人民币）</span>。<a href="https://www.ithome.com/0/908/996.htm" target="_blank">差不多一年前</a>，<strong>英伟达只投入了 50 亿美元<span class="exch-money-value">（现汇率约合 337.78 亿元人民币）</span>就拿下了超 2.1 亿股英特尔股票</strong>。</p><p>结合 FactSet 数据，SpaceX 目前的最大股东是埃隆 · 马斯克，他持有的股份价值约 8,500 亿美元<span class="exch-money-value">（现汇率约合 5.74 万亿元人民币）</span>；第二名则是谷歌母公司 Alphabet，其持股价值约 780 亿美元<span class="exch-money-value">（现汇率约合 5,269.4 亿元人民币）</span>；<strong>英伟达排名第六</strong>。</p><p>据知情人士透露，英伟达持有的 SpaceX 股份源自该公司今年 1 月，对马斯克旗下 xAI 的一轮交易。由于具体交易规模此前并未公开，这名知情人士要求匿名。</p>]]></description>
+    <pubDate>Sat, 15 Aug 2026 14:20:23 -0000</pubDate>
+    <guid isPermaLink="true">https://www.ithome.com/0/990/179.htm</guid>
+    <source url="https://www.ithome.com/0/990/179.htm">IT之家</source>
+  </item>
+  <item>
+    <title>[IT之家] PVC 变废为宝：科学家将塑料转化为聚 α-烯烃，三小时产出润滑油</title>
+    <link>https://www.ithome.com/0/990/178.htm</link>
+    <description><![CDATA[<p>IT之家 8 月 15 日消息，美国弗吉尼亚理工大学的研究团队开发出一种新工艺，可将聚氯乙烯（PVC）塑料转化为聚 α-烯烃，后者是润滑油关键成分。相关研究成果已于 8 月 5 日发表在《自然》上。</p><p>该工艺的研发负责人、弗吉尼亚理工大学化学家刘国良（Guoliang “Greg” Liu）表示，团队证明了利用塑料废物制造高性能润滑剂的可行性，且这类润滑剂具有绿色属性，可满足市场对可持续性的需求。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/8/dabeaf6d-6845-4d03-93b3-04012c5defb1.jpg?x-bce-process=image/format,f_auto" /></p><p>PVC 因含有氯元素且不同制造商使用的添加剂各异，是公认最难回收的塑料之一，大量废弃 PVC 最终进入填埋场。与此同时，润滑油等产品的生产成本较高，市场需求持续增长。</p><p>研究团队将生活中常见的 PVC 材料，如管道、窗框甚至信用卡，放入溶剂中，加入三氯化铝和 α-烯烃，加热至 158 华氏度（IT之家注：约 70 摄氏度）并保持三小时。从溶剂中提取出的产物是一种相对粘稠的油状液体，即润滑油。</p><p>刘国良团队此前曾在《科学》和《自然 · 可持续发展》发表成果，将其他类型塑料废物转化为肥皂和洗涤剂等表面活性剂。相关研究成功后，他们将目标转向 PVC。</p><p>为推进项目，刘国良组建了研究生团队，成员包括博士最后一年学生 Eric Munyaneza Nuwayo、化学系研究生 Connor S. Thompson 和一年级研究生 Abby Civiello。刘国良称他们为“三个臭皮匠”。</p><p>研究初期，团队尝试将 PVC 分子转化为其他分子，但产物总是柔软粘稠，性能未达预期。刘国良想到，既然聚合物如此粘软，不如将聚合物链分解成更小的片段，模拟润滑剂的分子结构。</p><p>团队将制成的油样送至得克萨斯农工大学，由 Ali Erdemir 团队进行测试和表征，并与加州理工学院的 William Goddard 合作开展化学计算。弗吉尼亚理工同事 Xi Chen 则从经济和生产角度建立模型，评估大规模生产的可行性。</p><p>刘国良表示，下一步是让这种润滑剂更加可持续、更易获得，并希望扩大生产规模，让更多人受益。他形容润滑剂是“无声的英雄”，常被忽视却默默发挥作用。</p><p>IT之家附论文地址：<br /><span class="link-text-start-with-http">https://doi.org/10.1038/s41586-026-10867-z</span>。</p>]]></description>
+    <pubDate>Sat, 15 Aug 2026 14:16:53 -0000</pubDate>
+    <guid isPermaLink="true">https://www.ithome.com/0/990/178.htm</guid>
+    <source url="https://www.ithome.com/0/990/178.htm">IT之家</source>
+  </item>
+  <item>
+    <title>[原创频道&gt;&gt;什么值得买] 25+男生动态纹明显眼周疲劳，眼膜使用记录</title>
+    <link>https://post.smzdm.com/p/al3qrg5e/</link>
+    <description><![CDATA[九九紫我那个做后期剪辑的朋友，每天对着屏幕到后半夜。前段时间他自拍了一张特写，眼角的鱼尾纹笑起来像扇子，不笑的时候眼下一圈青黑，整个眼周像蒙了层灰。他问我有没有好用的眼膜，说眼霜天天涂，但熬夜后眼周还是垮得厉害。眼周皮肤薄，熬夜后皮质醇一高，微循环变慢，代谢废物排不出去，就形成青黑色疲劳感。同时胶原流失加速，动态纹越笑越深。眼霜是日常维护，眼膜靠封闭渗透，能集中修护。但眼周皮肤敏感，选眼膜第一要义是膜布<p>本文来自<a href="https://post.smzdm.com/p/al3qrg5e/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
+    <pubDate>Sat, 15 Aug 2026 14:16:52 -0000</pubDate>
+    <guid isPermaLink="true">https://post.smzdm.com/p/al3qrg5e/</guid>
+    <source url="https://post.smzdm.com/p/al3qrg5e/">原创频道&gt;&gt;什么值得买</source>
+  </item>
+  <item>
+    <title>[原创频道&gt;&gt;什么值得买] 一人分饰13角，这部剧太敢拍了。</title>
+    <link>https://post.smzdm.com/p/apq69px7/</link>
+    <description><![CDATA[成人剧单部你见过一个女演员同时演十几个角色，还能让你完全看不出是同一个人吗？今天要给大家推荐的就是高分科幻剧《黑色孤儿》Orphan Black。故事一开始，一个叫莎拉的女混混出现在地铁站。长卷发、烟熏妆、马丁靴，一看就不是什么正经人。正准备干票大的跑路。就在这时候，她看见了一个女人，那个女的脱掉高跟鞋，整整齐齐码在包旁边，外套也叠好放在一边，然后—— 直接跳轨自杀了。够吓人了吧？更吓人的是，莎拉发现这个自<p>本文来自<a href="https://post.smzdm.com/p/apq69px7/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
+    <pubDate>Sat, 15 Aug 2026 14:16:40 -0000</pubDate>
+    <guid isPermaLink="true">https://post.smzdm.com/p/apq69px7/</guid>
+    <source url="https://post.smzdm.com/p/apq69px7/">原创频道&gt;&gt;什么值得买</source>
+  </item>
+  <item>
+    <title>[原创频道&gt;&gt;什么值得买] 赤兔8 PRO上脚记：被这双“竞训小钢炮”彻底圈粉</title>
+    <link>https://post.smzdm.com/p/az8xdldp/</link>
+    <description><![CDATA[白白白白色第一次把李宁赤兔8 PRO穿上脚去跑步的那一刻，我就知道这双鞋“夯爆了”绝非营销话术。作为李宁2025年主推的竞速训练跑鞋，它搭载的全掌䨻轻弹科技，是这双鞋真正的灵魂所在。刚站起身时，中底的静态脚感偏硬，并没有某些慢跑鞋那种软塌塌的“踩屎感”。但当我迈出第一步开始跑起来，整双鞋仿佛被“激活”——全掌超临界发泡䨻中底呈现出一种"韧中带弹"的精妙调校，落地时冲击力被迅速吸收，蹬地瞬间又干脆利落地转化为<p>本文来自<a href="https://post.smzdm.com/p/az8xdldp/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
+    <pubDate>Sat, 15 Aug 2026 14:15:44 -0000</pubDate>
+    <guid isPermaLink="true">https://post.smzdm.com/p/az8xdldp/</guid>
+    <source url="https://post.smzdm.com/p/az8xdldp/">原创频道&gt;&gt;什么值得买</source>
+  </item>
+  <item>
+    <title>[原创频道&gt;&gt;什么值得买] 堪称“叛逆”！但架不住真的好看！看腻了那些常规款，这5块独立小众表让人真的感觉很刺激</title>
+    <link>https://post.smzdm.com/p/a82lmv40/</link>
+    <description><![CDATA[ctime表态网有趣小众表今年夏天尤其的热，再加上台风裹挟而来的潮湿空气，使人整日昏昏沉沉，无心于正事。这种时候，就连绒布内衬的精装表盒里细心收纳的那些精致名表，也都一个个沉闷且乏味，让人失去欲望。夏天，果然还是需要一些不一样的东西刺激一下，跳脱日常。世界各地的小众独立制表人，同样懂这个需求。可以不从商业角度出发，从人性角度出发，能肆无忌惮地挥洒创意，莫过于那些小众独立品牌。今天我就从这些品牌之中，找到几款非常特<p>本文来自<a href="https://post.smzdm.com/p/a82lmv40/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
+    <pubDate>Sat, 15 Aug 2026 14:15:18 -0000</pubDate>
+    <guid isPermaLink="true">https://post.smzdm.com/p/a82lmv40/</guid>
+    <source url="https://post.smzdm.com/p/a82lmv40/">原创频道&gt;&gt;什么值得买</source>
+  </item>
+  <item>
+    <title>[原创频道&gt;&gt;什么值得买] 消费电子全品类涨价，AI服务器抢夺存储产能，手机笔记本成本抬升</title>
+    <link>https://post.smzdm.com/p/a82l8vxl/</link>
+    <description><![CDATA[爱吃大番茄 近期，手机、笔记本、游戏本等消费电子品类价格持续走高，背后核心原因不是单纯需求回暖，而是AI服务器正在疯狂抢夺存储芯片产能。AI大模型训练、推理和云端部署，对内存、闪存以及高带宽存储的需求爆发，存储芯片价格进入上行周期。消费电子行业因此面临成本传导，终端产品售价开始承压，消费者等待降价的窗口期被进一步拉长。 存储芯片原本就具有明显的周期性。过去几年，行业经历供过于求、价格下跌、厂商减产，市场逐步<p>本文来自<a href="https://post.smzdm.com/p/a82l8vxl/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
+    <pubDate>Sat, 15 Aug 2026 14:14:34 -0000</pubDate>
+    <guid isPermaLink="true">https://post.smzdm.com/p/a82l8vxl/</guid>
+    <source url="https://post.smzdm.com/p/a82l8vxl/">原创频道&gt;&gt;什么值得买</source>
+  </item>
+  <item>
+    <title>[V2EX] [Claude] 回收各种 claude 原 k ,包括 open router 的</title>
+    <link>https://www.v2ex.com/t/1234678#reply0</link>
+    <description><![CDATA[<p>RT,小弟第一次来发帖,因为做中转太缺货了,有资源的大哥们,希望带一带.</p>]]></description>
+    <pubDate>Sat, 15 Aug 2026 14:14:26 -0000</pubDate>
+    <guid isPermaLink="true">https://www.v2ex.com/t/1234678#reply0</guid>
+    <source url="https://www.v2ex.com/t/1234678#reply0">V2EX</source>
+  </item>
+  <item>
+    <title>[原创频道&gt;&gt;什么值得买] 做白灼虾的三个毁鲜行为：很多人第一个就中了，难怪饭店比自己做的好吃</title>
+    <link>https://post.smzdm.com/p/a9583o00/</link>
+    <description><![CDATA[匿名用户为什么你做的海鲜，总差那么一口气90%的人在家里做白灼虾的口感，和饭店差了三个档次——但问题不在虾，在步骤。不是调料放少了，不是火候没到位，而是从清洗那一刻起，鲜味就开始流失了。海鲜的鲜，本质是食材细胞里的呈味物质——核苷酸、氨基酸、琥珀酸，这些东西一旦被水冲、被调料腌、被高温炖煮破坏，做出来的就是"死肉"，不是"鲜货"。饭店的海鲜好吃，从来不是因为厨师放了什么神秘调料。核心秘密就两个：处理快、加<p>本文来自<a href="https://post.smzdm.com/p/a9583o00/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
+    <pubDate>Sat, 15 Aug 2026 14:14:13 -0000</pubDate>
+    <guid isPermaLink="true">https://post.smzdm.com/p/a9583o00/</guid>
+    <source url="https://post.smzdm.com/p/a9583o00/">原创频道&gt;&gt;什么值得买</source>
+  </item>
+  <item>
+    <title>[原创频道&gt;&gt;什么值得买] 8.2万！零百2.81秒的张雪820RR杀到香港，日系仿赛要睡不着了</title>
+    <link>https://post.smzdm.com/p/al3qk2lp/</link>
+    <description><![CDATA[匿名用户8月15日，九龙大角咀晏架街DS MOTO门口几只木箱被撬开——张雪机车820RR正式踏进香港市场。首批红、黑、白三色实车到港，香港总代理同步开启交付筹备。售价8.2万港元，订金2万。首批配额早已售罄，订单排至11月，代理商因产能限制暂停接单。落地价超10万港币，但对标雅马哈R9超15万、本田CBR650R超12万的同级别车型，仍有显著价差。123香港版820RR保留WSBK赛道技术基因。核心搭载<p>本文来自<a href="https://post.smzdm.com/p/al3qk2lp/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
+    <pubDate>Sat, 15 Aug 2026 14:13:22 -0000</pubDate>
+    <guid isPermaLink="true">https://post.smzdm.com/p/al3qk2lp/</guid>
+    <source url="https://post.smzdm.com/p/al3qk2lp/">原创频道&gt;&gt;什么值得买</source>
+  </item>
+  <item>
+    <title>[原创频道&gt;&gt;什么值得买] 新机：9210mAh大电池手机；LCD屏千元新机</title>
+    <link>https://post.smzdm.com/p/a6zwk6xz/</link>
+    <description><![CDATA[摇篮曲哄你睡觉最近热度最高的新机，应该是红米k100 pro系列和iqoo neo 11至尊版等，都是核心配置很强劲的机型，但在这段时间也有部分千元机型悄悄上架或者得到曝光。近期一款型号为2609FRA74G的小米新机，已经上了Geekbench跑分数据库，外媒认为这是红米note 17 pro max，是面向全球市场的，拥有大电池的优势，另外荣耀近期悄悄上了畅玩80手机，采用的是LCD屏幕，定价在千元出头，本<p>本文来自<a href="https://post.smzdm.com/p/a6zwk6xz/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
+    <pubDate>Sat, 15 Aug 2026 14:13:21 -0000</pubDate>
+    <guid isPermaLink="true">https://post.smzdm.com/p/a6zwk6xz/</guid>
+    <source url="https://post.smzdm.com/p/a6zwk6xz/">原创频道&gt;&gt;什么值得买</source>
+  </item>
+  <item>
+    <title>[原创频道&gt;&gt;什么值得买] 全国首个AI4E千卡集群国赛首秀！海光DCU当算力底座：160所高校1900人同台竞技</title>
+    <link>https://post.smzdm.com/p/ak8dwek4/</link>
+    <description><![CDATA[快科技快科技8月15日消息，2026年全国大学生计算机系统能力大赛智能计算创新设计赛（先导杯）决赛及颁奖典礼在同济大学落幕。大赛吸引全国160所高校、500余支参赛队伍、超1900名学子参赛。本届赛事最大亮点是全国首个AI4E（工程智能）国产千卡工科智算集群完成实战首秀。该集群由海光信息与同济大学于今年6月联合打造，是国产算力首次以工程专用形态服务高校教育教研。集群以海光DCU为核心算力底座，采用超智融<p>本文来自<a href="https://post.smzdm.com/p/ak8dwek4/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
+    <pubDate>Sat, 15 Aug 2026 14:12:30 -0000</pubDate>
+    <guid isPermaLink="true">https://post.smzdm.com/p/ak8dwek4/</guid>
+    <source url="https://post.smzdm.com/p/ak8dwek4/">原创频道&gt;&gt;什么值得买</source>
+  </item>
+  <item>
+    <title>[原创频道&gt;&gt;什么值得买] 记忆张量完成亿元 pre-A融资，但它说自己不是一家记忆公司</title>
+    <link>https://post.smzdm.com/p/apq6pe59/</link>
+    <description><![CDATA[硅星人Pro作者｜周一笑**｜smiletalker记忆张量完成新一轮融资后，创始人熊飞宇反复向我们强调一件事，他不希望外界把记忆张量只理解成一家“做记忆”的公司。这轮亿元的 pre-A 融资，据记忆张量披露，参与方包括华为哈勃、荣耀战投、商汤国香、深创投和和玉资本。公开资料里，华为哈勃长期以硬科技和半导体产业链为主要布局方向。它出现在一家偏软件、模型架构和 AI 基础设施公司的股东名单里，因此更值得关注。一<p>本文来自<a href="https://post.smzdm.com/p/apq6pe59/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
+    <pubDate>Sat, 15 Aug 2026 14:12:29 -0000</pubDate>
+    <guid isPermaLink="true">https://post.smzdm.com/p/apq6pe59/</guid>
+    <source url="https://post.smzdm.com/p/apq6pe59/">原创频道&gt;&gt;什么值得买</source>
+  </item>
+  <item>
+    <title>[原创频道&gt;&gt;什么值得买] 练了三年伦巴还差点意思？八成人卡在胸背联动，根源终于找到了</title>
+    <link>https://post.smzdm.com/p/awwr27zp/</link>
+    <description><![CDATA[匿名用户先说说为什么你的伦巴跳不出&quot;高级感&quot;很多舞友练了三年伦巴，动作一个不差，胯部也转得挺溜，但就是差点意思——舞姿松散、发力绵软、延伸不到位。问题出在哪？八成人卡在胸背联动的发力逻辑上。你以为伦巴是用胯带动身体，实际上真正的动力源在后背脊椎。胯部只是传导介质，不是发动机。把发动机装错位置，舞蹈自然没有灵魂。伦巴的核心发力根源在于后背脊椎的延展与拉扯。这是五大拉丁舞种里唯一依托脊柱力<p>本文来自<a href="https://post.smzdm.com/p/awwr27zp/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
+    <pubDate>Sat, 15 Aug 2026 14:12:18 -0000</pubDate>
+    <guid isPermaLink="true">https://post.smzdm.com/p/awwr27zp/</guid>
+    <source url="https://post.smzdm.com/p/awwr27zp/">原创频道&gt;&gt;什么值得买</source>
+  </item>
+  <item>
+    <title>[原创频道&gt;&gt;什么值得买] 浓妆敏感肌想卸干净不伤皮肤，步骤搭配比猛搓更重要</title>
+    <link>https://post.smzdm.com/p/a3mo53dd/</link>
+    <description><![CDATA[退后一步有一类人卸妆特别容易焦虑：妆很浓，皮肤又不耐折腾。底妆厚一点怕残留，眼线睫毛膏不卸干净怕色素沉着，可一旦用力搓，眼周和脸颊马上泛红。很多人问卸妆用什么最好最干净不伤皮肤，我现在更想说，产品要选对，步骤搭配也要对。浓妆敏感肌不要指望一个动作解决所有问题。眼唇妆很防水时，先用专门眼唇卸按压几秒，把睫毛膏和眼线松开，再用卸妆膏处理全脸，会比直接拿卸妆膏在眼周猛揉舒服很多。底妆、防晒和修容这些大面积彩妆，<p>本文来自<a href="https://post.smzdm.com/p/a3mo53dd/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
+    <pubDate>Sat, 15 Aug 2026 14:12:18 -0000</pubDate>
+    <guid isPermaLink="true">https://post.smzdm.com/p/a3mo53dd/</guid>
+    <source url="https://post.smzdm.com/p/a3mo53dd/">原创频道&gt;&gt;什么值得买</source>
+  </item>
+  <item>
+    <title>[原创频道&gt;&gt;什么值得买] 这支团队又双叒叕提名最佳论文了，我们决定聊聊为什么</title>
+    <link>https://post.smzdm.com/p/ad7d3l4z/</link>
+    <description><![CDATA[硅星人Pro作者｜周一笑**｜smiletalker“行，今年的 best paper 指标完成了。”（玩笑）影眸科技Hyper3D CTO 张启煊在**上用一句玩笑话回复了Joel Wang。Joel是影眸Hyper3D合伙人、物理 AI 事业部负责人，01 年的他当时正在洛杉矶机场候机，准备飞悉尼参会。他刚发送的是一封提名**截图，他作为共同第一作者的论文 cuNRTO，入围了 RSS 2026 Outs<p>本文来自<a href="https://post.smzdm.com/p/ad7d3l4z/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
+    <pubDate>Sat, 15 Aug 2026 14:12:15 -0000</pubDate>
+    <guid isPermaLink="true">https://post.smzdm.com/p/ad7d3l4z/</guid>
+    <source url="https://post.smzdm.com/p/ad7d3l4z/">原创频道&gt;&gt;什么值得买</source>
+  </item>
+  <item>
+    <title>[原创频道&gt;&gt;什么值得买] GeForce RTX 5080 SOLID CORE OC发布：索泰20周年纪念显卡，钛金配色</title>
+    <link>https://post.smzdm.com/p/aqr0eq32/</link>
+    <description><![CDATA[超能网今年恰逢索泰成立20周年，为了庆祝这一时刻，索泰曾在COMPUTEX  2026前夕公布了一系列采用钛金属配色的20周年纪念产品。其中包括了20周年纪念版显卡，基于Blackwell架构的GeForce RTX  50系列GPU打造，有采用分体水冷型号，也有采用三/双风扇的风冷型号。现在索泰正式发布了GeForce RTX 5080 SOLID CORE OC 20th Anniversary E<p>本文来自<a href="https://post.smzdm.com/p/aqr0eq32/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
+    <pubDate>Sat, 15 Aug 2026 14:12:12 -0000</pubDate>
+    <guid isPermaLink="true">https://post.smzdm.com/p/aqr0eq32/</guid>
+    <source url="https://post.smzdm.com/p/aqr0eq32/">原创频道&gt;&gt;什么值得买</source>
+  </item>
+  <item>
+    <title>[Hacker News] Secondhand book sales are booming. Is it because of AI?</title>
+    <link>https://www.bbc.co.uk/news/articles/cp3rprx2wl4o</link>
+    <description><![CDATA[<a href="https://news.ycombinator.com/item?id=49310725">Comments</a>]]></description>
+    <pubDate>Sat, 15 Aug 2026 14:08:55 -0000</pubDate>
+    <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/cp3rprx2wl4o</guid>
+    <source url="https://www.bbc.co.uk/news/articles/cp3rprx2wl4o">Hacker News</source>
+  </item>
+  <item>
+    <title>[原创频道&gt;&gt;什么值得买] 挤半天搓不出泡泡，泡沫丰富的儿童洗发水我会看它上头的量足不足</title>
+    <link>https://post.smzdm.com/p/ad7d03dn/</link>
+    <description><![CDATA[柳叶魅给孩子洗头的时候最心累的场面，就是洗发水挤了一泵又一泵，手上搓了半天就那么点泡泡，抹到头发上跟没抹一样。孩子等得不耐烦开始扭来扭去，你只能硬着头皮干搓，头皮拉扯得不舒服，孩子更不愿意洗了。我以前也觉得起泡多少无所谓，后来发现不是孩子不配合，是洗发水本身的泡沫量不够。后来我给孩子挑洗发水，会看它上头的泡沫够不够足、够不够持久。1. 爱塔拉儿童氨基酸洗发水爱塔拉这瓶的泡沫量在我用过的儿童洗护里属于很足<p>本文来自<a href="https://post.smzdm.com/p/ad7d03dn/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
+    <pubDate>Sat, 15 Aug 2026 14:08:41 -0000</pubDate>
+    <guid isPermaLink="true">https://post.smzdm.com/p/ad7d03dn/</guid>
+    <source url="https://post.smzdm.com/p/ad7d03dn/">原创频道&gt;&gt;什么值得买</source>
+  </item>
+  <item>
+    <title>[原创频道&gt;&gt;什么值得买] 可口可乐、朝日集体换“糖”！3个月狂卖1440万瓶，这瓶绿可乐什么来头？</title>
+    <link>https://post.smzdm.com/p/a3molppk/</link>
+    <description><![CDATA[Foodaily每日食品文：Hermia He  来源：Foodaily每日食品（ID：foodaily）封面图来源：朝日  一瓶没有颠覆性新原料的无糖可乐，在日本卖爆了，凭什么？8月4日，朝日引进的希腊可乐品牌——Green Cola（绿可乐），正式在日本全国范围内开售。上市才3个月，销量已经突破1440万瓶。货架海报上，醒目地写着：NO罪恶感、NO糖、NO卡路里。图片来源：小红书@Yutar、inFamilyMart<p>本文来自<a href="https://post.smzdm.com/p/a3molppk/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
+    <pubDate>Sat, 15 Aug 2026 14:08:16 -0000</pubDate>
+    <guid isPermaLink="true">https://post.smzdm.com/p/a3molppk/</guid>
+    <source url="https://post.smzdm.com/p/a3molppk/">原创频道&gt;&gt;什么值得买</source>
+  </item>
+  <item>
+    <title>[原创频道&gt;&gt;什么值得买] 谷歌亲自出手，再也不用担心浏览器被劫持了</title>
+    <link>https://post.smzdm.com/p/arzpkepq/</link>
+    <description><![CDATA[三易生活相信不少朋友上网冲浪时都有过类似的经历，那就是打开浏览器后发现首页大变样，各种导航站铺满，还充斥着悬浮广告和各类弹窗，好不容易恢复原样，没过多久又成了老样子。又或者是明明打开的A网站，浏览器却莫名其妙地跳转到了B网站。事实上，这一系列诡异事件背后是无良公司或黑灰产进行的浏览器劫持攻击，你的每一次点击、每一次搜索都可能关联着电商平台、游戏厂商的广告预算。他们一旦控制了大量用户的浏览器，所带来的流量收<p>本文来自<a href="https://post.smzdm.com/p/arzpkepq/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
+    <pubDate>Sat, 15 Aug 2026 14:07:44 -0000</pubDate>
+    <guid isPermaLink="true">https://post.smzdm.com/p/arzpkepq/</guid>
+    <source url="https://post.smzdm.com/p/arzpkepq/">原创频道&gt;&gt;什么值得买</source>
+  </item>
+  <item>
+    <title>[原创频道&gt;&gt;什么值得买] 钩针新手别再踩这5个坑！学会核心针法，两周从小白变老手</title>
+    <link>https://post.smzdm.com/p/a6zwkgdg/</link>
+    <description><![CDATA[匿名用户先说说为什么新手总在第一步卡住我见过太多人买了一大堆线和钩针，兴冲冲打开教程，结果第一页就懵了——锁针怎么绕线？短针怎么带线？干脆先收藏，等有空再说。然后这堆材料就落灰了。问题不在手笨，在于没人告诉你：新手只需要先练会5个核心针法，就能完成市面上80%的入门级作品。1这5个针法是什么？锁针、短针、中长针、长针、引拔针。前四个是成型针法，最后一个是连接针法。先把它们练熟，再去碰花式针法，不然你永远在<p>本文来自<a href="https://post.smzdm.com/p/a6zwkgdg/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
+    <pubDate>Sat, 15 Aug 2026 14:07:32 -0000</pubDate>
+    <guid isPermaLink="true">https://post.smzdm.com/p/a6zwkgdg/</guid>
+    <source url="https://post.smzdm.com/p/a6zwkgdg/">原创频道&gt;&gt;什么值得买</source>
+  </item>
+  <item>
+    <title>[原创频道&gt;&gt;什么值得买] 15年最大配方升级！7喜押注青柠，只为争夺年轻人？</title>
+    <link>https://post.smzdm.com/p/am9p2ww4/</link>
+    <description><![CDATA[Foodaily每日食品封面图来源：Keurig Dr Pepper  一款卖了近百年的汽水，突然要动核心配方？8月10日，北美饮料巨头Keurig Dr Pepper公布旗下汽水品牌 7UP（七喜）的重大升级方案。在被雪碧长期占据优势的柠檬青柠汽水赛道，拥有近百年历史的7UP，迎来15年来最大规模的品牌焕新。1  核心产品革新：把青柠推到配方C位配方重构是此次品牌变革的核心动作。传统柠檬青柠汽水大多以柠檬作为风味基底，<p>本文来自<a href="https://post.smzdm.com/p/am9p2ww4/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
+    <pubDate>Sat, 15 Aug 2026 14:07:30 -0000</pubDate>
+    <guid isPermaLink="true">https://post.smzdm.com/p/am9p2ww4/</guid>
+    <source url="https://post.smzdm.com/p/am9p2ww4/">原创频道&gt;&gt;什么值得买</source>
+  </item>
+  <item>
+    <title>[V2EX] [grok] Grok Build 正确打开姿势是啥？为啥在我手上它就是个豆包哇？</title>
+    <link>https://www.v2ex.com/t/1234677#reply0</link>
+    <description><![CDATA[<p>各种机缘巧合（前天重置后的 codex plus 额度不到 1 天刷完了，还要等 6 天；刷到好几个帖子说 grok 性能不错，额度量大管饱；搜索时刷到不到 60 块就能开一个月（已过期）），于是今天就开通了 7 天的 Supergrok 免费试用试试水，结果在我手上画风完全不对呀。</p>
+<p>我的是 Grok Build ，通过 tui 操作的，因为是初次使用，让它跑完 hello world 后也没给它复杂任务。前前后后就测试了下面几个（首次测试的模型都是 Grok 4.6 High ，在代码测试时也用过 plan 模式，也尝试过换 Grok 4.5 ，结果在我这基本没区别）。</p>
+<p>1 、把 codex 写的代码丢给它，让它去理解代码运行逻辑，这个任务没毛病，速度也超级快。---此时我觉得很满意。</p>
+<p>2 、再者我想看看它有没有类似 codex 连接 Chrome 浏览器插件的功能，我通过对话询问它，它给我打包票说没问题。另外我自己也检查了它自带的 plugin 库，有 chrome-devetools 插件，安装上后给他下达了“调用 chrome-devetools 插件，你去帮我查一下最新一期双色球结果。”它确实打开了 Chrome 窗口，但后面的画风就完全不对了，我看到它不停的在打开新标签，然后访问 Google ，不到 1 分钟给我开了 30 多个标签页，然后信誓旦旦的告诉我最新一期的双色球结果是啥，我当时还好奇是不是它从其他我看不到的渠道获取到了结果，还特地查了下，完全不是，就是瞎编的。并且当我指出它在瞎编结果，让它重试任务时，又给我编了一个不同的结果。---此时我还在找补，不同 AI 工具侧重点不同很正常，毕竟 codex 是专门写了 chrome 插件的。</p>
+<p>3 、第三轮我回归了编程能力本身，让它写一个网页版俄罗斯方块小游戏，然后就彻底沦为豆包了，出过的洋相有：</p>
+<ul>
+<li>明明我是 agent 启动，也多次强调代码要落地到本地文件，它还是和 Chat 似的，给我丢一个代码框，让丢给我一个说明书，让我自己复制代码，再编辑文件执行。</li>
+<li>我指出它代码没按要求写到文件里，让它确认一下当前目录（实际完全是空的），它又给我犟，还给我编了一个所谓的目录树。</li>
+<li>好不容易让它写好 html 文件，打开后根本没法看，且不说交互按钮根本就没用，最基本的布局都错乱了，就一个大无语。</li>
+<li>指出问题后让它改，彻底化身豆包，要么给我贴代码片段让我去 xx 行替换一下（实际根本没它说的这段代码）；要么不到 2 秒后就告诉我它改完了并经过了严格的测试，现在完全没问题了，我一看文件时间戳，还是半小时前的，完全没变。如此反复近 10 轮对话，到现在这俄罗斯方块还是没法玩，我已经彻底麻了。</li>
+</ul>
+<p>4 、经过第 3 轮的测试，我觉得这不应该啊，就去 YouTube 找了其他博主的科普视频，同时我在删除了~/.grok 目录重新安装了 Grok build 后又照着官方文档（ <a href="https://x.ai/news/grok-4-5" rel="nofollow">https://x.ai/news/grok-4-5</a> ）里的提示词，用 Grok 4.6 high 模型的 plan 模式，让它生成一个太阳系示例。结果依旧是豆包，换 Grok 4.5 high 模式倒是生成了 html 文件，但内容只是一个球而已，啥都没有。</p>
+<p>以上就是我花了差不多 2 个小时折腾 grok build 的结果。基于对大模型的尊重，加上坛子里大伙的口碑，以及在使用过程中也确实看到了很多网友的成功案例（比如有个 V 友就用 grok 做了个游戏，甚至素材都是 grok 直接生成的），最后结合它敢收费 30 刀，我只能自我怀疑是我使用的方法出问题了。</p>
+<p>最后的最后，grok 这个周额度目前看来明显比 codex 慷慨多了，我这瞎折腾了这么久，才耗了 5%。所以我还是挺期待我能驯服它的。</p>]]></description>
+    <pubDate>Sat, 15 Aug 2026 14:06:03 -0000</pubDate>
+    <guid isPermaLink="true">https://www.v2ex.com/t/1234677#reply0</guid>
+    <source url="https://www.v2ex.com/t/1234677#reply0">V2EX</source>
+  </item>
+  <item>
+    <title>[IT之家] 极摩客 EVO-X5 迷你主机现身 Geekbench：锐龙 AI Max+ Pro 495 处理器</title>
+    <link>https://www.ithome.com/0/990/177.htm</link>
+    <description><![CDATA[<p>IT之家 8 月 15 日消息，一款型号为 EVO-X5 的极摩客迷你主机近日现身 Geekbench 跑分数据库，<strong>新机搭载锐龙 AI Max+ Pro 495 处理器</strong>。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/8/73cc7fed-8741-4009-88e6-e722ba8d76e1.jpg?x-bce-process=image/format,f_auto" /></p><p>IT之家查询 Geekbench 数据库发现，这款迷你主机配备 123.68GB 内存，<strong>CPU 最高频率可达 5.25GHz</strong>，拥有 16 核心、32 线程；配备 Radeon 8065S 显卡，Vulkan 跑分为 103,729 分。</p><p>值得注意的是，Geekbench 目前仍将锐龙 AI Max+ Pro 495 标记为 Strix Halo 平台，而 AMD 官方称该处理器为 Gorgon Halo 平台。</p><p>极摩客曾在此前确认，其 EVO-X3 迷你主机将提供锐龙 AI Max+ Pro 495 配置，最高可选 192GB 内存。不过本次曝光的设备应该是工程样机，我们仍需等待官方确认。</p>]]></description>
+    <pubDate>Sat, 15 Aug 2026 13:59:10 -0000</pubDate>
+    <guid isPermaLink="true">https://www.ithome.com/0/990/177.htm</guid>
+    <source url="https://www.ithome.com/0/990/177.htm">IT之家</source>
+  </item>
+  <item>
+    <title>[IT之家] 伯克希尔 · 哈撒韦大幅增持 Alphabet：持仓扩大 83%，价值近 380 亿美元</title>
+    <link>https://www.ithome.com/0/990/176.htm</link>
+    <description><![CDATA[<p>IT之家 8 月 15 日消息，据《商业内幕》今天（15 日）报道，伯克希尔 · 哈撒韦迎来了多年来股票买入力度最大的一个季度，其中 <strong>Alphabet 成为重点增持对象</strong>。</p><p>今年年初接替沃伦 · 巴菲特出任 CEO 的格雷格 · 阿贝尔，主导伯克希尔将 Alphabet 持仓扩大 83%，增至约 1.06 亿股。截至 6 月底，这部分股票价值接近 380 亿美元<span class="exch-money-value">（IT之家注：现汇率约合 2,567.15 亿元人民币）</span>。</p><p>伯克希尔 6 月已经同意通过私募，以低于市价的价格购买 100 亿美元<span class="exch-money-value">（现汇率约合 675.56 亿元人民币）</span>Alphabet 股票。周五披露的投资组合文件显示，公司上季度<strong>又在公开市场买入 1960 万股</strong>。</p><p>经过增持，Alphabet 截至 6 月底已经升至<strong>伯克希尔美国股票投资组合第三大持仓</strong>，仅次于价值 660 亿美元<span class="exch-money-value">（现汇率约合 4,458.73 亿元人民币）</span>的苹果和价值 510 亿美元<span class="exch-money-value">（现汇率约合 3,445.38 亿元人民币）</span>的美国运通。</p><p>巴菲特职业生涯大部分时间都对科技股敬而远之，苹果是少数例外，他过去更青睐<strong>可口可乐等股票以及盖可保险等企业</strong>。</p><p>巴菲特此前曾透露，去年投资 Alphabet 的决定<strong>是由他自己拍板的</strong>。阿贝尔现任 CEO，巴菲特继续担任董事长，因此报道认为，这笔持仓很可能由两人共同负责。</p><p>Alphabet 股价过去三年累计上涨约 170%。投资者仍在押注，这家搜索和广告巨头会成为 AI 热潮中的最大受益者之一。</p><p>伯克希尔上季度还将达美航空持股增加 44%，截至 6 月 30 日价值 54 亿美元<span class="exch-money-value">（现汇率约合 364.8 亿元人民币）</span>。公司同时新建仓 <span class="link-text-start-with-http">D.R</span>. Horton，并大幅增持莱纳和梅西百货。</p><p><strong>相关阅读：</strong></p><ul class="small-size list-paddingleft-2"><li><p>《<a href="https://www.ithome.com/0/977/738.htm" target="_blank">巴菲特：投资 Alphabet 是我发起的，后悔买入过晚</a>》</p></li></ul>]]></description>
+    <pubDate>Sat, 15 Aug 2026 13:57:51 -0000</pubDate>
+    <guid isPermaLink="true">https://www.ithome.com/0/990/176.htm</guid>
+    <source url="https://www.ithome.com/0/990/176.htm">IT之家</source>
+  </item>
+  <item>
+    <title>[V2EX] [酷工作] [合肥/多城市][科大讯飞内推] 大模型 / Agent / AI Infra / Java / 全栈 / 测试 / 数据 / 架构</title>
+    <link>https://www.v2ex.com/t/1234676#reply0</link>
+    <description><![CDATA[科大讯飞在职员工内推，最近内部岗位比较全，想集中找一些技术同学。不贴整段 JD ，先列技术方向：<br /><br />- 大模型：预训练、推理优化、MoE 、大规模集群、超长上下文、长期任务 Agent 、原生多模态；<br />- 算法：语音、NLP 、CV 、数据算法、音频生成、端到端语音底座；<br />- 工程：Java 、全栈、AI Infra 、系统架构、大数据、AI 测试、安全、交付；<br />- 也有产品、PMO 、解决方案、售前、市场、销售及职能岗位。<br /><br />校招可看星火 X / 飞星 / 飞凡 / 常规校招，社招覆盖初中高级岗位。不同岗位所在城市、业务线和年限要求不同，以内部系统实时状态为准。<br /><br />有兴趣请把简历发到 whyiug@gmail.com ，邮件标题：方向-姓名-年限/学校-意向城市。正文最好附 2 ～ 3 句项目亮点或技术栈，我会根据在招岗位匹配后走官方内推。内推码：IVBE00 。]]></description>
+    <pubDate>Sat, 15 Aug 2026 13:51:14 -0000</pubDate>
+    <guid isPermaLink="true">https://www.v2ex.com/t/1234676#reply0</guid>
+    <source url="https://www.v2ex.com/t/1234676#reply0">V2EX</source>
+  </item>
+  <item>
+    <title>[V2EX] [微软] Microsoft 账号最近老是异地请求登录</title>
+    <link>https://www.v2ex.com/t/1234675#reply1</link>
+    <description><![CDATA[<p>开了两步验证，微软 Authenticator 把请求拦截了下来，才发现是不知道的地点在请求登录。
+密码也已经修改过了，还是能被请求登录，太诡异了。有人遇到同样的问题吗？</p>]]></description>
+    <pubDate>Sat, 15 Aug 2026 13:45:03 -0000</pubDate>
+    <guid isPermaLink="true">https://www.v2ex.com/t/1234675#reply1</guid>
+    <source url="https://www.v2ex.com/t/1234675#reply1">V2EX</source>
+  </item>
+  <item>
+    <title>[Hacker News] Yadda 3.0.0: BDD in the Age of AI Agents</title>
+    <link>http://www.stephen-cresswell.com/2026/08/15/Yadda-3.0.0-BDD-in-the-Age-of-AI-Agents.html</link>
+    <description><![CDATA[<a href="https://news.ycombinator.com/item?id=49310495">Comments</a>]]></description>
+    <pubDate>Sat, 15 Aug 2026 13:43:46 -0000</pubDate>
+    <guid isPermaLink="true">http://www.stephen-cresswell.com/2026/08/15/Yadda-3.0.0-BDD-in-the-Age-of-AI-Agents.html</guid>
+    <source url="http://www.stephen-cresswell.com/2026/08/15/Yadda-3.0.0-BDD-in-the-Age-of-AI-Agents.html">Hacker News</source>
+  </item>
+  <item>
+    <title>[IT之家] 小米 Poco F9 系列手机曝光：基于 REDMI K100 Pro/Pro Max 打造</title>
+    <link>https://www.ithome.com/0/990/175.htm</link>
+    <description><![CDATA[<p>IT之家 8 月 15 日消息，据科技媒体 WinFuture 前天发文，小米即将在海外市场推出 Poco F9 系列手机，新机预计定位中高端市场，<strong>基于 <span class="hot-topic">REDMI K100 Pro</span> 系列机型打造</strong>。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/8/5dc154ed-9a0f-40f6-b54d-e5b1fc43024b.png?x-bce-process=image/format,f_auto" /></p><p>IT之家在此援引 WinFuture，Poco F9 Pro 将配备 6.59 英寸的 OLED 屏幕，最高支持 185Hz 刷新率。而 F9 Ultra 则升级为 6.85 英寸屏幕，分辨率为 2608*1200，同样支持 185Hz 高刷。两款手机均采用 TCL CSOT 面板，表面覆盖康宁大猩猩玻璃 7i。</p><p>硬件方面，这两款手机都将配备骁龙 8 Elite Gen 5 芯片，CPU 最高频率可达 4.6GHz。根据版本不同，该机将配备 12GB/16GB 内存和 256GB/512GB 存储空间。</p><p style="text-align: center;"><img class="not-source" src="https://img.ithome.com/newsuploadfiles/2026/8/276d8ab8-ffeb-4510-97d7-9c53ce2fb95f.jpg?x-bce-process=image/format,f_auto" /></p><p>同时，Poco F9 Pro 将配备 3 倍长焦镜头，采用 5000 万像素传感器，支持光学防抖；F9 Ultra 的等效光学变焦则达到 5 倍，同样支持光学防抖。</p><p>此外，Poco F9 系列手机还将配备 Bose 扬声器系统，Ultra 版本的摄像头附近将拥有 LED 灯环用于显示通知。两款机型均采用金属中框，Pro 版本电池为 6330mAh，Ultra 版则为 8050mAh。</p>]]></description>
+    <pubDate>Sat, 15 Aug 2026 13:39:44 -0000</pubDate>
+    <guid isPermaLink="true">https://www.ithome.com/0/990/175.htm</guid>
+    <source url="https://www.ithome.com/0/990/175.htm">IT之家</source>
+  </item>
+  <item>
+    <title>[V2EX] [程序员] DeepSeek Harness 部署指南</title>
+    <link>https://www.v2ex.com/t/1234674#reply1</link>
+    <description><![CDATA[<a href="https://i.imgur.com/OjnCEwY.png" rel="nofollow noopener" target="_blank"><img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/OjnCEwY.png" /></a><br />这份指南带你在一台 Mac 上完成 DeepSeek Harness 的本地启动、模型配置、工作区选择和最小对话验证。完成后，你会得到一个运行在 http://127.0.0.1:3080 的本地 Web UI ，并能让 Harness 在指定工作区内处理文件任务。<br /><br />一、准备工作<br />- 一台已安装 Node.js 与 npm 的 Mac ；<br />- 可访问 DeepSeek API 开放平台的账号；<br />- 一个 DeepSeek API Key ；<br />- 一个专门用于教学或项目的本地工作目录。<br />安全提醒：API Key 相当于调用服务的凭据。完整 Key 通常只在创建时显示一次，请单独保存，不要发给他人，也不要出现在截图、录屏、代码仓库或公开文档中。<br />官方开源仓库为 ：<br /><a href="https://github.com/deepseek-ai/deepseek-harness" rel="nofollow noopener" target="_blank">https://github.com/deepseek-ai/deepseek-harness</a><br /><a href="https://i.imgur.com/aibCr85.png" rel="nofollow noopener" target="_blank"><img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/aibCr85.png" /></a><br /><br />二、创建 DeepSeek API Key<br />1. 打开 DeepSeek 官方 API 平台并登录。<br />2. 进入左侧的 API keys 。<br />3. 点击右上角 创建 API key ，输入便于识别的临时名称。<br />4. 创建成功后立即复制并妥善保存完整 Key 。<br />回到列表看到新记录，只能说明 Key 已准备好；是否能被 Harness 正常使用，要到“最小对话验证”步骤确认。<br /><a href="https://i.imgur.com/5ZWS1iu.png" rel="nofollow noopener" target="_blank"><img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/5ZWS1iu.png" /></a><br /><br />三、确认官方项目与启动命令<br />官方项目名为 DeepSeek Harness ，命令行启动器为 dsh 。当前录屏中的官方 README 标注为开发者预览阶段，未来可能出现不兼容变化。<br />普通用户无需克隆源码，最短启动命令是：<br />npx @<a href="https://www.v2ex.com/member/deepseek-ai" rel="nofollow noopener" target="_blank">deepseek-ai</a>/dsh web<br />默认本地地址是：<br />http://127.0.0.1:3080<br /><a href="https://i.imgur.com/TX4CbOV.png" rel="nofollow noopener" target="_blank"><img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/TX4CbOV.png" /></a><br /><br />四、检查环境并启动本地 Web UI<br />1. 检查 Node.js 与 npm<br />打开终端，依次执行：<br />node -v<br />npm -v<br />本次实录返回 Node v26.0.0 与 npm 11.12.1 。这两个版本只是本次成功实录值，不是本文证明过的最低版本要求。<br />2. 启动 DeepSeek Harness<br />npx @<a href="https://www.v2ex.com/member/deepseek-ai" rel="nofollow noopener" target="_blank">deepseek-ai</a>/dsh web<br />第一次执行会获取并初始化所需内容。终端出现以下输出，才说明本地 Web 服务已启动：<br />dsh web: http://127.0.0.1:3080<br />3. 打开本地页面<br />保持终端进程运行，在浏览器打开 http://127.0.0.1:3080 。首次进入时会看到内部声明或 API Key 配置提示。<br /><br />五、配置模型、权限与工作区<br />1. 在首次弹窗中粘贴 DeepSeek API Key 并保存；也可以稍后进入 设置 → 模型 → DeepSeek 配置。<br />2. 在通用设置里确认语言与 Agent 预设；需要生成或修改文件时，将权限设为 Workspace Write 。<br />3. 创建或选择一个独立工作区。建议使用空目录，避免误改其他项目文件。<br />4. 选择 DeepSeek 模型与推理等级。实录界面提供 Off / High / Max 等选项；入门阶段先选择能稳定响应的配置即可。<br />权限提示：Workspace Write 会允许 Harness 写入所选目录。不要把家目录、含隐私资料的目录或重要仓库根目录直接作为练习工作区。<br /><br />六、用最小对话验证部署<br />1. 新建会话。<br />2. 确认工作区、模型和推理等级已经选好。<br />3. 发送：你好<br />4. 收到真实回复后，再进入文件生成任务。<br />这一步能证明当前这台 Mac 上的 Harness 、API Key 和模型已经连通；它不证明文件写入、复杂任务、跨平台兼容或长期稳定性。<br />我们选定模式，点击新会话，输入需求即可开启对话：<br />使用过程还会帮我们分析需求：<br />DeepSeek Harness 权限用于控制智能体（ Agent ）访问本机文件、执行命令的范围，安全等级从高到低：Read Only &gt; Workspace Write &gt; Full access 。<br />- Read Only：仅可读取工作区文件，无法修改文件、执行终端命令，安全性最高。<br />- Workspace Write：允许读写当前工作目录内文件，可在工作目录执行命令，无法访问工作目录以外文件，日常开发推荐使用。<br />- Full access： 拥有完整文件系统访问权限，可读写任意路径文件、执行各类终端指令，存在较高安全风险。<br /><br />七、提交第一个文件任务<br />1. 在独立工作区中新建会话。<br />2. 一次性提交完整任务，至少写清：目标、内容事实、页面或文件结构、视觉与交互要求、禁止项和完成标准。<br />3. 等待 Harness 返回“已完成”和本地文件绝对路径。<br />4. 把返回路径放进浏览器或对应应用中，人工打开检查。<br />实录案例最终返回 /Users/mac/Documents/deepseektest1/index.html ，并在 Chrome 中成功打开生成页面。Harness 报告静态检查通过，但自动浏览器检查受本机沙箱环境限制中断，因此不能据此宣称完成了像素级视觉验收、移动端验收或跨浏览器验收。<br /><br />八、常见问题<br />终端没有返回本地地址：确认 Node.js 、npm 、网络状态和命令拼写与官方 README 一致。<br />浏览器打不开 127.0.0.1:3080：确认终端中的 dsh 进程仍在运行，并以终端实际返回的地址为准。<br />模型不可用或无回复：重新检查 API Key 、模型配置、账号余额或调用额度。<br />无法写入文件：确认已选择正确工作区，并将权限设为 Workspace Write 。<br />自动浏览器验证失败：手动打开返回路径，并如实记录未验证项。<br />暂时无法在飞书文档外展示此内容<br /><br />九、完成检查清单<br />- Node.js 与 npm 能在终端正常返回版本；<br />- npx @<a href="https://www.v2ex.com/member/deepseek-ai" rel="nofollow noopener" target="_blank">deepseek-ai</a>/dsh web 返回本地地址；<br />- 浏览器能打开 Harness Web UI ；<br />- DeepSeek API Key 已保存且没有泄露；<br />- 工作区、模型、推理等级与 Workspace Write 权限已确认；<br />- 发送“你好”后收到真实回复；<br />- 如执行文件任务，已人工打开返回路径检查结果，并记录未验证项。<br />DeepSeek Harness 社区： <a href="https://dshai.net/" rel="nofollow noopener" target="_blank">https://dshai.net/</a>]]></description>
+    <pubDate>Sat, 15 Aug 2026 13:35:25 -0000</pubDate>
+    <guid isPermaLink="true">https://www.v2ex.com/t/1234674#reply1</guid>
+    <source url="https://www.v2ex.com/t/1234674#reply1">V2EX</source>
+  </item>
+  <item>
+    <title>[IT之家] 美国考虑应特朗普喜好重新设计航母：电磁弹射改回蒸汽弹射 + 舰岛迁移，80 多年来首次新建第五座海军造船厂</title>
+    <link>https://www.ithome.com/0/990/174.htm</link>
+    <description><![CDATA[<p>IT之家 8 月 15 日消息，据《华盛顿邮报》今日报道，<span>美国海军正在评估对新型福特级航母进行重大重新设计，将作为航母指挥中心的多层舰桥（即“舰岛”）从靠近舰尾的位置前移至舰体中部，以回应总统特朗普的喜好</span><span>。</span><span>特朗普更希望美国新型航母的外形更接近二战时期服役的经典舰艇样式</span><span>。</span></p><p>其报道援引 7 名现任和前任美国官员称，这项评估与总统唐纳德 · 特朗普对新型航母外观的关注有关。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/8/66238ceb-9ff7-4459-9552-14a9ed2bb501.png?x-bce-process=image/format,f_auto" /></p><p>航母上的“岛”是设置舰桥、雷达、通信设备以及航空作业指挥设施的上层建筑。福特级与此前的尼米兹级相比，对飞行甲板布局进行了重新设计，其舰岛位置更加靠后。</p><p>美国海军此前解释称，这种布局有助于增加弹射器附近的飞机停放空间，同时减少飞机起飞准备和回收过程中可能受到的气流影响，从而提高飞行甲板作业效率和降落安全性。美国海军公布的福特级资料显示，该级航母采用了更大的飞行甲板，并通过重新布局提升舰载机出动能力。</p><p>此次评估并非特朗普首次提出移动航母舰岛的设想。一名前美国高级官员表示，特朗普第一任期内美国海军也曾研究过这一方案，当时的研究结论认为，移动舰岛将涉及大规模重新设计，成本可能达到数十亿美元，并可能明显推迟航母建造进度。</p><p>美国海军前军官、哈德逊研究所高级研究员布莱恩 · 克拉克（Bryan Clark）表示，舰岛位置发生变化会影响航母整体布局、重量和浮力，因此属于重大设计调整。</p><p>如果这一方案最终实施，福特级将面临的设计调整不止舰岛位置一项。<span>当地时间 8 月 13 日签署了一份国家安全备忘录，下令海军在后续建造的航母上弃用电磁弹射系统（EMALS），重新启用老式蒸汽弹射器</span><span>。备忘录要求美国国防部长皮特 · 赫格塞思（Pete Hegseth）在 60 天内提交相关计划。</span></p><p><span>该命令将首先影响福特级四号舰“多丽丝 · 米勒”号（USS Doris Miller，CVN-81），前三艘“福特”号、“肯尼迪”号和“企业”号将继续使用电磁弹射系统</span><span>。</span></p><p><span>“多丽丝 · 米勒”号</span>美国亨廷顿 · 英格尔斯工业公司旗下纽波特纽斯造船厂负责建造，原计划采用电磁飞机弹射系统（EMALS）和先进武器升降机，原<span>计划于 2026 年底开工，计划 2034 年初交付</span><span>。报道称，</span>美国海军目前已经为该舰采购和生产相关设备。</p><p>路透社 8 月 13 日报道称，截至当时，EMALS 相关生产已经完成接近 50%，因此如果更换系统，将涉及额外的工程、进度和系统集成工作。</p><p>美国海军最早在 2009 年选定 EMALS 作为新一代航母舰载机弹射系统，用于取代尼米兹级使用的 C-13 蒸汽弹射器。美国海军航空系统司令部（NAVAIR）资料显示，EMALS 通过电磁技术完成舰载机弹射，其设计目标包括支持从轻型无人机到重型舰载战斗机在内的不同航空器。该系统已经安装在“杰拉尔德 ·R· 福特”号（USS Gerald R. Ford，CVN-78）等福特级航母上。</p><p>根据路透社 8 月 13 日报道，截至 2026 年 3 月，“杰拉尔德 ·R· 福特”号已经完成 36863 次 EMALS 弹射。</p><p>福特级的第一艘航母“杰拉尔德 ·R· 福特”号已经服役，第二艘“约翰 ·F· 肯尼迪”号（USS John F. Kennedy，CVN-79）目前正在进行海试，第三艘“企业”号（USS Enterprise，CVN-80）和第四艘“多丽丝 · 米勒”号处于建造阶段。</p><p>美国海军此前的规划还包括后续“威廉 ·J· 克林顿”号（CVN-82）和“乔治 ·W· 布什”号（CVN-83）等舰艇。美国海军公布的资料显示，福特级采用 EMALS、先进拦阻装置以及全电力辅助系统等设计，以替代尼米兹级上的传统蒸汽系统。</p><p>美国海军此前计划逐步以福特级取代尼米兹级（IT之家注：始建于 20 世纪 60 年代的）航母。美国国会 2026 财年国防授权法案为福特级航母项目提供了相关资金，并授权建造一艘福特级航母。此外，美国海军目前还面临航母建造、维护和维修能力不足等问题。</p><p>美国管理和预算办公室主任拉塞尔 · 沃特（Russell Vought）6 月曾表示，特朗普政府正在推动建设第五座美国海军公共船厂，以增加舰艇维护能力；相关计划此前已经被纳入政府扩大美国造船能力的政策讨论。</p><p>特朗普此次要求恢复蒸汽弹射器，也与其长期以来对 EMALS 的态度有关。路透社报道称，<span>特朗普长期以来一直批评电磁弹射系统“太复杂”“效果不佳”且成本过高</span><span>。他曾抱怨电磁弹射系统一旦故障“就得去麻省理工学院请人维修”，而蒸汽弹射系统“用锤子就能修好”</span><span>。</span></p><p><span>公开报道显示，<span>电磁弹射系统（EMALS）利用直线电机产生的电磁力推动战机起飞，相比蒸汽弹射具有加速更平稳、维护人员更少等优点，但福特号首舰在测试阶段曾出现较高的关键故障率</span><span>。</span></span></p><p><span>电磁弹射系统的制造商通用原子公司（General Atomics）发布声明称，“多丽丝 · 米勒”号的电磁弹射系统生产工作已完成近 50%，“现在改变方向将带来巨大的成本、进度和整合风险”</span><span>。</span></p><p>8 月 13 日签署的国家安全总统备忘录明确要求国防部制定方案，将“多丽丝 · 米勒”号及未来相关航母的电磁弹射系统和先进武器升降机分别替换为蒸汽和液压系统。</p><p>与此同时，这份<span>国家安全备忘录还指示国防部建立第五座公立海军造船厂，以提升潜艇和航空母舰的维修能力</span><span>。这将是美国 80 多年来首次新建海军造船厂</span><span>。备忘录还要求建立一个潜艇部件维修中心，用于储存和翻新关键部件</span><span>。</span></p><p><span>此外，该<span>备忘录首次允许外国造船商在特定条件下为美国海军造船</span><span>。根据说明，若外国造船商对美国造船厂进行“大量且持久的投资”并培训美国劳动力，将被“暂时允许”在其境外母公司船厂为美方建造最多两艘船，以快速填补</span></span>美国本土造船能力和交付周期方面的缺口。</p><p>从目前公开信息来看，美国海军对福特级“舰岛前移”的评估仍属于可行性研究阶段，与 8 月 13 日已经正式写入总统国家安全备忘录的“蒸汽弹射器替代 EMALS”并非同一层级的决定。美国国防部和美国海军就舰岛位置调整接受媒体询问时将记者引向白宫，而白宫则引用 8 月 13 日发布的国家安全备忘录；该备忘录本身并没有提及将福特级舰岛向前移动的具体要求。</p><p>因此，截至美国当地时间 2026 年 8 月 15 日，可以确认的是特朗普政府已经要求美国海军针对“多丽丝 · 米勒”号及未来航母制定由电磁弹射转向蒸汽弹射的方案，同时推动扩大美国海军造船和维修能力；至于将福特级航母舰岛从后部向中部移动，目前仍是海军正在评估的潜在设计调整，尚未公布正式改装决定、具体设计方案或最终成本。</p><p><strong>相关阅读：</strong></p><ul class="small-size list-paddingleft-2"><li><p>《<a href="https://www.ithome.com/0/984/503.htm" target="_blank">完全国产化：我国“四川舰”质量车电磁弹射试验画面首次公开</a>》</p></li><li><p>《<a href="https://www.ithome.com/0/907/750.htm" target="_blank">“福建舰”航母内部画面首度公开：海军作战舰艇最大手术室亮相，超近距离感受电磁弹射爆发力</a>》</p></li><li><p>《<a href="https://www.ithome.com/0/960/636.htm" target="_blank">美军“福特”号航母火灾视频曝光：消防系统失灵，床铺烧毁、天花板烧穿</a>》</p></li></ul>]]></description>
+    <pubDate>Sat, 15 Aug 2026 13:33:39 -0000</pubDate>
+    <guid isPermaLink="true">https://www.ithome.com/0/990/174.htm</guid>
+    <source url="https://www.ithome.com/0/990/174.htm">IT之家</source>
+  </item>
+  <item>
+    <title>[IT之家] 最强敞篷野马登场：福特推出 Mustang Dark Horse SC 敞篷版，最大 795 马力</title>
+    <link>https://www.ithome.com/0/990/173.htm</link>
+    <description><![CDATA[<p>IT之家 8 月 15 日消息，据外媒 Carscoop 今天（15 日）报道，福特正式发布 Mustang Dark Horse SC 敞篷版。新车比硬顶版晚 7 个月亮相，并成为福特<strong>迄今动力最强的敞篷 Mustang</strong>。</p><p>福特希望把 Dark Horse SC 敞篷版打造成“终极敞篷 GT 车型”。相比更加激进的硬顶版，新车更注重<strong>兼顾性能与舒适性</strong>，配备经过专门调校的 MagneRide 悬架，重点服务公路驾驶，而非追求赛道圈速。</p><p style="text-align: center;"><img class="no-alt-img" id="1786800656793_4" src="https://img.ithome.com/newsuploadfiles/2026/8/06dbb160-fc1f-4fcb-b30b-e37aa20b5427.png?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img class="no-alt-img" id="1786800611140_1" src="https://img.ithome.com/newsuploadfiles/2026/8/90a99b5d-056a-474a-beb3-92da41b538b8.png?x-bce-process=image/format,f_auto" /></p><p>核心机械配置基本没有变化，只是车身换成了软顶敞篷结构。打开车顶后，5.2L 机械增压 V8 发动机的声浪可以更直接地传入座舱。发动机<strong>最大功率 795 马力（593kW/806 公制马力），峰值扭矩 894N·m</strong>，匹配 7 速双离合变速箱，动力传向后轮。</p><p>新车座舱提供缟玛瑙黑与太空灰配色，真皮座椅预计与硬顶版相同，驾驶席支持 6 向电动调节，副驾驶席支持 4 向电动调节。</p><p style="text-align: center;"><img class="no-alt-img" id="1786800624126_2" src="https://img.ithome.com/newsuploadfiles/2026/8/4e6bb957-7cbc-476c-a0ce-d6e69cf0e753.png?x-bce-process=image/format,f_auto" /></p><p style="text-align: center;"><img class="no-alt-img" id="1786800635785_3" src="https://img.ithome.com/newsuploadfiles/2026/8/063e175f-fec6-43ac-897f-7e8130c1db2c.png?x-bce-process=image/format,f_auto" /></p><p>福特暂未公布完整配置。作为参考，硬顶版配备 12.4 英寸数字仪表、13.2 英寸信息娱乐系统和 12 扬声器 B&amp;O 音响，并提供铝制踏板、氛围灯和双区自动空调。从敞篷版图片还能看到<strong>碳纤维饰板、旋钮式换挡机构和平底方向盘</strong>。</p><p>20 英寸轮毂和 Brembo 制动系统预计也会保留，主动式排气、弹射起步和碳纤维传动轴等配置同样有望沿用下来。</p><p>Mustang Dark Horse SC 敞篷版将于今年秋季开放订购，2027 年春季开始交付。福特尚未公布售价，作为参考，硬顶版起售价 106,090 美元<span class="exch-money-value">（IT之家注：现汇率约合 71.7 万元人民币）</span>。</p>]]></description>
+    <pubDate>Sat, 15 Aug 2026 13:31:56 -0000</pubDate>
+    <guid isPermaLink="true">https://www.ithome.com/0/990/173.htm</guid>
+    <source url="https://www.ithome.com/0/990/173.htm">IT之家</source>
   </item>
   <item>
     <title>[V2EX] [问与答] 如何批量高精度识别图片内容</title>
-    <link>https://www.v2ex.com/t/1234673#reply0</link>
+    <link>https://www.v2ex.com/t/1234673#reply1</link>
     <description><![CDATA[如何批量高精度识别图片内容？<br /><br />最好可以本地部署模型支持，如果有在线的形式也可以接受。<br /><br />大概 60 万张图片，报价 10w ，有搞头吗？]]></description>
     <pubDate>Sat, 15 Aug 2026 13:29:46 -0000</pubDate>
-    <guid isPermaLink="true">https://www.v2ex.com/t/1234673#reply0</guid>
-    <source url="https://www.v2ex.com/t/1234673#reply0">V2EX</source>
+    <guid isPermaLink="true">https://www.v2ex.com/t/1234673#reply1</guid>
+    <source url="https://www.v2ex.com/t/1234673#reply1">V2EX</source>
   </item>
   <item>
     <title>[V2EX] [计算机] 打算配个电脑，老司机或者有空的发表下看法</title>
-    <link>https://www.v2ex.com/t/1234672#reply0</link>
+    <link>https://www.v2ex.com/t/1234672#reply1</link>
     <description><![CDATA[<p>预算不超 2 个, 不花钱溢价给灯效，稳定第一，风冷红线。这个时候实在没办法，刚需没电脑用了。</p>
 <p>另外找 B 站或者小红书 UP 上门安装，自己买配件靠谱不。京东因为之前一次空调的事情，对京东安装服务不太放心。</p>
 <p>计划配置如下，</p>
@@ -54,164 +392,28 @@
 <p>联力 LANCOOL 217ATX 中塔机箱</p>
 <p>海韵 Focus GX V5 1000W</p>]]></description>
     <pubDate>Sat, 15 Aug 2026 13:28:04 -0000</pubDate>
-    <guid isPermaLink="true">https://www.v2ex.com/t/1234672#reply0</guid>
-    <source url="https://www.v2ex.com/t/1234672#reply0">V2EX</source>
+    <guid isPermaLink="true">https://www.v2ex.com/t/1234672#reply1</guid>
+    <source url="https://www.v2ex.com/t/1234672#reply1">V2EX</source>
   </item>
   <item>
     <title>[V2EX] [程序员] 爆肝一下午，整了个桌面版 DeepSeek Harness，你不用再装 Node.js 了</title>
-    <link>https://www.v2ex.com/t/1234671#reply3</link>
+    <link>https://www.v2ex.com/t/1234671#reply4</link>
     <description><![CDATA[<p>爆肝了一下午把 DeepSeek Harness 做了个轻量桌面壳子，开源在  </p>
 <p>GitHub： <a href="https://github.com/qufei1993/dsh-desktop" rel="nofollow">https://github.com/qufei1993/dsh-desktop</a></p>
 <p>原则 “不改 DeepSeek Harness 本体内容”，只做桌面端包装；默认启动直接打开官方的 DeepSeek Harness 页面。也就是说，你进来看到的还是原生态界面。</p>
 <p>另外做了两个实用点：一是内置 Node.js 运行时，解决“没装/版本不一致”导致的麻烦；二是做了版本管理和切换（可选更新到新版本、也可保留旧版本），让桌面端用起来更可控。</p>
 <p>目前支持 macOS + Windows ，目标就是把“网页打开+命令行启动”这层体验改得像普通 App 一样丝滑顺手。</p>]]></description>
     <pubDate>Sat, 15 Aug 2026 13:26:44 -0000</pubDate>
-    <guid isPermaLink="true">https://www.v2ex.com/t/1234671#reply3</guid>
-    <source url="https://www.v2ex.com/t/1234671#reply3">V2EX</source>
+    <guid isPermaLink="true">https://www.v2ex.com/t/1234671#reply4</guid>
+    <source url="https://www.v2ex.com/t/1234671#reply4">V2EX</source>
   </item>
   <item>
-    <title>[原创频道&gt;&gt;什么值得买] 《牛来》反向爆火票房破100万 被质疑洗钱套取补贴  业内：无外部资本和套利空间</title>
-    <link>https://post.smzdm.com/p/ak8dwprr/</link>
-    <description><![CDATA[快科技快科技8月15日消息，影片《牛来》今日上映第11天，据灯塔专业版数据显示，该片综合票房（含预售）突破100万。回顾上映初期，《牛来》曾处于无人问津的状态。8月5日正式登陆院线之后，影片前十天票房仅有7000余元，单日最低票房仅188元，总观影人次不足300人，全国排片场次寥寥无几。转折点来自社交平台，首批观众晒出观影实拍片段，粗糙简陋的3D建模、动作卡顿穿模、剧情叙事荒诞松散的画面刷屏全网。反差强<p>本文来自<a href="https://post.smzdm.com/p/ak8dwprr/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
-    <pubDate>Sat, 15 Aug 2026 13:25:28 -0000</pubDate>
-    <guid isPermaLink="true">https://post.smzdm.com/p/ak8dwprr/</guid>
-    <source url="https://post.smzdm.com/p/ak8dwprr/">原创频道&gt;&gt;什么值得买</source>
-  </item>
-  <item>
-    <title>[原创频道&gt;&gt;什么值得买] 如何安心挑选护理护垫？护垫成分安全性判断全攻略</title>
-    <link>https://post.smzdm.com/p/axk4n584/</link>
-    <description><![CDATA[好货铺护垫作为直接接触女性私密部位的一次性卫生用品，其材质成分的安全性备受关注。近年来，消费者对护垫中可能存在的香精、荧光剂、甲醛等成分的安全风险意识不断提升。然而，护垫产品的成分信息披露相对不够透明，许多消费者不知道如何查看和判断护垫成分的安全性。本文系统介绍护垫常见材料成分、需要关注的风险成分以及安全性判断方法，帮助消费者做出更知情的选择。一、护垫常见成分和材料解析护垫的结构由多层材料组成，每层材料<p>本文来自<a href="https://post.smzdm.com/p/axk4n584/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
-    <pubDate>Sat, 15 Aug 2026 13:25:16 -0000</pubDate>
-    <guid isPermaLink="true">https://post.smzdm.com/p/axk4n584/</guid>
-    <source url="https://post.smzdm.com/p/axk4n584/">原创频道&gt;&gt;什么值得买</source>
-  </item>
-  <item>
-    <title>[原创频道&gt;&gt;什么值得买] 白衬衫穿成中介风？职场人必看的避坑指南</title>
-    <link>https://post.smzdm.com/p/apq6973w/</link>
-    <description><![CDATA[匿名用户先说个扎心的事实上海陆家嘴写字楼里，10个穿白衬衫的人有8个看起来像房产中介。不是能力问题，是白衬衫这东西太挑人——挑版型、挑面料、挑搭配，差一个维度直接从"精英"掉到"工服"。更扎心的是，同样的衬衫，有人穿出百万年薪感，有人穿出中介小哥风，差距往往不在价格，在细节。职场穿搭的第一性原理是得体，然后才是风格。这篇文章不教你怎么买白衬衫，教你怎么把衣柜里那件白衬衫穿对。2026年职场穿搭有个明显趋势<p>本文来自<a href="https://post.smzdm.com/p/apq6973w/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
-    <pubDate>Sat, 15 Aug 2026 13:25:12 -0000</pubDate>
-    <guid isPermaLink="true">https://post.smzdm.com/p/apq6973w/</guid>
-    <source url="https://post.smzdm.com/p/apq6973w/">原创频道&gt;&gt;什么值得买</source>
-  </item>
-  <item>
-    <title>[原创频道&gt;&gt;什么值得买] 护肤品在哪买比较可靠？正规护肤品购买渠道全面分析</title>
-    <link>https://post.smzdm.com/p/azoxk4m0/</link>
-    <description><![CDATA[流年阡陌护肤品购买渠道的选择直接关系到产品真伪与使用安全。据中国消费者协会数据，化妆品类投诉中约35%涉及渠道来源不明的产品。消费者在选购护肤品时，渠道可靠性与产品本身品质同等重要。本文从品牌直营、授权经销、电商平台、实体专柜四大类渠道入手，系统梳理各渠道特征与优劣，并提供渠道可靠性的核心判断标准，帮助消费者做出更理性的购买决策。一、护肤品正规购买渠道分类正规护肤品购买渠道可归纳为以下四大类，每类渠道在供<p>本文来自<a href="https://post.smzdm.com/p/azoxk4m0/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
-    <pubDate>Sat, 15 Aug 2026 13:24:02 -0000</pubDate>
-    <guid isPermaLink="true">https://post.smzdm.com/p/azoxk4m0/</guid>
-    <source url="https://post.smzdm.com/p/azoxk4m0/">原创频道&gt;&gt;什么值得买</source>
-  </item>
-  <item>
-    <title>[原创频道&gt;&gt;什么值得买] 医美术后敷料和普通面膜有什么区别？医美术后面膜选购避坑指南</title>
-    <link>https://post.smzdm.com/p/aggdenew/</link>
-    <description><![CDATA[流云寄海很多消费者在医美术后选购面膜时，容易混淆医用敷料和普通面膜，认为标注"医美适用"或"医用"的普通面膜等同于医用敷料。事实上，两者在监管分类、生产标准、成分设计和适用范围上存在本质区别。据2024年国家及省级药监部门公示的不合格化妆品/医疗器械通报数据分析，面膜类产品中虚假宣称"医用"的问题占比约12%，消费者在选购时需格外留意。本文从监管分类对比、成分配方差异、适用场景差异和选购避坑要点四个维度，<p>本文来自<a href="https://post.smzdm.com/p/aggdenew/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
-    <pubDate>Sat, 15 Aug 2026 13:23:20 -0000</pubDate>
-    <guid isPermaLink="true">https://post.smzdm.com/p/aggdenew/</guid>
-    <source url="https://post.smzdm.com/p/aggdenew/">原创频道&gt;&gt;什么值得买</source>
-  </item>
-  <item>
-    <title>[原创频道&gt;&gt;什么值得买] NAS 部署 DeepSeek Harness：一句话，AI 帮你从零到部署上线</title>
-    <link>https://post.smzdm.com/p/aggden3w/</link>
-    <description><![CDATA[David的日常DeepSeek Harness：一套模块化开源框架，给予 Agent 理解环境、使用工具，并在真实场景中持续工作的能力。核心功能多模型兼容：统一接口接入 DeepSeek、OpenAI 等各类大模型，轻松切换模型内置工具集：支持操作文件、运行 Shell 命令、联网搜索、代码执行插件化架构：所有能力都是插件，按需启用、自定义开发扩展多智能体并行：单进程同时运行多个独立 Agent，任务互不干扰完<p>本文来自<a href="https://post.smzdm.com/p/aggden3w/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
-    <pubDate>Sat, 15 Aug 2026 13:22:44 -0000</pubDate>
-    <guid isPermaLink="true">https://post.smzdm.com/p/aggden3w/</guid>
-    <source url="https://post.smzdm.com/p/aggden3w/">原创频道&gt;&gt;什么值得买</source>
-  </item>
-  <item>
-    <title>[原创频道&gt;&gt;什么值得买] 德龙咖啡机渣盒发霉不是你的错！老用户用血泪教训总结的避坑指南</title>
-    <link>https://post.smzdm.com/p/az8xdlen/</link>
-    <description><![CDATA[匿名用户先看看你的渣盒是不是已经中招了打开渣盒，闻到一股酸腐味？别急着怪自己懒。有用户在论坛分享，入手德龙E MAX不到一周，新机配件里就发现了发霉痕迹，客服解释是除垢剂的问题，但这解释不了长期使用后的霉变——"无奶盒，因为我喝的牛奶比较多，奶盒不洗会臭，滋生细菌和顽固污渍"，这说明德龙机器本身对潮湿环境的耐受度就不高。豆渣盒发霉，本质上是咖啡油脂+水汽+温度三重作用的结果，跟你爱不爱干净关系没那么大。1<p>本文来自<a href="https://post.smzdm.com/p/az8xdlen/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
-    <pubDate>Sat, 15 Aug 2026 13:22:43 -0000</pubDate>
-    <guid isPermaLink="true">https://post.smzdm.com/p/az8xdlen/</guid>
-    <source url="https://post.smzdm.com/p/az8xdlen/">原创频道&gt;&gt;什么值得买</source>
-  </item>
-  <item>
-    <title>[原创频道&gt;&gt;什么值得买] 别买一代了！Osmo 360 II升级可换镜片+8K/60fps，3299元现货</title>
-    <link>https://post.smzdm.com/p/anvq60pv/</link>
-    <description><![CDATA[轮上装备库大疆8月13日晚把第二代全景相机 Osmo 360 II 端了出来，8月14日京东、天猫、抖音已经现货开卖。标准套装 3299，畅拍套装 3999。这台机器塞了双 1/1.1 英寸方形 CMOS，感光利用率较传统提升 25%。第一次碰 360 全景相机的人，盯着参数表容易懵。别慌，先把这几个玩法吃透，比研究参数管用。全景相机听着玄乎。其实上手比手机还省心。先说隐形自拍杆。杆子举起来，画面里它凭空消<p>本文来自<a href="https://post.smzdm.com/p/anvq60pv/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
-    <pubDate>Sat, 15 Aug 2026 13:22:24 -0000</pubDate>
-    <guid isPermaLink="true">https://post.smzdm.com/p/anvq60pv/</guid>
-    <source url="https://post.smzdm.com/p/anvq60pv/">原创频道&gt;&gt;什么值得买</source>
-  </item>
-  <item>
-    <title>[原创频道&gt;&gt;什么值得买] 数据对不上？智界高管宣布，V9是MPV销量第一！</title>
-    <link>https://post.smzdm.com/p/awwr2gdk/</link>
-    <description><![CDATA[科学技术宅智界高管今天宣布，智界V9的销量、交付量持续走高，今年7月份成为MPV市场全品类销量冠军；该高管还给出了统计数据，数据显示智界V9今年7月份的单月成绩为10101辆。从机构的数据来看，智界V9在今年7月份的零售量为8974辆，批发量为10101辆，所以官方引用的是数量更高的批发量，而不是大家常用的零售量。当然，无论是批发量还是零售量，智界V9都是MPV品类中的第一，这一点倒是没有太大的争议。另外小<p>本文来自<a href="https://post.smzdm.com/p/awwr2gdk/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
-    <pubDate>Sat, 15 Aug 2026 13:22:12 -0000</pubDate>
-    <guid isPermaLink="true">https://post.smzdm.com/p/awwr2gdk/</guid>
-    <source url="https://post.smzdm.com/p/awwr2gdk/">原创频道&gt;&gt;什么值得买</source>
-  </item>
-  <item>
-    <title>[原创频道&gt;&gt;什么值得买] TR2-0送走XG创队史最差战绩！五位老将历届TI最差，35分钟速败敲GG致歉</title>
-    <link>https://post.smzdm.com/p/a9583mvp/</link>
-    <description><![CDATA[匿名用户TR今晨2-0送走XG，后者以1胜4负结束TI15之旅，排名并列14至15位。这是XG队史最差TI成绩，也是Ame、NTS、xxs、fy、xNova五人历届TI的最差战绩。1第二局XG选出先知体系，三路开局即被打崩。TR经济领先后三核冲脸，NTS帕克与Ame先知一度反扑追回部分劣势。关键团战，先知不开BKB直接中箭，阵容瞬间崩盘，TR一波团灭XG并拆出超级兵。35分钟后核心倒地，XG敲出GG。2两<p>本文来自<a href="https://post.smzdm.com/p/a9583mvp/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
-    <pubDate>Sat, 15 Aug 2026 13:22:00 -0000</pubDate>
-    <guid isPermaLink="true">https://post.smzdm.com/p/a9583mvp/</guid>
-    <source url="https://post.smzdm.com/p/a9583mvp/">原创频道&gt;&gt;什么值得买</source>
-  </item>
-  <item>
-    <title>[原创频道&gt;&gt;什么值得买] 长发通勤党想要顺滑又留香？香氛护发素别只盯贵价款，质地也要看</title>
-    <link>https://post.smzdm.com/p/az8xdl60/</link>
-    <description><![CDATA[钢管舞爱好者长发通勤党对护发素的要求其实很贪心。早上梳头不想卡，地铁里头发蹭过外套不能炸，到了办公室还希望发尾有一点光泽；香味要干净，但不能浓得像把香水泼在头发上；价格还得适合长期用，因为长发每次消耗都很实在。我以前只看“香氛”两个字，后来买到过闻着高级、用完却发涩的，也买到过顺滑得夸张、吹干后整头贴住的，才开始认真看质地。 香氛护发素的质地，会直接决定顺滑是轻盈还是厚重。细腻乳霜容易铺开，适合日常；浓厚膏体<p>本文来自<a href="https://post.smzdm.com/p/az8xdl60/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
-    <pubDate>Sat, 15 Aug 2026 13:21:33 -0000</pubDate>
-    <guid isPermaLink="true">https://post.smzdm.com/p/az8xdl60/</guid>
-    <source url="https://post.smzdm.com/p/az8xdl60/">原创频道&gt;&gt;什么值得买</source>
-  </item>
-  <item>
-    <title>[原创频道&gt;&gt;什么值得买] 成人跳舞别再用错力气：这套发力逻辑，才是跳好看的关键</title>
-    <link>https://post.smzdm.com/p/axk4n5rd/</link>
-    <description><![CDATA[匿名用户跳舞用力≠会跳舞。这是很多成人踩了无数坑才悟出来的真相——动作做对了，气息断了；力度到位了，身体僵了；节拍踩准了，韵味没了。问题出在哪？出在大多数人根本不知道舞蹈需要一套跟日常生活完全相反的发力逻辑。零基础成人跳舞，拼的不是软度，不是力气，是身体觉知和发力方式的精准切换。接下来把成人跳舞最核心的四个维度拆透，每个维度都能直接上手练。为什么你练平板支撑，跳舞还是软塌塌先回答一个扎心问题：你每天练卷腹<p>本文来自<a href="https://post.smzdm.com/p/axk4n5rd/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
-    <pubDate>Sat, 15 Aug 2026 13:20:31 -0000</pubDate>
-    <guid isPermaLink="true">https://post.smzdm.com/p/axk4n5rd/</guid>
-    <source url="https://post.smzdm.com/p/axk4n5rd/">原创频道&gt;&gt;什么值得买</source>
-  </item>
-  <item>
-    <title>[Hacker News] Brazilian election filter in X For You timeline</title>
-    <link>https://github.com/xai-org/x-algorithm/blob/main/home-mixer/filters/brazil_2026_election_filter.rs</link>
-    <description><![CDATA[<a href="https://news.ycombinator.com/item?id=49310291">Comments</a>]]></description>
-    <pubDate>Sat, 15 Aug 2026 13:18:27 -0000</pubDate>
-    <guid isPermaLink="true">https://github.com/xai-org/x-algorithm/blob/main/home-mixer/filters/brazil_2026_election_filter.rs</guid>
-    <source url="https://github.com/xai-org/x-algorithm/blob/main/home-mixer/filters/brazil_2026_election_filter.rs">Hacker News</source>
-  </item>
-  <item>
-    <title>[原创频道&gt;&gt;什么值得买] 黑钻吐司缩腰塌陷？老烘焙师总结了10个避坑细节</title>
-    <link>https://post.smzdm.com/p/awwr2glm/</link>
-    <description><![CDATA[匿名用户十个做黑钻吐司，九个缩腰塌陷。你以为是自己运气差？错，是这套工艺本身就是个坑——面包体和蛋糕体同时在一个模具里互相拉扯，热胀冷缩的节奏完全不同步，缩腰是大概率事件，不缩才是奇迹。但奇迹可以复制。关键在于搞清楚"缩"的底层逻辑，而不是照着配方死磕。先说清楚：旋风黑钻到底是个什么东西旋风黑钻的本质是"面包体包蛋糕体"的双层结构。面包在下层，负责提供拉丝感和支撑骨架；蛋糕在上层，负责绵密湿润的味觉体验。<p>本文来自<a href="https://post.smzdm.com/p/awwr2glm/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
-    <pubDate>Sat, 15 Aug 2026 13:17:52 -0000</pubDate>
-    <guid isPermaLink="true">https://post.smzdm.com/p/awwr2glm/</guid>
-    <source url="https://post.smzdm.com/p/awwr2glm/">原创频道&gt;&gt;什么值得买</source>
-  </item>
-  <item>
-    <title>[原创频道&gt;&gt;什么值得买] 紫甘蓝</title>
-    <link>https://post.smzdm.com/p/a9583m37/</link>
-    <description><![CDATA[胖猫妈妈食材：紫甘蓝、苹果丝、香菜、熟芝麻、芝麻香油2勺、生抽2勺、凉拌醋2勺、白糖2勺、盐。· 制作步骤：1. 紫甘蓝切细丝，加盐抓拌腌制5分钟。2. 用清水冲洗干净表面盐分后，放清水里浸泡20分钟，滤干水分。3. 加入苹果丝、香菜和熟芝麻。4. 加2勺芝麻香油、2勺生抽、2勺凉拌醋、2勺白糖和一点点盐。5. 抓拌均匀即可。2. 裙带菜豆腐牛肉汤<p>本文来自<a href="https://post.smzdm.com/p/a9583m37/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
-    <pubDate>Sat, 15 Aug 2026 13:17:00 -0000</pubDate>
-    <guid isPermaLink="true">https://post.smzdm.com/p/a9583m37/</guid>
-    <source url="https://post.smzdm.com/p/a9583m37/">原创频道&gt;&gt;什么值得买</source>
-  </item>
-  <item>
-    <title>[原创频道&gt;&gt;什么值得买] 微信内测AI摘要！公众号文章可以不必亲自看了？</title>
-    <link>https://post.smzdm.com/p/ak8dwpq8/</link>
-    <description><![CDATA[数字视线当你打开一篇公众号长文，第一时间看到的可能不再是文章开头，而是一个“AI摘要”入口。微信正在内测这样一个功能：在公众号文章标题旁边新增“AI摘要”按钮。◆ 一个按钮，改写12亿人的阅读习惯文章未看先有梗，AI替你读全文。内测用户点击“AI摘要”后，微信会调用AI模型自动生成一篇300字左右的文章概要。摘要不是提取开头几句话，而是理解全文逻辑后重新组织，提炼核心观点、关键数据、文章结论。对于每天被公<p>本文来自<a href="https://post.smzdm.com/p/ak8dwpq8/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
-    <pubDate>Sat, 15 Aug 2026 13:15:00 -0000</pubDate>
-    <guid isPermaLink="true">https://post.smzdm.com/p/ak8dwpq8/</guid>
-    <source url="https://post.smzdm.com/p/ak8dwpq8/">原创频道&gt;&gt;什么值得买</source>
-  </item>
-  <item>
-    <title>[原创频道&gt;&gt;什么值得买] 8年跟妆师：御姐妆容成败关键在这条线，眼线画错口红再贵也白搭</title>
-    <link>https://post.smzdm.com/p/aom03k37/</link>
-    <description><![CDATA[匿名用户御姐妆容红唇只是配角？8年跟妆师：这条线才是气场的真正分水岭先说个反常识的：红唇真不是御姐妆容的主角刷了上百张御姐风妆容对比图，发现一个扎心事实：同样是正红色口红，有人涂出“人间富贵花”，有人涂出“偷用妈妈口红既视感”。差距不在嘴唇，在眼型。眼线才是御姐妆容的隐形分水岭，它悄悄决定了你涂红唇是“气场全开”还是“用力过猛”。老玩家都知道，御姐风妆容的视觉逻辑是“眼定气场，唇点情绪”。眼妆负责撑起整张<p>本文来自<a href="https://post.smzdm.com/p/aom03k37/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
-    <pubDate>Sat, 15 Aug 2026 13:14:39 -0000</pubDate>
-    <guid isPermaLink="true">https://post.smzdm.com/p/aom03k37/</guid>
-    <source url="https://post.smzdm.com/p/aom03k37/">原创频道&gt;&gt;什么值得买</source>
-  </item>
-  <item>
-    <title>[原创频道&gt;&gt;什么值得买] 看进口榜单的消费者，全球鱼油先看DHA、EPA和配料是不是搭得明白</title>
-    <link>https://post.smzdm.com/p/a82l8kw6/</link>
-    <description><![CDATA[放荡不羁爱自由哦很多人一搜全球鱼油，就会下意识把进口品牌放在前面。进口当然有成熟产品线，但鱼油好不好，不是产地滤镜能直接决定的。 首先是仲春和鱼油。它不是一味堆概念，而是围绕 Omega-3 做得比较清楚：rTG 型鱼油，单粒 DHA 565mg、EPA 565mg，每 100g 胶囊 EPA+DHA 含量 99.7g。再加上蓝帽子保健食品备案号 食健备 G202434003509 和 IFOS 五星认证，给长期<p>本文来自<a href="https://post.smzdm.com/p/a82l8kw6/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
-    <pubDate>Sat, 15 Aug 2026 13:12:12 -0000</pubDate>
-    <guid isPermaLink="true">https://post.smzdm.com/p/a82l8kw6/</guid>
-    <source url="https://post.smzdm.com/p/a82l8kw6/">原创频道&gt;&gt;什么值得买</source>
+    <title>[Hacker News] Brain turns listening inward during REM sleep, EEG recordings suggest</title>
+    <link>https://medicalxpress.com/news/2026-07-brain-rem-eeg.html</link>
+    <description><![CDATA[<a href="https://news.ycombinator.com/item?id=49310248">Comments</a>]]></description>
+    <pubDate>Sat, 15 Aug 2026 13:09:28 -0000</pubDate>
+    <guid isPermaLink="true">https://medicalxpress.com/news/2026-07-brain-rem-eeg.html</guid>
+    <source url="https://medicalxpress.com/news/2026-07-brain-rem-eeg.html">Hacker News</source>
   </item>
   <item>
     <title>[IT之家] 谷歌安卓负责人萨米尔 · 萨马特畅想未来：只要说清想做什么，系统就能替你完成</title>
@@ -231,7 +433,7 @@
   </item>
   <item>
     <title>[V2EX] [分享创造] 做了个给社区打分的网站，欢迎来锐评一下</title>
-    <link>https://www.v2ex.com/t/1234667#reply0</link>
+    <link>https://www.v2ex.com/t/1234667#reply2</link>
     <description><![CDATA[<p>这两天做了个小网站，叫「锐评」。</p>
 <p>玩法比较简单：给不同的社区建一个条目，大家可以按“夯、顶级、人上人、NPC 、拉完了”五档打分，也可以写几句自己的真实感受。</p>
 <p>之前想了解一个社区怎么样，搜到的内容要么是官方介绍，要么是散落在各种帖子里的吐槽，过一阵就找不到了。所以想做个专门沉淀社区口碑的地方。</p>
@@ -241,12 +443,12 @@
 <p>网站刚上线，数据还很少，现在的分数没什么代表性，主要是想找第一批用户试试。</p>
 <p>大家可以正常打分、吐槽，也欢迎挑网站本身的毛病，有 Bug 我就回去改。</p>]]></description>
     <pubDate>Sat, 15 Aug 2026 13:01:53 -0000</pubDate>
-    <guid isPermaLink="true">https://www.v2ex.com/t/1234667#reply0</guid>
-    <source url="https://www.v2ex.com/t/1234667#reply0">V2EX</source>
+    <guid isPermaLink="true">https://www.v2ex.com/t/1234667#reply2</guid>
+    <source url="https://www.v2ex.com/t/1234667#reply2">V2EX</source>
   </item>
   <item>
     <title>[V2EX] [程序员] Memoir :把记忆写在本地</title>
-    <link>https://www.v2ex.com/t/1234666#reply0</link>
+    <link>https://www.v2ex.com/t/1234666#reply3</link>
     <description><![CDATA[<blockquote>
 <p>把记忆写在本地</p>
 </blockquote>
@@ -268,8 +470,8 @@
 <p>目前是 <strong>0.1.0</strong>，编辑器、资料库和桌面持久化已经可以日常使用。</p>
 <p>如果你也喜欢，欢迎 star 、提 issue 或一起改进。</p>]]></description>
     <pubDate>Sat, 15 Aug 2026 12:58:05 -0000</pubDate>
-    <guid isPermaLink="true">https://www.v2ex.com/t/1234666#reply0</guid>
-    <source url="https://www.v2ex.com/t/1234666#reply0">V2EX</source>
+    <guid isPermaLink="true">https://www.v2ex.com/t/1234666#reply3</guid>
+    <source url="https://www.v2ex.com/t/1234666#reply3">V2EX</source>
   </item>
   <item>
     <title>[V2EX] [生活] 我已经失业快 3 个月了</title>
@@ -318,6 +520,14 @@
     <pubDate>Sat, 15 Aug 2026 12:48:44 -0000</pubDate>
     <guid isPermaLink="true">https://www.cnbeta.com.tw/articles/science/1573350.htm</guid>
     <source url="https://www.cnbeta.com.tw/articles/science/1573350.htm">cnBeta.COM.TW RSS订阅</source>
+  </item>
+  <item>
+    <title>[Hacker News] Xorshift Generators</title>
+    <link>https://www.alanzucconi.com/2026/08/15/xorshift-generators/</link>
+    <description><![CDATA[<a href="https://news.ycombinator.com/item?id=49310128">Comments</a>]]></description>
+    <pubDate>Sat, 15 Aug 2026 12:47:52 -0000</pubDate>
+    <guid isPermaLink="true">https://www.alanzucconi.com/2026/08/15/xorshift-generators/</guid>
+    <source url="https://www.alanzucconi.com/2026/08/15/xorshift-generators/">Hacker News</source>
   </item>
   <item>
     <title>[IT之家] 波音 757 万米高空上演网络钓鱼：达美航空遭遇虚假 Wi-Fi 攻击，FBI 已介入调查</title>
@@ -432,7 +642,7 @@
   </item>
   <item>
     <title>[V2EX] [NAS] 我如何在 AI 帮助下， 7 天带着 35TB 数据逃离某联系统</title>
-    <link>https://www.v2ex.com/t/1234656#reply5</link>
+    <link>https://www.v2ex.com/t/1234656#reply8</link>
     <description><![CDATA[<h2>引言</h2>
 <p>时光荏苒，距离我写出<a href="https://www.v2ex.com/t/991429" rel="nofollow">《双十一买的 DX4600 Pro ，玩了两个星期，系统基本被我摸明白了，非常逆天》</a>、<a href="https://www.v2ex.com/t/991945" rel="nofollow">《深入解析某联云 DX4600 Pro UGOS 系统(1)》</a>、<a href="https://www.v2ex.com/t/991948" rel="nofollow">《深入解析某联云 DX4600 Pro UGOS 系统 (2)》</a>、<a href="https://www.v2ex.com/t/999482" rel="nofollow">《深入浅出玩转某联 UGOS (上)》</a>、<a href="https://www.v2ex.com/t/999490" rel="nofollow">《深入浅出玩转某联 UGOS (下)》</a>这些文章已经过去了将近 3 年的时间，严格来说是练习时长 2 年半。这一坤年以来随着我对自动化体系的逐步建设成熟，加上客户群（同学朋友）的逐渐固定，这台 NAS 基本变成了一台跑着 Jellyfin 生态链的服务器，一开始兴致勃勃给家里人开启的相册同步也随着家长的设备换成鸿蒙慢慢被放弃（旧的 OpenWRT 的*联私有云 APP 不支持鸿蒙系统）。</p>
 <p>因为这个系统实在是太*圾了，槽点太多了，导致我这几年每天晚上睡觉之前都在懊悔，为什么买了个这个东西，跟他过日子仅仅 2 年就像已经过了倦怠期的老夫老妻，每天路过客厅看着这么一块玩意儿在那里自己轰隆隆炒豆子摇摇头探个气，继续过自己的日子。</p>
@@ -665,8 +875,8 @@ rsync -a --no-owner --no-group --whole-file --info=progress2 --partial --partial
 </li>
 </ol>]]></description>
     <pubDate>Sat, 15 Aug 2026 11:57:26 -0000</pubDate>
-    <guid isPermaLink="true">https://www.v2ex.com/t/1234656#reply5</guid>
-    <source url="https://www.v2ex.com/t/1234656#reply5">V2EX</source>
+    <guid isPermaLink="true">https://www.v2ex.com/t/1234656#reply8</guid>
+    <source url="https://www.v2ex.com/t/1234656#reply8">V2EX</source>
   </item>
   <item>
     <title>[V2EX] [问与答] 剪映得配音 有对应得开放接口吗 我看了火山得也没有呀</title>
@@ -741,91 +951,12 @@ rsync -a --no-owner --no-group --whole-file --info=progress2 --partial --partial
     <source url="https://www.v2ex.com/t/1234653#reply0">V2EX</source>
   </item>
   <item>
-    <title>[V2EX] [酷工作] 招聘： 
-PayFi Tech Lead/统一账户/理财产品专家/设计负责人/韩国 BD/社区负责人/资深 Java /C++低延迟/高频量化交易开发/高级 Rust。</title>
-    <link>https://www.v2ex.com/t/1234652#reply0</link>
-    <description><![CDATA[Position：AI 算法一号位（ SG/HK/Remote ）：<br />寻求 8 年+AI/ML 、3 年+管理经验的顶尖算法专家，精通深度学习/大模型/RAG/Agent ，主导量化 AI Trading 落地并构建 MLOps/LLMOps 平台优化推理成本、沉淀可复用工具，优先加密所/量化基金背景。<br /><br />Position：PayFi Tech Lead （ Remote ）：<br />钱包部门 PayFi 业务线核心技术负责人（对标 P8 ），带领 5-10 人团队，主导链上支付业务，需精通 Go 与 Web3 链上支付开发，推动 AI 在研发流程落地，英语流利者优先。<br /><br />Position：统一账户专家/理财产品经理专家（ Remote ）：<br />专家级统一账户金融产品设计岗（不需带人）或衍生品/策略产品背景的大 Leader 级理财 PM ，要求极强专业深度、创业心态和执行力。<br /><br />Position：设计负责人（ Remote ）：<br />钱包设计团队负责人（带 10-20 人），需国际化背景，具备全栈设计（ UI/UX/视觉）与品牌叙事能力，并能将 AI 融入设计流程提升团队效率。<br /><br />Position：韩国 BD （ Remote ）：<br />需具备美股或韩国股市背景，韩语流利，英语不强制。<br /><br />Position：社区负责人（预测市场/合约，Remote ）：<br />需有 Web3 交易类社区从 0 到 1 完整搭建经验，主导冷启动与增长全链路，擅长转化体系、用户分层与数据驱动优化。<br /><br />Position：资深 Java 开发工程师（预测市场，Remote ）：<br />需能深入分析交易所形态差异及技术逻辑，具备 CEX 交易所全职背景（交易撮合、风控、结算、定价服务、资产系统等实际项目开发经验），且重视 AI 技术在交易场景中的理解与应用。<br /><br />Position：C++低延迟交易系统工程师（ Onsite-新加坡优先/其次 HK ，提供 EP ）：<br />负责加密衍生品高频交易核心模块开发与架构优化，精通 C++/Linux 多线程、异步 I/O 及网络编程，需要有 DPDK/RDMA/XDP 实战经验，或能熟练运用 perf/火焰图定位延迟抖动，并落地 CPU 绑核、大页内存及 NUMA 优化。<br /><br />Position：高级 Rust 开发工程师（ Onsite-新加坡优先/其次 HK ，提供 EP ）：<br />负责核心平台服务架构设计与研发，使用 Rust 保障高可用与可扩展，精通 Tokio 及生态工具，熟悉分布式/微服务、中间件及可观测性实践。<br /><br />Position：全端前端工程师（ Remote ）：<br />需同时具备 Flutter 和 React 全职经验，负责高性能交易 App （含智能合约调用）及 React Web 前端，要求全日制本科计算机、CEX/DEX 背景及 3 年+Flutter 生产级经验，熟悉交易类 UI 和智能合约交互。<br /><br />Position：资深数据开发工程师（ Remote ）：<br />负责数据整体架构设计与落地开发并兼后端工程经验，要求 CEX/DEX 背景（ Top3 优先），熟悉 AI 应用，数学/计算机本科且有竞赛经历。<br /><br /><br />TG：@jtx_2023<br />E: justinxu@futuretalent.com.cn]]></description>
-    <pubDate>Sat, 15 Aug 2026 11:31:47 -0000</pubDate>
-    <guid isPermaLink="true">https://www.v2ex.com/t/1234652#reply0</guid>
-    <source url="https://www.v2ex.com/t/1234652#reply0">V2EX</source>
-  </item>
-  <item>
     <title>[IT之家] 任天堂《塞尔达传说》40 周年限定 Switch 2 Pro 手柄更多谍照曝光</title>
     <link>https://www.ithome.com/0/990/160.htm</link>
     <description><![CDATA[<p>IT之家 8 月 15 日消息，X 平台消息人士 @XX_750000 昨日分享了任天堂《塞尔达传说》40 周年限定 Switch 2 Pro 手柄的包装照片。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/8/a2011550-6e26-4c78-9e7b-2f07d2cdd5b0.jpg?x-bce-process=image/format,f_auto" /></p><p>曝光照片展示了《塞尔达传说》限定版 Switch 2 Pro 手柄包装盒的正面和反面。同时这名消息人士还分享了一张打码的照片，<strong>其中出现了第三款限定配件</strong>。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/8/417d84ee-356f-41d3-b9be-f405f7f76445.jpg?x-bce-process=image/format,f_auto" /></p><p>结合IT之家此前援引 @CentroLeaks 消息，任天堂《塞尔达传说：时之笛重制版》限定 Switch 2 主机与 Pro 手柄包装盒已在近日曝光，从谍照来看，这款主机整体采用《塞尔达传说》系列主题元素，底座以黑色和金色为主色调，并加入三角力量（Triforce）标志。</p><p>不过目前我们还无法得知第三款配件究竟是什么，目前唯一能够确认的线索是，这款产品的尺寸大致与 Pro 手柄包装相同。</p><p>任天堂暂时还没有正式公布该限定版 Switch 2 主机和 Pro 控制器，也未确认具体发售时间、售价以及是否会与《塞尔达传说：时之笛》重制版同步推出，因此上述传闻还需要谨慎对待。</p>]]></description>
     <pubDate>Sat, 15 Aug 2026 11:28:26 -0000</pubDate>
     <guid isPermaLink="true">https://www.ithome.com/0/990/160.htm</guid>
     <source url="https://www.ithome.com/0/990/160.htm">IT之家</source>
-  </item>
-  <item>
-    <title>[V2EX] [推广] [OpenAI Pro 号池] GPT-5.6 Sol 输入约 ¥0.425/MTok｜实际人民币成本约 0.125 折｜注册送$2</title>
-    <link>https://www.v2ex.com/t/1234651#reply1</link>
-    <description><![CDATA[<p>大家好</p>
-<p>最近整理上线了一条 OpenAI Pro 号池线路，主要面向 Codex 、Responses API 以及其他 OpenAI 兼容客户端用户，邀请 V 友来实际体验一下。</p>
-<p>站点： <a href="https://quick-pivot.com/" rel="nofollow">https://quick-pivot.com/</a></p>
-<p>目前支持 OpenAI Chat Completions 和 Responses API ，当前线路配置包括：</p>
-<ul>
-<li>GPT-5.6 Sol / Terra / Luna</li>
-<li>GPT-5.6 Fast 系列</li>
-<li>GPT-5.5 / GPT-5.5 Fast</li>
-<li>GPT-5.4 / GPT-5.4 Mini</li>
-<li>GPT Image 2</li>
-</ul>
-<p>具体可用模型以控制台及 API Key 实际返回结果为准。</p>
-<h2>价格与充值口径</h2>
-<p>本站采用：</p>
-<p><strong>¥1 = $1 平台额度</strong></p>
-<p>目前支持微信支付。下文中的 <code>$</code> 均指站内计费额度，并非可以提现的真实美元。</p>
-<p>当前部分模型价格如下，计费单位均为每 100 万 Token：</p>
-<ul>
-<li>GPT-5.6 Sol：输入 $0.425 ，缓存读取 $0.0425 ，输出 $2.55</li>
-<li>GPT-5.6 Terra：输入 $0.18 ，缓存读取 $0.018 ，输出 $1.08</li>
-<li>GPT-5.6 Luna：输入 $0.0274 ，缓存读取 $0.0027 ，输出 $0.164</li>
-<li>GPT-5.5：输入 $0.42 ，缓存读取 $0.042 ，输出 $2.52</li>
-<li>GPT-5.4：输入 $0.21 ，缓存读取 $0.021 ，输出 $1.26</li>
-<li>GPT-5.4 Mini：输入 $0.0623 ，缓存读取 $0.0062 ，输出 $0.373</li>
-</ul>
-<p>因为充值是 ¥1 = $1 平台额度，所以 GPT-5.6 Sol 输入 100 万 Token ，实际消耗约为 ¥0.425 。</p>
-<p>以页面官方参考价 $5 、美元兑人民币约 6.8 粗略估算：</p>
-<ul>
-<li>页面参考成本：$5 × 6.8 ≈ ¥34</li>
-<li>Quick Pivot 实际成本：约 ¥0.425</li>
-<li>实际人民币成本约为页面参考价的 1.25%</li>
-<li>换算约为 0.125 折，节省约 98.75%</li>
-</ul>
-<p>汇率会有浮动，具体价格和扣费请以请求发生时的实际配置为准。</p>
-<p>完整价格页面：</p>
-<p><a href="https://quick-pivot.com/model-pricing" rel="nofollow">https://quick-pivot.com/model-pricing</a></p>
-<h2>V 友体验活动</h2>
-<p>本次准备了两档体验额度：</p>
-<ol>
-<li>所有新用户注册自动获得 $2 平台体验额度；</li>
-<li>本帖发布后，按照后台注册时间，前 20 位新用户并在此贴留言的，额外赠送 $10 平台额度。</li>
-</ol>
-<p>每个用户限一份，留下 base64 邮箱，我们会直接发放到站内余额。</p>
-<p>也就是说，前 20 位新用户合计可以获得：</p>
-<p><strong>$2 注册额度 + $10 活动额度 = $12 平台体验额度</strong></p>
-<p>20 份活动额度全部送完后，我会更新主楼状态。</p>
-<p>此外，新注册账号默认并发数为 5 ，可以直接用于测试 Codex 长任务、流式输出和工具调用。</p>
-<p>注册入口：</p>
-<p><a href="https://quick-pivot.com/register" rel="nofollow">https://quick-pivot.com/register</a></p>
-<h2>快速接入</h2>
-<ol>
-<li>注册并登录 Quick Pivot ；</li>
-<li>在控制台创建自己的 API Key ；</li>
-<li>根据文档替换 Base URL 和 API Key ；</li>
-<li>接入 Codex 或其他 OpenAI 兼容客户端。</li>
-</ol>
-<p>接入文档：</p>
-<p><a href="https://quick-pivot.com/docs" rel="nofollow">https://quick-pivot.com/docs</a></p>
-<p>渠道状态：</p>
-<p><a href="https://quick-pivot.com/monitor" rel="nofollow">https://quick-pivot.com/monitor</a></p>
-<p>遇到接入问题、模型需求或实际使用问题，可以联系站内客服。</p>
-<p>号池线路可能受到上游容量和策略变化影响，建议先使用赠送额度测试自己的实际场景，再根据需要充值。</p>
-<p>欢迎大家反馈实际体验，包括速度、长任务稳定性、工具调用以及希望增加的模型。</p>]]></description>
-    <pubDate>Sat, 15 Aug 2026 11:28:17 -0000</pubDate>
-    <guid isPermaLink="true">https://www.v2ex.com/t/1234651#reply1</guid>
-    <source url="https://www.v2ex.com/t/1234651#reply1">V2EX</source>
   </item>
   <item>
     <title>[IT之家] 索尼 PS5 Pro 增强版 PSSR 技术揭秘：让 AI 少干活，画质反而更好</title>
@@ -836,14 +967,6 @@ PayFi Tech Lead/统一账户/理财产品专家/设计负责人/韩国 BD/社区
     <source url="https://www.ithome.com/0/990/159.htm">IT之家</source>
   </item>
   <item>
-    <title>[IT之家] 全球两大支付巨头合并？消息称 Stripe 正洽谈收购 PayPal</title>
-    <link>https://www.ithome.com/0/990/158.htm</link>
-    <description><![CDATA[<p>IT之家 8 月 15 日消息，据《华尔街日报》昨日报道，Stripe 和私募股权公司安宏资本（Advent International）正在与 PayPal 洽谈收购事宜。</p><p>据报道，Stripe 和安宏资本曾在今年 7 月，以每股 60.5 美元<span class="exch-money-value">（IT之家注：现汇率约合 408.7 元人民币）</span>的价格向 PayPal 提出收购要约，使 PayPal 的估值达到 530 亿美元<span class="exch-money-value">（现汇率约合 3,580.49 亿元人民币）</span>，但 PayPal 方面对该报价并不满意。</p><p>在接收到要约之前，PayPal 的股价曾一度跌至历史低位，市值也只有大约 400 亿美元<span class="exch-money-value">（现汇率约合 2,702.26 亿元人民币）</span>。作为对比，<strong>该公司 2021 年的峰值市值曾达到 3,600 亿美元<span class="exch-money-value">（现汇率约合 2.43 万亿元人民币）</span>左右</strong>。</p><p>目前 Stripe 和 PayPal 双方正在谈论更高的每股价格。<strong>如果一切顺利</strong>，<strong>这笔交易可能会在未来几周内达成</strong>。</p><p>结合路透社此前报道，Stripe 和安宏资本如果收购成功，将各自持有 PayPal 50% 的股份。两家公司并没有拆分 PayPal 的计划，如果该交易最终达成，Stripe 有望成为全球规模最大的在线支付公司之一，往后每年处理的交易金额将达到 3.7 万亿美元<span class="exch-money-value">（现汇率约合 25 万亿元人民币）</span>。</p><p>IT之家查询 Statista 数据发现，截至 2026 年 1 月，PayPal 的全球在线支付市场份额为 41.63%，位列第一；Stripe 的全球在线支付市场份额为 22.73%，排名第二。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/8/637ab288-b7a1-4547-b397-a979e8cd8b3c.jpg" /></p>]]></description>
-    <pubDate>Sat, 15 Aug 2026 11:03:17 -0000</pubDate>
-    <guid isPermaLink="true">https://www.ithome.com/0/990/158.htm</guid>
-    <source url="https://www.ithome.com/0/990/158.htm">IT之家</source>
-  </item>
-  <item>
     <title>[Hacker News] Auto-research with codex: How I achieved a 232x Faster Kernel</title>
     <link>https://sankalp.bearblog.dev/autoresearch/</link>
     <description><![CDATA[<a href="https://news.ycombinator.com/item?id=49309549">Comments</a>]]></description>
@@ -852,114 +975,12 @@ PayFi Tech Lead/统一账户/理财产品专家/设计负责人/韩国 BD/社区
     <source url="https://sankalp.bearblog.dev/autoresearch/">Hacker News</source>
   </item>
   <item>
-    <title>[V2EX] [分享创造] libcr 项目组发布 HTTP 共享服务应用 crShare 1.2.0</title>
-    <link>https://www.v2ex.com/t/1234648#reply0</link>
-    <description><![CDATA[免费下载： <a href="https://github.com/libcr/crShare" rel="nofollow noopener" target="_blank">https://github.com/libcr/crShare</a>     <br /><br />微软应用商店下载： <a href="https://apps.microsoft.com/store/detail/9MWSSWF3H9LC?cid=DevShareMCLPCS" rel="nofollow noopener" target="_blank">https://apps.microsoft.com/store/detail/9MWSSWF3H9LC?cid=DevShareMCLPCS</a><br />crShare 实现支持局域网文件共享和浏览器间 Topic 的快速分享服务          <br />通过界面管理 HTTP 共享服务, 多文件夹的下载和上传<br />本软件采用 C++开发实现基于 chromium 网络库和 UI Views 框架的跨平台应用        <br /><a href="https://i.imgur.com/wqzcDMQ.png" rel="nofollow noopener" target="_blank"><img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/wqzcDMQ.png" /></a>]]></description>
-    <pubDate>Sat, 15 Aug 2026 10:48:40 -0000</pubDate>
-    <guid isPermaLink="true">https://www.v2ex.com/t/1234648#reply0</guid>
-    <source url="https://www.v2ex.com/t/1234648#reply0">V2EX</source>
-  </item>
-  <item>
-    <title>[IT之家] OpenAI 奥尔特曼：大学读四年可能有点久，两年就够了</title>
-    <link>https://www.ithome.com/0/990/156.htm</link>
-    <description><![CDATA[<p>IT之家 8 月 15 日消息，据《商业内幕》今天（15 日）报道，OpenAI CEO 萨姆 · 奥尔特曼认为，自己大学只读两年恰到好处，而且可能也适用于其他人。“我觉得两年里已经学到了很多，<strong>再继续读下去，新增的收获可能会越来越少</strong>。”</p><p>在奥尔特曼看来，现在的大学教育<strong>未必还需要维持传统的四年制</strong>。“我一直在想，世界发展到现在，大学或许不需要读这么久。当然，大学仍然提供了很好的机会，让人认识朋友、开始独立生活，也能亲手参与一些项目。”</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/img/thumb/ba26ced5-ee46-4a7a-b1ea-e261db5f9bf0.jpg" /></p><p>2005 年，奥尔特曼<strong>在斯坦福大学读了两年后退学</strong>，与他人共同创办位置分享应用 Loopt。Loopt 后来成为 Y Combinator 首批孵化项目之一，也由此开启了奥尔特曼与 Y Combinator 的长期联系，直到后来亲自执掌。</p><p>奥尔特曼在一场面向科技实习生举办的峰会中提到，如果自己当时再留在学校两年，未必会有多大价值。“所以，我很满意自己的选择，只是人生<strong>不可能重新再做一次同一个实验</strong>。我现在认识很多<strong>根本没上过大学、照样发展得很好</strong>的人。”</p><p>类似观点在科技界并不少见。奥尔特曼的导师、PayPal 联合创始人彼得 · 蒂尔就长期支持年轻人放弃传统大学道路。蒂尔资助的奖学金计划向年轻人提供 25 万美元<span class="exch-money-value">（IT之家注：现汇率约合 168.9 万元人民币）</span>，鼓励他们完全不读大学，或者至少暂时休学。</p><p>谈到自己过去同时兼顾 OpenAI 和其他事务的经历时，奥尔特曼认为，要求刚起步的人从一开始就只做一个项目，并不是好建议。</p><p>“刚开始时同时做几个项目完全没问题，因为你还不知道哪个会成功，不知道自己最终会对什么感兴趣，也不知道什么真正适合自己。真正的错误，<strong>是当你已经确定自己最坚定看好的方向之后，还不愿意忍痛放下其他事情</strong>。到了那个时候，就应该摆脱其他项目，全力投入。”</p>]]></description>
-    <pubDate>Sat, 15 Aug 2026 10:45:26 -0000</pubDate>
-    <guid isPermaLink="true">https://www.ithome.com/0/990/156.htm</guid>
-    <source url="https://www.ithome.com/0/990/156.htm">IT之家</source>
-  </item>
-  <item>
-    <title>[IT之家] 微信小程序组件框架升级：glass-easel 带来更多特性及更优性能</title>
-    <link>https://www.ithome.com/0/990/155.htm</link>
-    <description><![CDATA[<p>IT之家 8 月 15 日消息，微信开发者本周（8 月 12 日）宣布，微信小程序新一代框架组件 glass-easel 已经可以自由使用，该框架具备更多特性和更优性能，<strong>适合用来编写、维护复杂的小程序</strong>。</p><p>据悉，glass-easel 是新版微信小程序组件框架的核心实现。从本质上说，glass-easel 是 JavaScript 的组件化界面框架，用来进行组件化、定义式的界面开发。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/8/6b3a1698-fb78-4bb8-bcb8-fd2473f85ea5.png?x-bce-process=image/format,f_auto" /></p><p>glass-easel 内核也可以独立运行在 web 环境下。除了组件框架本身，glass-easel 还配套了一组附件，包括代码编辑器插件、开发者工具扩展、国际化扩展等。同时该框架还是旧版组件 exparser 的升级，在保持兼容性的同时新增了各大特性和性能改进。</p><p>从小程序基础库版本 3.8.12 开始，glass-easel 组件框架提供了对 WebView 渲染引擎的支持，目前已覆盖约 98% 的微信用户。</p><p>IT之家附 glass-easel 新特性如下：</p><h2>Component 构造器的 Chaining 形式</h2><p>Component 构造器新增了一种 Chaining 形式写法，像这样：</p><pre>export&nbsp;default&nbsp;Component()
-&nbsp;&nbsp;.data(()&nbsp;=&gt;&nbsp;({
-&nbsp;&nbsp;&nbsp;&nbsp;foo:&nbsp;'bar',
-&nbsp;&nbsp;}))
-&nbsp;&nbsp;.init(function&nbsp;({&nbsp;data,&nbsp;setData,&nbsp;lifetime&nbsp;})&nbsp;{
-&nbsp;&nbsp;&nbsp;&nbsp;lifetime('attached',&nbsp;()&nbsp;=&gt;&nbsp;{
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;console.log('attached')
-&nbsp;&nbsp;&nbsp;&nbsp;})
-&nbsp;&nbsp;})
-&nbsp;&nbsp;.register()</pre><p>Chaining 形式更适合组织复杂的组件逻辑，对 TypeScript 的支持也更好。它有一个 init (...) 实例初始化函数、形成一个闭包，可以在这个闭包内自由定义（专属于当前实例的）局部变量，对于复杂组件非常实用。</p><p>此外，glass-easel 还提供了动态 slot、trait behaviors 等新特性，方便复杂组件的开发。</p><h2>新 WXML 编译器</h2><p>glass-easel 组件框架还附带了新的 WXML 编译器。</p><p>这个编译器支持一些新的实用语法。let: 语法可以轻松定义局部变量，class: 语法可以为节点更清晰地添加和移除样式类。</p><pre class="brush:javascript;toolbar:false">&lt;block&nbsp;let:field="{{&nbsp;my.complex.data.field&nbsp;}}"&gt;
-&nbsp;&nbsp;&lt;view&gt;{{&nbsp;field.title&nbsp;}}&lt;/view&gt;
-&nbsp;&nbsp;&lt;view&gt;{{&nbsp;field.description&nbsp;}}&lt;/view&gt;
-&lt;/block&gt;</pre><pre class="brush:javascript;toolbar:false">&lt;view
-&nbsp;&nbsp;class:button
-&nbsp;&nbsp;class:button-enabled="{{&nbsp;buttonEnabled&nbsp;}}"
-/&gt;</pre><p>新的 WXML 编译器编译速度更快，也将生成更高效的运行时代码。WXML 生成码执行速度可提升约 20%。</p><h2>glass-easel 运行时性能优化</h2><p>glass-easel 组件框架运行时性能也有重大改进。</p><p>glass-easel 采用了新的更新算法，可以大大降低在部分情况下的更新开销。现在 glass-easel 能综合使用基于虚拟树和非基于虚拟树的更新算法，以便适应不同的场景。在列表更新算法方面，新的算法在部分场景下可提升执行速度数倍。</p><p>此外，glass-easel 提供了高级数据更新方法、数据字段拷贝控制、组件初始化策略等新特性，来辅助实现更极致的性能优化。</p><p>微信官方建议用户将开发者工具升级至 nightly 版本，以获取更好的开发体验。使用 TypeScript 开发时，建议将 miniprogram-api-typings 升级到最新版本（5.2.3）。</p><p><span class="referenceTitle">参考：</span></p><ul class="custom_reference list-paddingleft-1"><li class="list-undefined list-reference-paddingleft"><p><a href="https://mp.weixin.qq.com/s/CvST9Lg0INTCGlA0dMyk3Q">小程序组件框架升级：glass-easel 带来更多特性及更优性能</a></p></li></ul>]]></description>
-    <pubDate>Sat, 15 Aug 2026 10:41:34 -0000</pubDate>
-    <guid isPermaLink="true">https://www.ithome.com/0/990/155.htm</guid>
-    <source url="https://www.ithome.com/0/990/155.htm">IT之家</source>
-  </item>
-  <item>
-    <title>[IT之家] 英伟达 CEO 黄仁勋出手安抚 AI 算力市场：部分 AI 投资项目可获最高 25% 残值支持</title>
-    <link>https://www.ithome.com/0/990/154.htm</link>
-    <description><![CDATA[<p>IT之家 8 月 15 日消息，英伟达 8 月 11 日宣布与阿波罗、贝莱德、黑石、布鲁克菲尔德、高盛和 KKR 合作，建立独立融资平台，计划随着时间推移调动超过 5000 亿美元的第三方资本，用于 AI 基础设施建设。</p><p>英伟达 CEO 黄仁勋在声明中提到：公司可能会在某个时候针对部分 AI 基础设施投资项目提供最高 25% 的残值支持，以帮助金融机构降低相关资产融资风险。</p><p style="text-align: center;"><a class="ithome_super_player" href="https://weibo.com/tv/show/1034:5332206604714071?mid=5332225882326362"><img src="https://img.ithome.com/newsuploadfiles/2026/8/ea9fed2a-1fc5-44e1-9b72-7f676564bff4.jpg" /></a></p><p>英伟达将这一计划定位为推动 AI 算力成为可投资资产类别的一项举措。公司认为，过去企业通常自行采购 GPU 并建设数据中心，而未来 AI 工厂可以像其他生产性基础设施一样，通过长期机构资本和标准化融资平台进行建设。</p><p>黄仁勋表示，这些融资平台面向符合条件的 AI 实验室、企业和 AI 云服务商。超过 5,000 亿美元<span class="exch-money-value ">（IT之家注：现汇率约合 3.38 万亿元人民币）</span>指的是相关平台计划随着时间推移调动的第三方资本总规模，并非英伟达的收入、单一基金规模，也不是对某一家客户的单笔融资承诺。</p><p>根据英伟达公布的信息，参与合作的金融机构将独立评估具体项目，包括客户情况、算力需求、利用率、现金流和资产残值等因素。英伟达负责提供 AI 工厂平台，而长期资本和融资则由金融机构提供。</p><p>此次计划公布后，市场关注点之一是这种融资模式是否会形成所谓“循环融资”。英伟达对此回应称，相关融资平台将由独立的长期机构资本参与，具体项目也需要经过金融机构独立评估，公司并不会替投资机构决定是否提供融资。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/8/5b4b0e22-7c5b-4291-82d9-194ffde4aa7c.jpg?x-bce-process=image/format,f_auto" /></p><p>在残值支持方面，黄仁勋表示，在部分情况下，英伟达可能为单个项目提供最高 25% 的残值支持，但会逐个项目进行审慎评估。英伟达强调，这一支持机制以资产残值为基础，旨在补充而非取代金融机构自身的风险评估。</p><p>所谓残值支持，核心是降低金融机构对 AI 算力设备未来价值下降的担忧。如果相关项目出现违约或资产处置情况，GPU 等设备的实际残值低于融资模型预期，英伟达提供的支持机制可以覆盖部分风险，但并不意味着英伟达承担整个项目的融资责任。</p><p>英伟达认为，其 AI 算力基础设施具有一定的资产属性。公司所称的“AI 工厂”并不只是 GPU，还包括高速网络、系统软件、AI 框架以及 CUDA 开发生态，可以运行语言、视觉、语音、生物、机器人等不同类型的 AI 工作负载。</p><p>黄仁勋认为，NVIDIA 平台具有较广泛的客户和应用基础。当某一客户需求发生变化时，相关算力基础设施理论上可以重新部署给其他客户、云服务商或运营商，因此资产并非只能服务于单一用户。</p><p>英伟达还强调，软件升级可以延长硬件的经济使用周期。公司以 A100 为例称，该产品于 2020 年推出，到 2026 年仍在用于 AI 训练、微调、推理和高性能计算，并有客户继续签订多年算力部署协议。</p><p><strong>相关阅读：</strong></p><ul class="small-size list-paddingleft-2"><li><p>《<a href="https://www.ithome.com/0/988/104.htm" target="_blank">NVIDIA 牵头组建 5000 亿美元人工智能计算基础设施融资平台</a>》</p></li><li><p>《<a href="https://www.ithome.com/0/988/255.htm" target="_blank">英伟达 CEO 黄仁勋谈 5000 亿美元融资计划：AI 芯片已是“投资级资产”</a>》</p></li></ul>]]></description>
-    <pubDate>Sat, 15 Aug 2026 10:41:07 -0000</pubDate>
-    <guid isPermaLink="true">https://www.ithome.com/0/990/154.htm</guid>
-    <source url="https://www.ithome.com/0/990/154.htm">IT之家</source>
-  </item>
-  <item>
     <title>[Hacker News] Working with AI Feels More Like Leadership Than Coding</title>
     <link>https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/</link>
     <description><![CDATA[<a href="https://news.ycombinator.com/item?id=49309451">Comments</a>]]></description>
     <pubDate>Sat, 15 Aug 2026 10:39:41 -0000</pubDate>
     <guid isPermaLink="true">https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/</guid>
     <source url="https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/">Hacker News</source>
-  </item>
-  <item>
-    <title>[V2EX] [程序员] 分享一个操作路径，可以不用捣鼓 figma 来制作切割风格的商店预览图</title>
-    <link>https://www.v2ex.com/t/1234646#reply1</link>
-    <description><![CDATA[<p><img alt="" class="embedded_image" rel="noreferrer" src="https://i.v2ex.co/I3Lq93Bl.png" /></p>
-<p>只需要准备截图，然后到 <a href="http://shots.so" rel="nofollow">shots.so</a> 这类的 mockup 网站，做一张方形的渲染图，然后交给 Codex：</p>
-<pre><code>帮我把每张图切割成两份 1320×2868 的 jpeg
-</code></pre>]]></description>
-    <pubDate>Sat, 15 Aug 2026 10:31:41 -0000</pubDate>
-    <guid isPermaLink="true">https://www.v2ex.com/t/1234646#reply1</guid>
-    <source url="https://www.v2ex.com/t/1234646#reply1">V2EX</source>
-  </item>
-  <item>
-    <title>[IT之家] 业界首个：KaihongOS 桌面版（x86）正式适配并预装原生 VS Code，开箱即用</title>
-    <link>https://www.ithome.com/0/990/147.htm</link>
-    <description><![CDATA[<p>IT之家 8 月 15 日消息，今天（15 日）傍晚，深圳开鸿数字产业发展有限公司 CEO 王成录宣布：KaihongOS 桌面版（x86）实现<strong>业界首个正式适配并预装原生 VS Code</strong>，无需手动下载安装、无需借助容器运行，开箱即用，标志着 KaihongOS 桌面版（x86）向生产力工具又迈进了一步。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/8/7114fff5-df98-4de0-9fbf-92e305176f7f.png" /></p><p>根据介绍，本次 KaihongOS 版本更新（IT之家注：V5.0.2.53）还带来多项实用硬件及系统能力更新：</p><ul class=" list-paddingleft-2"><li><p>完成 USB WIFI (AX300) 硬件适配，进一步提升联网能力</p></li><li><p>新增 USB 网络共享功能，通过 USB 连接，共享移动端热点</p></li><li><p>集成英特尔、AMD 集成显卡硬编码能力，音视频编解码性能进一步增强</p></li></ul><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/8/7db5db48-494a-42d7-a181-f605e74613a1.png" /></p><blockquote class="ai-point"><h3>延伸阅读</h3><p>KaihongOS 桌面版（x86）自 2026 年 3 月升级至 5.0 版本并首次面向公众全面开放免费试用以来，更新频繁。2026 年 5 月底发布的 V5.0.2.20 版本适配了 AMD 芯片平台；6 月初 V5.0.2.25 版本适配 QEMU 虚拟机；6 月中旬 V5.0.2.26 版本上线手机投屏功能；6 月底 V5.0.2.30 版本升级相机与文档编辑能力；7 月首个三方应用“系统观测台”预装上线。本次 V5.0.2.53 版本预装原生 VS Code，是 KaihongOS 桌面版向生产力工具迈进的重要一步。</p><p><span>此前有开发者尝试在 KaihongOS 桌面版上运行 VS Code，需借助 code-server 离线包通过系统自带的 <span class="link-text-start-with-http">Node.js</span> 运行，且因库不兼容等问题无法运行完整版，部分插件无法安装。本次原生适配预装解决了上述问题，无需手动下载安装、无需借助容器运行，实现了开箱即用。</span></p></blockquote>]]></description>
-    <pubDate>Sat, 15 Aug 2026 10:26:00 -0000</pubDate>
-    <guid isPermaLink="true">https://www.ithome.com/0/990/147.htm</guid>
-    <source url="https://www.ithome.com/0/990/147.htm">IT之家</source>
-  </item>
-  <item>
-    <title>[IT之家] 中国团队在全球最大“人造太阳”壁处理领域实现技术链条贯通，覆盖 GDC 与硼化两大系统</title>
-    <link>https://www.ithome.com/0/990/138.htm</link>
-    <description><![CDATA[<p>IT之家 8 月 15 日消息，中核集团今日宣布，核工业西南物理研究院团队在国际热核聚变实验堆（ITER）装置壁处理技术领域接连取得重要进展：顺利通过辉光放电清洗系统（GDC）永久电极项目补充设计最终评审（Delta FDR），同时牵头并联合中核二三成功中标并在法国签署硼化系统与 X 射线晶体光谱仪（XRCS）供气系统设计制造合同。</p><p>这两项任务直接与 ITER 在 2023 年做出的将第一壁从金属铍更换为金属钨的战略性设计变更相关。全钨第一壁面积约 600 平方米，钨虽耐高温，但其释放的杂质会严重污染等离子体，尤其在放电启动阶段，微量杂质即可导致能量辐射失控。</p><p>中方团队负责的 GDC 系统如同 ITER 真空室内的“强力吸尘器”，通过辉光放电产生冷等离子体，轰击并清除器壁吸附的残余气体和杂质。</p><p>此次 Delta FDR 专项评审攻克了电极在复杂空间内的制造可行性难题，为 GDC 系统从设计走向工程制造扫清了最后障碍。此前，GDC 项目已于 2026 年 6 月正式进入制造阶段。</p><p>新中标的硼化系统则扮演精密“表面涂层师”角色。该系统通过辉光放电辅助沉积，在所有面向等离子体的表面镀上一层仅 10 至 100 纳米厚的硼膜。这层低原子序数的硼膜一方面作为物理屏障抑制高原子序数钨杂质的溅射释放，另一方面像海绵一样捕获并“吸除”从器壁逸出的氧、碳等杂质。</p><p>据介绍，该硼化系统是 ITER 首次引入该功能，其设计将结合多个现有托卡马克上的测试经验，并兼容未来的含氚运行环境。</p><p>根据合同约定，联合体将承担从详细设计、设备制造到现场安装的全周期任务。ITER 组织副总干事罗德隆在与中方团队的交流中，对 GDC 与硼化项目的协同推进给予高度肯定。下一步，中方团队将按 ITER 总体计划完成 GDC 电极制造交付与新合同节点目标。IT之家后续将保持关注。</p><p><strong>相关阅读：</strong></p><ul class="small-size list-paddingleft-2"><li><p>《<a href="https://www.ithome.com/0/983/275.htm" target="_blank">吊装就位！全球最大“人造太阳”核心模块安装进度超三分之二</a>》</p></li><li><p>《<a href="https://www.ithome.com/0/896/537.htm" target="_blank">我国在全球最大“人造太阳”项目取得重要进展，朗缪尔探针系统通过 ITER 最终设计评审</a>》</p></li><li><p>《<a href="https://www.ithome.com/0/850/335.htm" target="_blank">全球最大“人造太阳”完成其“电磁心脏”组件制造，30 多个国家通力合作</a>》</p></li></ul>]]></description>
-    <pubDate>Sat, 15 Aug 2026 10:20:44 -0000</pubDate>
-    <guid isPermaLink="true">https://www.ithome.com/0/990/138.htm</guid>
-    <source url="https://www.ithome.com/0/990/138.htm">IT之家</source>
-  </item>
-  <item>
-    <title>[V2EX] [分享发现] 追觅大家电解散</title>
-    <link>https://www.v2ex.com/t/1234645#reply3</link>
-    <description><![CDATA[]]></description>
-    <pubDate>Sat, 15 Aug 2026 10:19:24 -0000</pubDate>
-    <guid isPermaLink="true">https://www.v2ex.com/t/1234645#reply3</guid>
-    <source url="https://www.v2ex.com/t/1234645#reply3">V2EX</source>
-  </item>
-  <item>
-    <title>[IT之家] 2K 成立新体育游戏工作室，由多位 EA Sports 老将领衔</title>
-    <link>https://www.ithome.com/0/990/135.htm</link>
-    <description><![CDATA[<p>IT之家 8 月 15 日消息，2K 现已宣布成立全新体育游戏工作室 Small Axe Studio，该工作室将打造 3A 级体育作品，<strong>由多名 EA Sports 资深开发者领衔</strong>。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/8/36697e37-7641-4ca1-a47d-5f07cfb86f0b.jpg?x-bce-process=image/format,f_auto" /></p><p>IT之家了解到，Small Axe Studio 工作室总部位于加拿大温哥华，<strong>由 2K 此前的实验室 Sports Lab 脱胎而来</strong>。执行负责人 Aaron McHardy 已加盟该工作室，他曾担任 EA Sports FIFA 团队的执行制作人，任职时间超过 15 年。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/8/22e1de83-7aee-4038-833c-da434c677dde.png?x-bce-process=image/format,f_auto" /></p><p>同时，该工作室还拥有多名 EA Sports 老将，包括运营负责人 Tom Pan、工程负责人 Mike Thompson 以及技术美术总监 John Cruz。</p><p>此外，<strong>该工作室号称将“重新定义体育电子游戏的未来”</strong>，其 Logo 设计有点像足球俱乐部徽章。</p>]]></description>
-    <pubDate>Sat, 15 Aug 2026 10:18:07 -0000</pubDate>
-    <guid isPermaLink="true">https://www.ithome.com/0/990/135.htm</guid>
-    <source url="https://www.ithome.com/0/990/135.htm">IT之家</source>
-  </item>
-  <item>
-    <title>[V2EX] [问与答] cc +ds v4 flash 为嘛比 dsh +ds v4 flash 聪明那么多？</title>
-    <link>https://www.v2ex.com/t/1234644#reply7</link>
-    <description><![CDATA[<p>尝鲜装了 dsh。</p>
-<p>同样的需求，在 cc 上很快能弄好，<br />
-然后在 dsh 一直在问问问。</p>
-<p>用的都是 V2EX 的 ds v4 flash。</p>
-<p>怎么回事，是哪里没配好么？</p>]]></description>
-    <pubDate>Sat, 15 Aug 2026 10:06:11 -0000</pubDate>
-    <guid isPermaLink="true">https://www.v2ex.com/t/1234644#reply7</guid>
-    <source url="https://www.v2ex.com/t/1234644#reply7">V2EX</source>
   </item>
   <item>
     <title>[cnBeta.COM.TW RSS订阅] 塞尔达40周年限定手柄包装更多泄露图片曝光</title>
@@ -1363,14 +1384,6 @@ PayFi Tech Lead/统一账户/理财产品专家/设计负责人/韩国 BD/社区
     <pubDate>Fri, 14 Aug 2026 18:55:46 -0000</pubDate>
     <guid isPermaLink="true">https://www.iplaysoft.com/p/deepseek-harness</guid>
     <source url="https://www.iplaysoft.com/p/deepseek-harness">异次元软件世界</source>
-  </item>
-  <item>
-    <title>[Hacker News] RustDesk now supports true unattended remote access on Wayland</title>
-    <link>https://rustdesk.com/blog/unattended-remote-access-wayland/</link>
-    <description><![CDATA[<a href="https://news.ycombinator.com/item?id=49300759">Comments</a>]]></description>
-    <pubDate>Fri, 14 Aug 2026 16:12:52 -0000</pubDate>
-    <guid isPermaLink="true">https://rustdesk.com/blog/unattended-remote-access-wayland/</guid>
-    <source url="https://rustdesk.com/blog/unattended-remote-access-wayland/">Hacker News</source>
   </item>
   <item>
     <title>[Hacker News] Google is making private AI practical with homomorphic encryption</title>
@@ -3114,14 +3127,6 @@ http://127.0.0.1:3080
     <source url="https://sspai.com/prime/story/summer-cold-meal-guide">少数派</source>
   </item>
   <item>
-    <title>[Hacker News] Coin-sized device can hack a Boeing 737</title>
-    <link>https://www.wired.com/story/this-coin-sized-device-can-hack-a-boeing-737/</link>
-    <description><![CDATA[<a href="https://news.ycombinator.com/item?id=49282951">Comments</a>]]></description>
-    <pubDate>Thu, 13 Aug 2026 07:57:40 -0000</pubDate>
-    <guid isPermaLink="true">https://www.wired.com/story/this-coin-sized-device-can-hack-a-boeing-737/</guid>
-    <source url="https://www.wired.com/story/this-coin-sized-device-can-hack-a-boeing-737/">Hacker News</source>
-  </item>
-  <item>
     <title>[少数派] TDS REVIEW | 铁三角 ATH-SQ1TW2NC 降噪真无线耳机体验</title>
     <link>https://sspai.com/post/113338</link>
     <description><![CDATA[SQ1TW2NC 的声音素质、编码配置和降噪综合能力，应该都算是在国内同价位甚至更低价位主流新产品面前不太拿得出手的水平，没有特别明显的功能层面的长板，但你会发现即使如此，它依然有一些点值得国内品牌学习。<a href="https://sspai.com/post/113338" target="_blank">查看全文</a>]]></description>
@@ -3804,14 +3809,6 @@ http://127.0.0.1:3080
     <pubDate>Wed, 12 Aug 2026 06:47:23 -0000</pubDate>
     <guid isPermaLink="true">https://www.appinn.com/google-play-aptoide-games-third-party-app-store/</guid>
     <source url="https://www.appinn.com/google-play-aptoide-games-third-party-app-store/">小众软件</source>
-  </item>
-  <item>
-    <title>[Hacker News] Geometric Reasoning</title>
-    <link>https://sophontic.ai/</link>
-    <description><![CDATA[<a href="https://news.ycombinator.com/item?id=49267776">Comments</a>]]></description>
-    <pubDate>Wed, 12 Aug 2026 04:19:54 -0000</pubDate>
-    <guid isPermaLink="true">https://sophontic.ai/</guid>
-    <source url="https://sophontic.ai/">Hacker News</source>
   </item>
   <item>
     <title>[极客公园] 造物100 #02｜能打游戏的「牙套」键盘、众筹 249 万美元的电子假花、能用卫星找狗的项圈</title>
