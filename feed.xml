@@ -5,15 +5,249 @@
   <link>https://baich110.github.io/rss-feed/</link>
   <description>自动聚合多个优质科技/数码/技术资讯源，每小时更新</description>
   <language>zh-CN</language>
-  <lastBuildDate>Sat, 15 Aug 2026 10:23:58 -0000</lastBuildDate>
+  <lastBuildDate>Sat, 15 Aug 2026 11:21:20 -0000</lastBuildDate>
   <atom:link href="https://baich110.github.io/rss-feed/feed.xml" rel="self" type="application/rss+xml" />
   <item>
-    <title>[原创频道&gt;&gt;什么值得买] 把AI当搜索引擎用，难怪效率越用越低：正确打开方式的3层杠杆</title>
-    <link>https://post.smzdm.com/p/a26zp8gn/</link>
-    <description><![CDATA[匿名用户试了三次就放弃？九成人卡在这道坎上打开AI，输入问题，复制答案，关闭对话——这个动作重复了三次之后，老张彻底放弃了。"跟百度搜索没区别，还更慢。"他的感受很有代表性。根据多方实测数据，普通用户在使用AI工具时，前三次对话的流失率超过60%。不是工具不好用，是打开方式从根上就错了。1大多数人的用法本质上是"问答式使用"——把AI当成一个更聪明的搜索引擎，问完就走。但AI真正值钱的地方不在答案本身，在<p>本文来自<a href="https://post.smzdm.com/p/a26zp8gn/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
-    <pubDate>Sat, 15 Aug 2026 10:23:35 -0000</pubDate>
-    <guid isPermaLink="true">https://post.smzdm.com/p/a26zp8gn/</guid>
-    <source url="https://post.smzdm.com/p/a26zp8gn/">原创频道&gt;&gt;什么值得买</source>
+    <title>[IT之家] 索尼 PS5 Pro 增强版 PSSR 技术揭秘：让 AI 少干活，画质反而更好</title>
+    <link>https://www.ithome.com/0/990/159.htm</link>
+    <description><![CDATA[<p>IT之家 8 月 15 日消息，索尼 SIE 首席软件工程师丹尼尔 · 克雷格在 SIGGRAPH 2026 会议上详细介绍了 PlayStation 5 Pro 上增强版 PSSR（IT之家注：PlayStation 光谱超分辨率）技术的重新设计思路。</p><p>新版 PSSR 的核心变化在于让 AI 承担更少的工作量，而非扩大神经网络规模，以此实现画质提升与资源占用降低。</p><p style="text-align: center;"><a href="https://img.ithome.com/newsuploadfiles/2026/8/9353ead6-22d7-41ed-ad11-970596c2432d.png" target="_blank"><img class="not-source" src="https://img.ithome.com/newsuploadfiles/2026/8/9353ead6-22d7-41ed-ad11-970596c2432d.png?x-bce-process=image/resize,w_960,h_540/format,f_auto" /></a></p><p>据介绍，初代 PSSR 将几乎整个重建流程交由色彩预测网络（CPN）处理，由模型直接预测输出颜色。后来，索尼与 AMD 的工程师发现，这种方式导致了从 HDR 处理到时序重建再到高倍率超分辨率的一系列问题。</p><p>在 PSSR 增强版中，团队恢复了大部分传统重建流程，将 CPN 替换为核预测网络（KPN）。KPN 不再直接预测最终像素颜色，而是预测混合权重，实际的混合操作由传统滤波直接执行。</p><p style="text-align: center;"><img class="not-source" src="https://img.ithome.com/newsuploadfiles/2026/8/cab01717-faea-4f64-bff9-17f2c722ddd6.png?x-bce-process=image/resize,w_960,h_540/format,f_auto" /></p><p>由于模型不再需要隐式处理 HDR 色彩，其容量得到更高效利用。团队还重新设计了与历史数据的连接，改善了梯度流动，使网络能够学习更长的时序关系。</p><p style="text-align: center;"><img class="not-source" src="https://img.ithome.com/newsuploadfiles/2026/8/1fe8c617-5a73-408b-829e-4d3351017e19.png?x-bce-process=image/resize,w_960,h_540/format,f_auto" /></p><p>此外，工程师引入了一种输入空间椭圆高斯滤波器，以确保在高倍率超分辨率下仍保持有效性，解决了原始模型在 2.5 倍和 3 倍图像重建中的问题。</p><p style="text-align: center;"><img class="not-source" src="https://img.ithome.com/newsuploadfiles/2026/8/e29ae0d2-36cd-4bab-9045-6c0e460233c2.png?x-bce-process=image/resize,w_960,h_540/format,f_auto" /></p><p>克雷格展示的结果显示，升级版模型在图像质量和时序稳定性方面均有提升，尤其是在较低输入分辨率下，同时 GPU 时间和内存占用也有所降低。</p><p style="text-align: center;"><img class="not-source" src="https://img.ithome.com/newsuploadfiles/2026/8/dc4cfa95-b1cd-4c52-9a4d-f7fa7700d99d.png?x-bce-process=image/resize,w_960,h_540/format,f_auto" /></p><p>在参数分配上，初代 CPN 仅有约 30% 的参数处于最低的 540p 分辨率层级，而新版 KPN 将约 90% 的参数分配在 540p 及以下，在 4K 层级几乎不做计算。训练时间也从初代的大约 4 个 GPU 月缩短到不足 1 个 GPU 周。</p><p style="text-align: center;"><a href="https://img.ithome.com/newsuploadfiles/2026/8/31743b6d-b4cf-444c-8313-2483c4963d12.png" target="_blank"><img class="not-source" src="https://img.ithome.com/newsuploadfiles/2026/8/31743b6d-b4cf-444c-8313-2483c4963d12.png?x-bce-process=image/resize,w_960,h_540/format,f_auto" /></a></p><p><strong>相关阅读：</strong></p><ul class="small-size list-paddingleft-2"><li><p>《<a href="https://www.ithome.com/0/986/715.htm" target="_blank">索尼 PS5 Pro 推动 PSSR 2.0 普及：Beta 系统更新后自动启用画质增强选项</a>》</p></li></ul>]]></description>
+    <pubDate>Sat, 15 Aug 2026 11:19:30 -0000</pubDate>
+    <guid isPermaLink="true">https://www.ithome.com/0/990/159.htm</guid>
+    <source url="https://www.ithome.com/0/990/159.htm">IT之家</source>
+  </item>
+  <item>
+    <title>[原创频道&gt;&gt;什么值得买] 情书锁回甘，鲜净皆本味：容声方糖2.0背后的品牌温度与非遗守护</title>
+    <link>https://post.smzdm.com/p/az8xdw60/</link>
+    <description><![CDATA[姚科技V8月15日，潮汕。一座老宅堂屋里，藤椅、老式收音机、泛黄的侨批，静静陈列。方培松从门外走进来，如姨起身相迎：“方叔，你回来了啊。”一句潮汕话，把时光拉回了半个多世纪前。这不是电影片场，而是容声方糖2.0新品发布会的直播现场。方培松与李德如，正是热映电影《给阿嬷的情书》中“谢南枝父亲”与“晓伟姑姑”的扮演者。这部全程潮汕方言、成本仅1400万元的小成本电影，上映94天票房突破20亿元，豆瓣评分高达9<p>本文来自<a href="https://post.smzdm.com/p/az8xdw60/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
+    <pubDate>Sat, 15 Aug 2026 11:19:29 -0000</pubDate>
+    <guid isPermaLink="true">https://post.smzdm.com/p/az8xdw60/</guid>
+    <source url="https://post.smzdm.com/p/az8xdw60/">原创频道&gt;&gt;什么值得买</source>
+  </item>
+  <item>
+    <title>[原创频道&gt;&gt;什么值得买] 帝国时代2决定版2026年版本答案！新手首选匈奴，三个T0文明直接冲分</title>
+    <link>https://post.smzdm.com/p/aom03lvr/</link>
+    <description><![CDATA[匿名用户帝国时代2文明强度榜：T0三雄谁最强？新手选它准没错快30岁的游戏还在疯狂更新，2026年2月刚推出新DLC《最后的酋长》，6月又来了一波海战重制。这不是什么小众独立游戏，而是《帝国时代2决定版》——一款让无数老玩家又爱又恨的RTS经典。问题来了：2026年的今天，哪些文明最强？新手又该怎么选？1T0三雄：单挑天梯最强的三个文明先说结论：匈奴、玛雅、蒙古，这三家稳坐综合T0，2026年了依然没有文<p>本文来自<a href="https://post.smzdm.com/p/aom03lvr/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
+    <pubDate>Sat, 15 Aug 2026 11:18:27 -0000</pubDate>
+    <guid isPermaLink="true">https://post.smzdm.com/p/aom03lvr/</guid>
+    <source url="https://post.smzdm.com/p/aom03lvr/">原创频道&gt;&gt;什么值得买</source>
+  </item>
+  <item>
+    <title>[原创频道&gt;&gt;什么值得买] 职场穿搭避坑：花3000买包不舍得200买面料，一上身就输了</title>
+    <link>https://post.smzdm.com/p/a70kl6p9/</link>
+    <description><![CDATA[匿名用户每天早上站在衣柜前的那十分钟，是都市职场人最诚实的焦虑时刻。穿得太正式，被同事调侃像要去签约；穿得太随意，领导路过工位时眼神会说话。高智感通勤穿搭的出现，恰好卡在两个极端的正中间——它不教人变成房产中介，也不允许变成睡衣出门。1高智感是什么？说白了就是&quot;看着聪明但不装&quot;高智感不是某个品牌定义的风格，而是这几年职场穿衣话语里最诚实的产物。它拒绝两种极端：一种是"用力过猛"的精英感<p>本文来自<a href="https://post.smzdm.com/p/a70kl6p9/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
+    <pubDate>Sat, 15 Aug 2026 11:17:56 -0000</pubDate>
+    <guid isPermaLink="true">https://post.smzdm.com/p/a70kl6p9/</guid>
+    <source url="https://post.smzdm.com/p/a70kl6p9/">原创频道&gt;&gt;什么值得买</source>
+  </item>
+  <item>
+    <title>[原创频道&gt;&gt;什么值得买] 婚礼变战场！《冰雪奇缘3》首支预告太炸了，安娜被传送门带走，新女巫比艾莎还狠</title>
+    <link>https://post.smzdm.com/p/a82l87x6/</link>
+    <description><![CDATA[匿名用户2026年8月14日，迪士尼在加州阿纳海姆D23粉丝博览会上发布《冰雪奇缘3》首支预告物料，同时官宣影片定于2027年11月24日北美上映感恩节档期。预告核心情节确认：安娜与克里斯托夫的婚礼将成为第三部主线，而一场神秘危机打断仪式，一位全新冰魔法女性反派正式登场。123预告画面以极光下的雪花幻化为晶体蝴蝶开篇，蝴蝶撞入阿伦黛尔城堡后，镜头切入安娜与克里斯托夫的婚礼现场。就在仪式进行时，一道冰之裂隙<p>本文来自<a href="https://post.smzdm.com/p/a82l87x6/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
+    <pubDate>Sat, 15 Aug 2026 11:16:40 -0000</pubDate>
+    <guid isPermaLink="true">https://post.smzdm.com/p/a82l87x6/</guid>
+    <source url="https://post.smzdm.com/p/a82l87x6/">原创频道&gt;&gt;什么值得买</source>
+  </item>
+  <item>
+    <title>[原创频道&gt;&gt;什么值得买] 容声方糖2.0新品发布：用硬核保鲜科技回应离乡与回家的味觉记忆</title>
+    <link>https://post.smzdm.com/p/a26zpw7d/</link>
+    <description><![CDATA[姚科技V8月15日，容声冰箱联合抖音在潮汕举办了一场别开生面的新品发布会。发布会上，容声方糖2.0 Ultra冰箱正式亮相。整场发布会以热映电影《给阿嬷的情书》的故事为叙事主线，邀请片中“方叔”（方培松）和“如姨”（李德如）两位演员到场，通过一封封泛黄的侨批，串联起橄榄、姜薯甜汤、咸猪肉三段关于“家味”的记忆，生动演绎了容声方糖2.0 Ultra以硬核保鲜科技守护食材本真风味的品牌初心。蓝光水润舱：让“离<p>本文来自<a href="https://post.smzdm.com/p/a26zpw7d/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
+    <pubDate>Sat, 15 Aug 2026 11:16:30 -0000</pubDate>
+    <guid isPermaLink="true">https://post.smzdm.com/p/a26zpw7d/</guid>
+    <source url="https://post.smzdm.com/p/a26zpw7d/">原创频道&gt;&gt;什么值得买</source>
+  </item>
+  <item>
+    <title>[原创频道&gt;&gt;什么值得买] 保底不继承、50%歪率……《终末地》抽卡系统全解析，官方终于正面回应了</title>
+    <link>https://post.smzdm.com/p/aggdemqd/</link>
+    <description><![CDATA[匿名用户《明日方舟：终末地》上线至今，抽卡机制一直是玩家社区的热门话题。从角色池到武器池，从保底机制到资源获取，每个环节都牵动着玩家的神经。2026年8月，随着制作人Ryan在GDC期间首次正面回应抽卡争议，官方终于释放了明确的优化信号。这篇文章带你吃透终末地当前的抽卡逻辑，看清问题的本质，也看清未来的方向。1先弄懂这两个数字：80和120理解终末地的抽卡，一切从两个关键数字开始：80抽触发小保底，120<p>本文来自<a href="https://post.smzdm.com/p/aggdemqd/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
+    <pubDate>Sat, 15 Aug 2026 11:16:08 -0000</pubDate>
+    <guid isPermaLink="true">https://post.smzdm.com/p/aggdemqd/</guid>
+    <source url="https://post.smzdm.com/p/aggdemqd/">原创频道&gt;&gt;什么值得买</source>
+  </item>
+  <item>
+    <title>[原创频道&gt;&gt;什么值得买] 入秋板栗养生汤品推荐</title>
+    <link>https://post.smzdm.com/p/a030prd8/</link>
+    <description><![CDATA[仅此-而已1刚一入秋，满大街飘着糖炒栗子的香味，这种不起眼的硬壳果子，其实是水果里头数得着的“肾黄金”，花不了几个钱，却能把人养得壮实。生着吃是补脾肾的高手，熟透了吃那是温养筋骨的良药，趁着板栗大量上市，赶紧给家里人做几顿，把这一整年的精气神都给补足了，那身子骨肯定硬朗。咱们老百姓过日子，图的不就是个舒坦和硬朗吗？看看身边的人，谁不是白天为了碎银几两拼命跑，到了晚上累得像滩泥，腰也酸了，腿也软了，早上起来眼袋<p>本文来自<a href="https://post.smzdm.com/p/a030prd8/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
+    <pubDate>Sat, 15 Aug 2026 11:15:00 -0000</pubDate>
+    <guid isPermaLink="true">https://post.smzdm.com/p/a030prd8/</guid>
+    <source url="https://post.smzdm.com/p/a030prd8/">原创频道&gt;&gt;什么值得买</source>
+  </item>
+  <item>
+    <title>[原创频道&gt;&gt;什么值得买] 运动失败教训与成长</title>
+    <link>https://post.smzdm.com/p/anvq8wq2/</link>
+    <description><![CDATA[黄领导思念在互联网时代，我们总能刷到大量的运动成功案例。别人坚持锻炼、成功瘦身、体态蜕变、自律逆袭，每一个故事都光鲜亮丽、充满正能量。长期以来，我们习惯性赞美成功、向往高光，认为只有顺利的收获才算真正的成长。但经历过亲身试错、盲目跟风、买错运动装备的失败之后，我深刻明白了一个道理：千篇一律的成功太完美、太遥远，只能让人羡慕；而普通人笨拙的失误、真实的失败、无奈的踩坑，才最贴近生活，最能引发讨论、最能产生共鸣<p>本文来自<a href="https://post.smzdm.com/p/anvq8wq2/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
+    <pubDate>Sat, 15 Aug 2026 11:12:19 -0000</pubDate>
+    <guid isPermaLink="true">https://post.smzdm.com/p/anvq8wq2/</guid>
+    <source url="https://post.smzdm.com/p/anvq8wq2/">原创频道&gt;&gt;什么值得买</source>
+  </item>
+  <item>
+    <title>[原创频道&gt;&gt;什么值得买] 《牛来》全网刷屏！网友：“不敢想象，这是电影院里的东西</title>
+    <link>https://post.smzdm.com/p/a030vg68/</link>
+    <description><![CDATA[1325dianxi今年暑假档，一部被称为“最搞笑”的电影悄然走红网络。它不是大制作的喜剧片，而是一部票房极低、画风清奇的国产动画电影——《牛来》。这部电影凭借极其魔性的表现，成功引发了全网围观。海报与正片的“史诗级货不对板”该片在豆瓣展示的海报颇具水墨国风动画的质感，看起来还算华丽。然而，当观众满怀期待地走进电影院，看到的却是宛如“学了三年动画同学的毕设”般的3D画面。粗糙的建模和诡异的动作让观众直呼：“不敢想象，<p>本文来自<a href="https://post.smzdm.com/p/a030vg68/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
+    <pubDate>Sat, 15 Aug 2026 11:10:42 -0000</pubDate>
+    <guid isPermaLink="true">https://post.smzdm.com/p/a030vg68/</guid>
+    <source url="https://post.smzdm.com/p/a030vg68/">原创频道&gt;&gt;什么值得买</source>
+  </item>
+  <item>
+    <title>[原创频道&gt;&gt;什么值得买] 还是DDR4香！英特尔Raptor Lake确认延寿：LGA 1700还有新CPU</title>
+    <link>https://post.smzdm.com/p/a5rgwedk/</link>
+    <description><![CDATA[快科技快科技8月15日消息，据报道，英特尔副总裁Robert Hallock在接受采访时表示，将长期保留Raptor Lake产品线，并针对现有的LGA 1700平台推出新款CPU。简单来说，现在的内存市场已经成了DIY玩家的噩梦，目前DDR5内存价格一路狂飙，部分高频16GB内存套条的零售价甚至超过了主流显卡，这种内存贵过显卡的离奇现象让大量装机用户望而却步。与之相反，市场对DDR4平台的需求则依然旺<p>本文来自<a href="https://post.smzdm.com/p/a5rgwedk/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
+    <pubDate>Sat, 15 Aug 2026 11:10:40 -0000</pubDate>
+    <guid isPermaLink="true">https://post.smzdm.com/p/a5rgwedk/</guid>
+    <source url="https://post.smzdm.com/p/a5rgwedk/">原创频道&gt;&gt;什么值得买</source>
+  </item>
+  <item>
+    <title>[原创频道&gt;&gt;什么值得买] 运动失败经历的真实启示</title>
+    <link>https://post.smzdm.com/p/a6zwkmlg/</link>
+    <description><![CDATA[黄领导思念 在日常生活和网络世界中，我们总能看到各种各样运动成功的励志故事。有人坚持锻炼成功瘦身，有人常年运动改变体态，有人凭借自律摆脱亚健康，收获全新的自己。这些光鲜亮丽的成功经历，看似完美无瑕，令人心生向往，常常被人们称赞和传播。但在我亲身接触运动、亲身经历一次次踩坑失败之后，我深刻意识到：成功的故事千篇一律、距离遥远，只能让人羡慕；而失败的经历真实朴素、贴近生活，最能引发大家的讨论，最容易产生共鸣，也<p>本文来自<a href="https://post.smzdm.com/p/a6zwkmlg/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
+    <pubDate>Sat, 15 Aug 2026 11:10:25 -0000</pubDate>
+    <guid isPermaLink="true">https://post.smzdm.com/p/a6zwkmlg/</guid>
+    <source url="https://post.smzdm.com/p/a6zwkmlg/">原创频道&gt;&gt;什么值得买</source>
+  </item>
+  <item>
+    <title>[原创频道&gt;&gt;什么值得买] 探店第五代GS4：7.98万起就给后五连杆，空间舒适度提升，真香！</title>
+    <link>https://post.smzdm.com/p/ak8dlx08/</link>
+    <description><![CDATA[v花舞清风v今天去传祺4S店看了刚上市的第五代GS4。7月24号刚上的车，三款配置，指导价8.78万到10.08万，限时价7.98万到9.08万。一进展厅就被车头抓住了。贯穿式日行灯横穿前脸，中间传祺logo嵌在格栅里，下包围层次分明。点亮之后辨识度很高，老款那种沉闷感没了。绕到侧面，车长4680mm，轴距2770mm，比老款加长20mm。腰线从前翼子板拉到尾灯，半隐藏门把手，D柱断开设计做出悬浮车顶效果。M<p>本文来自<a href="https://post.smzdm.com/p/ak8dlx08/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
+    <pubDate>Sat, 15 Aug 2026 11:10:22 -0000</pubDate>
+    <guid isPermaLink="true">https://post.smzdm.com/p/ak8dlx08/</guid>
+    <source url="https://post.smzdm.com/p/ak8dlx08/">原创频道&gt;&gt;什么值得买</source>
+  </item>
+  <item>
+    <title>[原创频道&gt;&gt;什么值得买] 护肤新手挑好用的眼霜，几款看完我会先看配方是不是合拍</title>
+    <link>https://post.smzdm.com/p/a82l87ll/</link>
+    <description><![CDATA[铿锵玫瑰空谷幽兰刚开始认真护肤时，大家聊眼霜很容易陷进两个极端：要么觉得眼霜都是智商税，面霜带一下就行；要么看到“抗老”“提亮”“去眼袋”就想全部拿下。我不太喜欢一上来就问哪款最好，因为眼周状态差别很大，好用更应该看配方路线、质地和自己能不能坚持。现在我会先把眼霜分成几类：综合型、滋润保湿型、紧致抗老型和焕亮醒肤型。先分清楚，才知道化妆台上真正缺的是哪一类。 新手挑眼霜不用背完整成分表，但要看配方是不是把主线做清<p>本文来自<a href="https://post.smzdm.com/p/a82l87ll/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
+    <pubDate>Sat, 15 Aug 2026 11:10:21 -0000</pubDate>
+    <guid isPermaLink="true">https://post.smzdm.com/p/a82l87ll/</guid>
+    <source url="https://post.smzdm.com/p/a82l87ll/">原创频道&gt;&gt;什么值得买</source>
+  </item>
+  <item>
+    <title>[原创频道&gt;&gt;什么值得买] 驼奶粉怎么挑更省心?别急着看排名,先弄清楚自己到底想买哪一种</title>
+    <link>https://post.smzdm.com/p/aggdemx6/</link>
+    <description><![CDATA[值友7130146767现在的驼奶粉其实不算难买,真正难的是选。打开购物平台,能看到的产品越来越多:有新疆奶源的,有阿拉善奶源的;有配料表只有一项生驼乳的,也有加了益生菌、钙、锌和维生素的;还有一些产品会把有机、低GI、低GL等认证放在很显眼的位置。如果只是快速扫一遍,很容易觉得每一款都差不多。但只要把配料表、奶源和认证信息放在一起看,就会发现不同产品其实走的是完全不同的路线。所以我现在看驼奶粉,已经不太喜欢先问“哪个牌<p>本文来自<a href="https://post.smzdm.com/p/aggdemx6/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
+    <pubDate>Sat, 15 Aug 2026 11:09:31 -0000</pubDate>
+    <guid isPermaLink="true">https://post.smzdm.com/p/aggdemx6/</guid>
+    <source url="https://post.smzdm.com/p/aggdemx6/">原创频道&gt;&gt;什么值得买</source>
+  </item>
+  <item>
+    <title>[原创频道&gt;&gt;什么值得买] 中年打工人发量变薄，防脱洗发水我会先看能不能长期用</title>
+    <link>https://post.smzdm.com/p/az8xdw5r/</link>
+    <description><![CDATA[一个送外卖的到了中年，发量变化不一定是突然发生的，更多是慢慢觉得头顶没以前厚、发缝比以前明显、早上洗完也不太撑得住。这个阶段买防脱洗发水，我不会再只看即时清爽。 真正能留下来的，通常是洗感稳定、价格不夸张、头皮不闹脾气的款。毕竟中年打工人的洗护不是短期打卡，更多是每天洗、每周复盘、慢慢看状态。   我会先把问题拆开：掉发观感来自发根、发丝还是头皮出油，答案会不一样。下面几款不是硬排榜单，而是按不同洗护路线来对<p>本文来自<a href="https://post.smzdm.com/p/az8xdw5r/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
+    <pubDate>Sat, 15 Aug 2026 11:09:31 -0000</pubDate>
+    <guid isPermaLink="true">https://post.smzdm.com/p/az8xdw5r/</guid>
+    <source url="https://post.smzdm.com/p/az8xdw5r/">原创频道&gt;&gt;什么值得买</source>
+  </item>
+  <item>
+    <title>[原创频道&gt;&gt;什么值得买] 吃梭子蟹前必看：4个部位藏脏东西，很多人吃错闹肚子</title>
+    <link>https://post.smzdm.com/p/ad7d0xdn/</link>
+    <description><![CDATA[匿名用户揭开蟹盖，你看到的不一定是蟹黄一只活梭子蟹的蟹腮上，附着着海水里的泥沙、细菌和寄生虫卵，过滤功能越强，脏东西积累越多。打开蟹盖后首先映入眼帘的两排灰色羽状组织，就是蟹腮——螃蟹的呼吸器官。老玩家都知道，这个部位不管怎么处理都去不干净腥味，吃完容易闹肚子。蟹腮必须整排撕掉，一丝不留。{"markerType": "", "markers": [{"": "7", "url": "", "quote_<p>本文来自<a href="https://post.smzdm.com/p/ad7d0xdn/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
+    <pubDate>Sat, 15 Aug 2026 11:08:49 -0000</pubDate>
+    <guid isPermaLink="true">https://post.smzdm.com/p/ad7d0xdn/</guid>
+    <source url="https://post.smzdm.com/p/ad7d0xdn/">原创频道&gt;&gt;什么值得买</source>
+  </item>
+  <item>
+    <title>[原创频道&gt;&gt;什么值得买] 月薪三万的人周末去郊区：不穿冲锋衣，只穿那件皱巴巴的白T恤</title>
+    <link>https://post.smzdm.com/p/arzpm9pz/</link>
+    <description><![CDATA[匿名用户月薪三万的人周末穿什么去郊区？不是冲锋衣，也不是网红同款，而是你衣柜里那件皱巴巴的白T恤。2026年的郊野穿搭趋势，正在让"专业户外"和"生活质感"的边界彻底模糊。郊野穿搭和城市穿搭，差的不是品味是逻辑都市穿搭的核心是"你穿什么衣服"，郊野穿搭的核心是"你穿什么进这个场景"。城市里可以靠气质撑起任何单品，郊野不行——衣服必须和环境对话。面料对了，颜色对了，功能到位了，人在照片里才站得住脚。面料、颜<p>本文来自<a href="https://post.smzdm.com/p/arzpm9pz/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
+    <pubDate>Sat, 15 Aug 2026 11:08:30 -0000</pubDate>
+    <guid isPermaLink="true">https://post.smzdm.com/p/arzpm9pz/</guid>
+    <source url="https://post.smzdm.com/p/arzpm9pz/">原创频道&gt;&gt;什么值得买</source>
+  </item>
+  <item>
+    <title>[原创频道&gt;&gt;什么值得买] 塑料瓶别扔！改造这10件家居神器，2分钟搞定零成本</title>
+    <link>https://post.smzdm.com/p/aggdemd6/</link>
+    <description><![CDATA[匿名用户先说说家里的塑料瓶到底值不值钱全国每年产生约600亿只塑料瓶，这些瓶子被丢进垃圾桶后，要么填埋要么焚烧，真正被回收再利用的比例低得可怜。但你家的阳台抽屉里，那些攒了一夏天攒出来的塑料瓶，其实在"等死"——等一个被改造的机会。一个500毫升的矿泉水瓶，改对了地方，能替代至少三件花钱买的家居神器。与其让它们在垃圾堆里降解几百年，不如让它们在你家继续发光发热。1很多人会说"我也想改造，但步骤太麻烦"——<p>本文来自<a href="https://post.smzdm.com/p/aggdemd6/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
+    <pubDate>Sat, 15 Aug 2026 11:07:30 -0000</pubDate>
+    <guid isPermaLink="true">https://post.smzdm.com/p/aggdemd6/</guid>
+    <source url="https://post.smzdm.com/p/aggdemd6/">原创频道&gt;&gt;什么值得买</source>
+  </item>
+  <item>
+    <title>[原创频道&gt;&gt;什么值得买] 钩针开衫2026年翻红：选对线材、穿对版型，从新手到行家的穿搭指南</title>
+    <link>https://post.smzdm.com/p/am9pldmv/</link>
+    <description><![CDATA[匿名用户2026年钩针服饰为什么突然成了日常穿搭的主角刷到一条街拍，三个女生撞衫——都是米白镂空钩针开衫，配的却是完全不同的三套：西装裤配乐福鞋、真丝碎花裙搭凉拖、牛仔短裤配马丁靴。看评论才知道，这种「一件衣服适配所有风格」的特性，正是2026年钩针服饰翻红的核心原因。素材里说得很清楚：钩针镂空条纹上衣的价值在于它不追求批量复制，而是把编织过程、针法层次和配色节奏都变成产品的一部分。市场正在用脚投票：有温<p>本文来自<a href="https://post.smzdm.com/p/am9pldmv/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
+    <pubDate>Sat, 15 Aug 2026 11:04:40 -0000</pubDate>
+    <guid isPermaLink="true">https://post.smzdm.com/p/am9pldmv/</guid>
+    <source url="https://post.smzdm.com/p/am9pldmv/">原创频道&gt;&gt;什么值得买</source>
+  </item>
+  <item>
+    <title>[IT之家] 全球两大支付巨头合并？消息称 Stripe 正洽谈收购 PayPal</title>
+    <link>https://www.ithome.com/0/990/158.htm</link>
+    <description><![CDATA[<p>IT之家 8 月 15 日消息，据《华尔街日报》昨日报道，Stripe 和私募股权公司安宏资本（Advent International）正在与 PayPal 洽谈收购事宜。</p><p>据报道，Stripe 和安宏资本曾在今年 7 月，以每股 60.5 美元<span class="exch-money-value">（IT之家注：现汇率约合 408.7 元人民币）</span>的价格向 PayPal 提出收购要约，使 PayPal 的估值达到 530 亿美元<span class="exch-money-value">（现汇率约合 3,580.49 亿元人民币）</span>，但 PayPal 方面对该报价并不满意。</p><p>在接收到要约之前，PayPal 的股价曾一度跌至历史低位，市值也只有大约 400 亿美元<span class="exch-money-value">（现汇率约合 2,702.26 亿元人民币）</span>。作为对比，<strong>该公司 2021 年的峰值市值曾达到 3,600 亿美元<span class="exch-money-value">（现汇率约合 2.43 万亿元人民币）</span>左右</strong>。</p><p>目前 Stripe 和 PayPal 双方正在谈论更高的每股价格。<strong>如果一切顺利</strong>，<strong>这笔交易可能会在未来几周内达成</strong>。</p><p>结合路透社此前报道，Stripe 和安宏资本如果收购成功，将各自持有 PayPal 50% 的股份。两家公司并没有拆分 PayPal 的计划，如果该交易最终达成，Stripe 有望成为全球规模最大的在线支付公司之一，往后每年处理的交易金额将达到 3.7 万亿美元<span class="exch-money-value">（现汇率约合 25 万亿元人民币）</span>。</p><p>IT之家查询 Statista 数据发现，截至 2026 年 1 月，PayPal 的全球在线支付市场份额为 41.63%，位列第一；Stripe 的全球在线支付市场份额为 22.73%，排名第二。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/8/637ab288-b7a1-4547-b397-a979e8cd8b3c.jpg" /></p>]]></description>
+    <pubDate>Sat, 15 Aug 2026 11:03:17 -0000</pubDate>
+    <guid isPermaLink="true">https://www.ithome.com/0/990/158.htm</guid>
+    <source url="https://www.ithome.com/0/990/158.htm">IT之家</source>
+  </item>
+  <item>
+    <title>[原创频道&gt;&gt;什么值得买] 新车：神行者8竞争力分析，34.99万元起预售</title>
+    <link>https://post.smzdm.com/p/apq69857/</link>
+    <description><![CDATA[Uncle辣撩车神行者8的官方预售价已经给出：PRO版34.99万元、MAX版37.99万元、MAX+版42.99万元，以及首发限定版的45.99万元。作为奇瑞主导的国产路虎品牌衍生车型，在产品竞争力呈现「智驾越野双长板突出，但定价、品牌与续航是核心掣肘」的特征。当然，有华为乾崑智驾ADS 5、包括896线激光雷达的加持，大大的提升了它的产品溢价能力。值得注意的是：当下的路虎品牌，除了揽胜能维持较高的影响力之外，<p>本文来自<a href="https://post.smzdm.com/p/apq69857/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
+    <pubDate>Sat, 15 Aug 2026 11:03:00 -0000</pubDate>
+    <guid isPermaLink="true">https://post.smzdm.com/p/apq69857/</guid>
+    <source url="https://post.smzdm.com/p/apq69857/">原创频道&gt;&gt;什么值得买</source>
+  </item>
+  <item>
+    <title>[V2EX] [分享创造] libcr 项目组发布 HTTP 共享服务应用 crShare 1.2.0</title>
+    <link>https://www.v2ex.com/t/1234648#reply0</link>
+    <description><![CDATA[免费下载： <a href="https://github.com/libcr/crShare" rel="nofollow noopener" target="_blank">https://github.com/libcr/crShare</a>     <br /><br />微软应用商店下载： <a href="https://apps.microsoft.com/store/detail/9MWSSWF3H9LC?cid=DevShareMCLPCS" rel="nofollow noopener" target="_blank">https://apps.microsoft.com/store/detail/9MWSSWF3H9LC?cid=DevShareMCLPCS</a><br />crShare 实现支持局域网文件共享和浏览器间 Topic 的快速分享服务          <br />通过界面管理 HTTP 共享服务, 多文件夹的下载和上传<br />本软件采用 C++开发实现基于 chromium 网络库和 UI Views 框架的跨平台应用        <br /><a href="https://i.imgur.com/wqzcDMQ.png" rel="nofollow noopener" target="_blank"><img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/wqzcDMQ.png" /></a>]]></description>
+    <pubDate>Sat, 15 Aug 2026 10:48:40 -0000</pubDate>
+    <guid isPermaLink="true">https://www.v2ex.com/t/1234648#reply0</guid>
+    <source url="https://www.v2ex.com/t/1234648#reply0">V2EX</source>
+  </item>
+  <item>
+    <title>[IT之家] OpenAI 奥尔特曼：大学读四年可能有点久，两年就够了</title>
+    <link>https://www.ithome.com/0/990/156.htm</link>
+    <description><![CDATA[<p>IT之家 8 月 15 日消息，据《商业内幕》今天（15 日）报道，OpenAI CEO 萨姆 · 奥尔特曼认为，自己大学只读两年恰到好处，而且可能也适用于其他人。“我觉得两年里已经学到了很多，<strong>再继续读下去，新增的收获可能会越来越少</strong>。”</p><p>在奥尔特曼看来，现在的大学教育<strong>未必还需要维持传统的四年制</strong>。“我一直在想，世界发展到现在，大学或许不需要读这么久。当然，大学仍然提供了很好的机会，让人认识朋友、开始独立生活，也能亲手参与一些项目。”</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/img/thumb/ba26ced5-ee46-4a7a-b1ea-e261db5f9bf0.jpg" /></p><p>2005 年，奥尔特曼<strong>在斯坦福大学读了两年后退学</strong>，与他人共同创办位置分享应用 Loopt。Loopt 后来成为 Y Combinator 首批孵化项目之一，也由此开启了奥尔特曼与 Y Combinator 的长期联系，直到后来亲自执掌。</p><p>奥尔特曼在一场面向科技实习生举办的峰会中提到，如果自己当时再留在学校两年，未必会有多大价值。“所以，我很满意自己的选择，只是人生<strong>不可能重新再做一次同一个实验</strong>。我现在认识很多<strong>根本没上过大学、照样发展得很好</strong>的人。”</p><p>类似观点在科技界并不少见。奥尔特曼的导师、PayPal 联合创始人彼得 · 蒂尔就长期支持年轻人放弃传统大学道路。蒂尔资助的奖学金计划向年轻人提供 25 万美元<span class="exch-money-value">（IT之家注：现汇率约合 168.9 万元人民币）</span>，鼓励他们完全不读大学，或者至少暂时休学。</p><p>谈到自己过去同时兼顾 OpenAI 和其他事务的经历时，奥尔特曼认为，要求刚起步的人从一开始就只做一个项目，并不是好建议。</p><p>“刚开始时同时做几个项目完全没问题，因为你还不知道哪个会成功，不知道自己最终会对什么感兴趣，也不知道什么真正适合自己。真正的错误，<strong>是当你已经确定自己最坚定看好的方向之后，还不愿意忍痛放下其他事情</strong>。到了那个时候，就应该摆脱其他项目，全力投入。”</p>]]></description>
+    <pubDate>Sat, 15 Aug 2026 10:45:26 -0000</pubDate>
+    <guid isPermaLink="true">https://www.ithome.com/0/990/156.htm</guid>
+    <source url="https://www.ithome.com/0/990/156.htm">IT之家</source>
+  </item>
+  <item>
+    <title>[IT之家] 微信小程序组件框架升级：glass-easel 带来更多特性及更优性能</title>
+    <link>https://www.ithome.com/0/990/155.htm</link>
+    <description><![CDATA[<p>IT之家 8 月 15 日消息，微信开发者本周（8 月 12 日）宣布，微信小程序新一代框架组件 glass-easel 已经可以自由使用，该框架具备更多特性和更优性能，<strong>适合用来编写、维护复杂的小程序</strong>。</p><p>据悉，glass-easel 是新版微信小程序组件框架的核心实现。从本质上说，glass-easel 是 JavaScript 的组件化界面框架，用来进行组件化、定义式的界面开发。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/8/6b3a1698-fb78-4bb8-bcb8-fd2473f85ea5.png?x-bce-process=image/format,f_auto" /></p><p>glass-easel 内核也可以独立运行在 web 环境下。除了组件框架本身，glass-easel 还配套了一组附件，包括代码编辑器插件、开发者工具扩展、国际化扩展等。同时该框架还是旧版组件 exparser 的升级，在保持兼容性的同时新增了各大特性和性能改进。</p><p>从小程序基础库版本 3.8.12 开始，glass-easel 组件框架提供了对 WebView 渲染引擎的支持，目前已覆盖约 98% 的微信用户。</p><p>IT之家附 glass-easel 新特性如下：</p><h2>Component 构造器的 Chaining 形式</h2><p>Component 构造器新增了一种 Chaining 形式写法，像这样：</p><pre>export&nbsp;default&nbsp;Component()
+&nbsp;&nbsp;.data(()&nbsp;=&gt;&nbsp;({
+&nbsp;&nbsp;&nbsp;&nbsp;foo:&nbsp;'bar',
+&nbsp;&nbsp;}))
+&nbsp;&nbsp;.init(function&nbsp;({&nbsp;data,&nbsp;setData,&nbsp;lifetime&nbsp;})&nbsp;{
+&nbsp;&nbsp;&nbsp;&nbsp;lifetime('attached',&nbsp;()&nbsp;=&gt;&nbsp;{
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;console.log('attached')
+&nbsp;&nbsp;&nbsp;&nbsp;})
+&nbsp;&nbsp;})
+&nbsp;&nbsp;.register()</pre><p>Chaining 形式更适合组织复杂的组件逻辑，对 TypeScript 的支持也更好。它有一个 init (...) 实例初始化函数、形成一个闭包，可以在这个闭包内自由定义（专属于当前实例的）局部变量，对于复杂组件非常实用。</p><p>此外，glass-easel 还提供了动态 slot、trait behaviors 等新特性，方便复杂组件的开发。</p><h2>新 WXML 编译器</h2><p>glass-easel 组件框架还附带了新的 WXML 编译器。</p><p>这个编译器支持一些新的实用语法。let: 语法可以轻松定义局部变量，class: 语法可以为节点更清晰地添加和移除样式类。</p><pre class="brush:javascript;toolbar:false">&lt;block&nbsp;let:field="{{&nbsp;my.complex.data.field&nbsp;}}"&gt;
+&nbsp;&nbsp;&lt;view&gt;{{&nbsp;field.title&nbsp;}}&lt;/view&gt;
+&nbsp;&nbsp;&lt;view&gt;{{&nbsp;field.description&nbsp;}}&lt;/view&gt;
+&lt;/block&gt;</pre><pre class="brush:javascript;toolbar:false">&lt;view
+&nbsp;&nbsp;class:button
+&nbsp;&nbsp;class:button-enabled="{{&nbsp;buttonEnabled&nbsp;}}"
+/&gt;</pre><p>新的 WXML 编译器编译速度更快，也将生成更高效的运行时代码。WXML 生成码执行速度可提升约 20%。</p><h2>glass-easel 运行时性能优化</h2><p>glass-easel 组件框架运行时性能也有重大改进。</p><p>glass-easel 采用了新的更新算法，可以大大降低在部分情况下的更新开销。现在 glass-easel 能综合使用基于虚拟树和非基于虚拟树的更新算法，以便适应不同的场景。在列表更新算法方面，新的算法在部分场景下可提升执行速度数倍。</p><p>此外，glass-easel 提供了高级数据更新方法、数据字段拷贝控制、组件初始化策略等新特性，来辅助实现更极致的性能优化。</p><p>微信官方建议用户将开发者工具升级至 nightly 版本，以获取更好的开发体验。使用 TypeScript 开发时，建议将 miniprogram-api-typings 升级到最新版本（5.2.3）。</p><p><span class="referenceTitle">参考：</span></p><ul class="custom_reference list-paddingleft-1"><li class="list-undefined list-reference-paddingleft"><p><a href="https://mp.weixin.qq.com/s/CvST9Lg0INTCGlA0dMyk3Q">小程序组件框架升级：glass-easel 带来更多特性及更优性能</a></p></li></ul>]]></description>
+    <pubDate>Sat, 15 Aug 2026 10:41:34 -0000</pubDate>
+    <guid isPermaLink="true">https://www.ithome.com/0/990/155.htm</guid>
+    <source url="https://www.ithome.com/0/990/155.htm">IT之家</source>
+  </item>
+  <item>
+    <title>[IT之家] 英伟达 CEO 黄仁勋出手安抚 AI 算力市场：部分 AI 投资项目可获最高 25% 残值支持</title>
+    <link>https://www.ithome.com/0/990/154.htm</link>
+    <description><![CDATA[<p>IT之家 8 月 15 日消息，英伟达 8 月 11 日宣布与阿波罗、贝莱德、黑石、布鲁克菲尔德、高盛和 KKR 合作，建立独立融资平台，计划随着时间推移调动超过 5000 亿美元的第三方资本，用于 AI 基础设施建设。</p><p>英伟达 CEO 黄仁勋在声明中提到：公司可能会在某个时候针对部分 AI 基础设施投资项目提供最高 25% 的残值支持，以帮助金融机构降低相关资产融资风险。</p><p style="text-align: center;"><a class="ithome_super_player" href="https://weibo.com/tv/show/1034:5332206604714071?mid=5332225882326362"><img src="https://img.ithome.com/newsuploadfiles/2026/8/ea9fed2a-1fc5-44e1-9b72-7f676564bff4.jpg" /></a></p><p>英伟达将这一计划定位为推动 AI 算力成为可投资资产类别的一项举措。公司认为，过去企业通常自行采购 GPU 并建设数据中心，而未来 AI 工厂可以像其他生产性基础设施一样，通过长期机构资本和标准化融资平台进行建设。</p><p>黄仁勋表示，这些融资平台面向符合条件的 AI 实验室、企业和 AI 云服务商。超过 5,000 亿美元<span class="exch-money-value ">（IT之家注：现汇率约合 3.38 万亿元人民币）</span>指的是相关平台计划随着时间推移调动的第三方资本总规模，并非英伟达的收入、单一基金规模，也不是对某一家客户的单笔融资承诺。</p><p>根据英伟达公布的信息，参与合作的金融机构将独立评估具体项目，包括客户情况、算力需求、利用率、现金流和资产残值等因素。英伟达负责提供 AI 工厂平台，而长期资本和融资则由金融机构提供。</p><p>此次计划公布后，市场关注点之一是这种融资模式是否会形成所谓“循环融资”。英伟达对此回应称，相关融资平台将由独立的长期机构资本参与，具体项目也需要经过金融机构独立评估，公司并不会替投资机构决定是否提供融资。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/8/5b4b0e22-7c5b-4291-82d9-194ffde4aa7c.jpg?x-bce-process=image/format,f_auto" /></p><p>在残值支持方面，黄仁勋表示，在部分情况下，英伟达可能为单个项目提供最高 25% 的残值支持，但会逐个项目进行审慎评估。英伟达强调，这一支持机制以资产残值为基础，旨在补充而非取代金融机构自身的风险评估。</p><p>所谓残值支持，核心是降低金融机构对 AI 算力设备未来价值下降的担忧。如果相关项目出现违约或资产处置情况，GPU 等设备的实际残值低于融资模型预期，英伟达提供的支持机制可以覆盖部分风险，但并不意味着英伟达承担整个项目的融资责任。</p><p>英伟达认为，其 AI 算力基础设施具有一定的资产属性。公司所称的“AI 工厂”并不只是 GPU，还包括高速网络、系统软件、AI 框架以及 CUDA 开发生态，可以运行语言、视觉、语音、生物、机器人等不同类型的 AI 工作负载。</p><p>黄仁勋认为，NVIDIA 平台具有较广泛的客户和应用基础。当某一客户需求发生变化时，相关算力基础设施理论上可以重新部署给其他客户、云服务商或运营商，因此资产并非只能服务于单一用户。</p><p>英伟达还强调，软件升级可以延长硬件的经济使用周期。公司以 A100 为例称，该产品于 2020 年推出，到 2026 年仍在用于 AI 训练、微调、推理和高性能计算，并有客户继续签订多年算力部署协议。</p><p><strong>相关阅读：</strong></p><ul class="small-size list-paddingleft-2"><li><p>《<a href="https://www.ithome.com/0/988/104.htm" target="_blank">NVIDIA 牵头组建 5000 亿美元人工智能计算基础设施融资平台</a>》</p></li><li><p>《<a href="https://www.ithome.com/0/988/255.htm" target="_blank">英伟达 CEO 黄仁勋谈 5000 亿美元融资计划：AI 芯片已是“投资级资产”</a>》</p></li></ul>]]></description>
+    <pubDate>Sat, 15 Aug 2026 10:41:07 -0000</pubDate>
+    <guid isPermaLink="true">https://www.ithome.com/0/990/154.htm</guid>
+    <source url="https://www.ithome.com/0/990/154.htm">IT之家</source>
+  </item>
+  <item>
+    <title>[V2EX] [程序员] 分享一个操作路径，可以不用捣鼓 figma 来制作切割风格的商店预览图</title>
+    <link>https://www.v2ex.com/t/1234646#reply1</link>
+    <description><![CDATA[<p><img alt="" class="embedded_image" rel="noreferrer" src="https://i.v2ex.co/I3Lq93Bl.png" /></p>
+<p>只需要准备截图，然后到 <a href="http://shots.so" rel="nofollow">shots.so</a> 这类的 mockup 网站，做一张方形的渲染图，然后交给 Codex：</p>
+<pre><code>帮我把每张图切割成两份 1320×2868 的 jpeg
+</code></pre>]]></description>
+    <pubDate>Sat, 15 Aug 2026 10:31:41 -0000</pubDate>
+    <guid isPermaLink="true">https://www.v2ex.com/t/1234646#reply1</guid>
+    <source url="https://www.v2ex.com/t/1234646#reply1">V2EX</source>
+  </item>
+  <item>
+    <title>[IT之家] 业界首个：KaihongOS 桌面版（x86）正式适配并预装原生 VS Code，开箱即用</title>
+    <link>https://www.ithome.com/0/990/147.htm</link>
+    <description><![CDATA[<p>IT之家 8 月 15 日消息，今天（15 日）傍晚，深圳开鸿数字产业发展有限公司 CEO 王成录宣布：KaihongOS 桌面版（x86）实现<strong>业界首个正式适配并预装原生 VS Code</strong>，无需手动下载安装、无需借助容器运行，开箱即用，标志着 KaihongOS 桌面版（x86）向生产力工具又迈进了一步。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/8/7114fff5-df98-4de0-9fbf-92e305176f7f.png" /></p><p>根据介绍，本次 KaihongOS 版本更新（IT之家注：V5.0.2.53）还带来多项实用硬件及系统能力更新：</p><ul class=" list-paddingleft-2"><li><p>完成 USB WIFI (AX300) 硬件适配，进一步提升联网能力</p></li><li><p>新增 USB 网络共享功能，通过 USB 连接，共享移动端热点</p></li><li><p>集成英特尔、AMD 集成显卡硬编码能力，音视频编解码性能进一步增强</p></li></ul><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/8/7db5db48-494a-42d7-a181-f605e74613a1.png" /></p><blockquote class="ai-point"><h3>延伸阅读</h3><p>KaihongOS 桌面版（x86）自 2026 年 3 月升级至 5.0 版本并首次面向公众全面开放免费试用以来，更新频繁。2026 年 5 月底发布的 V5.0.2.20 版本适配了 AMD 芯片平台；6 月初 V5.0.2.25 版本适配 QEMU 虚拟机；6 月中旬 V5.0.2.26 版本上线手机投屏功能；6 月底 V5.0.2.30 版本升级相机与文档编辑能力；7 月首个三方应用“系统观测台”预装上线。本次 V5.0.2.53 版本预装原生 VS Code，是 KaihongOS 桌面版向生产力工具迈进的重要一步。</p><p><span>此前有开发者尝试在 KaihongOS 桌面版上运行 VS Code，需借助 code-server 离线包通过系统自带的 <span class="link-text-start-with-http">Node.js</span> 运行，且因库不兼容等问题无法运行完整版，部分插件无法安装。本次原生适配预装解决了上述问题，无需手动下载安装、无需借助容器运行，实现了开箱即用。</span></p></blockquote>]]></description>
+    <pubDate>Sat, 15 Aug 2026 10:26:00 -0000</pubDate>
+    <guid isPermaLink="true">https://www.ithome.com/0/990/147.htm</guid>
+    <source url="https://www.ithome.com/0/990/147.htm">IT之家</source>
   </item>
   <item>
     <title>[IT之家] 中国团队在全球最大“人造太阳”壁处理领域实现技术链条贯通，覆盖 GDC 与硼化两大系统</title>
@@ -24,20 +258,12 @@
     <source url="https://www.ithome.com/0/990/138.htm">IT之家</source>
   </item>
   <item>
-    <title>[原创频道&gt;&gt;什么值得买] 游戏圈"灵魂封禁"来了！10年封号查无此人，演员、代练的好日子到头了</title>
-    <link>https://post.smzdm.com/p/axk4n78d/</link>
-    <description><![CDATA[匿名用户峡谷里有个段子：不怕神对手，就怕猪队友。但比猪队友更让人血压飙升的，是那些收了钱故意输的"演员"。最近腾讯游戏安全中心公布了一组数据，2026年上半年针对演员、代练、外挂的处罚量突破百万级别，其中演员单个违规类型处罚账号超过1万。技术手段从"人工巡查"升级到"AI+真人双轨"，处罚时长最高拉到10年封禁——游戏安全治理这回动真格了。123先说说这个&quot;演员&quot;到底是个什么东西很多人<p>本文来自<a href="https://post.smzdm.com/p/axk4n78d/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
-    <pubDate>Sat, 15 Aug 2026 10:20:39 -0000</pubDate>
-    <guid isPermaLink="true">https://post.smzdm.com/p/axk4n78d/</guid>
-    <source url="https://post.smzdm.com/p/axk4n78d/">原创频道&gt;&gt;什么值得买</source>
-  </item>
-  <item>
     <title>[V2EX] [分享发现] 追觅大家电解散</title>
-    <link>https://www.v2ex.com/t/1234645#reply0</link>
+    <link>https://www.v2ex.com/t/1234645#reply1</link>
     <description><![CDATA[]]></description>
     <pubDate>Sat, 15 Aug 2026 10:19:24 -0000</pubDate>
-    <guid isPermaLink="true">https://www.v2ex.com/t/1234645#reply0</guid>
-    <source url="https://www.v2ex.com/t/1234645#reply0">V2EX</source>
+    <guid isPermaLink="true">https://www.v2ex.com/t/1234645#reply1</guid>
+    <source url="https://www.v2ex.com/t/1234645#reply1">V2EX</source>
   </item>
   <item>
     <title>[IT之家] 2K 成立新体育游戏工作室，由多位 EA Sports 老将领衔</title>
@@ -48,144 +274,16 @@
     <source url="https://www.ithome.com/0/990/135.htm">IT之家</source>
   </item>
   <item>
-    <title>[原创频道&gt;&gt;什么值得买] 老公礼物实用清单：按日常、办公、休闲拆解6款高口碑好物</title>
-    <link>https://post.smzdm.com/p/aggdeke3/</link>
-    <description><![CDATA[中华茶典哎，老朋友，好久没这么跟你好好聊了。前几天有个兄弟问我，说想给老公挑个礼物，最好是日常、办公、休闲都能用上，还得有面子、有心意，让我帮忙列个清单。我琢磨了一下，嘿，这活儿我熟啊。我这几年挑礼物才搞明白，送男人东西，别整那些花里胡哨的——实用最重要，但也不能太寒碜，对吧？心意到了，比什么都强。不过也别太纠结，我这就按日常、办公、休闲三个场景，给你拆解6款我个人觉得拿得出手、口碑也好的，你瞧瞧合不合适<p>本文来自<a href="https://post.smzdm.com/p/aggdeke3/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
-    <pubDate>Sat, 15 Aug 2026 10:16:59 -0000</pubDate>
-    <guid isPermaLink="true">https://post.smzdm.com/p/aggdeke3/</guid>
-    <source url="https://post.smzdm.com/p/aggdeke3/">原创频道&gt;&gt;什么值得买</source>
-  </item>
-  <item>
-    <title>[原创频道&gt;&gt;什么值得买] 拳皇15时隔一年半大版本更新，61人全调整，瞬影起飞红丸改废，现在入坑冲分最好时机</title>
-    <link>https://post.smzdm.com/p/az8xdpdn/</link>
-    <description><![CDATA[匿名用户拳皇15时隔一年半憋出大招，全角色平衡更新意味着什么2026年7月2日，SNK扔出了一颗深水炸弹——《拳皇15》版本2.50，全角色平衡调整。61名角色无一幸免，从草薙京到洛克·霍华德，统统重新过了一遍。这次更新是游戏自2024年12月以来的首次大规模平衡性改动，距离上次针对角色性能的调整已经过去了一年半还多。1系统层面动了两刀。第一，屏蔽功能升级——你在Rank Match和Casual Mat<p>本文来自<a href="https://post.smzdm.com/p/az8xdpdn/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
-    <pubDate>Sat, 15 Aug 2026 10:14:38 -0000</pubDate>
-    <guid isPermaLink="true">https://post.smzdm.com/p/az8xdpdn/</guid>
-    <source url="https://post.smzdm.com/p/az8xdpdn/">原创频道&gt;&gt;什么值得买</source>
-  </item>
-  <item>
-    <title>[原创频道&gt;&gt;什么值得买] 一个%符号卖40块，极简咖啡背后藏着什么商业逻辑</title>
-    <link>https://post.smzdm.com/p/a26zp8pn/</link>
-    <description><![CDATA[匿名用户先说说这个%到底是个什么东西满世界的咖啡店里，有个品牌靠一个符号活着。不卖故事、不讲产地、不堆SKU，菜单常年就那三四款，门店统一大白墙配落地窗，角落里杵着一个硕大的“%”。就是这么个反常识的打法，从京都岚山一路火到全球239家店，2026年中国大陆就有88家。问题来了：一个符号凭什么值40块一杯咖啡？极简到底是审美偏好，还是精密的商业计算？1这个符号的故事得从2011年说起。日本人Kenneth<p>本文来自<a href="https://post.smzdm.com/p/a26zp8pn/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
-    <pubDate>Sat, 15 Aug 2026 10:14:37 -0000</pubDate>
-    <guid isPermaLink="true">https://post.smzdm.com/p/a26zp8pn/</guid>
-    <source url="https://post.smzdm.com/p/a26zp8pn/">原创频道&gt;&gt;什么值得买</source>
-  </item>
-  <item>
-    <title>[原创频道&gt;&gt;什么值得买] 插混车主最容易踩的8个坑：油耗高、电池衰减快，都是因为你用错了方法</title>
-    <link>https://post.smzdm.com/p/awwr2n82/</link>
-    <description><![CDATA[匿名用户插混车日常用车避坑指南：老车主用血泪教训总结的5个核心要点你有没有发现一个怪现象：同样开插混车，别人油耗5个油，你开出了9个油；别人的车开了三年电池还剩90%健康度，你的车才两年就衰减到75%。问题出在哪儿？不是车的问题，是你可能一直用错了方法。插混车“可油可电”的灵活性，反而成了最大的坑——因为它太灵活了，随意切换的代价就是电池和发动机悄悄受伤。等你发现不对劲的时候，往往已经晚了三五年。1根据行<p>本文来自<a href="https://post.smzdm.com/p/awwr2n82/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
-    <pubDate>Sat, 15 Aug 2026 10:13:35 -0000</pubDate>
-    <guid isPermaLink="true">https://post.smzdm.com/p/awwr2n82/</guid>
-    <source url="https://post.smzdm.com/p/awwr2n82/">原创频道&gt;&gt;什么值得买</source>
-  </item>
-  <item>
-    <title>[原创频道&gt;&gt;什么值得买] 一口回到老北京，这款传统糕点礼盒，送礼自用都合适</title>
-    <link>https://post.smzdm.com/p/al3qke00/</link>
-    <description><![CDATA[雨婷私厨不知道你是否也和我一样，总惦记老中式糕点独有的烟火滋味。对比西式甜品甜得厚重，老京味点心，酥香温润，甜而不齁，每一口，都是时光沉淀下来的老味道。提起京式糕点，北京稻香村这个老字号，几乎是几代人的共同记忆。逢年过节走亲戚，家中待客饮茶，桌上摆上一盒糕点匣子，浓浓的生活氛围感瞬间拉满。今天和大家分享这款北京稻香村糕点礼盒，足足 1550g，分量沉甸甸，性价比着实喜人。礼盒里面搭配各式各样经典老北京点心<p>本文来自<a href="https://post.smzdm.com/p/al3qke00/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
-    <pubDate>Sat, 15 Aug 2026 10:13:30 -0000</pubDate>
-    <guid isPermaLink="true">https://post.smzdm.com/p/al3qke00/</guid>
-    <source url="https://post.smzdm.com/p/al3qke00/">原创频道&gt;&gt;什么值得买</source>
-  </item>
-  <item>
-    <title>[原创频道&gt;&gt;什么值得买] 纯电车企几乎集体倒戈！事实证明，增程／插混不是什么过渡技术</title>
-    <link>https://post.smzdm.com/p/a5rgw8dk/</link>
-    <description><![CDATA[打螺丝的小姑娘最近两年车圈风向变得太快了。前几年你要是跟一个新势力销售说“你们家出个增程吧”，对方能给你翻白眼，觉得你在侮辱纯电信仰。结果现在呢？小鹏、极氪、阿维塔、智己，这些以前只认纯电的品牌，一个接一个上了增程/插混。就连小米都被曝出后面车型要安排增程。网友调侃：不是纯电不好，是增程太香了。为什么集体倒戈？因为销量不会骗人。理想靠增程卖成奶爸神车，问界M7、M9三四十万还排队提车，零跑、深蓝更是把“可油可电<p>本文来自<a href="https://post.smzdm.com/p/a5rgw8dk/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
-    <pubDate>Sat, 15 Aug 2026 10:12:50 -0000</pubDate>
-    <guid isPermaLink="true">https://post.smzdm.com/p/a5rgw8dk/</guid>
-    <source url="https://post.smzdm.com/p/a5rgw8dk/">原创频道&gt;&gt;什么值得买</source>
-  </item>
-  <item>
-    <title>[原创频道&gt;&gt;什么值得买] 开了绿联NAS的SSH就等于给黑客开门？先看完这5条保命设置再动手</title>
-    <link>https://post.smzdm.com/p/a4q5gl3w/</link>
-    <description><![CDATA[匿名用户绿联NAS默认把SSH锁死，90%的新用户压根不知道这东西还能开。但只要在控制面板点两下，这个"后门"就敞开了——数据裸奔的序幕也正式拉开。1SSH开关藏在哪，别在控制面板里翻晕了UGOS Pro系统路径很直接：控制面板 → 终端机 → SSH服务开关。勾选启用，端口默认22，点应用就完事。23但有些型号（尤其是早期固件）会在这里踩坑——SSH选项是灰色的，根本点不动。别慌，这不是坏了，是系统默认<p>本文来自<a href="https://post.smzdm.com/p/a4q5gl3w/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
-    <pubDate>Sat, 15 Aug 2026 10:12:38 -0000</pubDate>
-    <guid isPermaLink="true">https://post.smzdm.com/p/a4q5gl3w/</guid>
-    <source url="https://post.smzdm.com/p/a4q5gl3w/">原创频道&gt;&gt;什么值得买</source>
-  </item>
-  <item>
-    <title>[原创频道&gt;&gt;什么值得买] NIP力克LNG，Care皎月五杀半只脚踏进骑士之路</title>
-    <link>https://post.smzdm.com/p/a82l8emq/</link>
-    <description><![CDATA[匿名用户8月15日LPL第三赛段涅槃组焦点战，NIP以2-1的比分击败LNG，拒绝让一追二。决胜局中Care皎月打出碾压级表现狂轰五杀，24分钟速通对手，这场胜利也让NIP半只脚踏进了骑士之路，离世界赛名额又近了一步。决胜局皎月五杀接管比赛前两局打平后，第三局NIP彻底没收了悬念。前期Guwon巨魔频繁带起节奏，7分钟配合皎月拿下一血。18分钟的小龙团成为整局转折点，Photic霞连续收割斩获三杀，NIP<p>本文来自<a href="https://post.smzdm.com/p/a82l8emq/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
-    <pubDate>Sat, 15 Aug 2026 10:11:27 -0000</pubDate>
-    <guid isPermaLink="true">https://post.smzdm.com/p/a82l8emq/</guid>
-    <source url="https://post.smzdm.com/p/a82l8emq/">原创频道&gt;&gt;什么值得买</source>
-  </item>
-  <item>
-    <title>[原创频道&gt;&gt;什么值得买] GBA画质天花板游戏推荐，重温那些年的掌机神作</title>
-    <link>https://post.smzdm.com/p/a4q5gl8w/</link>
-    <description><![CDATA[匿名用户先说说《黄金太阳》为什么是GBA画质的天花板说GBA画质，《黄金太阳》永远是第一个被提起的名字。当年这款游戏的出现，直接刷新了对掌机游戏的认知——它原本是为N64平台开发的，后来改到GBA上，所以开发规格直接是主机级别。这才是它画面能打的核心原因：不是掌机游戏在努力，而是用主机标准在掌机上跑。1具体强在哪？伪3D旋转战斗、元素解谜迷宫、召唤兽演出效果——这些放在当时的主机上也毫不逊色。老玩家回忆起<p>本文来自<a href="https://post.smzdm.com/p/a4q5gl8w/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
-    <pubDate>Sat, 15 Aug 2026 10:10:37 -0000</pubDate>
-    <guid isPermaLink="true">https://post.smzdm.com/p/a4q5gl8w/</guid>
-    <source url="https://post.smzdm.com/p/a4q5gl8w/">原创频道&gt;&gt;什么值得买</source>
-  </item>
-  <item>
-    <title>[原创频道&gt;&gt;什么值得买] 骑士送走施罗德腾空间，哈登苦等60天为沃特森</title>
-    <link>https://post.smzdm.com/p/aqr0v8r2/</link>
-    <description><![CDATA[匿名用户骑士为了搞定沃特森的交易，终于迈出了实质性一步——把施罗德外加部分现金送去了黄蜂，换回特雷·曼。这笔操作让骑士省下约680万美元薪资，距离第一土豪线多出大概2900万美元的空间，离第二土豪线更是有4200万美元的缓冲。但这只是拆雷的第一步，接下来他们还得想办法把斯特鲁斯那1670万的到期合同也倒腾出去，才能真正为沃特森开出有竞争力的报价。哈登苦等60天不签字，就是在给骑士留后路哈登跳出4230万球<p>本文来自<a href="https://post.smzdm.com/p/aqr0v8r2/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
-    <pubDate>Sat, 15 Aug 2026 10:09:56 -0000</pubDate>
-    <guid isPermaLink="true">https://post.smzdm.com/p/aqr0v8r2/</guid>
-    <source url="https://post.smzdm.com/p/aqr0v8r2/">原创频道&gt;&gt;什么值得买</source>
-  </item>
-  <item>
-    <title>[原创频道&gt;&gt;什么值得买] 河南周口好想来散称零食多收近一半钱，市监局已立案</title>
-    <link>https://post.smzdm.com/p/a82l8e2q/</link>
-    <description><![CDATA[匿名用户买零食付款111.35元，觉得不对劲回店里复称，实际只值64.8元——多收了快一半的钱。这可不是段子，是最近发生在河南周口好想来门店的真事。更绝的是，店员退了差价，却强行收走原始小票，消费者发视频维权，门店居然反手报警。目前当地市监局已立案调查。你平时去量贩零食店散称买东西，是不是扫码拿了就走？看完这事，下次结账可得多留个心眼。离谱的不仅是差价，还有收小票和报警张先生结账后越想越不对劲，返回店里复<p>本文来自<a href="https://post.smzdm.com/p/a82l8e2q/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
-    <pubDate>Sat, 15 Aug 2026 10:09:30 -0000</pubDate>
-    <guid isPermaLink="true">https://post.smzdm.com/p/a82l8e2q/</guid>
-    <source url="https://post.smzdm.com/p/a82l8e2q/">原创频道&gt;&gt;什么值得买</source>
-  </item>
-  <item>
-    <title>[原创频道&gt;&gt;什么值得买] 租房入住清洁全攻略：别让脏屋子偷走你的押金和健康</title>
-    <link>https://post.smzdm.com/p/aom03pm7/</link>
-    <description><![CDATA[匿名用户先说说租房入住清洁到底有多重要推开出租屋的门，你以为看到的是全部？错了。油烟机滤网上一层凝固的油垢、地漏里缠绕成团的毛发、踢脚线顶部积了半年的灰——这些都是你第一眼绝对看不见的脏。某专业保洁机构的服务数据表明：**保洁问题是押金纠纷的第一大原因**。你入住时懒得处理的每一个死角，退房时都会变成房东扣钱的理由。不是危言耸听，这是我们8年验收生涯见过最常见的坑。1更重要的是，**上一任租客留下的细菌、<p>本文来自<a href="https://post.smzdm.com/p/aom03pm7/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
-    <pubDate>Sat, 15 Aug 2026 10:08:40 -0000</pubDate>
-    <guid isPermaLink="true">https://post.smzdm.com/p/aom03pm7/</guid>
-    <source url="https://post.smzdm.com/p/aom03pm7/">原创频道&gt;&gt;什么值得买</source>
-  </item>
-  <item>
-    <title>[原创频道&gt;&gt;什么值得买] 你以为点的三文鱼刺身，七成可能是虹鳟冒充：日料店刺身套路有多深</title>
-    <link>https://post.smzdm.com/p/aqr0v8k2/</link>
-    <description><![CDATA[匿名用户先说个吓人的数字2026年的日料市场，有个数字一直在圈子里流传——约七成标注“三文鱼刺身”的菜品，实际由虹鳟冒充。这意味着，走进任何一家平价日料店，点一份三文鱼刺身，吃到真货的概率不到三成。1这不是危言耸听。多地消协抽检结果显示，部分自助餐厅、三文鱼畅吃套餐里，所谓“刺身级三文鱼”的执行标准根本不是生食标准，而是普通水产标准，包装背面小字写着“加热后食用”。花了生食的钱，吃的是必须煮熟的食材——这<p>本文来自<a href="https://post.smzdm.com/p/aqr0v8k2/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
-    <pubDate>Sat, 15 Aug 2026 10:07:48 -0000</pubDate>
-    <guid isPermaLink="true">https://post.smzdm.com/p/aqr0v8k2/</guid>
-    <source url="https://post.smzdm.com/p/aqr0v8k2/">原创频道&gt;&gt;什么值得买</source>
-  </item>
-  <item>
-    <title>[原创频道&gt;&gt;什么值得买] 苹果AirPods Pro 4将配红外摄像头，隔空手势与AI识别</title>
-    <link>https://post.smzdm.com/p/a82l8ewq/</link>
-    <description><![CDATA[匿名用户苹果给耳机塞摄像头的疯狂想法，终于要变成现实了。最近关于AirPods Pro 4（也有爆料称可能命名为AirPods Ultra）的消息密集曝光，这款内部代号B790的新品最炸裂的配置，就是左右耳柄各藏了一颗红外摄像头。但别误会，它不是用来拍照录像的，而是把画面实时喂给苹果的视觉智能（Visual Intelligence），让你冲着空气比划手势就能控制音量，或者盯着某个商品直接问Siri这是啥<p>本文来自<a href="https://post.smzdm.com/p/a82l8ewq/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
-    <pubDate>Sat, 15 Aug 2026 10:07:16 -0000</pubDate>
-    <guid isPermaLink="true">https://post.smzdm.com/p/a82l8ewq/</guid>
-    <source url="https://post.smzdm.com/p/a82l8ewq/">原创频道&gt;&gt;什么值得买</source>
-  </item>
-  <item>
-    <title>[原创频道&gt;&gt;什么值得买] Vitality爆冷出局的真相！CS2地图改动正在毁掉职业队的战术体系</title>
-    <link>https://post.smzdm.com/p/a4q5gl6w/</link>
-    <description><![CDATA[匿名用户夺冠热门Vitality在EWC电竞世俱杯上被B8让一追二逆转，这场比赛引爆了整个CS社区。表面看是选手状态问题，但仔细复盘会发现，2026年7月的地图池轮换与C4机制重做正在悄悄改变竞技格局——那些职业选手精心打磨的非常规架点，一夜之间化为乌有。1先看看这场爆冷到底怎么回事B8对阵Vitality的三张图堪称过山车。图一Mirage，B8在11-6领先的大好局面下被Vitality连追6分拖入加<p>本文来自<a href="https://post.smzdm.com/p/a4q5gl6w/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
-    <pubDate>Sat, 15 Aug 2026 10:06:15 -0000</pubDate>
-    <guid isPermaLink="true">https://post.smzdm.com/p/a4q5gl6w/</guid>
-    <source url="https://post.smzdm.com/p/a4q5gl6w/">原创频道&gt;&gt;什么值得买</source>
-  </item>
-  <item>
     <title>[V2EX] [问与答] cc +ds v4 flash 为嘛比 dsh +ds v4 flash 聪明那么多？</title>
-    <link>https://www.v2ex.com/t/1234644#reply0</link>
+    <link>https://www.v2ex.com/t/1234644#reply5</link>
     <description><![CDATA[<p>尝鲜装了 dsh。</p>
 <p>同样的需求，在 cc 上很快能弄好，<br />
 然后在 dsh 一直在问问问。</p>
 <p>用的都是 V2EX 的 ds v4 flash。</p>
 <p>怎么回事，是哪里没配好么？</p>]]></description>
     <pubDate>Sat, 15 Aug 2026 10:06:11 -0000</pubDate>
-    <guid isPermaLink="true">https://www.v2ex.com/t/1234644#reply0</guid>
-    <source url="https://www.v2ex.com/t/1234644#reply0">V2EX</source>
-  </item>
-  <item>
-    <title>[原创频道&gt;&gt;什么值得买] Claude盈利了，但打工人真用得上吗？3000字实测扒开它的底牌</title>
-    <link>https://post.smzdm.com/p/arzpm3dx/</link>
-    <description><![CDATA[匿名用户Anthropic宣布盈利的消息让Claude从技术圈进入更多职场人的视野。2026年的Claude早已不是聊天玩具，而是能处理百万token上下文、写生产级代码、驱动复杂工作流的成熟工具。但问题来了：打工人面对市面上良莠不齐的第三方集成、动辄"吊打一切"的宣传，很难判断哪些真正值得上手，哪些只是噱头。与其听厂商怎么说，不如看看实际用过的人怎么评价。这篇评测把Claude的核心能力边界、主流集成工<p>本文来自<a href="https://post.smzdm.com/p/arzpm3dx/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
-    <pubDate>Sat, 15 Aug 2026 10:05:56 -0000</pubDate>
-    <guid isPermaLink="true">https://post.smzdm.com/p/arzpm3dx/</guid>
-    <source url="https://post.smzdm.com/p/arzpm3dx/">原创频道&gt;&gt;什么值得买</source>
+    <guid isPermaLink="true">https://www.v2ex.com/t/1234644#reply5</guid>
+    <source url="https://www.v2ex.com/t/1234644#reply5">V2EX</source>
   </item>
   <item>
     <title>[V2EX] [分享创造] 我又做了一個 OpenClash 的替代品 · LocalClash</title>
@@ -206,24 +304,8 @@
     <source url="https://www.v2ex.com/t/1234643#reply0">V2EX</source>
   </item>
   <item>
-    <title>[原创频道&gt;&gt;什么值得买] 2-1逆转！Vitality夺冠热门翻车跌入败者组，决胜图4-13惨败</title>
-    <link>https://post.smzdm.com/p/a9583l47/</link>
-    <description><![CDATA[匿名用户EWC电竞世俱杯CS2小组赛C组胜者组对决8月15日凌晨落幕，B8以2-1的总比分逆转击败Vitality。Vitality在图一Mirage通过加时赛16-12取胜的情况下，图二Inferno和图三Dust2连续告负，其中决胜图以4-13的悬殊比分惨败。作为夺冠热门的Vitality直接跌入败者组，将与中国战队LVG争夺淘汰赛名额。1图一Mirage开场为进攻方的B8重兵集合B二楼完成下包，小蜜<p>本文来自<a href="https://post.smzdm.com/p/a9583l47/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
-    <pubDate>Sat, 15 Aug 2026 10:05:30 -0000</pubDate>
-    <guid isPermaLink="true">https://post.smzdm.com/p/a9583l47/</guid>
-    <source url="https://post.smzdm.com/p/a9583l47/">原创频道&gt;&gt;什么值得买</source>
-  </item>
-  <item>
-    <title>[原创频道&gt;&gt;什么值得买] 不露脸拍照超全攻略：6种姿势加道具技巧，发朋友圈照样被追问在哪请的摄影师</title>
-    <link>https://post.smzdm.com/p/al3qke90/</link>
-    <description><![CDATA[匿名用户不露脸也能拍出氛围感照片的姿势跟了200多场素人约拍，发现至少三成客户第一句话都是"我不想露脸"。不是长得不好看，是面对镜头就浑身僵硬，表情管理翻车率比出片率高。与其硬撑，不如换个思路——不露脸，氛围感反而更抓人。选对姿势、场景、道具，发朋友圈照样被追问"在哪请的摄影师"。先搞清楚：为什么不想露脸不想露脸的原因，总结下来就三类。第一类是表情管理灾难型——一看到镜头就瞪眼、僵笑、比耶停不下来，拍出来<p>本文来自<a href="https://post.smzdm.com/p/al3qke90/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
-    <pubDate>Sat, 15 Aug 2026 10:05:28 -0000</pubDate>
-    <guid isPermaLink="true">https://post.smzdm.com/p/al3qke90/</guid>
-    <source url="https://post.smzdm.com/p/al3qke90/">原创频道&gt;&gt;什么值得买</source>
-  </item>
-  <item>
     <title>[V2EX] [分享创造] 被 自动审批惯坏了，给 DeepSeek Harness 做了个自动审批插件。不想一直点 Allow，也不敢直接开 Full Access</title>
-    <link>https://www.v2ex.com/t/1234642#reply0</link>
+    <link>https://www.v2ex.com/t/1234642#reply1</link>
     <description><![CDATA[<p>之前主力一直是 Codex ，已经习惯了它替我处理审批。换到 DSH 之后一下子有点顶不住：Agent 跑几步就要回来点一下，但直接开 Full Access 又不太敢。</p>
 <p>Pi 那边已经有比较成熟的类似插件了，所以干脆按照自己的工作流，给 DSH 做了一个自动审批插件：dsh-approve-for-me</p>
 <p>思路比较简单：
@@ -234,8 +316,8 @@
 <p>GitHub：
 <a href="https://github.com/timeance/dsh-approve-for-me" rel="nofollow">https://github.com/timeance/dsh-approve-for-me</a></p>]]></description>
     <pubDate>Sat, 15 Aug 2026 10:02:03 -0000</pubDate>
-    <guid isPermaLink="true">https://www.v2ex.com/t/1234642#reply0</guid>
-    <source url="https://www.v2ex.com/t/1234642#reply0">V2EX</source>
+    <guid isPermaLink="true">https://www.v2ex.com/t/1234642#reply1</guid>
+    <source url="https://www.v2ex.com/t/1234642#reply1">V2EX</source>
   </item>
   <item>
     <title>[IT之家] 群联谈存储短缺：NAND 新增产能最快需 4 年，供应紧张或持续多年</title>
@@ -255,7 +337,7 @@
   </item>
   <item>
     <title>[V2EX] [问与答] Discourse 开启 S3/R2 存储后， JS 静态文件全部 404 了？</title>
-    <link>https://www.v2ex.com/t/1234641#reply0</link>
+    <link>https://www.v2ex.com/t/1234641#reply1</link>
     <description><![CDATA[<p>最近尝试搭建了个 Discourse 的论坛：<a href="https://sysec.cc/" rel="nofollow" title="SySec">SySec</a>，在静态资源的配置上遇到点问题。</p>
 <p>原本是想接入 Cloudflare 的 R2 对象存储，专门用来存放用户上传的图片和附件。结果在 app.yml 里配完 S3 相关的环境变量并 rebuild 后，前端页面直接打不开了。</p>
 <p>F12 看了一下网络请求，发现不仅是用户上传的附件，连系统自带的 JS 和 CSS 等核心静态资源，也全部被自动重定向到 R2 的域名下进行拉取，导致报 404 错误。</p>
@@ -269,8 +351,8 @@ Referrer Policy: strict-origin-when-cross-origin
 <p>比较疑惑的是，我并没有配置全局的 CDN （ DISCOURSE_CDN_URL ），本意只是分离用户附件，但 Discourse 默认把 Assets 静态资源也一并接管了😵‍💫……</p>
 <p>所以这种情况是必须通过 rake s3:upload_assets 把系统的静态资源也全量同步到 R2 才能正常工作，还是说有参数可以实现“只存用户附件，本地保留 JS/CSS”的纯分离模式呐？</p>]]></description>
     <pubDate>Sat, 15 Aug 2026 09:51:11 -0000</pubDate>
-    <guid isPermaLink="true">https://www.v2ex.com/t/1234641#reply0</guid>
-    <source url="https://www.v2ex.com/t/1234641#reply0">V2EX</source>
+    <guid isPermaLink="true">https://www.v2ex.com/t/1234641#reply1</guid>
+    <source url="https://www.v2ex.com/t/1234641#reply1">V2EX</source>
   </item>
   <item>
     <title>[V2EX] [NAS] Motrix 好像准备发布 Docker 部署版本了，我构建了一个尝鲜镜像分享一下</title>
@@ -483,18 +565,18 @@ TG：@dajidali2026 E: <a href="mailto:ppllmm6868@gmail.com">ppllmm6868@gmail.com
   </item>
   <item>
     <title>[V2EX] [宽带症候群] 上海联通宽带为何时而 clash 节点全部都 timeout</title>
-    <link>https://www.v2ex.com/t/1234633#reply1</link>
+    <link>https://www.v2ex.com/t/1234633#reply3</link>
     <description><![CDATA[<p>发生过好几次，症状就是基本上所有机场的节点都 timeout ，包括 cloudflare 托管的。但是偶尔也有一个机场存活的。VPN 不受影响。</p>
 <p>目前网段基本是：
 139.226.18x.x</p>
 <p>解决方法就是 断掉光猫的电源，等一段时间，换个 IP 。然后就好了（网段基本没变化）。</p>]]></description>
     <pubDate>Sat, 15 Aug 2026 09:09:38 -0000</pubDate>
-    <guid isPermaLink="true">https://www.v2ex.com/t/1234633#reply1</guid>
-    <source url="https://www.v2ex.com/t/1234633#reply1">V2EX</source>
+    <guid isPermaLink="true">https://www.v2ex.com/t/1234633#reply3</guid>
+    <source url="https://www.v2ex.com/t/1234633#reply3">V2EX</source>
   </item>
   <item>
     <title>[V2EX] [分享创造] 分享一个极简 twitter/x 广告拉黑脚本</title>
-    <link>https://www.v2ex.com/t/1234632#reply1</link>
+    <link>https://www.v2ex.com/t/1234632#reply2</link>
     <description><![CDATA[<p>现在广告实在是多，影响看评论了。</p>
 <p>随手写的，原理很简单，就是找到推主名字或推文里有关键词的，全部 mute 帐号。twitter 的 mute 数量似乎没有上限，放心用。</p>
 <pre><code class="language-js">(function() {
@@ -593,8 +675,8 @@ TG：@dajidali2026 E: <a href="mailto:ppllmm6868@gmail.com">ppllmm6868@gmail.com
 })();
 </code></pre>]]></description>
     <pubDate>Sat, 15 Aug 2026 09:08:32 -0000</pubDate>
-    <guid isPermaLink="true">https://www.v2ex.com/t/1234632#reply1</guid>
-    <source url="https://www.v2ex.com/t/1234632#reply1">V2EX</source>
+    <guid isPermaLink="true">https://www.v2ex.com/t/1234632#reply2</guid>
+    <source url="https://www.v2ex.com/t/1234632#reply2">V2EX</source>
   </item>
   <item>
     <title>[V2EX] [程序员] 大家在开发时用的 Agent 记忆管理插件有哪些？可以推荐一下吗？</title>
@@ -624,12 +706,12 @@ TG：@dajidali2026 E: <a href="mailto:ppllmm6868@gmail.com">ppllmm6868@gmail.com
   </item>
   <item>
     <title>[V2EX] [Local LLM] 如何在公司放台设备跑模型?</title>
-    <link>https://www.v2ex.com/t/1234629#reply2</link>
+    <link>https://www.v2ex.com/t/1234629#reply6</link>
     <description><![CDATA[<p>最近在学习 AI 相关的内容，虽然是公司有部署模型的机器，但是毕竟是个人学习的，所以想把自己的台式机拉到公司部署用来部署开源模型用来学习。但是奈何我们的工位并非个人独立空间，感觉这样拉个台式放脚底下有点明显。也想过远程家里，但是家里一直不断电其实也挺不放心的。</p>
 <p>想问各位有什么靠谱的方案？</p>]]></description>
     <pubDate>Sat, 15 Aug 2026 09:04:04 -0000</pubDate>
-    <guid isPermaLink="true">https://www.v2ex.com/t/1234629#reply2</guid>
-    <source url="https://www.v2ex.com/t/1234629#reply2">V2EX</source>
+    <guid isPermaLink="true">https://www.v2ex.com/t/1234629#reply6</guid>
+    <source url="https://www.v2ex.com/t/1234629#reply6">V2EX</source>
   </item>
   <item>
     <title>[V2EX] [生活] 今天万事达全球宕机没人讨论吗</title>
@@ -670,23 +752,6 @@ TG：@dajidali2026 E: <a href="mailto:ppllmm6868@gmail.com">ppllmm6868@gmail.com
     <pubDate>Sat, 15 Aug 2026 08:56:46 -0000</pubDate>
     <guid isPermaLink="true">https://www.ithome.com/0/990/113.htm</guid>
     <source url="https://www.ithome.com/0/990/113.htm">IT之家</source>
-  </item>
-  <item>
-    <title>[V2EX] [投资] 自荐：基金筛选网站（free～</title>
-    <link>https://www.v2ex.com/t/1234627#reply0</link>
-    <description><![CDATA[[投资有风险，盈亏自负] <br /><br />---<br />我从 2019 年开始接触基金，差不多 2021 年就完成了基础开发，自己交易都是参考自己的脚本。<br />之前都是 cli 的，去年 vibe coding 做了网站可视化自用，也分享给朋友。<br />现在比较稳定了，所以推荐给大家，and it's free 。所以我也不保证风险～<br /><br /> [我的基金投资理念] ：<br />我认为投资基金大多是投基金经理，而一个好的基金经理不是不亏钱，而是始终保持自己管理的基金，在每个季度收益中都能排到靠前位置上。而我自己偏高风险，所以比较喜欢混合类的基金经理 + 多季度排行靠前 + 工作时间长 + 好的年化收入。后两项网站中没体现，我基本都是选好一系列基金后，用支付宝的基金经理评分，二次 double check 。<br /><br />用默认推荐就好： <a href="https://fund-master.vercel.app/recommendations" rel="nofollow noopener" target="_blank">https://fund-master.vercel.app/recommendations</a><br /><br /> <a href="https://i.imgur.com/Mm7arb4.png" rel="nofollow noopener" target="_blank"><img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/Mm7arb4.png" /></a><br /> <br />不过 7 月份，我也发现了一个弊端，就是这些不错的经理，回撤也会很猛，所以添加了：“综合分”这个排序纬度，但也是马后炮找些回撤少的，也遇到了新的猛将，比如 002910 。<br /> <a href="https://i.imgur.com/TkNq1hX.png" rel="nofollow noopener" target="_blank"><img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/TkNq1hX.png" /></a>]]></description>
-    <pubDate>Sat, 15 Aug 2026 08:52:24 -0000</pubDate>
-    <guid isPermaLink="true">https://www.v2ex.com/t/1234627#reply0</guid>
-    <source url="https://www.v2ex.com/t/1234627#reply0">V2EX</source>
-  </item>
-  <item>
-    <title>[V2EX] [深圳] 搬来南山，想搞个小电驴</title>
-    <link>https://www.v2ex.com/t/1234625#reply1</link>
-    <description><![CDATA[<p>去哪买呀？网上？</p>
-<p>也要考驾照吗？</p>]]></description>
-    <pubDate>Sat, 15 Aug 2026 08:47:40 -0000</pubDate>
-    <guid isPermaLink="true">https://www.v2ex.com/t/1234625#reply1</guid>
-    <source url="https://www.v2ex.com/t/1234625#reply1">V2EX</source>
   </item>
   <item>
     <title>[极客公园] 3 个月烧掉 105 亿，腾讯急了</title>
@@ -804,60 +869,12 @@ TG：@dajidali2026 E: <a href="mailto:ppllmm6868@gmail.com">ppllmm6868@gmail.com
     <source url="https://www.ithome.com/0/990/108.htm">IT之家</source>
   </item>
   <item>
-    <title>[IT之家] Ayaneo 展示开发者特别版 KONKR Pocket Advance 掌机，不对外销售</title>
-    <link>https://www.ithome.com/0/990/107.htm</link>
-    <description><![CDATA[<p>IT之家 8 月 15 日消息，Ayaneo 现已在官网展示开发者特别版 KONKR Pocket Advance 掌机，该产品专为开发者打造，<strong>不对外销售</strong>。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/8/a1b12fdc-ddc0-4017-aa25-82f1f5643d71.jpg?x-bce-process=image/format,f_auto" /></p><p>IT之家注意到，这款掌机采用半透明黑色机身，ABXY 按键和十字键为红色配色，同时保留了黑色的 SELECT、START 按键，边框、LR 按键和电源键则是采用红色点缀。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/8/812e7cbc-08eb-4106-8fce-7ef0ce6ea569.jpg?x-bce-process=image/format,f_auto" /></p><p>目前 Ayaneo 官方暂未公布这款掌机的具体配置，我们无法确认其是否与市售版本配置完全相同。</p><p>Ayaneo 表示，该版本的掌机将专门提供给加入“开发者激励计划”的成员。该计划主要面向全球资深开发者，开发者可以提交应用、工具或汉化过的游戏。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/8/b1376ba6-8286-44d3-82fa-a70a9b6fd2eb.jpg?x-bce-process=image/format,f_auto" /></p>]]></description>
-    <pubDate>Sat, 15 Aug 2026 08:14:43 -0000</pubDate>
-    <guid isPermaLink="true">https://www.ithome.com/0/990/107.htm</guid>
-    <source url="https://www.ithome.com/0/990/107.htm">IT之家</source>
-  </item>
-  <item>
-    <title>[IT之家] “史上最大”IPO 筹备中，消息称 Anthropic 预估 2028 年营收可达 1900 亿-2000 亿美元</title>
-    <link>https://www.ithome.com/0/990/105.htm</link>
-    <description><![CDATA[<p class="PDq2pG_selectionAnchorContainer">IT之家 8 月 15 日消息，Anthropic 正筹备一场潜在的“史上最大”IPO，华尔街采用了不同寻常的估值方法，把目光直接投向两年后的营收水平。<span class="PDq2pG_selectionAnchor"></span></p><p>两名了解 Anthropic 财务状况的人士透露，公司预计 2028 年营收将达到约 1,900 亿至 2,000 亿美元<span class="exch-money-value">（IT之家注：现汇率约合 1.28 万亿至 1.35 万亿元人民币）</span>。</p><p>相比 Anthropic 今年 5 月公布的 470 亿美元<span class="exch-money-value">（现汇率约合 3,175.15 亿元人民币）</span>年化营收运行率，2028 年的目标规模高出数倍，也意味着投资者需要<strong>对未来两年的高速增长作出大举押注</strong>。</p><p>四名消息人士称，银行家和投资者目前主要按照未来预测营收计算企业价值 / 营收倍数，再据此评估 Anthropic 的价值。</p><p>对于尚未形成稳定盈利能力的高增长软件企业，使用营收倍数估值并不罕见。直接采用两年后的营收预测则较为少见。消息人士称，这既反映了 Anthropic <strong>惊人的业务扩张速度</strong>，也说明公司<strong>仍在大举投资 AI 基础设施</strong>，使市场很难找到合适的估值基准。</p><p>然而，Anthropic 面临的估值难题在于，公司仍需为算力、模型训练和人员招聘投入巨额资金，利润率持续受到挤压。投资者押注，业务规模扩大后，Anthropic 的营收增速最终会超过支撑增长所需的成本增速，从而逐步提高利润率。</p><p>此外，成熟企业通常更多按照利润或<strong>息税折旧摊销前利润（EBITDA）</strong>估值，因为这些指标更能反映业务本身的盈利能力。</p><p>Anthropic 目前的 EBITDA 却<strong>不足以体现投资者预期公司规模化之后达到的盈利水平</strong>，当前仍在 GPU 和其他计算资源、模型训练、推理以及人员招聘方面投入巨额资金。快速扩张离不开上述投入，随着营收规模继续增长，这些成本未来可能只占营收的更小比例。</p><p>Anthropic 的财务数据已经体现出变化速度。公司 2025 年底的年化营收运行率约为 90 亿美元<span class="exch-money-value">（现汇率约合 608.01 亿元人民币）</span>，到今年 5 月已经突破 470 亿美元<span class="exch-money-value">（现汇率约合 3,175.15 亿元人民币）</span>。Anthropic 预计 2026 年第二季度营收至少达到 109 亿美元<span class="exch-money-value">（现汇率约合 736.37 亿元人民币）</span>，是上一季度的两倍以上，并有望首次实现季度营业利润，预计达到 5.59 亿美元<span class="exch-money-value">（现汇率约合 37.76 亿元人民币）</span>。</p><p>Anthropic 称，截至 2026 年初的连续三年，公司年化营收运行率<strong>每年都增长超过 10 倍</strong>。</p><p>这种增长速度，正是投资者愿意把估值依据一路推演至 2028 年的关键原因。</p>]]></description>
-    <pubDate>Sat, 15 Aug 2026 08:06:29 -0000</pubDate>
-    <guid isPermaLink="true">https://www.ithome.com/0/990/105.htm</guid>
-    <source url="https://www.ithome.com/0/990/105.htm">IT之家</source>
-  </item>
-  <item>
     <title>[Hacker News] Using GCC's Nested Functions with Wide Pointers and No Trampolines II</title>
     <link>https://uecker.codeberg.page/2026-07-14.html</link>
     <description><![CDATA[<a href="https://news.ycombinator.com/item?id=49308685">Comments</a>]]></description>
     <pubDate>Sat, 15 Aug 2026 07:59:42 -0000</pubDate>
     <guid isPermaLink="true">https://uecker.codeberg.page/2026-07-14.html</guid>
     <source url="https://uecker.codeberg.page/2026-07-14.html">Hacker News</source>
-  </item>
-  <item>
-    <title>[IT之家] 前微软工程师计划开发“Outlook 平替”DayFrame，令动态磁贴重获新生</title>
-    <link>https://www.ithome.com/0/990/080.htm</link>
-    <description><![CDATA[<p>IT之家 8 月 15 日消息，据外媒 Neowin 今天（15 日）报道，前微软工程师杰夫 · 弗里茨开发了一款新应用 DayFrame，准备以一种独特的方式让 Windows 动态磁贴回归。</p><p>资深 Windows 用户和IT之家家友对动态磁贴或许并不陌生。这项功能从 Windows 8 开始成为系统 UI 的一部分，随后又在 Project Neon 项目下延续到 Windows 10。Windows 10 之后，动态磁贴逐渐退出历史舞台，也没有进入 Windows 11。</p><p>DayFrame 试图重新拾起动态磁贴的设计理念，剑指<strong>“Outlook 的替代选择”</strong>。弗里茨于 7 月中旬离开微软，随后开始推进这个新项目。DayFrame 采用.NET MAUI Blazor Hybrid 开发，是一款<strong>原生.NET 应用</strong>，未来计划同时登陆 Windows 11 和 macOS。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/8/ef58a628-4d61-4e7b-9af3-89ab0865e65e.png" /></p><p>DayFrame 的目标并非单纯取代 Outlook 的邮件功能，而是建立一个可以<strong>承载多种模块的统一应用框架</strong>，目前正在开发的模块包括<strong>邮件、日历和联系人</strong>。</p><p>DayFrame 定位为一款以桌面端为核心的应用，希望<strong>把用户每天需要处理的不同事务集中到同一个界面</strong>。</p><p>动态磁贴成为整个界面的关键组成部分。DayFrame 会在侧边设置<strong>常驻动态磁贴栏</strong>，既可以用于切换模块，也能直接显示各模块的信息。项目网站公布的界面则借鉴 Windows Phone 的设计，方形磁贴沿侧边纵向排列，中间的主要内容区域则随用户选择而变化。</p><p>DayFrame 还提供较高的自定义自由度。用户可以调整<strong>磁贴的颜色、字体和大小</strong>，用不到的模块也能够直接关闭。</p><p>开发者规划的功能远不止邮件和日历。GitHub、照片、社交媒体和即时通信已经进入候选模块名单，日记和订阅源阅读器也在讨论之中。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/8/c053678e-7c4f-42b8-ab11-0f8b7dfd9bf3.png" /></p><p>DayFrame 在底层同样采用模块化架构。每个模块都会单独开发和测试，再通过共享接口层接入整个应用。采用这种架构后，开发者未来可以不断加入新模块，同时尽量避免影响用户已经使用的现有功能。</p><p>目前 DayFrame 仍处于非常早期的开发阶段，首个 Pre-Alpha 版本尚未发布，也没有可供普通用户下载安装的公开版本。项目网站已经展示了实际运行代码的应用主体，但距离正式投入日常使用<strong>还有不少开发工作需要完成</strong>。</p>]]></description>
-    <pubDate>Sat, 15 Aug 2026 07:48:51 -0000</pubDate>
-    <guid isPermaLink="true">https://www.ithome.com/0/990/080.htm</guid>
-    <source url="https://www.ithome.com/0/990/080.htm">IT之家</source>
-  </item>
-  <item>
-    <title>[IT之家] 测试一年后，微软 Excel 的 COPILOT () 函数即将被砍</title>
-    <link>https://www.ithome.com/0/990/076.htm</link>
-    <description><![CDATA[<p>IT之家 8 月 15 日消息，据科技媒体 neowin 今天报道，微软 Excel 的 COPILOT () 函数将于 9 月 14 日停止支持。该功能原本允许用户使用自然语言描述自己的需求，然后调用 Copilot 生成对应结果。</p><p style="text-align: center;"><img class="not-source" src="https://img.ithome.com/newsuploadfiles/2026/8/be6e8c5b-5046-493a-8eee-250f7affe8b9.png" /></p><p>据悉，该功能最初于去年 8 月开始面向 Frontier 和 Insider 用户测试，原计划 2027 年 1 月正式上线。但微软如今决定弃用，<strong>理由是 Copilot 已有浮动操作按钮</strong>、<strong>侧边栏等多种交互入口</strong>，<strong>单独保留一个函数显得有些重复</strong>。</p><p>COPILOT () 在文本摘要、分类、网络搜索等方面表现尚可，但微软并不建议用户使用该函数进行数值计算，考虑到 Excel 本身就是一款电子表格软件，这一点多少有些讽刺。</p><p>另一方面，谷歌仍在 Google Sheets 表格软件中提供 AI () 函数功能，目前尚不清楚谷歌最终是否会作出类似决定。</p>]]></description>
-    <pubDate>Sat, 15 Aug 2026 07:46:33 -0000</pubDate>
-    <guid isPermaLink="true">https://www.ithome.com/0/990/076.htm</guid>
-    <source url="https://www.ithome.com/0/990/076.htm">IT之家</source>
-  </item>
-  <item>
-    <title>[IT之家] 首次实现运营盈利：曝 Anthropic 2026Q2 营收破 115 亿美元，同比增长逾 14 倍</title>
-    <link>https://www.ithome.com/0/990/074.htm</link>
-    <description><![CDATA[<p>IT之家 8 月 15 日消息，彭博社今天（8 月 15 日）发布博文，报道称 Anthropic 向潜在投资者透露，该公司 2026 年第 2 季度营收超过 115 亿美元<span class="exch-money-value">（IT之家注：现汇率约合 776.9 亿元人民币）</span>，同比增长逾 14 倍，<strong>且首次实现运营盈利。</strong></p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/8/eb8326b3-5047-427b-afa5-b8c20c20fd56.png?x-bce-process=image/format,f_auto" /></p><p>6 位 Anthropic 投资者本周向英国《金融时报》透露，他们预计该公司将于 10 月进行 IPO，<a href="https://www.ithome.com/0/989/505.htm" target="_blank">估值有望达到 2 万亿美元或更高</a>，届时将超越 SpaceX 今年 6 月创下的 1.77 万亿美元<span class="exch-money-value">（现汇率约合 11.96 万亿元人民币）</span>上市纪录。</p><p>在二级市场上，据 Business Insider 报道，Anthropic 股票的交易估值已高达 1.5 万亿美元<span class="exch-money-value">（现汇率约合 10.13 万亿元人民币）</span>，较过去一个月上涨 25%。</p><p>Rainmaker Securities 首席执行官 Glen Anderson 表示：</p><blockquote><p>我们账上为数不多的卖家报价在 1.5 万亿美元<span class="exch-money-value">（现汇率约合 10.13 万亿元人民币）</span>左右，但即便是这个价格，愿意出手的卖家也寥寥无几。</p></blockquote>]]></description>
-    <pubDate>Sat, 15 Aug 2026 07:44:33 -0000</pubDate>
-    <guid isPermaLink="true">https://www.ithome.com/0/990/074.htm</guid>
-    <source url="https://www.ithome.com/0/990/074.htm">IT之家</source>
-  </item>
-  <item>
-    <title>[IT之家] 全球程序员都在浪费 token 白送钱，Anthropic 分享 Claude Code 六大省钱技巧</title>
-    <link>https://www.ithome.com/0/990/072.htm</link>
-    <description><![CDATA[<p style="text-align: left;">就在刚刚，Anthropic 发了一篇博客。核心信息就是：<strong>各位，别再烧冤枉 token 了，我们都看不下去了！</strong></p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/8/7a8f7afa-4eec-4a34-9895-3e0401fa25a0.png?x-bce-process=image/format,f_auto" /></p><p>为此，官方详细列举了六条省钱心法，先贴为敬：</p><p><strong>1. 任务做完就 / clear。</strong>修完一个 bug 就清掉当前对话，别让上一个任务读过的文件和命令输出拖进下一个任务里，白白占着上下文。</p><p><strong>2. 开局就定好模型和推理强度（effort level）。</strong>中途切换的话，之前积累的提示缓存会全部失效，整段对话历史要按全价重新计算一遍。</p><p><strong>3. 用 @引用文件，别手打路径。</strong>用 @直接把文件附到消息里，Claude 不用再花一次工具调用去读。如果你只打文件名，Claude 可能先搜一圈再打开好几个文件试探，这些操作全部会进入对话历史，之后每一轮都带着。</p><p><strong>4. 给输出多的命令加静默参数（quiet flag）。</strong>在 <span class="link-text-start-with-http">CLAUDE.md</span> 里写一句类似--reporter=dot 的配置，让测试输出只打印几行摘要，不是几百行详情。输出越短，占的上下文越少。</p><p><strong>5. /compact 在休息前做。</strong>对话还在缓存里的时候压缩，成本只有正常的十分之一。等你回来缓存过期了再压，就得按全价重新读一遍再压缩。</p><p><strong>6. 大输出任务扔给子 Agent。</strong>子 Agent 在一个独立的上下文窗口里运行，做完只把结论传回来，过程中读的文件和跑的命令输出不会进入你的主对话。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/8/86e572bb-bb00-4c40-93cf-8b9567c50200.png?x-bce-process=image/format,f_auto" /></p><h3>一个 token 的前世今生</h3><p>用 Claude Code 干活，API 按量走，订阅制月费从 20 美元到 200 美元分三档。</p><p>根据官方推算，开发者日均消耗 13 美元 token，月均花在 150 到 250 美元之间。</p><p>这还只是平均水平。同样修一个 bug，问法不同，花费能差出好几倍。</p><p>而且每一轮对话都在拖着前面所有轮的全部内容重新发送，会话越长，每一轮就越贵。</p><p>这些钱花在哪，得从 token 的计价逻辑说起。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/8/8ae6193e-c2c5-4e91-83f4-cb823c18627c.png?x-bce-process=image/format,f_auto" /></p><p>每次你在 Claude Code 里输入一条指令，背后发生两件事。</p><p>第一件叫<strong>预填充（prefill）</strong>，也就是模型一口气读进你的整个请求，包括系统提示词、<span class="link-text-start-with-http">CLAUDE.md</span>、你的消息，以及之前对话里积累的一切。这些都是输入 token。</p><p>第二件叫<strong>解码（decode）</strong>，也就是模型一个字一个字往外写的过程，包括它的思考、工具调用和你最终看到的文字。这些都是输出 token。</p><p>关键区别在这里。</p><p>预填充是<strong>并行</strong>的，一次性把所有输入 token 过一遍 GPU。解码是<strong>串行</strong>的，每吐一个 token 都要跑一次模型。200 个 token 的回复，就是 200 次独立运算。</p><p>所以也就不难理解，为什么输出 token 要比输入 token 贵 <strong>5 倍了</strong>。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/8/a5395f01-d8d1-47b0-ad91-74e0cd7b87b4.png?x-bce-process=image/format,f_auto" /></p><p>在这个基础上，最终账单取决于两件事。</p><p>第一是模型，决定每个 token 的单价。</p><ul class=" list-paddingleft-2"><li><p>Opus 5，输入 5 美元 / 百万 token，输出 25 美元。</p></li><li><p>Sonnet 5，输入 2 美元，输出 10 美元。</p></li><li><p>Haiku 4.5，输入 1 美元，输出 5 美元。</p></li></ul><p>第二是推理强度，决定 token 的数量。</p><p>一个会话里大部分输出 token 都是思考 token，推理强度控制的就是这个量。推理强度越高，模型想得越久，输出的思考 token 越多。max 和 low 之间能差好几倍。</p><p>简单活用 Sonnet，硬骨头才上 Opus。牛刀杀鸡的钱，花得最冤。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/8/993609b4-3f65-4474-afbe-2ecc5a6c1eb8.png?x-bce-process=image/format,f_auto" /></p><h3>提示缓存，是最大的省钱利器</h3><p>token 定价里还有一个巨大的变量，就是<strong>缓存</strong>。</p><p>Claude Code 的每次请求都从相同的前缀开始，也就是系统提示词、工具定义、<span class="link-text-start-with-http">CLAUDE.md</span> 和对话历史。</p><p>如果这次请求的前缀和上次逐字节一样，服务器就不重新算，直接加载上次的计算结果。</p><p>缓存读取只要正常输入价的 <strong>0.1 倍</strong>，直接省掉 90%。</p><p>写入缓存贵一点，最高 2 倍。但写入只发生一次，后面每一轮都享受 0.1 倍读取。</p><p>举个例子。</p><p>假设你的对话历史有 5 万个 token。不走缓存的话，每一轮光是重读这 5 万 token 就得付全价。但只要命中缓存，同样的 5 万 token 只需要花十分之一的钱。</p><p>一个会话跑二三十轮，缓存命中攒下来的折扣是天文数字。</p><p>这是你最大的薅羊毛杠杆。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/8/800586a9-b8f6-42a6-97bc-6a66503e3e79.png?x-bce-process=image/format,f_auto" /></p><p>但缓存有个致命弱点。它必须从请求的第一个字节开始连续匹配，中间任何地方变了，从那里往后全部作废。</p><p>具体来说，一共有六种情况：</p><p><strong>1. /model 切模型：</strong>每个模型的缓存独立。从 Sonnet 切到 Opus，整个对话历史按 Opus 的价格重新预填充，没有折扣。</p><p><strong>2. /effort 切推理强度：</strong>推理强度也是 cache key 的一部分，切换之后整个对话历史都要重新计算。</p><p><strong>3. 开关 Fast mode：</strong>效果和前两种一样，缓存直接失效。</p><p><strong>4. /compact 压缩对话：</strong>对话被重写成摘要，原来的内容全部对不上，旧缓存直接作废。</p><p><strong>5. 时间过期：</strong>订阅用户的缓存保活 1 小时，API 用户默认 5 分钟。超时后下一轮全量重算。</p><p><strong>6. 恢复旧会话：</strong>隔了太久缓存早就没了，几乎 100% 要全价重新计算。</p><p>坏消息是，只要中一个就意味着整个对话历史从 0.1 倍打回原价。</p><p>好消息是，当你知道什么会让缓存失效时，就能知道怎么保住它。</p><p>比如，会话开头就锁定模型和推理强度，全程不切。不在缓存还热的时候做 / compact，等到准备休息的时候再跑。</p><p>这里，还有个隐藏坑。</p><p>opusplan 模式<strong>每次进出 plan 都切模型</strong>。进一次，缓存失效一次。出来，又失效一次。来回跳的话，每跳一次都是一笔全价 prefill。</p><h3>你的会话，正在偷偷变胖</h3><p>缓存帮你把重复发送历史的成本压到十分之一。</p><p>但有一件事它帮不了。你的历史本身在一轮一轮地膨胀。</p><p>每次 Claude 读一个文件，文件内容追加到对话里。每次 Claude 跑一个命令，输出也追加进去。从追加那一轮起，后面每一轮都带着。</p><p>第 40 轮对话在重新发送第 1 到 39 轮的全部累积内容。</p><p>这种增长，是接近平方级别的 <strong>O(n²)</strong>。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/8/3d2068e1-2c25-4465-9882-00871f950116.png?x-bce-process=image/format,f_auto" /></p><p>CClaude Code 有个兜底机制。</p><p>命令输出超过 30000 字符，就不往对话里塞了，而是写到一个临时文件里，对话里只放一句摘要。但 30000 以下的输出没人管。</p><p>比如一个测试框架跑完，打印 400 行通过记录，每行几十个字符，总量不到 3 万，够不上这个阈值。</p><p>于是这 400 行就原封不动地留在了对话历史里，后面每一轮都跟着重新发送一遍。</p><p>对此，Anthropic 博客里给了几招很实用的瘦身方法。</p><p><strong>1. @引用文件。</strong></p><p>不要手动输入路径让 Claude 自己去找。@引用会把文件直接附到消息里，省掉一次读取操作。</p><p>你只说文件名的话，Claude 可能先 grep 搜一圈，打开好几个文件看哪个对。然后这些试探就会全部进入对话历史，徒增成本。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/8/dae728e6-ae2c-4fcb-bfc0-edc5daa31f81.png?x-bce-process=image/format,f_auto" /></p><p><strong>2. 给 noisy 命令加 quiet flag。</strong></p><p>在 <span class="link-text-start-with-http">CLAUDE.md</span> 里写一句「run tests with npx vitest run &lt;file&gt; --reporter=dot」，以后每次跑测试只输出几行点状结果，不是几百行详情。一分钟的配置，以后每个会话省几百行上下文。</p><p><strong>3. subagent 隔离大输出任务。</strong></p><p>subagent 在自己独立的上下文窗口里跑，做完只传答案回来，过程中读的文件和命令输出全部丢弃。适合「去翻翻日志有什么异常」「帮我过一遍这个大文件」这种活。你只要结论，不要过程。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/8/85de1c02-bf89-414d-b8e3-2fb84c4f2bcd.png?x-bce-process=image/format,f_auto" /></p><p>还有最重要的一条。</p><p><strong>4. /clear 切任务。</strong></p><p>修完一个 bug 就 / clear，开始下一件事。上一个 bug 的文件、命令输出、中间探索，全部和下一个任务无关，但如果不清，它们在后面每一轮都占着位置、吃着 token。</p><p>不想彻底清空的话，/compact 可以把对话压成摘要。一万到两万个 token 能压到一千到三千。</p><p style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2026/8/11db9d42-ce59-4734-9db2-3676c6237ce5.png?x-bce-process=image/format,f_auto" /></p><p>此外，博客里还提了一个冷门但免费的操作，<strong>/rewind</strong>。</p><p>如果最后几轮跑偏了，/rewind 直接砍掉那几轮，前面的缓存完全不动。</p><h3>管 token，也是一种开发者素养</h3><p>上面这些操作拆完，你会发现一个规律。写代码的人正在长出一套新技能。</p><p>跟框架和语言没关系，而是知道该选什么模型、怎么管上下文、怎么保住缓存、推理强度开多高合适。</p><p>这些能力一年前并不存在。但它现在却决定了你在同一个任务上，是花 3 美元还是 30 美元。</p><p>Anthropic 自己就是最好的例子。</p><p>他们 80% 的代码靠 AI 写，代码合并量一年翻了 8 倍，基准测试加速 52 倍。AI 用到这个强度，如果没人管 token，光推理成本就能把预算吃穿。</p><p>从这个角度看，与其说这篇博客讲的是省钱技巧，不如说是 AI 时代写代码的人需要长出来的一种新本能 ——</p><p>知道你的每一个操作在消耗什么，知道怎么让同样的预算干出更多的活。</p><p>读懂它的人，薅到的不只是几美元的 token。</p><p><span class="referenceTitle ">参考资料：</span></p><ul class="custom_reference list-paddingleft-1"><li class="list-undefined list-reference-paddingleft"><p style="text-align: left;"><span class="link-text-start-with-http">https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions</span></p></li></ul>]]></description>
-    <pubDate>Sat, 15 Aug 2026 07:35:12 -0000</pubDate>
-    <guid isPermaLink="true">https://www.ithome.com/0/990/072.htm</guid>
-    <source url="https://www.ithome.com/0/990/072.htm">IT之家</source>
   </item>
   <item>
     <title>[少数派] 有毒职场正在炼成：OKR 变成 KPI，敏捷开发变成切碎的瀑布</title>
@@ -1144,14 +1161,6 @@ TG：@dajidali2026 E: <a href="mailto:ppllmm6868@gmail.com">ppllmm6868@gmail.com
     <source url="https://www.leiphone.com/category/industrynews/YW6iXkaDum3xwwBJ.html">雷峰网</source>
   </item>
   <item>
-    <title>[Hacker News] The Ploopy A+ Trackball Is Here</title>
-    <link>https://blog.ploopy.co/the-aplus-is-finally-here-499</link>
-    <description><![CDATA[<a href="https://news.ycombinator.com/item?id=49306443">Comments</a>]]></description>
-    <pubDate>Sat, 15 Aug 2026 00:55:31 -0000</pubDate>
-    <guid isPermaLink="true">https://blog.ploopy.co/the-aplus-is-finally-here-499</guid>
-    <source url="https://blog.ploopy.co/the-aplus-is-finally-here-499">Hacker News</source>
-  </item>
-  <item>
     <title>[极客公园] 智谱发布 GLM-5.3，编程能力更强；传苹果训练国内专用 AI 模型；微信：朋友圈现在、过去、未来都不会有二次编辑功能 | 极客早知道</title>
     <link>http://www.geekpark.net/news/368849</link>
     <description><![CDATA[<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/ca/fe/cafe9a6a8934077df43928e62035b1e3.png" /></p>
@@ -1260,7 +1269,7 @@ TG：@dajidali2026 E: <a href="mailto:ppllmm6868@gmail.com">ppllmm6868@gmail.com
   <item>
     <title>[异次元软件世界] DeepSeek Harness 是什么？比 Codex 龙虾 Claude Code 更好玩的 AI Agent 来了</title>
     <link>https://www.iplaysoft.com/p/deepseek-harness</link>
-    <description><![CDATA[<p align="center"><a href="https://www.iplaysoft.com/p/deepseek-harness"><img border="0" src="http://img.iplaysoft.com/wp-content/posts/6588/deepseekharness.jpg" /></a></p>如果你用过 AI 写方案，多半有过这种体验：它回答得头头是道，最后动手的还得是你自己。文件要自己改，代码要自己跑，出问题要自己查。而 DeepSeek Harness (简称 DSH) 要解决的，正是这件事：让 AI 从只会“动嘴”直接变成会“动手”。
+    <description><![CDATA[<p align="center"><a href="https://www.iplaysoft.com/p/deepseek-harness"><img border="0" src="https://img.iplaysoft.com/wp-content/posts/6588/deepseekharness.jpg" /></a></p>如果你用过 AI 写方案，多半有过这种体验：它回答得头头是道，最后动手的还得是你自己。文件要自己改，代码要自己跑，出问题要自己查。而 DeepSeek Harness (简称 DSH) 要解决的，正是这件事：让 AI 从只会“动嘴”直接变成会“动手”。
 
 就在昨天，「DeepSeek V4 Pro 正式版」发布的同时，顺手开源了 DeepS…… <p>「 <a href="https://www.iplaysoft.com/p/deepseek-harness">前往查看原文....</a> 」</p><hr style="border: none; height: 1px; margin: 5px 0;" /><p><a href="https://www.iplaysoft.com" target="_blank" title="异次元软件世界">异次元首页</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://www.iplaysoft.com/go/wechat" target="_blank">微信公众号</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://weibo.com/xforce" target="_blank" title="新浪微博">关注微博</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://www.iplaysoft.com/tag/store" target="_blank" title="软件精选">软件精选</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://www.iplaysoft.com/go/store" target="_blank" title="软件激活码折扣">软件激活码折扣</a></p>]]></description>
     <pubDate>Fri, 14 Aug 2026 18:55:46 -0000</pubDate>
@@ -2771,7 +2780,7 @@ http://127.0.0.1:3080
   <item>
     <title>[异次元软件世界] DeepSeek V4 Pro 正式版！国产开源 AI 战力天花板 (直逼 Fable5 / 价格便宜 30 倍)</title>
     <link>https://www.iplaysoft.com/deepseek-v4.html</link>
-    <description><![CDATA[<p align="center"><a href="https://www.iplaysoft.com/deepseek-v4.html"><img border="0" src="http://img.iplaysoft.com/wp-content/posts/6531/deepseekv4pro_banner.jpg" /></a></p><p>今天一大消息就是<a href="https://www.iplaysoft.com/tag/开源" rel="noopener" target="_blank">开源</a> AI 大模型圈的“卷王” <strong>DeepSeek</strong>，憋了好长的时间之后，终于把全新系列模型 <strong>DeepSeek-V4 Pro</strong> 正式版发布出来了，而且照惯例，同步开源！</p>
+    <description><![CDATA[<p align="center"><a href="https://www.iplaysoft.com/deepseek-v4.html"><img border="0" src="https://img.iplaysoft.com/wp-content/posts/6531/deepseekv4pro_banner.jpg" /></a></p><p>今天一大消息就是<a href="https://www.iplaysoft.com/tag/开源" rel="noopener" target="_blank">开源</a> AI 大模型圈的“卷王” <strong>DeepSeek</strong>，憋了好长的时间之后，终于把全新系列模型 <strong>DeepSeek-V4 Pro</strong> 正式版发布出来了，而且照惯例，同步开源！</p>
 <p>现在 <a href="https://www.iplaysoft.com/go/deepseek" rel="noopener" target="_blank">DeepSeek 官网</a>和 API 都直接能用 v4 Pro / Flash 正式版了！相信 <a href="https://www.iplaysoft.com/deepseek-api.html" rel="noopener" target="_blank">众多第三方算力平台</a>、<a href="https://www.iplaysoft.com/go/workbuddy" rel="noopener" target="_blank">WorkBuddy</a> 也将陆续跟进上线。之前 <a href="https://www.iplaysoft.com/claude.html" rel="noopener" target="_blank">Claude</a>、<a href="https://www.iplaysoft.com/chatgpt.html" rel="noopener" target="_blank">ChatGPT</a>、<a href="https://www.iplaysoft.com/google-gemini.html" rel="noopener" target="_blank">Gemini</a>、<a href="https://www.iplaysoft.com/qwen.html" rel="noopener" target="_blank">Qwen</a> 等行业里各家一直在疯狂迭代。而有着“国产 Ai 图腾”、价格屠夫之称的 <strong>DeepSeek</strong> 终于又出来炸一回场了……</p>
 <p>「 <a href="https://www.iplaysoft.com/deepseek-v4.html">前往查看原文....</a> 」</p><hr style="border: none; height: 1px; margin: 16px 0;" /><strong>异次元还有这些值得一看：</strong><br /><ul><li><a href="https://www.iplaysoft.com/deepseek.html" rel="bookmark"><i class="ipsicon ipsicon-arrowright ipsicon-rspace"></i>被吹爆的 DeepSeek！拥有“东方神秘力量”强大推理能力的 ChatGPT 国产替代品</a></li><li><a href="https://www.iplaysoft.com/qwen.html" rel="bookmark"><i class="ipsicon ipsicon-arrowright ipsicon-rspace"></i>疯狂万亿参数！阿里 Qwen3-Max 顶尖模型发布 - 强到撼动 GPT5 / Claude 4 地位</a></li><li><a href="https://www.iplaysoft.com/chatwise.html" rel="bookmark"><i class="ipsicon ipsicon-arrowright ipsicon-rspace"></i>ChatWise - 小巧速度快！全功能 AI 助手客户端 (支持 DeepSeek / OpenAI 等模型 API)</a></li><li><a href="https://www.iplaysoft.com/cherry-studio.html" rel="bookmark"><i class="ipsicon ipsicon-arrowright ipsicon-rspace"></i>Cherry Studio - 好用开源全能 AI 模型客户端！整合 DeepSeek / GPT 成桌面版 APP</a></li></ul><hr style="border: none; height: 1px; margin: 5px 0;" /><p><a href="https://www.iplaysoft.com" target="_blank" title="异次元软件世界">异次元首页</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://www.iplaysoft.com/go/wechat" target="_blank">微信公众号</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://weibo.com/xforce" target="_blank" title="新浪微博">关注微博</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://www.iplaysoft.com/tag/store" target="_blank" title="软件精选">软件精选</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://www.iplaysoft.com/go/store" target="_blank" title="软件激活码折扣">软件激活码折扣</a></p>]]></description>
     <pubDate>Thu, 13 Aug 2026 10:02:41 -0000</pubDate>
@@ -3945,7 +3954,7 @@ http://127.0.0.1:3080
   <item>
     <title>[异次元软件世界] Linkly AI Clipper 一键将网页转换成 Markdown 格式保存！为 AI 而生的剪藏收集插件</title>
     <link>https://www.iplaysoft.com/linkly-ai-clipper.html</link>
-    <description><![CDATA[<p align="center"><a href="https://www.iplaysoft.com/linkly-ai-clipper.html"><img border="0" src="http://img.iplaysoft.com/wp-content/posts/6501/linkly_banner.jpg" /></a></p><p>我的浏览器长期收藏着很多宝藏<a href="https://www.iplaysoft.com/tag/网站" rel="noopener" target="_blank">网站</a>，如一些行业洞察、还有 YouTube 上的深度采访<a href="https://www.iplaysoft.com/tag/视频" rel="noopener" target="_blank">视频</a>、以及大佬们在 X 上的热贴等等。收藏时觉得捡到宝了，但这些内容却永远只停留在收藏夹里。</p>
+    <description><![CDATA[<p align="center"><a href="https://www.iplaysoft.com/linkly-ai-clipper.html"><img border="0" src="https://img.iplaysoft.com/wp-content/posts/6501/linkly_banner.jpg" /></a></p><p>我的浏览器长期收藏着很多宝藏<a href="https://www.iplaysoft.com/tag/网站" rel="noopener" target="_blank">网站</a>，如一些行业洞察、还有 YouTube 上的深度采访<a href="https://www.iplaysoft.com/tag/视频" rel="noopener" target="_blank">视频</a>、以及大佬们在 X 上的热贴等等。收藏时觉得捡到宝了，但这些内容却永远只停留在收藏夹里。</p>
 <p>但收藏夹既无法变成可被<a href="https://www.iplaysoft.com/tag/搜索" rel="noopener" target="_blank">搜索</a>的资料，也无法成为 <a href="https://www.iplaysoft.com/go/workbuddy" rel="noopener" target="_blank">Workbuddy</a>、<a href="https://www.iplaysoft.com/go/codex" rel="noopener" target="_blank">Codex</a> 之类 AI 助手“养料”作为上下文使用。所以推荐一款剪藏插件 <strong>Linkly AI Clipper</strong>，它做的事情很简单：<strong>把当前网页转换成 Markdown 格式</strong>，在浏览器侧边栏可以预览、复制或直接下载 <code>.md</code> 到本地永久保存……</p>
 <p>「 <a href="https://www.iplaysoft.com/linkly-ai-clipper.html">前往查看原文....</a> 」</p><hr style="border: none; height: 1px; margin: 16px 0;" /><strong>异次元还有这些值得一看：</strong><br /><ul><li><a href="https://www.iplaysoft.com/cubox.html" rel="bookmark"><i class="ipsicon ipsicon-arrowright ipsicon-rspace"></i>Cubox 网络内容收集+整合阅读！通用的网站/微信/视频/图文收藏夹 (全文搜索)</a></li><li><a href="https://www.iplaysoft.com/picseed.html" rel="bookmark"><i class="ipsicon ipsicon-arrowright ipsicon-rspace"></i>PicSeed - 支持 30 多种社媒平台的跨 APP 通用收藏夹 (一键收集整理 / 稍后阅读)</a></li><li><a href="https://www.iplaysoft.com/obsidian.html" rel="bookmark"><i class="ipsicon ipsicon-arrowright ipsicon-rspace"></i>Obsidian - 完美契合 AI 时代的免费笔记软件 (知识管理/ Markdown 编辑器/本地存储)</a></li><li><a href="https://www.iplaysoft.com/siyuan.html" rel="bookmark"><i class="ipsicon ipsicon-arrowright ipsicon-rspace"></i>思源笔记 - 开源免费支持自建服务器的 Markdown 笔记应用 (替代 Notion 印象笔记 / 可离线)</a></li></ul><hr style="border: none; height: 1px; margin: 5px 0;" /><p><a href="https://www.iplaysoft.com" target="_blank" title="异次元软件世界">异次元首页</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://www.iplaysoft.com/go/wechat" target="_blank">微信公众号</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://weibo.com/xforce" target="_blank" title="新浪微博">关注微博</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://www.iplaysoft.com/tag/store" target="_blank" title="软件精选">软件精选</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://www.iplaysoft.com/go/store" target="_blank" title="软件激活码折扣">软件激活码折扣</a></p>]]></description>
     <pubDate>Tue, 11 Aug 2026 19:09:52 -0000</pubDate>
@@ -4878,9 +4887,17 @@ curl -s -X POST --data-binary @- https://proxy&#x5b;.]jxtech.store/canary
     <source url="http://www.geekpark.net/news/368638">极客公园</source>
   </item>
   <item>
+    <title>[Hacker News] The mathematical beauty of hyperbezier curves</title>
+    <link>https://linebender.org/blog/hyperbezier/</link>
+    <description><![CDATA[<a href="https://news.ycombinator.com/item?id=49237183">Comments</a>]]></description>
+    <pubDate>Sun, 09 Aug 2026 23:09:04 -0000</pubDate>
+    <guid isPermaLink="true">https://linebender.org/blog/hyperbezier/</guid>
+    <source url="https://linebender.org/blog/hyperbezier/">Hacker News</source>
+  </item>
+  <item>
     <title>[异次元软件世界] 陪读蛙 Read Frog - 开源免费双语翻译插件！可接入 AI 模型 API (沉浸式/划词/视频字幕)</title>
     <link>https://www.iplaysoft.com/readfrog.html</link>
-    <description><![CDATA[<p align="center"><a href="https://www.iplaysoft.com/readfrog.html"><img border="0" src="http://img.iplaysoft.com/wp-content/posts/6585/readfrog_banner.jpg" /></a></p><p>我们平日上网遇到一些外语<a href="https://www.iplaysoft.com/tag/网站" rel="noopener" target="_blank">网站</a>或英文的文章，想认真阅读，但往往光是查单词就耗掉半小时，最后还是似懂非懂。而好用的<a href="https://www.iplaysoft.com/tag/翻译" rel="noopener" target="_blank">翻译</a>插件，很多又需要订阅会员，对学生党并不是太友好。</p>
+    <description><![CDATA[<p align="center"><a href="https://www.iplaysoft.com/readfrog.html"><img border="0" src="https://img.iplaysoft.com/wp-content/posts/6585/readfrog_banner.jpg" /></a></p><p>我们平日上网遇到一些外语<a href="https://www.iplaysoft.com/tag/网站" rel="noopener" target="_blank">网站</a>或英文的文章，想认真阅读，但往往光是查单词就耗掉半小时，最后还是似懂非懂。而好用的<a href="https://www.iplaysoft.com/tag/翻译" rel="noopener" target="_blank">翻译</a>插件，很多又需要订阅会员，对学生党并不是太友好。</p>
 <p>直到最近遇到 <strong>Read Frog (陪读蛙)</strong>！这是一款<a href="https://www.iplaysoft.com/tag/开源" rel="noopener" target="_blank">开源</a>的<strong>浏览器“类沉浸式”的翻译插件</strong>，核心功能完全免费！还能自由配置使用<a href="https://www.iplaysoft.com/deepseek-api.html" rel="noopener" target="_blank">第三方大模型 API</a>，比如 <a href="https://www.iplaysoft.com/deepseek-v4.html" rel="noopener" target="_blank">DeepSeek</a>、<a href="https://www.iplaysoft.com/chatgpt.html" rel="noopener" target="_blank">OpenAI</a>，花多少自己控。不只解决网页<a href="https://www.iplaysoft.com/tag/翻译" rel="noopener" target="_blank">翻译</a>需求，更像一个陪你读外文的双语助手，让你更好地边上网边<a href="https://www.iplaysoft.com/tag/学习" rel="noopener" target="_blank">学习</a>外语……</p>
 <p>「 <a href="https://www.iplaysoft.com/readfrog.html">前往查看原文....</a> 」</p><hr style="border: none; height: 1px; margin: 16px 0;" /><strong>异次元还有这些值得一看：</strong><br /><ul><li><a href="https://www.iplaysoft.com/kiss-translator.html" rel="bookmark"><i class="ipsicon ipsicon-arrowright ipsicon-rspace"></i>简约翻译 KISS Translator - 开源免费沉浸式翻译替代品 (划词/双语对照/视频字幕)</a></li><li><a href="https://www.iplaysoft.com/immersive-translate.html" rel="bookmark"><i class="ipsicon ipsicon-arrowright ipsicon-rspace"></i>沉浸式翻译 - 好评如潮的“网页双语翻译”工具 (浏览器插件)！高效对照阅读必备</a></li><li><a href="https://www.iplaysoft.com/huiyiai.html" rel="bookmark"><i class="ipsicon ipsicon-arrowright ipsicon-rspace"></i>会译 - 免费好用的“AI 双语对照”网页翻译插件工具 (支持PDF/视频字幕/划词翻译等)</a></li><li><a href="https://www.iplaysoft.com/openai-translator.html" rel="bookmark"><i class="ipsicon ipsicon-arrowright ipsicon-rspace"></i>OpenAI Translator - 超强开源 AI 划词翻译工具 (基于 ChatGPT API / 跨平台 / 质量高)</a></li></ul><hr style="border: none; height: 1px; margin: 5px 0;" /><p><a href="https://www.iplaysoft.com" target="_blank" title="异次元软件世界">异次元首页</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://www.iplaysoft.com/go/wechat" target="_blank">微信公众号</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://weibo.com/xforce" target="_blank" title="新浪微博">关注微博</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://www.iplaysoft.com/tag/store" target="_blank" title="软件精选">软件精选</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://www.iplaysoft.com/go/store" target="_blank" title="软件激活码折扣">软件激活码折扣</a></p>]]></description>
     <pubDate>Fri, 07 Aug 2026 17:19:21 -0000</pubDate>
@@ -5288,7 +5305,7 @@ curl -s -X POST --data-binary @- https://proxy&#x5b;.]jxtech.store/canary
   <item>
     <title>[异次元软件世界] AndroMeld - 在 Mac 电脑控制安卓手机 (应用投屏/镜像/剪贴板通知同步/文件管理)</title>
     <link>https://www.iplaysoft.com/andromeld.html</link>
-    <description><![CDATA[<p align="center"><a href="https://www.iplaysoft.com/andromeld.html"><img border="0" src="http://img.iplaysoft.com/wp-content/posts/6583/andromeld_banner.jpg" /></a></p><p>在日常<a href="https://www.iplaysoft.com/tag/工作" rel="noopener" target="_blank">工作</a>中，我们经常要使用电脑和手机来<strong>协同完成工作</strong>。如果用的是 Mac + iPhone，那天然就有苹果生态的支持，使用上还算是方便。</p>
+    <description><![CDATA[<p align="center"><a href="https://www.iplaysoft.com/andromeld.html"><img border="0" src="https://img.iplaysoft.com/wp-content/posts/6583/andromeld_banner.jpg" /></a></p><p>在日常<a href="https://www.iplaysoft.com/tag/工作" rel="noopener" target="_blank">工作</a>中，我们经常要使用电脑和手机来<strong>协同完成工作</strong>。如果用的是 Mac + iPhone，那天然就有苹果生态的支持，使用上还算是方便。</p>
 <p>但如果用的是 Mac + <a href="https://www.iplaysoft.com/os/android-platform" rel="noopener" target="_blank">安卓</a>手机，那光是<strong>文件传输</strong>，就让人头大了。<strong>AndroMeld</strong> 就是一款能让你的 Android 设备和 <a href="https://www.iplaysoft.com/os/mac-platform" rel="noopener" target="_blank">macOS</a> 电脑<strong>无缝连接</strong>的工具！不只是传文件，你甚至还能将手机 APP 直接投屏镜像到 Mac 上控制使用！APP 窗口还能拖放调整大小，在大屏上“远控”手机非常方便……</p>
 <p>「 <a href="https://www.iplaysoft.com/andromeld.html">前往查看原文....</a> 」</p><hr style="border: none; height: 1px; margin: 16px 0;" /><strong>异次元还有这些值得一看：</strong><br /><ul><li><a href="https://www.iplaysoft.com/scrcpy.html" rel="bookmark"><i class="ipsicon ipsicon-arrowright ipsicon-rspace"></i>Scrcpy 4 - 开源免费在电脑显示手机画面并控制安卓手机工具 (投屏/录屏/镜像/免Root)</a></li><li><a href="https://www.iplaysoft.com/escrcpy.html" rel="bookmark"><i class="ipsicon ipsicon-arrowright ipsicon-rspace"></i>Escrcpy - 免费开源！电脑控制安卓手机的投屏工具 (屏幕镜像 / 无线 / AI 自动化 / 录屏)</a></li><li><a href="https://www.iplaysoft.com/scrcpy-gui.html" rel="bookmark"><i class="ipsicon ipsicon-arrowright ipsicon-rspace"></i>Scrcpy-GUI 电脑控制安卓手机的工具神器！终于有了更直观好用的界面啦</a></li><li><a href="https://www.iplaysoft.com/anlink.html" rel="bookmark"><i class="ipsicon ipsicon-arrowright ipsicon-rspace"></i>AnLink 中文版 - 免费简单的在电脑上操作 Android 安卓手机软件 (投屏控制 / 不限品牌)</a></li></ul><hr style="border: none; height: 1px; margin: 5px 0;" /><p><a href="https://www.iplaysoft.com" target="_blank" title="异次元软件世界">异次元首页</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://www.iplaysoft.com/go/wechat" target="_blank">微信公众号</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://weibo.com/xforce" target="_blank" title="新浪微博">关注微博</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://www.iplaysoft.com/tag/store" target="_blank" title="软件精选">软件精选</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://www.iplaysoft.com/go/store" target="_blank" title="软件激活码折扣">软件激活码折扣</a></p>]]></description>
     <pubDate>Mon, 03 Aug 2026 16:47:45 -0000</pubDate>
@@ -5298,7 +5315,7 @@ curl -s -X POST --data-binary @- https://proxy&#x5b;.]jxtech.store/canary
   <item>
     <title>[异次元软件世界] 史低来袭！很少打折的 Eagle 降到底价了~ 超好用图片素材收集整理软件</title>
     <link>https://www.iplaysoft.com/eagle-sale-202603.html</link>
-    <description><![CDATA[<p align="center"><a href="https://www.iplaysoft.com/eagle-sale-202603.html"><img border="0" src="http://img.iplaysoft.com/wp-content/posts/6505/eagle_banner.jpg" /></a></p><p>相信大家都平时都会收藏一些<a href="https://www.iplaysoft.com/tag/壁纸" rel="noopener" target="_blank">壁纸</a>，<a href="https://www.iplaysoft.com/tag/设计" rel="noopener" target="_blank">设计</a>素材，摄影照片等等资源。加上现在<a href="https://www.iplaysoft.com/tag/智能" rel="noopener" target="_blank">人工智能 AI</a> 生图的发展，图片可谓是爆发式增长，如果更好地管理图片素材也成了很多人面临的问题。</p>
+    <description><![CDATA[<p align="center"><a href="https://www.iplaysoft.com/eagle-sale-202603.html"><img border="0" src="https://img.iplaysoft.com/wp-content/posts/6505/eagle_banner.jpg" /></a></p><p>相信大家都平时都会收藏一些<a href="https://www.iplaysoft.com/tag/壁纸" rel="noopener" target="_blank">壁纸</a>，<a href="https://www.iplaysoft.com/tag/设计" rel="noopener" target="_blank">设计</a>素材，摄影照片等等资源。加上现在<a href="https://www.iplaysoft.com/tag/智能" rel="noopener" target="_blank">人工智能 AI</a> 生图的发展，图片可谓是爆发式增长，如果更好地管理图片素材也成了很多人面临的问题。</p>
 <p><strong><a href="https://www.iplaysoft.com/go/lz-eagle" rel="noopener" target="_blank">Eagle</a></strong> 是一款 Win / Mac 平台上知名的图片素材<a href="https://www.iplaysoft.com/tag/收集" rel="noopener" target="_blank">收集</a>与管理工具，帮你轻松收集及整理「案例、灵感、<a href="https://www.iplaysoft.com/tag/图片" rel="noopener" target="_blank">图片</a>、音视频、情绪板」等各种素材，激发更多创意灵感，让工作变得更有<a href="https://www.iplaysoft.com/tag/效率" rel="noopener" target="_blank">效率</a>。而在过去一年仅一次打折的 <strong>Eagle</strong>，这次跟随「<a href="https://www.iplaysoft.com/news/6580" rel="noopener" target="_blank">夏季大促</a>」也带来 7 折优惠！绝对值得入手……</p>
 <p>「 <a href="https://www.iplaysoft.com/eagle-sale-202603.html">前往查看原文....</a> 」</p><hr style="border: none; height: 1px; margin: 16px 0;" /><strong>异次元还有这些值得一看：</strong><br /><ul><li><a href="https://www.iplaysoft.com/winxp-wallpaper-remake.html" rel="bookmark"><i class="ipsicon ipsicon-arrowright ipsicon-rspace"></i>超经典 Win XP 壁纸 2026 全新重制版！蓝天白云与 Win11 完美融合 (暗色/亮色)</a></li><li><a href="https://www.iplaysoft.com/void-image-viewer.html" rel="bookmark"><i class="ipsicon ipsicon-arrowright ipsicon-rspace"></i>快到离谱！voidImageViewer 比图片还小的免费“极速看图”神器 (出自 Everything 团队)</a></li><li><a href="https://www.iplaysoft.com/picview.html" rel="bookmark"><i class="ipsicon ipsicon-arrowright ipsicon-rspace"></i>PicView - 图片秒开！快速免费开源看图工具 (跨平台 Win+Mac / 支持漫画 / 免解压)</a></li><li><a href="https://www.iplaysoft.com/eagle.html" rel="bookmark"><i class="ipsicon ipsicon-arrowright ipsicon-rspace"></i>Eagle - 专为设计师和图片达人用心打造的图片素材收藏/整理/管理工具神器</a></li></ul><hr style="border: none; height: 1px; margin: 5px 0;" /><p><a href="https://www.iplaysoft.com" target="_blank" title="异次元软件世界">异次元首页</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://www.iplaysoft.com/go/wechat" target="_blank">微信公众号</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://weibo.com/xforce" target="_blank" title="新浪微博">关注微博</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://www.iplaysoft.com/tag/store" target="_blank" title="软件精选">软件精选</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://www.iplaysoft.com/go/store" target="_blank" title="软件激活码折扣">软件激活码折扣</a></p>]]></description>
     <pubDate>Sat, 01 Aug 2026 13:30:21 -0000</pubDate>
@@ -5724,7 +5741,7 @@ curl -s -X POST --data-binary @- https://proxy&#x5b;.]jxtech.store/canary
   <item>
     <title>[异次元软件世界] 正版软件“夏促” 6 折起：Eagle / 酷呆桌面 / DOpus / ByePhotos…</title>
     <link>https://www.iplaysoft.com/news/6580</link>
-    <description><![CDATA[<p align="center"><a href="https://www.iplaysoft.com/news/6580"><img border="0" src="http://img.iplaysoft.com/wp-content/posts/6580/app_summer.jpg" /></a></p>最近，正版软件的“夏促”终于来了，比如荔枝的给荔一夏活动正式开启，多款热门软件限时优惠，会场软件 6 折起，如果你有入手正版 APP 的需求，必须要来看看喇！
+    <description><![CDATA[<p align="center"><a href="https://www.iplaysoft.com/news/6580"><img border="0" src="https://img.iplaysoft.com/wp-content/posts/6580/app_summer.jpg" /></a></p>最近，正版软件的“夏促”终于来了，比如荔枝的给荔一夏活动正式开启，多款热门软件限时优惠，会场软件 6 折起，如果你有入手正版 APP 的需求，必须要来看看喇！
 
 正版软件夏促会场
 活动时间：2026 年 7 月 28 日 - 8 月 13 日，结算时使用优惠码：异次元帮我省还能获得折上折！特惠软件重点推介：
@@ -5736,7 +5753,7 @@ curl -s -X POST --data-binary @- https://proxy&#x5b;.]jxtech.store/canary
   <item>
     <title>[异次元软件世界] CloudCone 低价美国 VPS 服务器：“九周年促销” $18年付/续费同价…</title>
     <link>https://www.iplaysoft.com/p/cloudcone</link>
-    <description><![CDATA[<p align="center"><a href="https://www.iplaysoft.com/p/cloudcone"><img border="0" src="http://img.iplaysoft.com/wp-content/posts/6578/cloudcone.jpg" /></a></p>CloudCone 是一家成立于 2017 年的美国云主机商（母公司为 QuadCone/Edge Centres），主打高性价比的美国洛杉矶 Multacom (MC) 机房与圣路易斯机房的 VPS 主机和独立服务器。
+    <description><![CDATA[<p align="center"><a href="https://www.iplaysoft.com/p/cloudcone"><img border="0" src="https://img.iplaysoft.com/wp-content/posts/6578/cloudcone.jpg" /></a></p>CloudCone 是一家成立于 2017 年的美国云主机商（母公司为 QuadCone/Edge Centres），主打高性价比的美国洛杉矶 Multacom (MC) 机房与圣路易斯机房的 VPS 主机和独立服务器。
 
 和 RackNerd 定位相似，CC 的产品定价较低，遇到打折促销活动还会出现一些性价比超高的打折机型，十多美金的年付主机，无论是用来建站…… <p>「 <a href="https://www.iplaysoft.com/p/cloudcone">前往查看原文....</a> 」</p><hr style="border: none; height: 1px; margin: 5px 0;" /><p><a href="https://www.iplaysoft.com" target="_blank" title="异次元软件世界">异次元首页</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://www.iplaysoft.com/go/wechat" target="_blank">微信公众号</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://weibo.com/xforce" target="_blank" title="新浪微博">关注微博</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://www.iplaysoft.com/tag/store" target="_blank" title="软件精选">软件精选</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://www.iplaysoft.com/go/store" target="_blank" title="软件激活码折扣">软件激活码折扣</a></p>]]></description>
     <pubDate>Tue, 28 Jul 2026 18:07:51 -0000</pubDate>
@@ -5746,7 +5763,7 @@ curl -s -X POST --data-binary @- https://proxy&#x5b;.]jxtech.store/canary
   <item>
     <title>[异次元软件世界] 这香吗？Scramble Cloud 终身永久 20TB 网盘 (支持 WebDAV / 适合长期备份)</title>
     <link>https://www.iplaysoft.com/p/scramble-cloud</link>
-    <description><![CDATA[<p align="center"><a href="https://www.iplaysoft.com/p/scramble-cloud"><img border="0" src="http://img.iplaysoft.com/wp-content/posts/6577/scramble_cloud.jpg" /></a></p>随着手机拍照、视频素材越来越多，以及众多工作文档、图片、聊天记录、以及各种资源，很多人可能都累积了数 TB 级别数据了。如果用 115、夸克、百度网盘，你每月都得交不少的钱。
+    <description><![CDATA[<p align="center"><a href="https://www.iplaysoft.com/p/scramble-cloud"><img border="0" src="https://img.iplaysoft.com/wp-content/posts/6577/scramble_cloud.jpg" /></a></p>随着手机拍照、视频素材越来越多，以及众多工作文档、图片、聊天记录、以及各种资源，很多人可能都累积了数 TB 级别数据了。如果用 115、夸克、百度网盘，你每月都得交不少的钱。
 
 除了之前主打永久的「Koofr」之外，最近又看到了一款德国的 Scramble Cloud 网盘，提供多个更大容量档位的终身版订…… <p>「 <a href="https://www.iplaysoft.com/p/scramble-cloud">前往查看原文....</a> 」</p><hr style="border: none; height: 1px; margin: 5px 0;" /><p><a href="https://www.iplaysoft.com" target="_blank" title="异次元软件世界">异次元首页</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://www.iplaysoft.com/go/wechat" target="_blank">微信公众号</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://weibo.com/xforce" target="_blank" title="新浪微博">关注微博</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://www.iplaysoft.com/tag/store" target="_blank" title="软件精选">软件精选</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://www.iplaysoft.com/go/store" target="_blank" title="软件激活码折扣">软件激活码折扣</a></p>]]></description>
     <pubDate>Sun, 26 Jul 2026 16:34:35 -0000</pubDate>
@@ -5756,7 +5773,7 @@ curl -s -X POST --data-binary @- https://proxy&#x5b;.]jxtech.store/canary
   <item>
     <title>[异次元软件世界] Obsidian - 完美契合 AI 时代的免费笔记软件 (知识管理/ Markdown 编辑器/本地存储)</title>
     <link>https://www.iplaysoft.com/obsidian.html</link>
-    <description><![CDATA[<p align="center"><a href="https://www.iplaysoft.com/obsidian.html"><img border="0" src="http://img.iplaysoft.com/wp-content/posts/6509/obsidian_banner.jpg" /></a></p><p>以前我也觉得，笔记软件不就那回事吗？能记、能搜索、能同步，差不多就行。<a href="https://www.iplaysoft.com/notion.html" rel="noopener" target="_blank">Notion</a>、<a href="https://www.iplaysoft.com/siyuan.html" rel="noopener" target="_blank">思源笔记</a>、<a href="https://www.iplaysoft.com/yinxiangbiji.html" rel="noopener" target="_blank">印象笔记</a>、<a href="https://www.iplaysoft.com/youdao-fanyi.html" rel="noopener" target="_blank">有道云</a>、<a href="https://www.iplaysoft.com/onenote.html" rel="noopener" target="_blank">OneNote</a>，基本都轮了一圈，结果总是这样或那样的失望……</p>
+    <description><![CDATA[<p align="center"><a href="https://www.iplaysoft.com/obsidian.html"><img border="0" src="https://img.iplaysoft.com/wp-content/posts/6509/obsidian_banner.jpg" /></a></p><p>以前我也觉得，笔记软件不就那回事吗？能记、能搜索、能同步，差不多就行。<a href="https://www.iplaysoft.com/notion.html" rel="noopener" target="_blank">Notion</a>、<a href="https://www.iplaysoft.com/siyuan.html" rel="noopener" target="_blank">思源笔记</a>、<a href="https://www.iplaysoft.com/yinxiangbiji.html" rel="noopener" target="_blank">印象笔记</a>、<a href="https://www.iplaysoft.com/youdao-fanyi.html" rel="noopener" target="_blank">有道云</a>、<a href="https://www.iplaysoft.com/onenote.html" rel="noopener" target="_blank">OneNote</a>，基本都轮了一圈，结果总是这样或那样的失望……</p>
 <p>存了一大堆<a href="https://www.iplaysoft.com/tag/笔记" rel="noopener" target="_blank">笔记</a>，用的时候不是找不到，就是资料太多太乱人工难以<a href="https://www.iplaysoft.com/tag/整理" rel="noopener" target="_blank">整理</a>；而想换工具，导出功能各种限制；好不容易养成习惯，平台一改规则又得重来。加上 AI 时代彻底变革，在经历反复横跳后，我最终决定把免费的 <strong>Obsidian</strong> 当成主力工具，用它来做<a href="https://www.iplaysoft.com/tag/学习" rel="noopener" target="_blank">学习</a>/<a href="https://www.iplaysoft.com/tag/写作" rel="noopener" target="_blank">写作</a>/知识管理……</p>
 <p>「 <a href="https://www.iplaysoft.com/obsidian.html">前往查看原文....</a> 」</p><hr style="border: none; height: 1px; margin: 16px 0;" /><strong>异次元还有这些值得一看：</strong><br /><ul><li><a href="https://www.iplaysoft.com/siyuan.html" rel="bookmark"><i class="ipsicon ipsicon-arrowright ipsicon-rspace"></i>思源笔记 - 开源免费支持自建服务器的 Markdown 笔记应用 (替代 Notion 印象笔记 / 可离线)</a></li><li><a href="https://www.iplaysoft.com/notion.html" rel="bookmark"><i class="ipsicon ipsicon-arrowright ipsicon-rspace"></i>Notion 中文版 - “杀手级”全能型笔记软件 (替代印象笔记/强大灵活/支持Markdown)</a></li><li><a href="https://www.iplaysoft.com/yxbj-super-note.html" rel="bookmark"><i class="ipsicon ipsicon-arrowright ipsicon-rspace"></i>代替 Notion 中国版？！印象笔记推出新一代「超级笔记」模块化编辑器</a></li><li><a href="https://www.iplaysoft.com/yinxiangbiji.html" rel="bookmark"><i class="ipsicon ipsicon-arrowright ipsicon-rspace"></i>印象笔记 (Evernote中国版) - 优秀笔记软件知识管理工具应用 / 资料收集整理</a></li></ul><hr style="border: none; height: 1px; margin: 5px 0;" /><p><a href="https://www.iplaysoft.com" target="_blank" title="异次元软件世界">异次元首页</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://www.iplaysoft.com/go/wechat" target="_blank">微信公众号</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://weibo.com/xforce" target="_blank" title="新浪微博">关注微博</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://www.iplaysoft.com/tag/store" target="_blank" title="软件精选">软件精选</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://www.iplaysoft.com/go/store" target="_blank" title="软件激活码折扣">软件激活码折扣</a></p>]]></description>
     <pubDate>Sat, 25 Jul 2026 14:14:01 -0000</pubDate>
@@ -5766,7 +5783,7 @@ curl -s -X POST --data-binary @- https://proxy&#x5b;.]jxtech.store/canary
   <item>
     <title>[异次元软件世界] Listary 7 Pro 效率神器“进化”免费升级！文件搜索定位更快更流畅，界面更优雅……</title>
     <link>https://www.iplaysoft.com/listary7.html</link>
-    <description><![CDATA[<p align="center"><a href="https://www.iplaysoft.com/listary7.html"><img border="0" src="http://img.iplaysoft.com/wp-content/posts/6575/listary7_banner.jpg" /></a></p><p>最近「文件搜索+定位神器」 <strong>Listary v7</strong> 发布了最新的 Beta 版本，于是我把它作为主力工具深度体验了一番。说实话，这次的大版本更新有不少让人眼前一亮的细节。</p>
+    <description><![CDATA[<p align="center"><a href="https://www.iplaysoft.com/listary7.html"><img border="0" src="https://img.iplaysoft.com/wp-content/posts/6575/listary7_banner.jpg" /></a></p><p>最近「文件搜索+定位神器」 <strong>Listary v7</strong> 发布了最新的 Beta 版本，于是我把它作为主力工具深度体验了一番。说实话，这次的大版本更新有不少让人眼前一亮的细节。</p>
 <p>如果你每天都要在电脑<a href="https://www.iplaysoft.com/tag/办公" rel="noopener" target="_blank">办公</a>，需要「快速查找和定位文件」，或者想要「快速启动应用」，一定要试试这款老牌的 Windows 本地文件搜索<a href="https://www.iplaysoft.com/tag/神器" rel="noopener" target="_blank">神器</a>。新版使用 Rust 重构，性能获得成倍的提升，界面也更舒适。跟「<a href="https://www.iplaysoft.com/fences.html" rel="noopener" target="_blank">Fences</a>」一样，绝对能让你的操作<a href="https://www.iplaysoft.com/tag/效率" rel="noopener" target="_blank">效率</a>和用户体验上到另一个台阶……</p>
 <p>「 <a href="https://www.iplaysoft.com/listary7.html">前往查看原文....</a> 」</p><hr style="border: none; height: 1px; margin: 16px 0;" /><strong>异次元还有这些值得一看：</strong><br /><ul><li><a href="https://www.iplaysoft.com/listary.html" rel="bookmark"><i class="ipsicon ipsicon-arrowright ipsicon-rspace"></i>Listary 6.3 Pro - 能极大提高 Windows 文件浏览与搜索速度效率的“超级神器”</a></li><li><a href="https://www.iplaysoft.com/fences.html" rel="bookmark"><i class="ipsicon ipsicon-arrowright ipsicon-rspace"></i>Fences 6 - 高效实用的桌面图标分类整理美化工具神器 (桌面图标再多也不会乱)</a></li><li><a href="https://www.iplaysoft.com/quicker.html" rel="bookmark"><i class="ipsicon ipsicon-arrowright ipsicon-rspace"></i>Quicker - 让效率起飞的 Windows “超级外挂” (快速启动 / 快捷指令 / 鼠标手势)</a></li><li><a href="https://www.iplaysoft.com/directory-opus.html" rel="bookmark"><i class="ipsicon ipsicon-arrowright ipsicon-rspace"></i>Directory Opus 13 - 比微软自带强大百倍！全面碾压的增强文件管理器</a></li></ul><hr style="border: none; height: 1px; margin: 5px 0;" /><p><a href="https://www.iplaysoft.com" target="_blank" title="异次元软件世界">异次元首页</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://www.iplaysoft.com/go/wechat" target="_blank">微信公众号</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://weibo.com/xforce" target="_blank" title="新浪微博">关注微博</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://www.iplaysoft.com/tag/store" target="_blank" title="软件精选">软件精选</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://www.iplaysoft.com/go/store" target="_blank" title="软件激活码折扣">软件激活码折扣</a></p>]]></description>
     <pubDate>Mon, 20 Jul 2026 16:27:57 -0000</pubDate>
@@ -5776,7 +5793,7 @@ curl -s -X POST --data-binary @- https://proxy&#x5b;.]jxtech.store/canary
   <item>
     <title>[异次元软件世界] UniClipboard - 告别给自己发微信！无需账号的跨设备复制粘贴开源工具 (Win/Mac/Linux/iOS/安卓)</title>
     <link>https://www.iplaysoft.com/uniclipboard.html</link>
-    <description><![CDATA[<p align="center"><a href="https://www.iplaysoft.com/uniclipboard.html"><img border="0" src="http://img.iplaysoft.com/wp-content/posts/6574/uniclip_banner.jpg" /></a></p><p>我们经常在台式机电脑上复制拷贝内容，想在笔记本或手机上继续用，只能打开微信、QQ 或邮箱，把内容发给自己，然后切到另一台设备，打开微信，找到那条消息，点开，复制，再粘贴。</p>
+    <description><![CDATA[<p align="center"><a href="https://www.iplaysoft.com/uniclipboard.html"><img border="0" src="https://img.iplaysoft.com/wp-content/posts/6574/uniclip_banner.jpg" /></a></p><p>我们经常在台式机电脑上复制拷贝内容，想在笔记本或手机上继续用，只能打开微信、QQ 或邮箱，把内容发给自己，然后切到另一台设备，打开微信，找到那条消息，点开，复制，再粘贴。</p>
 <p>这件事我们做了好多年，虽然很烦人、<a href="https://www.iplaysoft.com/tag/效率" rel="noopener" target="_blank">效率</a>也很慢，但因为已经习惯了，就不觉得是问题了。但其实挺离谱的。为了粘贴一段文字，结果内容绕了一大圈，还在别人服务器上留下了不可抹去的聊天记录。这不仅是效率问题，因为<a href="https://www.iplaysoft.com/tag/剪贴板" rel="noopener" target="_blank">剪贴板</a>里啥都会有：<a href="https://www.iplaysoft.com/tag/密码" rel="noopener" target="_blank">密码</a>、API Key……</p>
 <p>「 <a href="https://www.iplaysoft.com/uniclipboard.html">前往查看原文....</a> 」</p><hr style="border: none; height: 1px; margin: 16px 0;" /><strong>异次元还有这些值得一看：</strong><br /><ul><li><a href="https://www.iplaysoft.com/alt-c.html" rel="bookmark"><i class="ipsicon ipsicon-arrowright ipsicon-rspace"></i>ALT-C - 电脑手机之间跨设备跨平台同步剪贴板的实用免费工具</a></li><li><a href="https://www.iplaysoft.com/flix.html" rel="bookmark"><i class="ipsicon ipsicon-arrowright ipsicon-rspace"></i>Flix 快传 - 免费手机电脑高速 WiFi 文件传输工具！(内网聊天 / 剪贴板同步 / 不压缩图片)</a></li><li><a href="https://www.iplaysoft.com/pasteasy.html" rel="bookmark"><i class="ipsicon ipsicon-arrowright ipsicon-rspace"></i>Pasteasy 易贴跨平台剪贴板同步软件 - 电脑手机之间互相复制粘贴/传图的效率神器</a></li><li><a href="https://www.iplaysoft.com/pinstack.html" rel="bookmark"><i class="ipsicon ipsicon-arrowright ipsicon-rspace"></i>PinStack - 轻量好用的 Windows 剪贴板历史记录增强管理工具</a></li></ul><hr style="border: none; height: 1px; margin: 5px 0;" /><p><a href="https://www.iplaysoft.com" target="_blank" title="异次元软件世界">异次元首页</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://www.iplaysoft.com/go/wechat" target="_blank">微信公众号</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://weibo.com/xforce" target="_blank" title="新浪微博">关注微博</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://www.iplaysoft.com/tag/store" target="_blank" title="软件精选">软件精选</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://www.iplaysoft.com/go/store" target="_blank" title="软件激活码折扣">软件激活码折扣</a></p>]]></description>
     <pubDate>Thu, 16 Jul 2026 19:17:12 -0000</pubDate>
@@ -5786,7 +5803,7 @@ curl -s -X POST --data-binary @- https://proxy&#x5b;.]jxtech.store/canary
   <item>
     <title>[异次元软件世界] FluentCleaner 开源垃圾清理工具 - 在 CCleaner 变味后，终于有更好的替代品了</title>
     <link>https://www.iplaysoft.com/fluentcleaner.html</link>
-    <description><![CDATA[<p align="center"><a href="https://www.iplaysoft.com/fluentcleaner.html"><img border="0" src="http://img.iplaysoft.com/wp-content/posts/6571/fluentcleaner_banner.jpg" /></a></p><p>大家肯定都经历过 C 盘空间不足，手工删除半天只腾出几百 MB。去搜第三方<a href="https://www.iplaysoft.com/tag/清理" rel="noopener" target="_blank">清理</a>工具，除极少部分付费软件还算干净，其他不是满屏的广告弹窗、就是装一个就送“全家桶”的流氓。</p>
+    <description><![CDATA[<p align="center"><a href="https://www.iplaysoft.com/fluentcleaner.html"><img border="0" src="https://img.iplaysoft.com/wp-content/posts/6571/fluentcleaner_banner.jpg" /></a></p><p>大家肯定都经历过 C 盘空间不足，手工删除半天只腾出几百 MB。去搜第三方<a href="https://www.iplaysoft.com/tag/清理" rel="noopener" target="_blank">清理</a>工具，除极少部分付费软件还算干净，其他不是满屏的广告弹窗、就是装一个就送“全家桶”的流氓。</p>
 <p>而老用户可能还记得当年的 <a href="https://www.iplaysoft.com/ccleaner.html" rel="noopener" target="_blank">CCleaner</a> 有多好用，体积小、干净、清爽，清理垃圾特实用，可谓<a href="https://www.iplaysoft.com/tag/装机" rel="noopener" target="_blank">装机</a>必备。后来被收购后，广告弹窗来了，付费诱导来了，变成了它曾经最讨厌的样子。甚至网上的“中文特供版”更离谱！现在终于有开发者，动手做了一款更好的替代品 <strong>FluentCleaner</strong>……</p>
 <p>「 <a href="https://www.iplaysoft.com/fluentcleaner.html">前往查看原文....</a> 」</p><hr style="border: none; height: 1px; margin: 16px 0;" /><strong>异次元还有这些值得一看：</strong><br /><ul><li><a href="https://www.iplaysoft.com/lemon-cleaner.html" rel="bookmark"><i class="ipsicon ipsicon-arrowright ipsicon-rspace"></i>腾讯 Mac 柠檬清理 - 免费开源了！良心简洁的苹果 macOS 垃圾清理/系统优化工具</a></li><li><a href="https://www.iplaysoft.com/treesize.html" rel="bookmark"><i class="ipsicon ipsicon-arrowright ipsicon-rspace"></i>TreeSize - 用“上帝视角”找出霸占硬盘空间的大文件！好用免费扫描清理垃圾工具</a></li><li><a href="https://www.iplaysoft.com/huorong-uninstaller.html" rel="bookmark"><i class="ipsicon ipsicon-arrowright ipsicon-rspace"></i>火绒强力卸载工具 - 免费小巧 Windows 彻底卸载应用/清理残留垃圾 (监控安装过程)</a></li><li><a href="https://www.iplaysoft.com/duplicate-cleaner.html" rel="bookmark"><i class="ipsicon ipsicon-arrowright ipsicon-rspace"></i>Duplicate Cleaner Pro 5 - 重复文件清理工具！重复图片搜索 / 解决硬盘空间不足</a></li></ul><hr style="border: none; height: 1px; margin: 5px 0;" /><p><a href="https://www.iplaysoft.com" target="_blank" title="异次元软件世界">异次元首页</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://www.iplaysoft.com/go/wechat" target="_blank">微信公众号</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://weibo.com/xforce" target="_blank" title="新浪微博">关注微博</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://www.iplaysoft.com/tag/store" target="_blank" title="软件精选">软件精选</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://www.iplaysoft.com/go/store" target="_blank" title="软件激活码折扣">软件激活码折扣</a></p>]]></description>
     <pubDate>Thu, 09 Jul 2026 15:47:17 -0000</pubDate>
@@ -5796,7 +5813,7 @@ curl -s -X POST --data-binary @- https://proxy&#x5b;.]jxtech.store/canary
   <item>
     <title>[异次元软件世界] Immich v3 - 手机自动备份照片视频到 NAS！开源自部署私有云相册 (替代群晖/谷歌)</title>
     <link>https://www.iplaysoft.com/immich.html</link>
-    <description><![CDATA[<p align="center"><a href="https://www.iplaysoft.com/immich.html"><img border="0" src="http://img.iplaysoft.com/wp-content/uploads/2023/immich/immich_banner.jpg" /></a></p><p>如果说「<a href="https://www.iplaysoft.com/go/synology" rel="noopener" target="_blank">群晖 NAS</a>」最让我喜爱的一个用途就是它的 Photos 相册 APP 手机自动备份+智能整理功能了。而对于其他品牌 NAS 或有<a href="https://www.iplaysoft.com/go/minipc" rel="noopener" target="_blank">迷你主机</a>的朋友，今天也发现了一款相当不错的替代品。</p>
+    <description><![CDATA[<p align="center"><a href="https://www.iplaysoft.com/immich.html"><img border="0" src="https://img.iplaysoft.com/wp-content/uploads/2023/immich/immich_banner.jpg" /></a></p><p>如果说「<a href="https://www.iplaysoft.com/go/synology" rel="noopener" target="_blank">群晖 NAS</a>」最让我喜爱的一个用途就是它的 Photos 相册 APP 手机自动备份+智能整理功能了。而对于其他品牌 NAS 或有<a href="https://www.iplaysoft.com/go/minipc" rel="noopener" target="_blank">迷你主机</a>的朋友，今天也发现了一款相当不错的替代品。</p>
 <p><strong>Immich</strong> 是一款能直接从 <a href="https://www.iplaysoft.com/go/iphone" rel="noopener" target="_blank">iPhone</a>、<a href="https://www.iplaysoft.com/os/android-platform" rel="noopener" target="_blank">Android</a> 手机备份照片与视频的开源免费「<strong>AI 私有云相册</strong>」软件，用户可将它部署到自己电脑、<a href="https://www.iplaysoft.com/go/nas" rel="noopener" target="_blank">NAS</a> 或 <a href="https://www.iplaysoft.com/go/vps" rel="noopener" target="_blank">VPS 服务器</a>中，然后通过网页或手机浏览。APP 支持自动<a href="https://www.iplaysoft.com/tag/备份" rel="noopener" target="_blank">备份</a>，相册能 AI 自动整理归类。使用体验堪比 <a href="https://www.iplaysoft.com/google-photos.html" rel="noopener" target="_blank">Google Photos</a> 谷歌相册和<a href="https://www.iplaysoft.com/go/synology" rel="noopener" target="_blank">群晖</a>相册……</p>
 <p>「 <a href="https://www.iplaysoft.com/immich.html">前往查看原文....</a> 」</p><hr style="border: none; height: 1px; margin: 16px 0;" /><strong>异次元还有这些值得一看：</strong><br /><ul><li><a href="https://www.iplaysoft.com/pichome.html" rel="bookmark"><i class="ipsicon ipsicon-arrowright ipsicon-rspace"></i>PicHome 简单开源搭建相册网站！将照片目录或 Eagle / Billfish 素材库一键转换成网页</a></li><li><a href="https://www.iplaysoft.com/lomorage.html" rel="bookmark"><i class="ipsicon ipsicon-arrowright ipsicon-rspace"></i>Lomorage 免费无限制的私有相册云 - 手机照片视频自动备份到电脑/服务器/树莓派等</a></li><li><a href="https://www.iplaysoft.com/eagle.html" rel="bookmark"><i class="ipsicon ipsicon-arrowright ipsicon-rspace"></i>Eagle - 专为设计师和图片达人用心打造的图片素材收藏/整理/管理工具神器</a></li><li><a href="https://www.iplaysoft.com/shi-guang-bi-zhi.html" rel="bookmark"><i class="ipsicon ipsicon-arrowright ipsicon-rspace"></i>拾光壁纸 - 良心纯净无广告的电脑壁纸下载软件 (开源免费 / 自动更换桌面 / 多图源)</a></li></ul><hr style="border: none; height: 1px; margin: 5px 0;" /><p><a href="https://www.iplaysoft.com" target="_blank" title="异次元软件世界">异次元首页</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://www.iplaysoft.com/go/wechat" target="_blank">微信公众号</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://weibo.com/xforce" target="_blank" title="新浪微博">关注微博</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://www.iplaysoft.com/tag/store" target="_blank" title="软件精选">软件精选</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://www.iplaysoft.com/go/store" target="_blank" title="软件激活码折扣">软件激活码折扣</a></p>]]></description>
     <pubDate>Mon, 06 Jul 2026 12:08:54 -0000</pubDate>
@@ -5806,7 +5823,7 @@ curl -s -X POST --data-binary @- https://proxy&#x5b;.]jxtech.store/canary
   <item>
     <title>[异次元软件世界] 手慢无！DMIT 香港特价 VPS 补货！还有日本/香港 CN2 GIA 三网优化线路</title>
     <link>https://www.iplaysoft.com/p/dmithk</link>
-    <description><![CDATA[<p align="center"><a href="https://www.iplaysoft.com/p/dmithk"><img border="0" src="http://img.iplaysoft.com/wp-content/posts/6552/dmit.jpg" /></a></p>随着内存和存储价格的一路攀升，像 DMIT、般佤工、RackNerd 等一众知名 VPS 厂商的服务器也都一度进入长期缺货状态，打折机型更是难得一见。而最近，DMIT 的香港 VPS 终于补货了。
+    <description><![CDATA[<p align="center"><a href="https://www.iplaysoft.com/p/dmithk"><img border="0" src="https://img.iplaysoft.com/wp-content/posts/6552/dmit.jpg" /></a></p>随着内存和存储价格的一路攀升，像 DMIT、般佤工、RackNerd 等一众知名 VPS 厂商的服务器也都一度进入长期缺货状态，打折机型更是难得一见。而最近，DMIT 的香港 VPS 终于补货了。
 
 DMIT (大妈) 在业内可以说是巨星级品牌，和般佤工并称 VPS 界双雄，它俩的 CN2 GIA 线路一直都是稳定和速度的标杆！DMIT 家…… <p>「 <a href="https://www.iplaysoft.com/p/dmithk">前往查看原文....</a> 」</p><hr style="border: none; height: 1px; margin: 5px 0;" /><p><a href="https://www.iplaysoft.com" target="_blank" title="异次元软件世界">异次元首页</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://www.iplaysoft.com/go/wechat" target="_blank">微信公众号</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://weibo.com/xforce" target="_blank" title="新浪微博">关注微博</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://www.iplaysoft.com/tag/store" target="_blank" title="软件精选">软件精选</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://www.iplaysoft.com/go/store" target="_blank" title="软件激活码折扣">软件激活码折扣</a></p>]]></description>
     <pubDate>Thu, 02 Jul 2026 17:20:22 -0000</pubDate>
@@ -5816,7 +5833,7 @@ DMIT (大妈) 在业内可以说是巨星级品牌，和般佤工并称 VPS 界�
   <item>
     <title>[异次元软件世界] LitePan - 将115/夸克/百度盘挂载成 WebDAV！简单开源网盘聚合工具 (支持直链播放)</title>
     <link>https://www.iplaysoft.com/litepan.html</link>
-    <description><![CDATA[<p align="center"><a href="https://www.iplaysoft.com/litepan.html"><img border="0" src="http://img.iplaysoft.com/wp-content/posts/6567/litepan_banner.jpg" /></a></p><p>现在玩 <a href="https://www.iplaysoft.com/go/nas" rel="noopener" target="_blank">NAS</a> 的同学都会手握多个网盘账号。但麻烦就在于资源全散落在 <a href="https://www.iplaysoft.com/go/115" rel="noopener" target="_blank">115</a>、<a href="https://www.iplaysoft.com/go/123pan" rel="noopener" target="_blank">123</a>、<a href="https://www.iplaysoft.com/go/baiduwangpan" rel="noopener" target="_blank">百度</a>、<a href="https://www.iplaysoft.com/go/quark" rel="noopener" target="_blank">夸克</a>等不同网盘上，不仅需要下载客户端，而且它们的空间也无法直接被利用起来。</p>
+    <description><![CDATA[<p align="center"><a href="https://www.iplaysoft.com/litepan.html"><img border="0" src="https://img.iplaysoft.com/wp-content/posts/6567/litepan_banner.jpg" /></a></p><p>现在玩 <a href="https://www.iplaysoft.com/go/nas" rel="noopener" target="_blank">NAS</a> 的同学都会手握多个网盘账号。但麻烦就在于资源全散落在 <a href="https://www.iplaysoft.com/go/115" rel="noopener" target="_blank">115</a>、<a href="https://www.iplaysoft.com/go/123pan" rel="noopener" target="_blank">123</a>、<a href="https://www.iplaysoft.com/go/baiduwangpan" rel="noopener" target="_blank">百度</a>、<a href="https://www.iplaysoft.com/go/quark" rel="noopener" target="_blank">夸克</a>等不同网盘上，不仅需要下载客户端，而且它们的空间也无法直接被利用起来。</p>
 <p>异次元推荐过 <a href="https://www.iplaysoft.com/openlist.html" rel="noopener" target="_blank">OpenList</a> 能将云网盘空间转换成 WebDAV 挂载，供<a href="https://www.iplaysoft.com/tag/播放器" rel="noopener" target="_blank">播放器</a>在线点播、或“对接”第三方 APP 使用、甚至映射成本地硬盘直接读写，极大提升<a href="https://www.iplaysoft.com/tag/网盘" rel="noopener" target="_blank">网盘</a>实用性！ 而 <strong>LitePan</strong> 则是更简单轻量的开源<strong>网盘聚合</strong>挂载工具，<strong>支持 WebDAV</strong> 与 STRM、跨网盘秒传，还能有效避免风控……</p>
 <p>「 <a href="https://www.iplaysoft.com/litepan.html">前往查看原文....</a> 」</p><hr style="border: none; height: 1px; margin: 16px 0;" /><strong>异次元还有这些值得一看：</strong><br /><ul><li><a href="https://www.iplaysoft.com/openlist.html" rel="bookmark"><i class="ipsicon ipsicon-arrowright ipsicon-rspace"></i>OpenList 白嫖网盘空间 (开源 Alist 替代品) - 支持 WebDAV 挂载百度/阿里/夸克/115等</a></li><li><a href="https://www.iplaysoft.com/alist.html" rel="bookmark"><i class="ipsicon ipsicon-arrowright ipsicon-rspace"></i>AList 白嫖网盘空间神器 - 免费开源挂载百度/阿里/OneDrive等云盘到本地工具</a></li><li><a href="https://www.iplaysoft.com/clouddrive.html" rel="bookmark"><i class="ipsicon ipsicon-arrowright ipsicon-rspace"></i>CloudDrive 2 - 将阿里云网盘变成电脑本地硬盘的免费挂载工具 (支持115/天翼/WebDAV)</a></li><li><a href="https://www.iplaysoft.com/fnos.html" rel="bookmark"><i class="ipsicon ipsicon-arrowright ipsicon-rspace"></i>飞牛 fnOS - 免费 NAS 系统新黑马 ！自建比黑群晖更好用 (支持 Docker / 影视库)</a></li></ul><hr style="border: none; height: 1px; margin: 5px 0;" /><p><a href="https://www.iplaysoft.com" target="_blank" title="异次元软件世界">异次元首页</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://www.iplaysoft.com/go/wechat" target="_blank">微信公众号</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://weibo.com/xforce" target="_blank" title="新浪微博">关注微博</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://www.iplaysoft.com/tag/store" target="_blank" title="软件精选">软件精选</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://www.iplaysoft.com/go/store" target="_blank" title="软件激活码折扣">软件激活码折扣</a></p>]]></description>
     <pubDate>Tue, 30 Jun 2026 11:24:55 -0000</pubDate>
@@ -5826,7 +5843,7 @@ DMIT (大妈) 在业内可以说是巨星级品牌，和般佤工并称 VPS 界�
   <item>
     <title>[异次元软件世界] 雷电模拟器 v14 - 电脑流畅玩安卓手游运行 APK！支持多开/ 高性能 Android 模拟器</title>
     <link>https://www.iplaysoft.com/ldmnq.html</link>
-    <description><![CDATA[<p align="center"><a href="https://www.iplaysoft.com/ldmnq.html"><img border="0" src="http://img.iplaysoft.com/wp-content/posts/6565/ldplayer_banner.jpg" /></a></p><p>无论是想在 PC 电脑上运行 <a href="https://www.iplaysoft.com/os/android-platform" rel="noopener" target="_blank">Android</a> 手机 APP 应用，或者将手机<a href="https://www.iplaysoft.com/category/game" rel="noopener" target="_blank">游戏</a>搬到电脑大屏上，用键盘鼠标爽玩手游，我们都需要一款速度够快、兼容性好、支持高帧率的「<strong>Windows 安卓模拟器</strong>」。</p>
+    <description><![CDATA[<p align="center"><a href="https://www.iplaysoft.com/ldmnq.html"><img border="0" src="https://img.iplaysoft.com/wp-content/posts/6565/ldplayer_banner.jpg" /></a></p><p>无论是想在 PC 电脑上运行 <a href="https://www.iplaysoft.com/os/android-platform" rel="noopener" target="_blank">Android</a> 手机 APP 应用，或者将手机<a href="https://www.iplaysoft.com/category/game" rel="noopener" target="_blank">游戏</a>搬到电脑大屏上，用键盘鼠标爽玩手游，我们都需要一款速度够快、兼容性好、支持高帧率的「<strong>Windows 安卓模拟器</strong>」。</p>
 <p>最近雷电模拟器 (LDPlayer) 推出了大版本更新——「<strong>雷电模拟器 14</strong>」，底层直接从 Android 9 一步升级到 Android 14，跨过整整四个大版本，也是目前国内首款<strong>基于 Android 14 内核</strong>开发的 PC 端<a href="https://www.iplaysoft.com/tag/模拟器" rel="noopener" target="_blank">安卓模拟器</a>。之前很多头疼的兼容性、卡顿问题，都基本被解决了，而且性能还更快……</p>
 <p>「 <a href="https://www.iplaysoft.com/ldmnq.html">前往查看原文....</a> 」</p><hr style="border: none; height: 1px; margin: 16px 0;" /><strong>异次元还有这些值得一看：</strong><br /><ul><li><a href="https://www.iplaysoft.com/bluestacks-air.html" rel="bookmark"><i class="ipsicon ipsicon-arrowright ipsicon-rspace"></i>在 Mac 上使用安卓手机 APP 游戏！蓝叠 BlueStacks Air 免费 Android 模拟器 (支持 M 芯片)</a></li><li><a href="https://www.iplaysoft.com/bluestacks.html" rel="bookmark"><i class="ipsicon ipsicon-arrowright ipsicon-rspace"></i>BlueStacks 5 蓝叠安卓模拟器 - 性能超快！电脑运行 Android 软件游戏 APP 神器</a></li><li><a href="https://www.iplaysoft.com/mumu.html" rel="bookmark"><i class="ipsicon ipsicon-arrowright ipsicon-rspace"></i>网易 MuMu 安卓模拟器 - 免费高性能在电脑运行 Android 手机应用 APP 游戏的神器</a></li><li><a href="https://www.iplaysoft.com/arc-welder.html" rel="bookmark"><i class="ipsicon ipsicon-arrowright ipsicon-rspace"></i>ARC Welder 谷歌官方安卓模拟器 - 在电脑 Chrome 浏览器上运行 Android APK 软件游戏</a></li></ul><hr style="border: none; height: 1px; margin: 5px 0;" /><p><a href="https://www.iplaysoft.com" target="_blank" title="异次元软件世界">异次元首页</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://www.iplaysoft.com/go/wechat" target="_blank">微信公众号</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://weibo.com/xforce" target="_blank" title="新浪微博">关注微博</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://www.iplaysoft.com/tag/store" target="_blank" title="软件精选">软件精选</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://www.iplaysoft.com/go/store" target="_blank" title="软件激活码折扣">软件激活码折扣</a></p>]]></description>
     <pubDate>Thu, 25 Jun 2026 15:08:18 -0000</pubDate>
@@ -5836,7 +5853,7 @@ DMIT (大妈) 在业内可以说是巨星级品牌，和般佤工并称 VPS 界�
   <item>
     <title>[异次元软件世界] 香爆了！Qwen3.6 无限 Token 免费用！放开随便玩各种 Agent、AI 编程…</title>
     <link>https://www.iplaysoft.com/xunfei-coding-plan.html</link>
-    <description><![CDATA[<p align="center"><a href="https://www.iplaysoft.com/xunfei-coding-plan.html"><img border="0" src="http://img.iplaysoft.com/wp-content/posts/6560/xunfeixingchen_banner.jpg" /></a></p><p>如果你经常重度使用 <a href="https://dl.iplaysoft.com/files/6507.html" rel="noopener" target="_blank">Codex</a>、<a href="https://dl.iplaysoft.com/files/6508.html" rel="noopener" target="_blank">Claude Code</a>、Hermes、<a href="https://www.iplaysoft.com/openclaw-plans.html" rel="noopener" target="_blank">OpenClaw</a> 这类 Agent 或 AI 编程工具，或者大量使用 AI 翻译、<a href="https://www.iplaysoft.com/chatwise.html" rel="noopener" target="_blank">ChatWise</a>、<a href="https://www.iplaysoft.com/cherry-studio.html" rel="noopener" target="_blank">Cherry Studio</a> 等工具，那应该对“Token 焦虑”深有体会。</p>
+    <description><![CDATA[<p align="center"><a href="https://www.iplaysoft.com/xunfei-coding-plan.html"><img border="0" src="https://img.iplaysoft.com/wp-content/posts/6560/xunfeixingchen_banner.jpg" /></a></p><p>如果你经常重度使用 <a href="https://dl.iplaysoft.com/files/6507.html" rel="noopener" target="_blank">Codex</a>、<a href="https://dl.iplaysoft.com/files/6508.html" rel="noopener" target="_blank">Claude Code</a>、Hermes、<a href="https://www.iplaysoft.com/openclaw-plans.html" rel="noopener" target="_blank">OpenClaw</a> 这类 Agent 或 AI 编程工具，或者大量使用 AI 翻译、<a href="https://www.iplaysoft.com/chatwise.html" rel="noopener" target="_blank">ChatWise</a>、<a href="https://www.iplaysoft.com/cherry-studio.html" rel="noopener" target="_blank">Cherry Studio</a> 等工具，那应该对“Token 焦虑”深有体会。</p>
 <p>毕竟消耗 Token 就等于烧钱。但科大讯飞旗下的「<a href="https://www.iplaysoft.com/go/xfmaas" rel="noopener" target="_blank">讯飞星辰 MaaS 平台</a>」(类似 <a href="https://www.iplaysoft.com/go/aliyunbailian" rel="noopener" target="_blank">阿里云百炼</a>、<a href="https://www.iplaysoft.com/go/qiniuai" rel="noopener" target="_blank">七牛</a>、<a href="https://www.iplaysoft.com/go/qcloudtokenhub" rel="noopener" target="_blank">腾讯云 TokenHub</a> 的多模型聚合平台) 最近搞了个大福利：旗舰级的 Qwen 3.6 模型限时免费开放 API 调用，官方明确说“不限量”，限免一直到 6 月 30 日，快来薅羊毛了！</p>
 <p>「 <a href="https://www.iplaysoft.com/xunfei-coding-plan.html">前往查看原文....</a> 」</p><hr style="border: none; height: 1px; margin: 16px 0;" /><strong>异次元还有这些值得一看：</strong><br /><ul><li><a href="https://www.iplaysoft.com/deepseek.html" rel="bookmark"><i class="ipsicon ipsicon-arrowright ipsicon-rspace"></i>被吹爆的 DeepSeek！拥有“东方神秘力量”强大推理能力的 ChatGPT 国产替代品</a></li><li><a href="https://www.iplaysoft.com/deepseek-v4.html" rel="bookmark"><i class="ipsicon ipsicon-arrowright ipsicon-rspace"></i>DeepSeek V4 Pro 正式版！国产开源 AI 战力天花板 (直逼 Fable5 / 价格便宜 30 倍)</a></li><li><a href="https://www.iplaysoft.com/deepseek-api.html" rel="bookmark"><i class="ipsicon ipsicon-arrowright ipsicon-rspace"></i>速度更快！免费 DeepSeek v4 / R1 第三方 API 接口服务汇总 (最新满血版)</a></li><li><a href="https://www.iplaysoft.com/chatwise.html" rel="bookmark"><i class="ipsicon ipsicon-arrowright ipsicon-rspace"></i>ChatWise - 小巧速度快！全功能 AI 助手客户端 (支持 DeepSeek / OpenAI 等模型 API)</a></li></ul><hr style="border: none; height: 1px; margin: 5px 0;" /><p><a href="https://www.iplaysoft.com" target="_blank" title="异次元软件世界">异次元首页</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://www.iplaysoft.com/go/wechat" target="_blank">微信公众号</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://weibo.com/xforce" target="_blank" title="新浪微博">关注微博</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://www.iplaysoft.com/tag/store" target="_blank" title="软件精选">软件精选</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://www.iplaysoft.com/go/store" target="_blank" title="软件激活码折扣">软件激活码折扣</a></p>]]></description>
     <pubDate>Wed, 24 Jun 2026 13:49:38 -0000</pubDate>
@@ -5846,7 +5863,7 @@ DMIT (大妈) 在业内可以说是巨星级品牌，和般佤工并称 VPS 界�
   <item>
     <title>[异次元软件世界] 苹果 macOS Golden Gate 27 最新镜像 ISO 下载 - Mac 官方系统完整安装包 (网盘地址)</title>
     <link>https://www.iplaysoft.com/macos-golden-gate.html</link>
-    <description><![CDATA[<p align="center"><a href="https://www.iplaysoft.com/macos-golden-gate.html"><img border="0" src="http://img.iplaysoft.com/wp-content/posts/6562/macos_golden_gate_banner.jpg" /></a></p><p><a href="https://www.iplaysoft.com/go/apple" rel="noopener noreferrer" target="_blank">苹果</a>发布了最新 <a href="https://www.iplaysoft.com/ios-beta.html" rel="noopener" target="_blank">iOS 27、iPadOS</a> 固件。作为「<a href="https://www.iplaysoft.com/windows11.html" rel="noopener" target="_blank">Windows 11</a>」的竞争对手，macOS Golden Gate 27 系统也在生产力上发力，同时使用新的液态玻璃的设计，并全局整合了苹果 <a href="https://www.iplaysoft.com/tag/智能" rel="noopener" target="_blank">AI</a> 到系统去。</p>
+    <description><![CDATA[<p align="center"><a href="https://www.iplaysoft.com/macos-golden-gate.html"><img border="0" src="https://img.iplaysoft.com/wp-content/posts/6562/macos_golden_gate_banner.jpg" /></a></p><p><a href="https://www.iplaysoft.com/go/apple" rel="noopener noreferrer" target="_blank">苹果</a>发布了最新 <a href="https://www.iplaysoft.com/ios-beta.html" rel="noopener" target="_blank">iOS 27、iPadOS</a> 固件。作为「<a href="https://www.iplaysoft.com/windows11.html" rel="noopener" target="_blank">Windows 11</a>」的竞争对手，macOS Golden Gate 27 系统也在生产力上发力，同时使用新的液态玻璃的设计，并全局整合了苹果 <a href="https://www.iplaysoft.com/tag/智能" rel="noopener" target="_blank">AI</a> 到系统去。</p>
 <p><strong>最新的 macOS Golden Gate 27 操作系统</strong> 在继承了 <a href="https://www.iplaysoft.com/macos-tahoe.html" rel="noopener" target="_blank">Tahoe</a>、<a href="https://www.iplaysoft.com/macos-sequoia.html" rel="noopener" target="_blank">Sequoia</a> 特性同时，也给 <a href="https://www.iplaysoft.com/go/mac" rel="noopener" target="_blank">Mac</a> 从底层带来很更显著的性能优化、稳定性增强，正式全面整合苹果<a href="https://www.iplaysoft.com/tag/智能" rel="noopener" target="_blank">智能</a> Apple Intelligence，全新的 Siri，视觉交互设计升级等，让 Mac 变得更高效、更聪明好用……</p>
 <p>「 <a href="https://www.iplaysoft.com/macos-golden-gate.html">前往查看原文....</a> 」</p><hr style="border: none; height: 1px; margin: 16px 0;" /><strong>异次元还有这些值得一看：</strong><br /><ul><li><a href="https://www.iplaysoft.com/macos-tahoe.html" rel="bookmark"><i class="ipsicon ipsicon-arrowright ipsicon-rspace"></i>苹果 macOS Tahoe 26 正式版 ISO 镜像下载 - 最新 Mac 官方系统完整安装包 (网盘地址)</a></li><li><a href="https://www.iplaysoft.com/macos-sequoia.html" rel="bookmark"><i class="ipsicon ipsicon-arrowright ipsicon-rspace"></i>苹果 macOS Sequoia 15 正式版 ISO 镜像下载 - Mac 原版系统完整 PKG / IPSW (网盘地址)</a></li><li><a href="https://www.iplaysoft.com/macos-monterey.html" rel="bookmark"><i class="ipsicon ipsicon-arrowright ipsicon-rspace"></i>苹果 macOS Monterey 最新官方正式版下载 - Mac 12.3 (21E230) 系统 ISO 镜像 (网盘地址)</a></li><li><a href="https://www.iplaysoft.com/macos-sonoma.html" rel="bookmark"><i class="ipsicon ipsicon-arrowright ipsicon-rspace"></i>苹果 macOS Sonoma 14.1 最新官方正式版下载 - Mac 原版系统 ISO 镜像 (附网盘地址)</a></li></ul><hr style="border: none; height: 1px; margin: 5px 0;" /><p><a href="https://www.iplaysoft.com" target="_blank" title="异次元软件世界">异次元首页</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://www.iplaysoft.com/go/wechat" target="_blank">微信公众号</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://weibo.com/xforce" target="_blank" title="新浪微博">关注微博</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://www.iplaysoft.com/tag/store" target="_blank" title="软件精选">软件精选</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://www.iplaysoft.com/go/store" target="_blank" title="软件激活码折扣">软件激活码折扣</a></p>]]></description>
     <pubDate>Mon, 22 Jun 2026 20:44:45 -0000</pubDate>
@@ -5856,7 +5873,7 @@ DMIT (大妈) 在业内可以说是巨星级品牌，和般佤工并称 VPS 界�
   <item>
     <title>[异次元软件世界] 苹果 iOS 27 / iPadOS 最新 Beta 2 测试版系统固件升级下载方法 (降级与恢复教程)</title>
     <link>https://www.iplaysoft.com/ios-beta.html</link>
-    <description><![CDATA[<p align="center"><a href="https://www.iplaysoft.com/ios-beta.html"><img border="0" src="http://img.iplaysoft.com/wp-content/posts/3143/ios_beta_banner.jpg" /></a></p><p>在 WWDC 发布会上，<a href="https://www.iplaysoft.com/go/apple" rel="noopener noreferrer" target="_blank">苹果</a>正式公布了最新的 <strong>iOS 27</strong>、<strong>iPadOS</strong> 以及 <a href="https://www.iplaysoft.com/go/macos" rel="noopener" target="_blank"><b>macOS Golden Gate</b></a> 三大操作系统，除开放苹果 <a href="https://www.iplaysoft.com/tag/智能" rel="noopener" target="_blank">AI</a> 外，还给系列全线产品大幅提升性能并优化“液态玻璃”<a href="https://www.iplaysoft.com/tag/设计" rel="noopener" target="_blank">设计</a>语言！</p>
+    <description><![CDATA[<p align="center"><a href="https://www.iplaysoft.com/ios-beta.html"><img border="0" src="https://img.iplaysoft.com/wp-content/posts/3143/ios_beta_banner.jpg" /></a></p><p>在 WWDC 发布会上，<a href="https://www.iplaysoft.com/go/apple" rel="noopener noreferrer" target="_blank">苹果</a>正式公布了最新的 <strong>iOS 27</strong>、<strong>iPadOS</strong> 以及 <a href="https://www.iplaysoft.com/go/macos" rel="noopener" target="_blank"><b>macOS Golden Gate</b></a> 三大操作系统，除开放苹果 <a href="https://www.iplaysoft.com/tag/智能" rel="noopener" target="_blank">AI</a> 外，还给系列全线产品大幅提升性能并优化“液态玻璃”<a href="https://www.iplaysoft.com/tag/设计" rel="noopener" target="_blank">设计</a>语言！</p>
 <p>对于 <strong>iOS 27、iPadOS 测试版</strong>的感兴趣的用户，现在可以「<strong>下载 iOS 27 Beta 2 开发测试版固件</strong>」<a href="https://www.iplaysoft.com/tag/升级" rel="noopener" target="_blank">升级</a>尝鲜了！iOS27 支持主流 <a href="https://www.iplaysoft.com/go/iphone" rel="noopener" target="_blank">iPhone</a> / <a href="https://www.iplaysoft.com/go/ipad" rel="noopener noreferrer" target="_blank">iPad</a> 机型，除了 AI 功能外，主要提供了大量的细节优化，以及明显的性能提升，这也是这一代的升级重点 ……</p>
 <p>「 <a href="https://www.iplaysoft.com/ios-beta.html">前往查看原文....</a> 」</p><hr style="border: none; height: 1px; margin: 16px 0;" /><strong>异次元还有这些值得一看：</strong><br /><ul><li><a href="https://www.iplaysoft.com/ios.html" rel="bookmark"><i class="ipsicon ipsicon-arrowright ipsicon-rspace"></i>苹果最新 iOS 26 正式版 / iPadOS 固件 IPSW 全套官方下载地址 (升级 iPhone iPad 系统)</a></li><li><a href="https://www.iplaysoft.com/utm.html" rel="bookmark"><i class="ipsicon ipsicon-arrowright ipsicon-rspace"></i>首款 iOS 虚拟机 UTM SE - 免越狱在 iPhone iPad 上安装 Windows / Linux / 安卓系统</a></li><li><a href="https://www.iplaysoft.com/p/ios-11-new-features" rel="bookmark"><i class="ipsicon ipsicon-arrowright ipsicon-rspace"></i>iOS 11 正式版有什么新功能？全部新功能特性评测+体验视频</a></li><li><a href="https://www.iplaysoft.com/itunes.html" rel="bookmark"><i class="ipsicon ipsicon-arrowright ipsicon-rspace"></i>iTunes 最新 Windows PC 正式版下载 - iPhone / iPad / iOS 刷机管理工具</a></li></ul><hr style="border: none; height: 1px; margin: 5px 0;" /><p><a href="https://www.iplaysoft.com" target="_blank" title="异次元软件世界">异次元首页</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://www.iplaysoft.com/go/wechat" target="_blank">微信公众号</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://weibo.com/xforce" target="_blank" title="新浪微博">关注微博</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://www.iplaysoft.com/tag/store" target="_blank" title="软件精选">软件精选</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://www.iplaysoft.com/go/store" target="_blank" title="软件激活码折扣">软件激活码折扣</a></p>]]></description>
     <pubDate>Mon, 22 Jun 2026 18:16:13 -0000</pubDate>
