@@ -5,103 +5,467 @@
   <link>https://baich110.github.io/rss-feed/</link>
   <description>自动聚合多个优质科技/数码/技术资讯源，每小时更新</description>
   <language>zh-CN</language>
-  <lastBuildDate>Tue, 13 Oct 2026 17:59:35 -0000</lastBuildDate>
+  <lastBuildDate>Tue, 13 Oct 2026 22:36:11 -0000</lastBuildDate>
   <atom:link href="https://baich110.github.io/rss-feed/feed.xml" rel="self" type="application/rss+xml" />
   <item>
+    <title>[原创频道&gt;&gt;什么值得买] 17.99万元起，探境者01 出厂配齐了哪些露营装备</title>
+    <link>https://post.smzdm.com/p/al38pz4p/</link>
+    <description><![CDATA[值友6836788405每次出发前清点装备，总有人在找那几样东西：固定货物的绑带、营地的电源、上下货箱的落脚点。 17.99万元起的探境者01 ，把这些准备工作的一部分提前放进了出厂配置。这台车的做法，是把露营需要的基础件做进出厂状态，让后期改装变成额外的一层，而不是必须补上的那一层。定位上它是全场景潮玩越野皮卡，越野穿越、露营装备、房车拖挂、户外作业、日常通勤这几类用法都覆盖在内。出发前先看轮胎探境者01 配 LT 2<p>本文来自<a href="https://post.smzdm.com/p/al38pz4p/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
+    <pubDate>Tue, 13 Oct 2026 22:35:44 -0000</pubDate>
+    <guid isPermaLink="true">https://post.smzdm.com/p/al38pz4p/</guid>
+    <source url="https://post.smzdm.com/p/al38pz4p/">原创频道&gt;&gt;什么值得买</source>
+  </item>
+  <item>
+    <title>[V2EX] [推广] 做了一个统一接入 AI 模型的 API Gateway，邀请开发者试用</title>
+    <link>https://www.v2ex.com/t/1248558#reply0</link>
+    <description><![CDATA[<p>做了一个统一接入 AI 模型的 API Gateway ，邀请开发者试用</p>
+<p>最近在做 WPPAPI ，目标是减少不同 AI 模型接口之间的重复适配工作。</p>
+<p>主要适合：</p>
+<ul>
+<li>需要统一管理多个 AI 模型接口的项目</li>
+<li>希望降低迁移和维护成本的开发者</li>
+<li>AI 应用、Agent 、插件及自动化工具团队</li>
+</ul>
+<p>WPPAPI 提供统一的 AI API 接入入口，欢迎开发者实际接入测试，并反馈接口兼容性、稳定性和文档体验。</p>
+<p>访问： <a href="https://wppapi.com/home" rel="nofollow">https://wppapi.com/home</a></p>]]></description>
+    <pubDate>Tue, 13 Oct 2026 22:34:55 -0000</pubDate>
+    <guid isPermaLink="true">https://www.v2ex.com/t/1248558#reply0</guid>
+    <source url="https://www.v2ex.com/t/1248558#reply0">V2EX</source>
+  </item>
+  <item>
+    <title>[cnBeta.COM.TW RSS订阅] FBI逮捕OpenAI工程师 涉嫌在高管会议室安装隐藏录音设备 试图窃听机密谈话</title>
+    <link>https://www.cnbeta.com.tw/articles/tech/1582042.htm</link>
+    <description><![CDATA[<p>美国联邦调查局（FBI）近日逮捕了一名曾在OpenAI工作的工程师。美国联邦检察官指控，这名员工涉嫌在OpenAI位于旧金山的办公室内秘密安装录音设备，试图窃听公司高管会议室中的谈话。调查人员认为，相关会议可能涉及公司的高度机密技术、商业战略和人工智能研发计划。OpenAI发现可疑设备后，利用自身的人工智能模型协助分析设备及追查来源，并向FBI报告了事件。目前，该员工已被解雇，并因涉嫌非法截取他人谈话而受到刑事指控。</p> <a href="https://www.cnbeta.com.tw/articles/tech/1582042.htm" target="_blank"><strong>阅读全文</strong></a>]]></description>
+    <pubDate>Tue, 13 Oct 2026 22:33:34 -0000</pubDate>
+    <guid isPermaLink="true">https://www.cnbeta.com.tw/articles/tech/1582042.htm</guid>
+    <source url="https://www.cnbeta.com.tw/articles/tech/1582042.htm">cnBeta.COM.TW RSS订阅</source>
+  </item>
+  <item>
+    <title>[cnBeta.COM.TW RSS订阅] 首批iPhone Duo或需安装iOS 27.1更新 苹果已发布较新测试版本</title>
+    <link>https://www.cnbeta.com.tw/articles/tech/1582040.htm</link>
+    <description><![CDATA[<p>苹果首款折叠屏手机iPhone Duo上市时将运行专为该机型准备的iOS 27.1，但首批设备可能还需要在开机设置时安装一次软件更新。MacRumors称，苹果近日发布了一个较新的iOS 27.1构建版本24A94425，而目前发货的iPhone Duo预装版本为24A94232，因此两者之间存在版本差异。</p> <a href="https://www.cnbeta.com.tw/articles/tech/1582040.htm" target="_blank"><strong>阅读全文</strong></a>]]></description>
+    <pubDate>Tue, 13 Oct 2026 22:33:11 -0000</pubDate>
+    <guid isPermaLink="true">https://www.cnbeta.com.tw/articles/tech/1582040.htm</guid>
+    <source url="https://www.cnbeta.com.tw/articles/tech/1582040.htm">cnBeta.COM.TW RSS订阅</source>
+  </item>
+  <item>
+    <title>[IT之家] 苹果 watchOS 27.2 开发者预览版 Beta 4 发布</title>
+    <link>https://www.ithome.com/1/012/609.htm</link>
+    <description><![CDATA[<p style="text-align: center;"> 【<a href="#profile-download">点此直达升级教程</a>】 </p><p> IT之家 10 月 14 日消息，苹果今日向 Apple Watch 用户推送了 watchOS 27.2 开发者预览版 Beta 4 更新（内部版本号：24S5112a），本次更新距离上次发布 Beta/RC 间隔 7 天。</p> <p style="text-align: center;"> <img alt="苹果 watchOS 操作系统" src="https://img.ithome.com/newsuploadfiles/2022/4/8bd386fb-ecc7-474d-bd95-4c69ba122e7a.jpg?x-bce-process=image/watermark,image_aW1nL3dhdGVybWFyay9xdy9xdzEzOC5wbmc=,g_7,x_14,y_14,a_0,t_100" /> </p> <h2 class="ai-word-checked" id="profile-download">如何升级 iOS / iPadOS / watchOS / macOS 开发版和公测版？</h2><p>• <strong>公开测试版</strong>：需注册&nbsp;<a href="https://beta.apple.com/zh-CN/guide#ios" target="_blank" title="Apple Beta 版软件计划">Apple Beta 版软件计划</a>，之后通过【设置】【通用】【软件更新】【Beta 版更新】来升级；</p><p>• <strong>开发预览版</strong>：需登录注册<a href="https://developer.apple.com/programs/" target="_blank" title="苹果开发者计划">苹果开发者计划</a>，之后通过【设置】【通用】【软件更新】来升级。</p><h3 class="ai-word-checked">附苹果 iOS 历史固件下载大全：</h3><p class="ai-word-checked">《<a href="https://www.ithome.com/iosfirmware" target="_blank" title="苹果 iOS / iPadOS / macOS 固件下载 / 更新日志大全">苹果 iOS / iPadOS / macOS 固件下载 / 更新日志大全</a>》</p><p> 本文由机器人发布，IT之家稍后将为大家带来具体更新内容。</p> <h3>附 watchOS 27 发布历史：</h3> <ul class="custom_reference"> <li><p><a class="breakall" href="https://www.ithome.com/1/009/908.htm" target="_blank">2026-10-06：watchOS 27.2 Beta 3 (24S5101f)</a></p></li> <li><p><a class="breakall" href="https://www.ithome.com/1/008/070.htm" target="_blank">2026-09-29：watchOS 27.0.1 (24R365)</a></p></li> <li><p><a class="breakall" href="https://www.ithome.com/1/005/486.htm" target="_blank">2026-09-22：watchOS 27.2 Beta 2 (24S5091f)</a></p></li> <li><p><a class="breakall" href="https://www.ithome.com/1/003/345.htm" target="_blank">2026-09-17：watchOS 27.2 Beta (24S5086l)</a></p></li> <li><p><a class="breakall" href="https://www.ithome.com/1/002/332.htm" target="_blank">2026-09-15：watchOS 27.0 (24R364)</a></p></li> <li><p><a class="breakall" href="https://www.ithome.com/1/000/529.htm" target="_blank">2026-09-10：watchOS 27.0 RC (24R363)</a></p></li> <li><p><a class="breakall" href="https://www.ithome.com/0/996/693.htm" target="_blank">2026-09-01：watchOS 27.0 Beta 8 (24R5360a)</a></p></li> <li><p><a class="breakall" href="https://www.ithome.com/0/993/763.htm" target="_blank">2026-08-25：watchOS 27.0 Beta 7 (24R5358a)</a></p></li> <li><p><a class="breakall" href="https://www.ithome.com/0/990/864.htm" target="_blank">2026-08-18：watchOS 27.0 Beta 6 (24R5353a)</a></p></li> <li><p><a class="breakall" href="https://www.ithome.com/0/988/064.htm" target="_blank">2026-08-11：watchOS 27.0 Beta 5 (24R5347a)</a></p></li> <li><p><a class="breakall" href="https://www.ithome.com/0/979/269.htm" target="_blank">2026-07-21：watchOS 27.0 Beta 4 (24R5325h)</a></p></li> <li><p><a class="breakall" href="https://www.ithome.com/0/973/309.htm" target="_blank">2026-07-07：watchOS 27.0 Beta 3 (24R5315i)</a></p></li> <li><p><a class="breakall" href="https://www.ithome.com/0/967/702.htm" target="_blank">2026-06-24：watchOS 27.0 Beta 2 (24R5305g)</a></p></li> <li><p><a class="breakall" href="https://www.ithome.com/0/961/687.htm" target="_blank">2026-06-09：watchOS 27 Beta (24R5289n)</a></p></li> </ul> <p> IT之家小伙伴如果找到更多新内容，可以在投稿或评论区中提出你的发现~[微笑] </p>]]></description>
+    <pubDate>Tue, 13 Oct 2026 22:33:08 -0000</pubDate>
+    <guid isPermaLink="true">https://www.ithome.com/1/012/609.htm</guid>
+    <source url="https://www.ithome.com/1/012/609.htm">IT之家</source>
+  </item>
+  <item>
+    <title>[IT之家] 苹果 visionOS 27.2 开发者预览版 Beta 4 发布</title>
+    <link>https://www.ithome.com/1/012/608.htm</link>
+    <description><![CDATA[<p> IT之家 10 月 14 日消息，苹果今日向 Vision Pro 用户推送了 visionOS 27.2 开发者预览版 Beta 4 更新（内部版本号：24N5114a），本次更新距离上次发布 Beta/RC 间隔 7 天。</p> <p style="text-align: center;"> <img alt="苹果 visionOS 操作系统" src="https://img.ithome.com/newsuploadfiles/2024/2/0a176a39-e916-49c8-ba8b-1241019bd125.jpg?x-bce-process=image/format,f_auto" /> </p><p> 需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。</p><p> 本文由机器人发布，IT之家稍后将为大家带来具体更新内容。</p> <h3>附 visionOS 27 发布历史：</h3> <ul class="custom_reference"> <li><p><a class="breakall" href="https://www.ithome.com/1/009/907.htm" target="_blank">2026-10-06：visionOS 27.2 Beta 3 (24N5103f)</a></p></li> <li><p><a class="breakall" href="https://www.ithome.com/1/008/068.htm" target="_blank">2026-09-29：visionOS 27.0.1 (24M372)</a></p></li> <li><p><a class="breakall" href="https://www.ithome.com/1/005/485.htm" target="_blank">2026-09-22：visionOS 27.2 Beta 2 (24N5093f)</a></p></li> <li><p><a class="breakall" href="https://www.ithome.com/1/003/344.htm" target="_blank">2026-09-17：visionOS 27.2 Beta (24N5088l)</a></p></li> <li><p><a class="breakall" href="https://www.ithome.com/1/002/331.htm" target="_blank">2026-09-15：visionOS 27.0 (24M362)</a></p></li> <li><p><a class="breakall" href="https://www.ithome.com/1/000/528.htm" target="_blank">2026-09-10：visionOS 27.0 RC (24M362)</a></p></li> <li><p><a class="breakall" href="https://www.ithome.com/0/996/692.htm" target="_blank">2026-09-01：visionOS 27.0 Beta 8 (24M5361a)</a></p></li> <li><p><a class="breakall" href="https://www.ithome.com/0/993/762.htm" target="_blank">2026-08-25：visionOS 27.0 Beta 7 (24M5359a)</a></p></li> <li><p><a class="breakall" href="https://www.ithome.com/0/990/863.htm" target="_blank">2026-08-18：visionOS 27.0 Beta 6 (24M5355a)</a></p></li> <li><p><a class="breakall" href="https://www.ithome.com/0/988/063.htm" target="_blank">2026-08-11：visionOS 27.0 Beta 5 (24M5348b)</a></p></li> <li><p><a class="breakall" href="https://www.ithome.com/0/979/268.htm" target="_blank">2026-07-21：visionOS 27.0 Beta 4 (24M5326g)</a></p></li> <li><p><a class="breakall" href="https://www.ithome.com/0/973/308.htm" target="_blank">2026-07-07：visionOS 27.0 Beta 3 (24M5316k)</a></p></li> <li><p><a class="breakall" href="https://www.ithome.com/0/967/243.htm" target="_blank">2026-06-23：visionOS 27.0 Beta 2 (24M5306i)</a></p></li> <li><p><a class="breakall" href="https://www.ithome.com/0/961/686.htm" target="_blank">2026-06-09：visionOS 27 Beta (24M5291p)</a></p></li> </ul> <p> IT之家小伙伴如果找到更多新内容，可以在投稿或评论区中提出你的发现~[微笑] </p>]]></description>
+    <pubDate>Tue, 13 Oct 2026 22:33:07 -0000</pubDate>
+    <guid isPermaLink="true">https://www.ithome.com/1/012/608.htm</guid>
+    <source url="https://www.ithome.com/1/012/608.htm">IT之家</source>
+  </item>
+  <item>
+    <title>[IT之家] 苹果 macOS 27.2 开发者预览版 Beta 4 发布</title>
+    <link>https://www.ithome.com/1/012/607.htm</link>
+    <description><![CDATA[<p> IT之家 10 月 14 日消息，苹果今日向 Mac 电脑用户推送了 macOS 27.2 开发者预览版 Beta 4 更新（内部版本号：26B5112a），本次更新距离上次发布 Beta/RC 间隔 7 天。</p> <p style="text-align: center;"> <img alt="苹果 macOS 操作系统" src="https://img.ithome.com/newsuploadfiles/2022/4/43319a24-e228-40a9-9047-44c5a77893d4.jpg?x-bce-process=image/watermark,image_aW1nL3dhdGVybWFyay9xdy9xdzEzOC5wbmc=,g_7,x_14,y_14,a_0,t_100" /> </p> <h2 class="ai-word-checked" id="profile-download">如何升级 iOS / iPadOS / watchOS / macOS 开发版和公测版？</h2><p>• <strong>公开测试版</strong>：需注册&nbsp;<a href="https://beta.apple.com/zh-CN/guide#ios" target="_blank" title="Apple Beta 版软件计划">Apple Beta 版软件计划</a>，之后通过【设置】【通用】【软件更新】【Beta 版更新】来升级；</p><p>• <strong>开发预览版</strong>：需登录注册<a href="https://developer.apple.com/programs/" target="_blank" title="苹果开发者计划">苹果开发者计划</a>，之后通过【设置】【通用】【软件更新】来升级。</p><h3 class="ai-word-checked">附苹果 iOS 历史固件下载大全：</h3><p class="ai-word-checked">《<a href="https://www.ithome.com/iosfirmware" target="_blank" title="苹果 iOS / iPadOS / macOS 固件下载 / 更新日志大全">苹果 iOS / iPadOS / macOS 固件下载 / 更新日志大全</a>》</p><p> 本文由机器人发布，IT之家稍后将为大家带来具体更新内容。</p> <h3>附 macOS 27 发布历史：</h3> <ul class="custom_reference"> <li><p><a class="breakall" href="https://www.ithome.com/1/009/906.htm" target="_blank">2026-10-06：macOS 27.2 Beta 3 (26B5101f)</a></p></li> <li><p><a class="breakall" href="https://www.ithome.com/1/008/067.htm" target="_blank">2026-09-29：macOS 27.0.1 (26A434)</a></p></li> <li><p><a class="breakall" href="https://www.ithome.com/1/005/484.htm" target="_blank">2026-09-22：macOS 27.2 Beta 2 (26B5091g)</a></p></li> <li><p><a class="breakall" href="https://www.ithome.com/1/003/343.htm" target="_blank">2026-09-17：macOS 27.2 Beta (26B5086k)</a></p></li> <li><p><a class="breakall" href="https://www.ithome.com/1/002/330.htm" target="_blank">2026-09-15：macOS 27.0 (26A428)</a></p></li> <li><p><a class="breakall" href="https://www.ithome.com/1/000/527.htm" target="_blank">2026-09-10：macOS 27.0 RC (26A428)</a></p></li> <li><p><a class="breakall" href="https://www.ithome.com/0/996/691.htm" target="_blank">2026-09-01：macOS 27.0 Beta 8 (26A5425a)</a></p></li> <li><p><a class="breakall" href="https://www.ithome.com/0/993/761.htm" target="_blank">2026-08-25：macOS 27.0 Beta 7 (26A5421a)</a></p></li> <li><p><a class="breakall" href="https://www.ithome.com/0/990/862.htm" target="_blank">2026-08-18：macOS 27.0 Beta 6 (26A5416b)</a></p></li> <li><p><a class="breakall" href="https://www.ithome.com/0/988/062.htm" target="_blank">2026-08-11：macOS 27.0 Beta 5 (26A5406e)</a></p></li> <li><p><a class="breakall" href="https://www.ithome.com/0/979/263.htm" target="_blank">2026-07-21：macOS 27.0 Beta 4 (26A5388g)</a></p></li> <li><p><a class="breakall" href="https://www.ithome.com/0/973/307.htm" target="_blank">2026-07-07：macOS 27.0 Beta 3 (26A5378j)</a></p></li> <li><p><a class="breakall" href="https://www.ithome.com/0/967/242.htm" target="_blank">2026-06-23：macOS 27.0 Beta 2 (26A5368g)</a></p></li> <li><p><a class="breakall" href="https://www.ithome.com/0/961/685.htm" target="_blank">2026-06-09：macOS 27 Beta (26A5353q)</a></p></li> </ul> <p> IT之家小伙伴如果找到更多新内容，可以在投稿或评论区中提出你的发现~[微笑] </p>]]></description>
+    <pubDate>Tue, 13 Oct 2026 22:33:07 -0000</pubDate>
+    <guid isPermaLink="true">https://www.ithome.com/1/012/607.htm</guid>
+    <source url="https://www.ithome.com/1/012/607.htm">IT之家</source>
+  </item>
+  <item>
+    <title>[IT之家] 苹果 iOS/iPadOS 27.2 开发者预览版 Beta 4 发布</title>
+    <link>https://www.ithome.com/1/012/606.htm</link>
+    <description><![CDATA[<p style="text-align: center;"> 【<a href="#profile-download">点此直达升级教程</a>】 </p><p> IT之家 10 月 14 日消息，苹果今日向 iPhone 和 iPad 用户推送了 iOS/iPadOS 27.2 开发者预览版 Beta 4 更新（内部版本号：24B5110a），本次更新距离上次发布 Beta/RC 间隔 7 天。</p> <p style="text-align: center;"> <img alt="苹果 iOS 操作系统" src="https://img.ithome.com/newsuploadfiles/2022/4/415e6b6f-de4b-468d-be0e-b92e95688ee8.jpg?x-bce-process=image/watermark,image_aW1nL3dhdGVybWFyay9xdy9xdzEzOC5wbmc=,g_7,x_14,y_14,a_0,t_100" /> </p> <h2 class="ai-word-checked" id="profile-download">如何升级 iOS / iPadOS / watchOS / macOS 开发版和公测版？</h2><p>• <strong>公开测试版</strong>：需注册&nbsp;<a href="https://beta.apple.com/zh-CN/guide#ios" target="_blank" title="Apple Beta 版软件计划">Apple Beta 版软件计划</a>，之后通过【设置】【通用】【软件更新】【Beta 版更新】来升级；</p><p>• <strong>开发预览版</strong>：需登录注册<a href="https://developer.apple.com/programs/" target="_blank" title="苹果开发者计划">苹果开发者计划</a>，之后通过【设置】【通用】【软件更新】来升级。</p><h3 class="ai-word-checked">附苹果 iOS 历史固件下载大全：</h3><p class="ai-word-checked">《<a href="https://www.ithome.com/iosfirmware" target="_blank" title="苹果 iOS / iPadOS / macOS 固件下载 / 更新日志大全">苹果 iOS / iPadOS / macOS 固件下载 / 更新日志大全</a>》</p><p> 本文由机器人发布，IT之家稍后将为大家带来具体更新内容。</p> <h3>附 iOS/iPadOS 27 发布历史：</h3> <ul class="custom_reference"> <li><p><a class="breakall" href="https://www.ithome.com/1/009/905.htm" target="_blank">2026-10-06：iOS 27.2 Beta 3 (24B5099f)</a></p></li> <li><p><a class="breakall" href="https://www.ithome.com/1/008/066.htm" target="_blank">2026-09-29：iOS 27.0.1 (24A446)</a></p></li> <li><p><a class="breakall" href="https://www.ithome.com/1/005/483.htm" target="_blank">2026-09-22：iOS 27.2 Beta 2 (24B5089g)</a></p></li> <li><p><a class="breakall" href="https://www.ithome.com/1/003/342.htm" target="_blank">2026-09-17：iOS 27.2 Beta (24B5084k)</a></p></li> <li><p><a class="breakall" href="https://www.ithome.com/1/002/329.htm" target="_blank">2026-09-15：iOS 27.0 (24A437)</a></p></li> <li><p><a class="breakall" href="https://www.ithome.com/0/996/690.htm" target="_blank">2026-09-01：iOS 27.0 Beta 8 (24A5430a)</a></p></li> <li><p><a class="breakall" href="https://www.ithome.com/0/993/760.htm" target="_blank">2026-08-25：iOS 27.0 Beta 7 (24A5424a)</a></p></li> <li><p><a class="breakall" href="https://www.ithome.com/0/990/861.htm" target="_blank">2026-08-18：iOS 27.0 Beta 6 (24A5418b)</a></p></li> <li><p><a class="breakall" href="https://www.ithome.com/0/988/061.htm" target="_blank">2026-08-11：iOS 27.0 Beta 5 (24A5408d)</a></p></li> <li><p><a class="breakall" href="https://www.ithome.com/0/979/262.htm" target="_blank">2026-07-21：iOS 27.0 Beta 4 (24A5390f)</a></p></li> <li><p><a class="breakall" href="https://www.ithome.com/0/973/306.htm" target="_blank">2026-07-07：iOS 27.0 Beta 3 (24A5380h)</a></p></li> <li><p><a class="breakall" href="https://www.ithome.com/0/967/241.htm" target="_blank">2026-06-23：iOS 27.0 Beta 2 (24A5370h)</a></p></li> <li><p><a class="breakall" href="https://www.ithome.com/0/961/684.htm" target="_blank">2026-06-09：iOS 27 Beta (24A5355q)</a></p></li> </ul> <p> IT之家小伙伴如果找到更多新内容，可以在投稿或评论区中提出你的发现~[微笑] </p>]]></description>
+    <pubDate>Tue, 13 Oct 2026 22:33:06 -0000</pubDate>
+    <guid isPermaLink="true">https://www.ithome.com/1/012/606.htm</guid>
+    <source url="https://www.ithome.com/1/012/606.htm">IT之家</source>
+  </item>
+  <item>
+    <title>[V2EX] [Apple] HomeView 国内能用么？比如：使用国内 Apple ID、播放国内 apple music</title>
+    <link>https://www.v2ex.com/t/1248557#reply0</link>
+    <description><![CDATA[<p>如果能用，确实很想入手啊</p>]]></description>
+    <pubDate>Tue, 13 Oct 2026 22:31:14 -0000</pubDate>
+    <guid isPermaLink="true">https://www.v2ex.com/t/1248557#reply0</guid>
+    <source url="https://www.v2ex.com/t/1248557#reply0">V2EX</source>
+  </item>
+  <item>
+    <title>[原创频道&gt;&gt;什么值得买] 寒潮来之前，先惦记楼下那台老车的电瓶：怎么测、怎么选、怎么换不花冤枉钱，功课我做全了</title>
+    <link>https://post.smzdm.com/p/agg589o6/</link>
+    <description><![CDATA[有格这几天降温降得厉害，早晚已经有凛冽的意思了。家里有车的都懂，这是什么季节——老车集中趴窝的季节。我们家的用车结构挺典型：日常通勤全指那台电车，楼下这台2016年的油车基本算预备役，一个月也就挪一两回，每次还是去个菜市场、接个娃这种五公里以内的短途。上周末本来想开它带闺女去趟京郊，电车装东西不方便，结果手搭在门把上我犹豫了：这车停了快半个月，真到零下那几天，它还能一把着吗？电瓶这个事，我花了几个晚上<p>本文来自<a href="https://post.smzdm.com/p/agg589o6/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
+    <pubDate>Tue, 13 Oct 2026 22:23:53 -0000</pubDate>
+    <guid isPermaLink="true">https://post.smzdm.com/p/agg589o6/</guid>
+    <source url="https://post.smzdm.com/p/agg589o6/">原创频道&gt;&gt;什么值得买</source>
+  </item>
+  <item>
+    <title>[V2EX] [分享创造] 好久不见 我做了一个支持全平台的《石器时代》 remake 因为怀念那样的时光和氛围感</title>
+    <link>https://www.v2ex.com/t/1248556#reply0</link>
+    <description><![CDATA[<p>最近好像 decomp / recomp 这样的项目挺火的 尤其是最近 AI 厉害了之后</p>
+<p>二十多年前的我是个忠实的《石器时代》玩家，挥霍了多少的青春在那里面。二十多年之后 依然时不时的怀念《石器时代》里面的景象，音乐，音效，宠物们，以及当时的那种感觉 那一切给我的一种氛围感。</p>
+<p>你说石器时代不仅有官服还有一堆的私服以及手游？
+确实有很多很多 但都不是自己的代码 自己的数据 （不知道什么时候就会没有的东西 不想再付出时间了）</p>
+<p>而且我想能够全平台 native 地玩，跨平台同样的数据 同样的存档，局域网/私人网络和家人朋友一起玩，还有一个终极梦想还是能够在 Quest 3 / AVP 这样的头显里面玩 （作为 2D 游戏 并不是 VR ）或者只是作为一种氛围的存在。</p>
+<p>所以 我最近经 AI 的帮助 做了一个 《石器时代》 remake. Made with Godot.</p>
+<table>
+<thead>
+<tr>
+<th>玛丽娜丝渔村</th>
+<th>宠物</th>
+<th>地图导航与快速传送</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img alt="玛丽娜丝渔村" class="embedded_image" rel="noreferrer" src="https://media.githubusercontent.com/media/NicholasClooney/project-stone-age/main/docs/screenshots/marina-village.png" /></td>
+<td><img alt="宠物" class="embedded_image" rel="noreferrer" src="https://media.githubusercontent.com/media/NicholasClooney/project-stone-age/main/docs/screenshots/pet-status.png" /></td>
+<td><img alt="地图导航" class="embedded_image" rel="noreferrer" src="https://media.githubusercontent.com/media/NicholasClooney/project-stone-age/main/docs/screenshots/map-navigation.png" /></td>
+</tr>
+<tr>
+<td><strong>同种比较</strong></td>
+<td><strong>游戏助手</strong></td>
+<td><strong>自动抓极品</strong></td>
+</tr>
+<tr>
+<td><img alt="同种比较" class="embedded_image" rel="noreferrer" src="https://media.githubusercontent.com/media/NicholasClooney/project-stone-age/main/docs/screenshots/pet-comparison.png" /></td>
+<td><img alt="游戏助手" class="embedded_image" rel="noreferrer" src="https://media.githubusercontent.com/media/NicholasClooney/project-stone-age/main/docs/screenshots/game-helper.png" /></td>
+<td><img alt="自动抓极品" class="embedded_image" rel="noreferrer" src="https://media.githubusercontent.com/media/NicholasClooney/project-stone-age/main/docs/screenshots/auto-pet-hunt.png" /></td>
+</tr>
+<tr>
+<td><strong>刷怪传送</strong></td>
+<td><strong>宠物大全</strong></td>
+<td><strong>自动练级</strong></td>
+</tr>
+<tr>
+<td><img alt="刷怪传送" class="embedded_image" rel="noreferrer" src="https://media.githubusercontent.com/media/NicholasClooney/project-stone-age/main/docs/screenshots/leveling-teleport.png" /></td>
+<td><img alt="宠物大全" class="embedded_image" rel="noreferrer" src="https://media.githubusercontent.com/media/NicholasClooney/project-stone-age/main/docs/screenshots/pet-encyclopedia.png" /></td>
+<td><img alt="自动练级" class="embedded_image" rel="noreferrer" src="https://media.githubusercontent.com/media/NicholasClooney/project-stone-age/main/docs/screenshots/auto-leveling.png" /></td>
+</tr>
+</tbody></table><p>基本上复刻了 我心里的《石器时代》，各个大陆，音乐，音效，人物动画，统统都有。任务也做了一些 （不完整） 但是没有完整的测试过。另外上面说的都实现了。没错 AVP 里面也可以用 Safari 打开 操作 挂机 练级 抓宠 听听石器时代音乐电台</p>
+<p>也有很多“私服”或者“外挂”的功能 方便自己随意玩耍：刷宠，练级，自动抓极品宠 （设定属性条件过滤），我想到的 AI 都帮我做到了。</p>
+<p>我真的回到过去了吗？也没有。 但是至少现在我有一个属于自己的《石器时代》。代码是自己的，数据是自己的，想要什么新功能 AI 总能实现。</p>
+<p>如果你也是一个曾经的《石器时代》玩家， 欢迎尝试。</p>
+<p>GitHub: <a href="https://github.com/NicholasClooney/project-stone-age" rel="nofollow">https://github.com/NicholasClooney/project-stone-age</a></p>]]></description>
+    <pubDate>Tue, 13 Oct 2026 22:10:39 -0000</pubDate>
+    <guid isPermaLink="true">https://www.v2ex.com/t/1248556#reply0</guid>
+    <source url="https://www.v2ex.com/t/1248556#reply0">V2EX</source>
+  </item>
+  <item>
+    <title>[原创频道&gt;&gt;什么值得买] 拜仁0比2落后维京确实罕见，但这不是季前赛——欧洲豪门今夏“翻车”一次看完</title>
+    <link>https://post.smzdm.com/p/agg589w6/</link>
+    <description><![CDATA[匿名用户先纠正一个容易跑偏的印象：热榜上“拜仁0比2落后维京”这场球，不是季前赛，而是欧冠联赛阶段第二轮的正式比赛，最后比分3比3，拜仁直到伤停补时都被多打一人的维京绝平。 上半场维京由斯滕斯内斯、克里斯蒂安森连入两球，下半场凯恩点球加一次运动战进球、迪亚斯补上一球，拜仁完成“让二追三”反超，然后就是73分钟那张两黄变一红的牌。德甲官博雷速体育“罕见”两个字，得放在对照里才看得清。拜仁本轮之前刚在欧冠首战<p>本文来自<a href="https://post.smzdm.com/p/agg589w6/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
+    <pubDate>Tue, 13 Oct 2026 22:10:03 -0000</pubDate>
+    <guid isPermaLink="true">https://post.smzdm.com/p/agg589w6/</guid>
+    <source url="https://post.smzdm.com/p/agg589w6/">原创频道&gt;&gt;什么值得买</source>
+  </item>
+  <item>
+    <title>[原创频道&gt;&gt;什么值得买] 苹果发布会新品选购指南：不同预算党该如何选？</title>
+    <link>https://post.smzdm.com/p/arzr07rz/</link>
+    <description><![CDATA[匿名用户今年秋天苹果的两场发布会，把"新品贵"和"生态墙"同时推到了新高：9月站上了iPhone 18 Pro系列、折叠屏iPhone Duo和AirPods 5，10月13日晚"欢迎回家"主题发布会又推出三款智能家居产品，其中只有HomePod mini 2有国行首发。选购难题从来不是参数表，而是按钱包决定哪些现在买、哪些别急着买：这一波新品里唯一降价的是AirPods 5，唯一渠道价明显低于官网的新i<p>本文来自<a href="https://post.smzdm.com/p/arzr07rz/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
+    <pubDate>Tue, 13 Oct 2026 22:02:34 -0000</pubDate>
+    <guid isPermaLink="true">https://post.smzdm.com/p/arzr07rz/</guid>
+    <source url="https://post.smzdm.com/p/arzr07rz/">原创频道&gt;&gt;什么值得买</source>
+  </item>
+  <item>
+    <title>[V2EX] [人工智能] 有什么 ai 做产品（造轮子）讨论的论坛？</title>
+    <link>https://www.v2ex.com/t/1248555#reply0</link>
+    <description><![CDATA[]]></description>
+    <pubDate>Tue, 13 Oct 2026 22:01:26 -0000</pubDate>
+    <guid isPermaLink="true">https://www.v2ex.com/t/1248555#reply0</guid>
+    <source url="https://www.v2ex.com/t/1248555#reply0">V2EX</source>
+  </item>
+  <item>
+    <title>[V2EX] [问与答] 公司只能开 60 刀的 cursor，但是我喜欢用 GPT，该怎么办。</title>
+    <link>https://www.v2ex.com/t/1248554#reply0</link>
+    <description><![CDATA[<p>有人能置换吗？</p>]]></description>
+    <pubDate>Tue, 13 Oct 2026 21:58:18 -0000</pubDate>
+    <guid isPermaLink="true">https://www.v2ex.com/t/1248554#reply0</guid>
+    <source url="https://www.v2ex.com/t/1248554#reply0">V2EX</source>
+  </item>
+  <item>
+    <title>[原创频道&gt;&gt;什么值得买] 苹果发布会AI功能盘点：打工人和学生党能用上哪些？</title>
+    <link>https://post.smzdm.com/p/agg58956/</link>
+    <description><![CDATA[匿名用户苹果9月发布会重做的Siri，加上北京时间10月13日晚刚开的"欢迎回家"智能家居发布会，把苹果AI的最新家底一次摊开：助手能看懂你的屏幕、翻出你邮件里的确认码、跨App替你办事，手表还能把没听清的对话"倒带"。这些能力几乎每一条都戳在开会记要点的打工人和赶早八记笔记的学生党身上。但国行用户能不能用上，取决于地区、语言、设备三道门槛叠加后的结果，结论要放在最前面说：大陆普通用户今天用不上这轮发布的<p>本文来自<a href="https://post.smzdm.com/p/agg58956/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
+    <pubDate>Tue, 13 Oct 2026 21:55:54 -0000</pubDate>
+    <guid isPermaLink="true">https://post.smzdm.com/p/agg58956/</guid>
+    <source url="https://post.smzdm.com/p/agg58956/">原创频道&gt;&gt;什么值得买</source>
+  </item>
+  <item>
+    <title>[原创频道&gt;&gt;什么值得买] 拜仁0比2落后维京：球迷观赛平台与互动指南</title>
+    <link>https://post.smzdm.com/p/a5rxk6x7/</link>
+    <description><![CDATA[匿名用户“拜仁0比2落后维京”这个热搜词条，定格的是10月14日凌晨欧冠联赛阶段第2轮拜仁慕尼黑客场落后的瞬间；等终场哨响，这场球已变成3比3。对想补看比赛、参与讨论的球迷来说，中国大陆唯一的官方直播入口是爱奇艺体育，互动阵地则集中在微博赛事话题、拜仁官方微信小程序和赛后知乎、B站的讨论区。从0比2到3比3，热搜只讲了半场比赛上半场结束时，维京通过反击单刀再下一城，拜仁在SR银行竞技场实打实0比2落后。热<p>本文来自<a href="https://post.smzdm.com/p/a5rxk6x7/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
+    <pubDate>Tue, 13 Oct 2026 21:50:32 -0000</pubDate>
+    <guid isPermaLink="true">https://post.smzdm.com/p/a5rxk6x7/</guid>
+    <source url="https://post.smzdm.com/p/a5rxk6x7/">原创频道&gt;&gt;什么值得买</source>
+  </item>
+  <item>
+    <title>[V2EX] [Codex] 说实在的， Codex 对话框的“预输入”，真的很容易猜中我想说的。</title>
+    <link>https://www.v2ex.com/t/1248553#reply0</link>
+    <description><![CDATA[<p>似乎是上周发布的新功能。</p>
+<p>会有个 Codex 猜测你想如何推进而产生的“预输入”作为输入框的 PlaceHolder 。</p>
+<p>很多次，它都几乎猜中了我想说的。</p>
+<p>也或者说，它的预回复往往很在点，所以我会有不低的概率直接采用。（ tab+enter ）</p>
+<p>不过也可能是我越来越无脑了 orz……</p>]]></description>
+    <pubDate>Tue, 13 Oct 2026 21:35:50 -0000</pubDate>
+    <guid isPermaLink="true">https://www.v2ex.com/t/1248553#reply0</guid>
+    <source url="https://www.v2ex.com/t/1248553#reply0">V2EX</source>
+  </item>
+  <item>
+    <title>[原创频道&gt;&gt;什么值得买] 9月汽车零售跌28%，优惠反而在收窄：年底的降价潮别信，11月30日这个截止日要信</title>
+    <link>https://post.smzdm.com/p/a70p8enl/</link>
+    <description><![CDATA[老冯不充电这几天我的信息流被同一类文章刷屏了，标题几乎是一个模子刻出来的：年底降价潮来袭，等等党赢麻了。有的文章催你把10月到12月盯紧，说这三个月大概率是今年买车最容易拿到实在优惠的窗口。正好乘联分会10月12日把9月的数据发了，我摆在一起看了看。9月全国乘用车零售161.8万辆，同比下降28%，是今年最大的单月跌幅。车市冷成这样，按常理车企该降价冲量，但界面新闻去比亚迪、长安、理想、蔚来这些品牌的门店转<p>本文来自<a href="https://post.smzdm.com/p/a70p8enl/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
+    <pubDate>Tue, 13 Oct 2026 21:30:35 -0000</pubDate>
+    <guid isPermaLink="true">https://post.smzdm.com/p/a70p8enl/</guid>
+    <source url="https://post.smzdm.com/p/a70p8enl/">原创频道&gt;&gt;什么值得买</source>
+  </item>
+  <item>
+    <title>[原创频道&gt;&gt;什么值得买] 白天刚说完“不会降价”，iPhone 18 Pro 晚上就被自营砍掉一千</title>
+    <link>https://post.smzdm.com/p/ae6qk8v3/</link>
+    <description><![CDATA[机圈清醒哥10月11日，有记者去苹果线下授权门店探访，对最近传得沸沸扬扬的“iPhone 18 Pro 卖不动”，店员的回应很干脆：销量正常、价格一分没变、近期不存在降价可能——双十一离新品发售太近，大幅降价更不可能。第二天晚上八点，京东电信自营把 iPhone 18 Pro 256G 直接砍掉一千块，叠券到手8954，还挂着分期免息。回应的余音还没散，渠道的价格牌先翻了。其实两边都没撒谎，只是说的不是同一<p>本文来自<a href="https://post.smzdm.com/p/ae6qk8v3/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
+    <pubDate>Tue, 13 Oct 2026 21:25:44 -0000</pubDate>
+    <guid isPermaLink="true">https://post.smzdm.com/p/ae6qk8v3/</guid>
+    <source url="https://post.smzdm.com/p/ae6qk8v3/">原创频道&gt;&gt;什么值得买</source>
+  </item>
+  <item>
+    <title>[原创频道&gt;&gt;什么值得买] 秋天泡果酒，42度就够</title>
+    <link>https://post.smzdm.com/p/avgp7kx7/</link>
+    <description><![CDATA[酒坛子成精十月中旬，水果摊的石榴已经堆成小山，山楂也上市了，不少人家里的大玻璃罐都翻出来洗好，摆在阳台上晾着。每年这个时候，家庭果酒都进入最忙的季节。夏天就有抖音网友一次买了140斤巨峰葡萄回家酿酒，光是搬缸的视频就攒了一百多条评论，看得出多少人心痒。但大多数人的第一步就走岔了：分不清泡酒和自酿酒。这两件事差一个字，风险差了一大截。泡酒和自酿酒，是两码事泡酒，是把水果的味道浸到酒里，不发酵。高度酒本身就能抑<p>本文来自<a href="https://post.smzdm.com/p/avgp7kx7/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
+    <pubDate>Tue, 13 Oct 2026 21:02:54 -0000</pubDate>
+    <guid isPermaLink="true">https://post.smzdm.com/p/avgp7kx7/</guid>
+    <source url="https://post.smzdm.com/p/avgp7kx7/">原创频道&gt;&gt;什么值得买</source>
+  </item>
+  <item>
+    <title>[原创频道&gt;&gt;什么值得买] 尊界V800测评公信力之争：懂车帝与官方检测报告，谁的公信力立得住？</title>
+    <link>https://post.smzdm.com/p/al38pzlg/</link>
+    <description><![CDATA[匿名用户2026年10月13日上午，尊界汽车发布《尊界V800制动踏板检测情况说明》，称V800制动踏板经第三方检测符合行业标准要求，在加严检验中未出现裂纹和损坏，试图为持续五天的“踩断刹车踏板”风波一个交代。 但从舆情反应看，这份报告没能换来一边倒的信任，懂车帝的测评同样争议不断。这场测评之争里两边的证据各自都“成立”，却都没回答用户真正要的那个问题——量产车在真实紧急制动中会不会踩断踏板，所以两边都还<p>本文来自<a href="https://post.smzdm.com/p/al38pzlg/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
+    <pubDate>Tue, 13 Oct 2026 20:57:24 -0000</pubDate>
+    <guid isPermaLink="true">https://post.smzdm.com/p/al38pzlg/</guid>
+    <source url="https://post.smzdm.com/p/al38pzlg/">原创频道&gt;&gt;什么值得买</source>
+  </item>
+  <item>
+    <title>[原创频道&gt;&gt;什么值得买] 329元卷进800万像素！小米智能摄像机4 Pro折射家用监控新趋势</title>
+    <link>https://post.smzdm.com/p/ak8lmrke/</link>
+    <description><![CDATA[匿名用户10月13日，小米智能摄像机4 Pro全渠道开售，800万像素摄像头主打"家中细节清晰看"。官方标出的首销价是329元。但单论像素，这并非小米在这个价位头一回：2025年4月发布的上一代小米智能摄像机4，定价249元就已用上800万像素专业传感器。所以这台329元新品的真正看点不在像素本身：80元差价买到的，是微信直连通话的物理按键、本地AI看护和带认证等级的隐私防护，家用监控的竞争轴心正从"看得<p>本文来自<a href="https://post.smzdm.com/p/ak8lmrke/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
+    <pubDate>Tue, 13 Oct 2026 20:56:22 -0000</pubDate>
+    <guid isPermaLink="true">https://post.smzdm.com/p/ak8lmrke/</guid>
+    <source url="https://post.smzdm.com/p/ak8lmrke/">原创频道&gt;&gt;什么值得买</source>
+  </item>
+  <item>
+    <title>[原创频道&gt;&gt;什么值得买] 小米智能摄像机4 Pro首销329元避坑指南：云存储收费与网络延迟先理清</title>
+    <link>https://post.smzdm.com/p/apqmzex0/</link>
+    <description><![CDATA[匿名用户10月13日，小米智能摄像机4 Pro全渠道开售。该机配备800万像素4K画质镜头，新增手势与物理按键呼叫，主打多种本地AI检测，并带来延时摄影和全天超省录制。开售当日媒体披露，这款新品首销到手价329元，卖点之一是新增一键微信通话按键。对准备下单的用户，真正需要在付款前弄清的是营销素材之外的两件事：部分常用AI与回看功能位于米家云存储的付费边界内，而远程查看与通话的体验取决于家庭网络和链路。前者<p>本文来自<a href="https://post.smzdm.com/p/apqmzex0/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
+    <pubDate>Tue, 13 Oct 2026 20:55:25 -0000</pubDate>
+    <guid isPermaLink="true">https://post.smzdm.com/p/apqmzex0/</guid>
+    <source url="https://post.smzdm.com/p/apqmzex0/">原创频道&gt;&gt;什么值得买</source>
+  </item>
+  <item>
+    <title>[原创频道&gt;&gt;什么值得买] 小米智能摄像机4Pro开售：首销329元，机身一按就能呼叫家人微信，三个“4Pro”别买错</title>
+    <link>https://post.smzdm.com/p/az8o593o/</link>
+    <description><![CDATA[匿名用户10月13日，小米智能生态官号宣布小米智能摄像机4Pro全渠道开售。首销到手价329元，这是一款室内桌面款摄像机，卖点是800万像素4K超清画质，并新增一键微信通话按键。小米智能生态IT之家比上代贵的80元，主要买了什么上一代小米智能摄像机4在2025年4月开售，售价249元、首销赠64GB存储卡。4Pro先把室内机的画质推到4K档：800万像素传感器、4K超清画质。据媒体披露，其分辨率达到384<p>本文来自<a href="https://post.smzdm.com/p/az8o593o/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
+    <pubDate>Tue, 13 Oct 2026 20:50:36 -0000</pubDate>
+    <guid isPermaLink="true">https://post.smzdm.com/p/az8o593o/</guid>
+    <source url="https://post.smzdm.com/p/az8o593o/">原创频道&gt;&gt;什么值得买</source>
+  </item>
+  <item>
+    <title>[原创频道&gt;&gt;什么值得买] AI批量造星VS真人明星：你的年度娱乐预算会投给谁？</title>
+    <link>https://post.smzdm.com/p/arzr076q/</link>
+    <description><![CDATA[匿名用户你的年度娱乐预算其实不用谁来做动员，它已经悄悄分成了两本账：时间这本账，AI批量生产的内容正在快速拿走；钱这本账，目前大头仍然流向真人明星的“在场感”。“投给谁”与其说是二选一，不如先看清每一笔钱各自买的是什么。时间账本上，供给和需求都已经跑出了AI速度。2026年前8个月，全国上线微短剧43万部，是去年全年的13倍，其中使用AI辅助制作的剧集占比超九成。要注意，口径是使用AI辅助，不是完全由AI<p>本文来自<a href="https://post.smzdm.com/p/arzr076q/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
+    <pubDate>Tue, 13 Oct 2026 20:49:24 -0000</pubDate>
+    <guid isPermaLink="true">https://post.smzdm.com/p/arzr076q/</guid>
+    <source url="https://post.smzdm.com/p/arzr076q/">原创频道&gt;&gt;什么值得买</source>
+  </item>
+  <item>
+    <title>[原创频道&gt;&gt;什么值得买] AI批量造星：五位AI艺人出道、43万部AI剧涌来，真人明星的价值在哪里</title>
+    <link>https://post.smzdm.com/p/am93m0xp/</link>
+    <description><![CDATA[匿名用户10月12日，芒果TV正式官宣程渡、方屿、林恩娜、戚许、展颜等五位原生AI艺人集体出道，他们不是任何真人的数字分身，而是拥有独立身份设定的虚拟演员，并将出演AI短剧《了不起啊朋友》。 这不是AI第一次“生”出明星，却是主流视频平台第一次以完整经纪模式批量推出虚拟演员：发布公式照、开通实名社交账号、按真人艺人的节奏发日常营业，主演剧集《了不起啊朋友》定档10月14日上线。 热榜词条抛出的问题是——当<p>本文来自<a href="https://post.smzdm.com/p/am93m0xp/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
+    <pubDate>Tue, 13 Oct 2026 20:48:42 -0000</pubDate>
+    <guid isPermaLink="true">https://post.smzdm.com/p/am93m0xp/</guid>
+    <source url="https://post.smzdm.com/p/am93m0xp/">原创频道&gt;&gt;什么值得买</source>
+  </item>
+  <item>
+    <title>[原创频道&gt;&gt;什么值得买] 新手徒步，先别买专业登山靴</title>
+    <link>https://post.smzdm.com/p/a3mxgzdn/</link>
+    <description><![CDATA[老宫去野了秋天徒步季，新手入坑帖底下吵得最凶的不是走哪条线，是脚上穿什么：一派说不买中帮徒步鞋护不住脚踝，另一派说一双越野跑鞋走天下，徒步鞋纯属规格过剩。这场争论有真实数据——小红书一篇狠测两周的交叉实测帖，点赞干到 1013，评论区 174 个人还在吵。其实两派都没说错，只是吵错了对象。这两类鞋的分水岭，不是价签，也不是“专业”俩字，是你背上压几公斤、脚下踩什么路。今年 618，户外鞋袜品类 GMV 同比<p>本文来自<a href="https://post.smzdm.com/p/a3mxgzdn/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
+    <pubDate>Tue, 13 Oct 2026 20:35:56 -0000</pubDate>
+    <guid isPermaLink="true">https://post.smzdm.com/p/a3mxgzdn/</guid>
+    <source url="https://post.smzdm.com/p/a3mxgzdn/">原创频道&gt;&gt;什么值得买</source>
+  </item>
+  <item>
+    <title>[原创频道&gt;&gt;什么值得买] 隐藏款699，冷款破发，LABUBU猫盲盒到底咋花</title>
+    <link>https://post.smzdm.com/p/a82p3d5n/</link>
+    <description><![CDATA[摸盒君泡泡玛特THE MONSTERS一喵变猫系列搪胶毛绒挂件盲盒还没正式开售，二手平台的挂牌价已经先分裂成两个世界：隐藏款缅因喵被挂到699，九个常规款里六个的挂牌价已经低于129的官方定价，抹茶喵最低只要九十多。官方给的发售时间是10月15日22:00线上、10月16日线下。对大多数"只想要某一只猫"的人来说，这个系列最划算的路子不是首发当晚拼手气，而是发售后的确认款市场。首发夜到底咋花最稳，咱们今<p>本文来自<a href="https://post.smzdm.com/p/a82p3d5n/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
+    <pubDate>Tue, 13 Oct 2026 20:29:23 -0000</pubDate>
+    <guid isPermaLink="true">https://post.smzdm.com/p/a82p3d5n/</guid>
+    <source url="https://post.smzdm.com/p/a82p3d5n/">原创频道&gt;&gt;什么值得买</source>
+  </item>
+  <item>
+    <title>[原创频道&gt;&gt;什么值得买] 想给十年老车花几百块换套脚垫：软文刷完一圈，我只敢信这四件事</title>
+    <link>https://post.smzdm.com/p/agg5894m/</link>
+    <description><![CDATA[有格上周末开老车去接丈母娘，头天刚下过雨，小区院子里全是泥水，女儿踩着泥鞋就往车上蹦。媳妇拉开门收拾东西的时候说了句：车里怎么一股潮抹布味。我蹲下去看，确实没法看了。这台2016年的车，脚垫还是当年4S店装的那套皮革大包围，十年下来主驾脚跟位置磨得发白，露出底下的基布；副驾边角早就翘了，压下去又弹起来。更难看的是，掀起前排脚垫，底下还压着原车的灰色绒垫——当年装大包围时懒得拆，就这么叠了十年，两层之间<p>本文来自<a href="https://post.smzdm.com/p/agg5894m/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
+    <pubDate>Tue, 13 Oct 2026 20:22:05 -0000</pubDate>
+    <guid isPermaLink="true">https://post.smzdm.com/p/agg5894m/</guid>
+    <source url="https://post.smzdm.com/p/agg5894m/">原创频道&gt;&gt;什么值得买</source>
+  </item>
+  <item>
+    <title>[cnBeta.COM.TW RSS订阅] 摩根大通禁止Muse、Instinct等外部AI代理直接访问账户</title>
+    <link>https://www.cnbeta.com.tw/articles/tech/1582038.htm</link>
+    <description><![CDATA[<p>摩根大通首席执行官杰米·戴蒙周二表示，该行不会允许外部人工智能代理访问客户账户并代表客户操作，理由是在Meta等科技公司发布自主助手之际，这对公司及其客户构成风险。“我们不会允许任何外部代理进入公司内部，因为这对客户和摩根大通来说都太危险了，”戴蒙在该行第三季度财报电话会上对分析师表示。</p> <a href="https://www.cnbeta.com.tw/articles/tech/1582038.htm" target="_blank"><strong>阅读全文</strong></a>]]></description>
+    <pubDate>Tue, 13 Oct 2026 19:48:26 -0000</pubDate>
+    <guid isPermaLink="true">https://www.cnbeta.com.tw/articles/tech/1582038.htm</guid>
+    <source url="https://www.cnbeta.com.tw/articles/tech/1582038.htm">cnBeta.COM.TW RSS订阅</source>
+  </item>
+  <item>
+    <title>[V2EX] [Google] 4 Argon 上线 Gemini 客户端了</title>
+    <link>https://www.v2ex.com/t/1248551#reply1</link>
+    <description><![CDATA[PRO 难产这么久，评测吹那么厉害，终于拉出来溜溜了]]></description>
+    <pubDate>Tue, 13 Oct 2026 19:42:48 -0000</pubDate>
+    <guid isPermaLink="true">https://www.v2ex.com/t/1248551#reply1</guid>
+    <source url="https://www.v2ex.com/t/1248551#reply1">V2EX</source>
+  </item>
+  <item>
+    <title>[原创频道&gt;&gt;什么值得买] 物业说“装不了”，人防办说“可以装”：装充电桩之前，先把规则和话术分清楚</title>
+    <link>https://post.smzdm.com/p/awwoxlrg/</link>
+    <description><![CDATA[老冯不充电上周杭州那条新闻，我看完愣了一下。董大姐买了套二手房，车位是人防车位，想装个充电桩，安装师傅直接告诉她：人防车位装不了。她不死心，一路问到人防办，得到的答复特别干脆——不破坏人防的主体结构，那就可以装。你品品这个落差。师傅说得斩钉截铁的"装不了"，到了主管部门嘴里变成"可以装"。装家充这件事上，不知道多少车主，就是被这种听起来很权威的话堵死在第一步的。现在装桩早就不是小众爱好了。国家能源局的数据，<p>本文来自<a href="https://post.smzdm.com/p/awwoxlrg/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
+    <pubDate>Tue, 13 Oct 2026 19:16:14 -0000</pubDate>
+    <guid isPermaLink="true">https://post.smzdm.com/p/awwoxlrg/</guid>
+    <source url="https://post.smzdm.com/p/awwoxlrg/">原创频道&gt;&gt;什么值得买</source>
+  </item>
+  <item>
+    <title>[原创频道&gt;&gt;什么值得买] 梅见配火锅，先花9块9试试</title>
+    <link>https://post.smzdm.com/p/a70p8e8l/</link>
+    <description><![CDATA[酒坛子成精天气一冷，火锅局就一场接一场。啤酒配火锅喝腻了的话，青梅酒真可以试试——酸口解腻又解辣，还不占肚子。说起青梅酒，绕不开梅见，国产梅酒里名气最大的那家。但它家款是真的多：原味、超酸、金桂、烟熏乌梅，还有贵到几百上千的高端线。哪瓶配火锅、哪瓶别碰，今天一次说清。梅见到底有多少款梅见是江小白旗下的牌子，2019年才上市，几年工夫就坐上了国内梅酒市场头把交椅。这两年低度果酒整体涨得凶，它算是吃得红利最多的<p>本文来自<a href="https://post.smzdm.com/p/a70p8e8l/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
+    <pubDate>Tue, 13 Oct 2026 19:07:20 -0000</pubDate>
+    <guid isPermaLink="true">https://post.smzdm.com/p/a70p8e8l/</guid>
+    <source url="https://post.smzdm.com/p/a70p8e8l/">原创频道&gt;&gt;什么值得买</source>
+  </item>
+  <item>
+    <title>[V2EX] [Apple] 上海联通收不到短信验证码</title>
+    <link>https://www.v2ex.com/t/1248550#reply0</link>
+    <description><![CDATA[有没有上海联通用户在上海突然收不到短信验证码的，但电话拨出正常]]></description>
+    <pubDate>Tue, 13 Oct 2026 19:05:51 -0000</pubDate>
+    <guid isPermaLink="true">https://www.v2ex.com/t/1248550#reply0</guid>
+    <source url="https://www.v2ex.com/t/1248550#reply0">V2EX</source>
+  </item>
+  <item>
+    <title>[cnBeta.COM.TW RSS订阅] 乌克兰无人机袭击俄罗斯Yandex数据中心后 俄网络水军并未明显减少</title>
+    <link>https://www.cnbeta.com.tw/articles/tech/1582036.htm</link>
+    <description><![CDATA[<p>乌克兰近期对俄罗斯科技企业Yandex运营的数据中心发动无人机袭击后，社交媒体上出现了一种引人注目的说法：俄罗斯政府支持的网络水军和虚假信息传播活动似乎突然减少了。乌克兰总统泽连斯基也公开谈及这一现象，称多个社交平台上的仇恨言论、分裂性内容和挑衅行为有所减少。<strong>然而，进一步调查显示，这种说法缺乏可靠证据支持，相关数据很可能被错误解读。无人机袭击确实造成了俄罗斯部分数字基础设施受损，但这并不意味着俄罗斯的虚假信息网络因此遭到重创。</strong></p> <a href="https://www.cnbeta.com.tw/articles/tech/1582036.htm" target="_blank"><strong>阅读全文</strong></a>]]></description>
+    <pubDate>Tue, 13 Oct 2026 18:52:34 -0000</pubDate>
+    <guid isPermaLink="true">https://www.cnbeta.com.tw/articles/tech/1582036.htm</guid>
+    <source url="https://www.cnbeta.com.tw/articles/tech/1582036.htm">cnBeta.COM.TW RSS订阅</source>
+  </item>
+  <item>
+    <title>[cnBeta.COM.TW RSS订阅] 美国国家公路交通安全管理局审查特斯拉Robotaxi在学校区域的超速指控</title>
+    <link>https://www.cnbeta.com.tw/articles/tech/1582034.htm</link>
+    <description><![CDATA[<p>美国国家公路交通安全管理局（NHTSA）正在审查一项针对特斯拉Robotaxi自动驾驶出租车的投诉。投诉称，部分启用自动驾驶系统的特斯拉车辆在学校区域限速措施生效期间，仍然以超过规定的速度行驶。此次审查涉及2026款特斯拉Model Y Robotaxi以及新推出的Cybercab无人驾驶出租车，可能进一步加大特斯拉扩大自动驾驶出租车业务所面临的监管压力。</p> <a href="https://www.cnbeta.com.tw/articles/tech/1582034.htm" target="_blank"><strong>阅读全文</strong></a>]]></description>
+    <pubDate>Tue, 13 Oct 2026 18:51:56 -0000</pubDate>
+    <guid isPermaLink="true">https://www.cnbeta.com.tw/articles/tech/1582034.htm</guid>
+    <source url="https://www.cnbeta.com.tw/articles/tech/1582034.htm">cnBeta.COM.TW RSS订阅</source>
+  </item>
+  <item>
+    <title>[cnBeta.COM.TW RSS订阅] 英伟达拟在欧洲追加20亿美元投资 黄仁勋呼吁加快AI布局</title>
+    <link>https://www.cnbeta.com.tw/articles/tech/1582032.htm</link>
+    <description><![CDATA[<p>英伟达首席执行官黄仁勋周二在巴黎的一场活动上表示，公司计划在未来一周宣布在欧洲投资20亿美元。巴黎是黄仁勋此次欧洲之行的首站，之后还将前往伦敦和柏林。黄仁勋表示，这笔投资是在英伟达过去一年已向欧洲投入80亿美元的基础上进一步追加。他还宣布将向法国初创企业Doctolib、Genesis AI、Pigment和Entalpic新增投资。</p> <a href="https://www.cnbeta.com.tw/articles/tech/1582032.htm" target="_blank"><strong>阅读全文</strong></a>]]></description>
+    <pubDate>Tue, 13 Oct 2026 18:32:28 -0000</pubDate>
+    <guid isPermaLink="true">https://www.cnbeta.com.tw/articles/tech/1582032.htm</guid>
+    <source url="https://www.cnbeta.com.tw/articles/tech/1582032.htm">cnBeta.COM.TW RSS订阅</source>
+  </item>
+  <item>
+    <title>[V2EX] [程序员] 战战兢兢，非程序员的第一个开源项目，以国标为基础的公文生成与机检工具</title>
+    <link>https://www.v2ex.com/t/1248549#reply0</link>
+    <description><![CDATA[<p>我不是程序员，但是从小就对计算机、信息技术、互联网十分感兴趣。初中时期，在只有 ADSL 网络的网吧熬几个通宵，用 Dreamweaver 和 FrontPage 做了人生第一个个人网站，那真是回忆满满。到现在四十多岁，还保持着对这些技术方面的兴趣和热爱。尤其最近几年 AI 大行其道，突然发现可玩儿的东西真的太多了，也就跟着折腾了很多玩意儿。</p>
+<p>我在上市公司、国企干了 20 年。现在跟政府、央国企打交道多，天天要读写材料。然后从满足自己的实际需求出发，用 Claude 整了一些相关的工具。就把公文单独拿出来做成了一个小项目：<strong>公文生成与机检工具 gongwen-kit</strong>。代码主要是跟 Claude Opus 5.5 一起写的，测试和真实文件回放是我一遍遍盯着做的。第一次开源，心里没底，希望能帮到经常读写材料的朋友，也恳请各位大佬指点。</p>
+<p>地址： <a href="https://github.com/imhuhe/gongwen-kit" rel="nofollow">https://github.com/imhuhe/gongwen-kit</a> 主要功能：按国标出公文、查公文、修公文。</p>
+<p>PS：上面的文字都是我手打的，我不喜欢大片大片的复制 AI 文本。但是下面的内容都是 Claude 写的，主要是内容太多，需要排版方便大家浏览，还请谅解！
+<img alt="要素全览样张" class="embedded_image" rel="noreferrer" src="https://raw.githubusercontent.com/imhuhe/gongwen-kit/main/assets/full.png" /></p>
+<h2>能做什么</h2>
+<ul>
+<li><strong>出稿</strong>：通知、报告、请示、函、纪要、管理办法，红头和不带红头的政府、企业文书都能出</li>
+<li>
+<strong>机检</strong>：每份稿子出完自动查三道，哪一道不过不算出稿<ul>
+<li>体例：版心、层次序数、日期和发文字号写法、全半角</li>
+<li>数字：表格合计与分项、跨表同一个指标、正文说「以下三点」后面是不是真列了三点</li>
+<li>文风：异形词、中文里混进来的半角标点；套话和空词只提示</li>
+</ul>
+</li>
+<li>
+<strong>修稿</strong>：手上已经写好的 .docx 交给它修<ul>
+<li>版式直接改：版心、字体字号、页码</li>
+<li>体例写成 Word 修订痕迹，在「审阅」里逐条接受或拒绝</li>
+<li>数字一个不改，只插批注，指出哪里对不上</li>
+</ul>
+</li>
+</ul>
+<h2>相对突出的几点功能</h2>
+<ul>
+<li><strong>数字前后对得上</strong>：合计和分项、同一个指标在不同地方的取值、说了几点列了几点，这些人读稿时最容易漏</li>
+<li><strong>改了什么一目了然</strong>：所有体例改动都留修订痕迹，全部拒绝就回到原文，一字不差</li>
+<li><strong>数字不替你改</strong>：合计错还是分项错，工具判断不了，所以只标出来，由写稿人定</li>
+<li><strong>拿真稿子验过</strong>：自己真实的两百六十八份文稿跑了一遍修复，全部正常</li>
+<li><strong>版式量过</strong>：关键尺寸在 Word 里渲染后实测，比如版头标志上缘距版心 35.05 毫米，标准是 35</li>
+<li><strong>数据不出电脑</strong>：工具全在本机运行，装好以后不联网</li>
+</ul>
+<h2>怎么用</h2>
+<ul>
+<li><strong>装进 AI 用</strong>：作为 skill 装进 Claude Code 或 OpenCode ，其他 AI 未实测。直接说「按公文格式起草一份关于××的通知」</li>
+<li><strong>命令行出稿</strong>：照样张改一份稿源，一条命令出 Word ，机检自动跑</li>
+<li><strong>修现成稿</strong>：<code>node tools/fix-doc.js 稿子.docx</code>，输出 <code>稿子-修订.docx</code>，原文件不动</li>
+<li><strong>先看样张</strong>：七份样张的 PDF 在仓库 <code>docs/样张/</code>，网页上可以直接看</li>
+</ul>
+<h2>几点限制</h2>
+<ul>
+<li>标题默认用方正小标宋简体，这个字体要自己装</li>
+<li>版式只在 Mac 版 Word 上测过，Windows 版 Word 和 WPS 没有逐项验；程序本身在 Windows 、Mac 、Linux 上都跑过测试，没有问题</li>
+<li>不校对内容和政治表述，写什么、怎么表态，责任在写稿人</li>
+<li>让 AI 起草正文时，内容去哪取决于你自己用的模型；涉密材料自己写，只交给它排版和检查</li>
+</ul>
+<h2>几个技术上的取舍</h2>
+<ul>
+<li>Node 写的，依赖只有 docx 、jszip 、sax ，全部本地运行</li>
+<li>修复直接改 OOXML：体例改动写成 <code>w:ins</code>／<code>w:del</code>，测试断言「拒绝全部修订后正文逐字等于原文」</li>
+<li>改不了的元素不碰：超链接、域、已有修订、文本框、表格里的数字，碰到就跳过，留给批注</li>
+<li>每条机检规则都配一份必错的标本，规则报不出来测试就失败；可能误报的规则只提示不拦稿</li>
+<li>用 268 份真实 .docx 文件回放过修复：0 崩溃、0 不一致</li>
+</ul>
+<h2>想听的意见</h2>
+<ul>
+<li>WPS 经手的稿子、各单位自己的模板、带封面和目录的长文，修完之后哪里不对</li>
+<li>代码结构和测试写法，哪些部分外行</li>
+<li>回帖或者提 issue 都行</li>
+</ul>
+<p>最后，感谢各位看帖、回帖，来 V2EX 也有六年了，真心希望能和大家交流、向大家学习！😄</p>]]></description>
+    <pubDate>Tue, 13 Oct 2026 18:29:32 -0000</pubDate>
+    <guid isPermaLink="true">https://www.v2ex.com/t/1248549#reply0</guid>
+    <source url="https://www.v2ex.com/t/1248549#reply0">V2EX</source>
+  </item>
+  <item>
+    <title>[V2EX] [生活] 关于跨文化婚恋的不容易</title>
+    <link>https://www.v2ex.com/t/1248548#reply1</link>
+    <description><![CDATA[<p>今天有个哥们儿回了我一个数十天之前的谈论跨文化婚恋的帖子，恰好我刚在 reddit 上刷到了一个帖子，贴过来给大家看看，就文化差异其实是很大的：</p>
+<p>原帖：<a href="https://www.reddit.com/r/AskAChinese/comments/1x4slyp/question_about_dating_a_chinese_man/" rel="nofollow">question about dating a chinese man</a></p>
+<h2>内容：</h2>
+<blockquote>
+<p>I've known now my chinese boyfriend for over month now, our relationship progress really fast in my opinion, he's really attentive and give me gifts when ever I see him ( we don't live in the same city, but the same country), and he even joined me on a trip that I already had planned months before meeting him because he did not want me to be alone in one of the two weeks that I was in the country that I visited. when I'm with him he doesn't want me to use my card even once and as a western independant woman i'm really not use to that and feel kind of bad that he pays for everything every time we are together. is it a normal thing ? because if that's the case my bar in dating men has been lower than low. How can i in return show him my appreciation, because I'm an impatient woman, I get annoy fast and I don't want to do or say something that might hurst his feelings. He really is showing me a lot of attention and I'm kinda on the defense. We have a 5 years age gap and he has 2 children that he has custody of, theirs mothers are in china</p>
+</blockquote>
+<hr />
+<p>看看外面的世界，就能走到一起的婚姻，其实还是相当艰难的。</p>]]></description>
+    <pubDate>Tue, 13 Oct 2026 18:17:28 -0000</pubDate>
+    <guid isPermaLink="true">https://www.v2ex.com/t/1248548#reply1</guid>
+    <source url="https://www.v2ex.com/t/1248548#reply1">V2EX</source>
+  </item>
+  <item>
     <title>[V2EX] [生活] 请问哪里找照顾孩子的阿姨？有个小宝宝需要全职照顾，没办法要工作</title>
-    <link>https://www.v2ex.com/t/1248547#reply0</link>
+    <link>https://www.v2ex.com/t/1248547#reply1</link>
     <description><![CDATA[<p>请问哪里找照顾孩子的阿姨？有个小宝宝需要全职照顾，没办法要工作</p>]]></description>
     <pubDate>Tue, 13 Oct 2026 17:53:51 -0000</pubDate>
-    <guid isPermaLink="true">https://www.v2ex.com/t/1248547#reply0</guid>
-    <source url="https://www.v2ex.com/t/1248547#reply0">V2EX</source>
-  </item>
-  <item>
-    <title>[原创频道&gt;&gt;什么值得买] 郑钦文首战香港公开赛前瞻：技术特点解析与晋级路线推演</title>
-    <link>https://post.smzdm.com/p/a3mxgz9k/</link>
-    <description><![CDATA[匿名用户10月13日，保诚香港网球公开赛官宣最新参赛阵容：巴黎奥运会女单金牌得主郑钦文确认出战，七届大满贯女单冠军大威廉姆斯同场亮相。 对郑钦文而言，这是她第一次亮相香港网球公开赛，赛事官方13日同步确认了这一消息。 正赛定于11月2日至8日进行，属于WTA250级别，也是她2026赛季报名的最后一站。WTA官方微博环球网新浪热点前瞻得先回答一个更基础的问题：她会不会真的站上维园的球场。中网女单夺冠次日，<p>本文来自<a href="https://post.smzdm.com/p/a3mxgz9k/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
-    <pubDate>Tue, 13 Oct 2026 17:53:19 -0000</pubDate>
-    <guid isPermaLink="true">https://post.smzdm.com/p/a3mxgz9k/</guid>
-    <source url="https://post.smzdm.com/p/a3mxgz9k/">原创频道&gt;&gt;什么值得买</source>
-  </item>
-  <item>
-    <title>[原创频道&gt;&gt;什么值得买] 一加16比Magic9超能版贵1200，这钱只有三种人该花</title>
-    <link>https://post.smzdm.com/p/apqmzeo9/</link>
-    <description><![CDATA[机圈清醒哥一加16在10月13日上午十点开的售，官方战报一小时卖了7万台。几乎同一时间，荣耀Magic9超能版的国补价3999，稳稳压在4000元档的门口，中间还夹着一台国补4499的Magic9标准版。三台机，两代芯片，最大差价1200。预算四五千的话，这三台几乎必然被放进同一张对比表。三台里没有全能赢家。那1200的差价主要买的是芯片和屏幕，值不值，取决于你打不打游戏、打算用几年、拍不拍照。下面按人群拆<p>本文来自<a href="https://post.smzdm.com/p/apqmzeo9/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
-    <pubDate>Tue, 13 Oct 2026 17:49:32 -0000</pubDate>
-    <guid isPermaLink="true">https://post.smzdm.com/p/apqmzeo9/</guid>
-    <source url="https://post.smzdm.com/p/apqmzeo9/">原创频道&gt;&gt;什么值得买</source>
-  </item>
-  <item>
-    <title>[原创频道&gt;&gt;什么值得买] 大汉23.59万起上市、比预售再降1.4万：三个版本的4万差价，全花在后排和右脚上</title>
-    <link>https://post.smzdm.com/p/az8o59n5/</link>
-    <description><![CDATA[老冯不充电大汉13号晚上上市，23.59万起。预售时候拿着24.99万入门价犹豫的人，今晚直接等来一个降1.4万，按媒体的说法，整个价格表比预售下探了1.4万到2.4万。今年车市降价不稀奇，这一刀砍得也谈不上多惊人，但意图很清楚：把预售期喊「再等等」的那批人，在年底前变成订单。我更想聊的是这三个版本是怎么切的。1008公里后驱尊享型23.59万，1008公里后驱旗舰型24.99万，880公里四驱旗舰型27.<p>本文来自<a href="https://post.smzdm.com/p/az8o59n5/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
-    <pubDate>Tue, 13 Oct 2026 17:42:09 -0000</pubDate>
-    <guid isPermaLink="true">https://post.smzdm.com/p/az8o59n5/</guid>
-    <source url="https://post.smzdm.com/p/az8o59n5/">原创频道&gt;&gt;什么值得买</source>
-  </item>
-  <item>
-    <title>[原创频道&gt;&gt;什么值得买] 从激进到稳健，一加16为何选择做「不出错」的旗舰？</title>
-    <link>https://post.smzdm.com/p/a95697zo/</link>
-    <description><![CDATA[匿名用户一加16变“稳”了。看配置，它每一项都有明确的对标，也看不出明显的偏科；对照前代，185Hz高刷、9000mAh大电池又依然激进。对这台机器最直白的读法是：不是一加不敢激进了，而是它第一次输不起——存储成本曲线不允许它再当价格屠夫，集团的品牌分工也不允许它再赌单点。发布会和首销给出的事实先摆在这里。一加16发布价12GB+256GB档5999元起，与早一个月发布的iQOO16踩在同一条线上，首销优<p>本文来自<a href="https://post.smzdm.com/p/a95697zo/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
-    <pubDate>Tue, 13 Oct 2026 17:40:41 -0000</pubDate>
-    <guid isPermaLink="true">https://post.smzdm.com/p/a95697zo/</guid>
-    <source url="https://post.smzdm.com/p/a95697zo/">原创频道&gt;&gt;什么值得买</source>
-  </item>
-  <item>
-    <title>[原创频道&gt;&gt;什么值得买] 一加16日常体验报告：收敛锐气后，系统流畅度与影像实测</title>
-    <link>https://post.smzdm.com/p/a3mxgzpk/</link>
-    <description><![CDATA[匿名用户10月13日上午，一加16全渠道开售，12GB+256GB版本国补后到手5199元。 开售一小时内销量突破7万台，厂商口径为今年安卓旗舰首销同期销量Top1。 这一代一加收起了过去的锋芒：价格明显上探、性能调度转向保守、哈苏联名成为历史。但用户的问题很具体——涨价之后，日常流畅度和影像到底扛不扛得住。多家评测机构的实测答案比较一致：这代日常体验最大的增量来自全局165Hz，刷信息流、翻列表时的跟手<p>本文来自<a href="https://post.smzdm.com/p/a3mxgzpk/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
-    <pubDate>Tue, 13 Oct 2026 17:40:19 -0000</pubDate>
-    <guid isPermaLink="true">https://post.smzdm.com/p/a3mxgzpk/</guid>
-    <source url="https://post.smzdm.com/p/a3mxgzpk/">原创频道&gt;&gt;什么值得买</source>
+    <guid isPermaLink="true">https://www.v2ex.com/t/1248547#reply1</guid>
+    <source url="https://www.v2ex.com/t/1248547#reply1">V2EX</source>
   </item>
   <item>
     <title>[V2EX] [Google Gemini] Gemini 4 Argon 快速灰度</title>
-    <link>https://www.v2ex.com/t/1248546#reply1</link>
+    <link>https://www.v2ex.com/t/1248546#reply6</link>
     <description><![CDATA[刚才还在吐槽怎么还没给我推送，结果随手一问，直接就秒推送了。<br /><br />之前看公告说 Gemini 4 Argon 刚发的时候分阶段灰度，网页端和普通用户只能慢慢排队。结果刚才在对话框里刚问完，一刷新页面模型就变了]]></description>
     <pubDate>Tue, 13 Oct 2026 17:39:57 -0000</pubDate>
-    <guid isPermaLink="true">https://www.v2ex.com/t/1248546#reply1</guid>
-    <source url="https://www.v2ex.com/t/1248546#reply1">V2EX</source>
-  </item>
-  <item>
-    <title>[原创频道&gt;&gt;什么值得买] 2027款启源Q05上市搅动10万级市场：7.99万起定价背后的内卷逻辑</title>
-    <link>https://post.smzdm.com/p/ak8lmrer/</link>
-    <description><![CDATA[匿名用户10月13日，2027款长安启源Q05焕新：全系只保留3款车型、清一色506公里续航，限时权益价506乐享版7.99万元、舒享版8.99万元、畅享版9.59万元。 老款405公里的入门版本直接退出产品目录，热泵空调和爆胎稳行成为全系标配。 官方给这次上新的概括只有六个字：长续航、全宁德、大车格。 7.99万看起来还是一年前那个入门价，里面的内容却整个换掉了：过去500公里级续航是需要往高配爬一两级<p>本文来自<a href="https://post.smzdm.com/p/ak8lmrer/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
-    <pubDate>Tue, 13 Oct 2026 17:37:30 -0000</pubDate>
-    <guid isPermaLink="true">https://post.smzdm.com/p/ak8lmrer/</guid>
-    <source url="https://post.smzdm.com/p/ak8lmrer/">原创频道&gt;&gt;什么值得买</source>
-  </item>
-  <item>
-    <title>[原创频道&gt;&gt;什么值得买] 别盲目冲首发！一加16「不出错」背后的取舍与适用人群</title>
-    <link>https://post.smzdm.com/p/a5rxk653/</link>
-    <description><![CDATA[匿名用户10月13日上午10点，一加16正式开售，12GB+256GB版本标价5999元，首销价5699元。 叠加国补后，起步版到手价降到5199元。 同日，一加中国区总裁李杰称首销销量在上午11点前突破7万台，拿下今年安卓旗舰同期首销销量第一——这目前仍是厂商口径。 所以冲不冲首发，先得把这代产品的取舍看明白：一加16把钱重仓在芯片、屏幕、续航这些感知最强的体验上，却在分辨率和影像上把策略压在了及格线。<p>本文来自<a href="https://post.smzdm.com/p/a5rxk653/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
-    <pubDate>Tue, 13 Oct 2026 17:36:27 -0000</pubDate>
-    <guid isPermaLink="true">https://post.smzdm.com/p/a5rxk653/</guid>
-    <source url="https://post.smzdm.com/p/a5rxk653/">原创频道&gt;&gt;什么值得买</source>
-  </item>
-  <item>
-    <title>[原创频道&gt;&gt;什么值得买] 7.99万买2027款启源Q05值不值？506km续航真实用车成本算给你看</title>
-    <link>https://post.smzdm.com/p/ad7mwl3d/</link>
-    <description><![CDATA[匿名用户7.99万元买一台CLTC续航506km、全系宁德时代电芯并标配热泵空调的紧凑级纯电SUV，这笔交易值，但前提有两层：7.99万是限时补贴价，以及你有一个相对便宜的充电来源。10月13日，长安汽车2027款启源Q05荣耀上新，7.99万元起。 这台车的花费结构极其简单：家充一公里几分钱，公共快充一公里一毛多，保险是最大头，三种充电条件一年能差出约两千元，把这笔账算清之前，"值不值"都只是参数之争。<p>本文来自<a href="https://post.smzdm.com/p/ad7mwl3d/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
-    <pubDate>Tue, 13 Oct 2026 17:34:39 -0000</pubDate>
-    <guid isPermaLink="true">https://post.smzdm.com/p/ad7mwl3d/</guid>
-    <source url="https://post.smzdm.com/p/ad7mwl3d/">原创频道&gt;&gt;什么值得买</source>
-  </item>
-  <item>
-    <title>[原创频道&gt;&gt;什么值得买] 2027款启源Q05通勤指南：506km续航如何规划充电与周末出行？</title>
-    <link>https://post.smzdm.com/p/anv9d2p7/</link>
-    <description><![CDATA[匿名用户2027款长安启源Q05在10月13日正式上市，共推出3款车型，官方指导价8.99万-10.19万元，限时补贴价7.99万元起。三个版本的续航规格完全一致：CLTC纯电续航506km，电池为宁德时代磷酸铁锂，容量51.9kWh。太平洋汽车知乎补能参数决定了规划余量：支持3C高效快充，电量 30%-80% 仅需15分钟，充电5分钟，续航增加约120km。把官方数字翻译成通勤规划，结论可以浓缩成一句：<p>本文来自<a href="https://post.smzdm.com/p/anv9d2p7/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
-    <pubDate>Tue, 13 Oct 2026 17:33:50 -0000</pubDate>
-    <guid isPermaLink="true">https://post.smzdm.com/p/anv9d2p7/</guid>
-    <source url="https://post.smzdm.com/p/anv9d2p7/">原创频道&gt;&gt;什么值得买</source>
-  </item>
-  <item>
-    <title>[原创频道&gt;&gt;什么值得买] 打卡酒店早餐月卡走红日常：打工人如何吃出仪式感</title>
-    <link>https://post.smzdm.com/p/a03x7m49/</link>
-    <description><![CDATA[匿名用户酒店早餐月卡又走红了一次。武汉东西湖区的武汉临空港会展酒店推出369元/30天的自助早餐月卡，单人次原价68元的自助早餐折算下来日均12.3元，70余种中西式餐品任选，热干面、豆皮等汉味小吃都在列。 这场“日均12元”的讨论在9月下旬登上热搜，办卡的学生、打卡的上班族和质疑“割韭菜”的声音一起涌了进来。上游新闻对打工人来说，这张卡值不值，答案不在12元的低价里，而在规则里：月卡的仪式感是一门精确生<p>本文来自<a href="https://post.smzdm.com/p/a03x7m49/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
-    <pubDate>Tue, 13 Oct 2026 17:32:58 -0000</pubDate>
-    <guid isPermaLink="true">https://post.smzdm.com/p/a03x7m49/</guid>
-    <source url="https://post.smzdm.com/p/a03x7m49/">原创频道&gt;&gt;什么值得买</source>
+    <guid isPermaLink="true">https://www.v2ex.com/t/1248546#reply6</guid>
+    <source url="https://www.v2ex.com/t/1248546#reply6">V2EX</source>
   </item>
   <item>
     <title>[V2EX] [开源软件] 做了个小项目：让只有 Java 8 的 AIX / Solaris / 老 RHEL 机器继续当新版 Jenkins 的 agent</title>
@@ -117,22 +481,6 @@
     <source url="https://www.v2ex.com/t/1248545#reply0">V2EX</source>
   </item>
   <item>
-    <title>[原创频道&gt;&gt;什么值得买] 酒店早餐月卡真省钱？算完这笔账再决定是否入手</title>
-    <link>https://post.smzdm.com/p/am93m0nd/</link>
-    <description><![CDATA[匿名用户一天12块出头的酒店自助早餐，这个秋天在武汉吸引了不少上班族和学生。临空港会展酒店推出369元/30天的自助早餐月卡，日均成本约12.3元，餐厅每天供应70余种餐品、每日轮换。按酒店方面给出的口径，单次自助早餐原价68元，菜品含热干面、豆皮等汉味小吃，每日更新。拿门市价算账，吃满6次就"回本"，看起来稳赚不赔。但这笔账的对照基准一旦选错，结论就会反过来：月卡是否真省钱，不取决于酒店的68元标价，而<p>本文来自<a href="https://post.smzdm.com/p/am93m0nd/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
-    <pubDate>Tue, 13 Oct 2026 17:31:10 -0000</pubDate>
-    <guid isPermaLink="true">https://post.smzdm.com/p/am93m0nd/</guid>
-    <source url="https://post.smzdm.com/p/am93m0nd/">原创频道&gt;&gt;什么值得买</source>
-  </item>
-  <item>
-    <title>[原创频道&gt;&gt;什么值得买] 郑钦文将首秀香港网球公开赛：中网封后次日退出武网，肩膀成最大悬念</title>
-    <link>https://post.smzdm.com/p/a6zpln6z/</link>
-    <description><![CDATA[匿名用户10月13日，保诚香港网球公开赛官方宣布：巴黎奥运会女单金牌得主郑钦文将首次亮相这项赛事，七届大满贯冠军维纳斯·威廉姆斯（大威）同时确认出战单打与双打，双打将与中国选手徐一璠搭档。环球网WTA国际女子网球协会赛事将于10月31日至11月8日在维多利亚公园网球主场馆举行，是WTA巡回赛常规赛季的压轴一站，也属于中国赛季的一部分；WTA中文官方渠道给出的赛期为11月2日至8日。就在官宣前一天，郑钦文已<p>本文来自<a href="https://post.smzdm.com/p/a6zpln6z/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
-    <pubDate>Tue, 13 Oct 2026 17:28:48 -0000</pubDate>
-    <guid isPermaLink="true">https://post.smzdm.com/p/a6zpln6z/</guid>
-    <source url="https://post.smzdm.com/p/a6zpln6z/">原创频道&gt;&gt;什么值得买</source>
-  </item>
-  <item>
     <title>[V2EX] [分享创造] 这年头谁还没个 AI 日报</title>
     <link>https://www.v2ex.com/t/1248544#reply0</link>
     <description><![CDATA[<p>哈，我也让 Gemini 3.8 撸了一个 AI 日报 </p>
@@ -143,28 +491,12 @@
     <source url="https://www.v2ex.com/t/1248544#reply0">V2EX</source>
   </item>
   <item>
-    <title>[原创频道&gt;&gt;什么值得买] 黄盖玻汾换白瓷汾，值吗？</title>
-    <link>https://post.smzdm.com/p/avgp7k5n/</link>
-    <description><![CDATA[酒坛子成精天一凉，劝你把黄盖玻汾换成出口白瓷汾的帖子就多起来了，话术都差不多：一分价钱一分货，你喝了几年的黄盖亏了。这波升级话术是真香还是有人带节奏？我的判断：酒本身值得换，溢价别跟风掏。白瓷汾是个啥酒出口白瓷汾，听名字就知道是汾酒做出口的那支，白瓷瓶红金标，53度500ml，平时一瓶六十块上下，比黄盖玻汾贵个十几块。它其实有三兄弟，白瓷、棕瓷、红瓷，合称出口瓷汾系列。白瓷53度六十上下；棕瓷42度七十左右<p>本文来自<a href="https://post.smzdm.com/p/avgp7k5n/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
-    <pubDate>Tue, 13 Oct 2026 17:24:31 -0000</pubDate>
-    <guid isPermaLink="true">https://post.smzdm.com/p/avgp7k5n/</guid>
-    <source url="https://post.smzdm.com/p/avgp7k5n/">原创频道&gt;&gt;什么值得买</source>
-  </item>
-  <item>
     <title>[cnBeta.COM.TW RSS订阅] 台积电2纳米月产能传年底升至12万片 或提前触及2027年目标下限</title>
     <link>https://www.cnbeta.com.tw/articles/tech/1582030.htm</link>
     <description><![CDATA[<p>台积电2纳米制程订单需求据报持续升温，台湾《联合报》旗下《经济日报》引述业界消息称，苹果、英伟达、AMD和高通等客户近期追加预订台积电2纳米家族产能，订单规模增加约10%至20%。报道据此估计，台积电正加快扩产，2026年底月产能可能升至12万片，较此前市场预估的9万至10万片更高。</p> <a href="https://www.cnbeta.com.tw/articles/tech/1582030.htm" target="_blank"><strong>阅读全文</strong></a>]]></description>
     <pubDate>Tue, 13 Oct 2026 17:10:42 -0000</pubDate>
     <guid isPermaLink="true">https://www.cnbeta.com.tw/articles/tech/1582030.htm</guid>
     <source url="https://www.cnbeta.com.tw/articles/tech/1582030.htm">cnBeta.COM.TW RSS订阅</source>
-  </item>
-  <item>
-    <title>[原创频道&gt;&gt;什么值得买] m0NESY续约前有哪些消息？四波传闻与一小时反转的全记录</title>
-    <link>https://post.smzdm.com/p/apqmzelw/</link>
-    <description><![CDATA[匿名用户2026年10月13日凌晨， Falcons 官宣与队内狙击手 m0NESY 延长四年合同、续约至2030年，一场席卷 CS 社区一天有余的转会风暴就此终结。 而在此前不到24小时里，社区先后收到爆料、天价报价、资金危机与“官方告别”四波消息，几乎全部指向同一个方向——他要走；直到官宣点破，这场风波被社区普遍称为一次自导自演的“假打”，也就是假转会消息的集体乌龙。微博哔哩哔哩风波的起点在10月12<p>本文来自<a href="https://post.smzdm.com/p/apqmzelw/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
-    <pubDate>Tue, 13 Oct 2026 17:10:39 -0000</pubDate>
-    <guid isPermaLink="true">https://post.smzdm.com/p/apqmzelw/</guid>
-    <source url="https://post.smzdm.com/p/apqmzelw/">原创频道&gt;&gt;什么值得买</source>
   </item>
   <item>
     <title>[cnBeta.COM.TW RSS订阅] Facebook推出“你的算法”功能 允许用户用自然语言直接定制内容推荐</title>
@@ -183,28 +515,12 @@
     <source url="https://www.cnbeta.com.tw/articles/tech/1582026.htm">cnBeta.COM.TW RSS订阅</source>
   </item>
   <item>
-    <title>[原创频道&gt;&gt;什么值得买] 苹果HomePod mini 2五色上新：家居音箱颜值内卷趋势解读</title>
-    <link>https://post.smzdm.com/p/a4qxw0lx/</link>
-    <description><![CDATA[匿名用户北京时间10月13日晚，苹果以“Welcome Home”为主题举办智能家居专场活动，带屏家庭中枢 Apple HomeView、新一代 Apple TV 4K 与第二代 HomePod mini 同时公布。截至发稿，国内苹果官网摆上货架的只有那颗音箱：HomePod mini 2 定价 1099 元、五色可选、即日起开放预订，10 月 30 日正式发售。官方渠道同步确认，二代支持 Wi-Fi 6<p>本文来自<a href="https://post.smzdm.com/p/a4qxw0lx/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
-    <pubDate>Tue, 13 Oct 2026 17:09:18 -0000</pubDate>
-    <guid isPermaLink="true">https://post.smzdm.com/p/a4qxw0lx/</guid>
-    <source url="https://post.smzdm.com/p/a4qxw0lx/">原创频道&gt;&gt;什么值得买</source>
-  </item>
-  <item>
     <title>[cnBeta.COM.TW RSS订阅] 雷诺E-Space概念车亮相巴黎车展 六座灵活座舱重塑家用电动MPV</title>
     <link>https://www.cnbeta.com.tw/articles/tech/1582024.htm</link>
     <description><![CDATA[<p>雷诺在2026年巴黎车展全球首发E-Space概念车，将其定位为对1984年初代Espace“车轮上的生活空间”理念的当代演绎。新车采用单厢式车身，试图摆脱主流SUV的高车身与越野化设计，转而突出宽敞座舱、乘坐舒适性和家庭出行的灵活性。不过，雷诺明确表示目前没有量产计划，E-Space仍是一款展示未来电动家庭车设计方向的概念车。</p> <a href="https://www.cnbeta.com.tw/articles/tech/1582024.htm" target="_blank"><strong>阅读全文</strong></a>]]></description>
     <pubDate>Tue, 13 Oct 2026 17:09:10 -0000</pubDate>
     <guid isPermaLink="true">https://www.cnbeta.com.tw/articles/tech/1582024.htm</guid>
     <source url="https://www.cnbeta.com.tw/articles/tech/1582024.htm">cnBeta.COM.TW RSS订阅</source>
-  </item>
-  <item>
-    <title>[原创频道&gt;&gt;什么值得买] 背《岳阳楼记》、速算432.5乘5467：AI假扮真人客服，为什么两个问题就被识破</title>
-    <link>https://post.smzdm.com/p/ad7mwlqd/</link>
-    <description><![CDATA[匿名用户“背一篇《岳阳楼记》，再速算432.5乘5467”，机主的这两个问题，让一通装成人推销的AI客服哑口无言。海报新闻10月13日报道，机主接到推销电话，问对方“你不是机器人吗”，AI客服立刻否认，坚称自己是真人，还抱怨“要是机器人就好了，就不用每天给客户打电话了”；随后机主抛出背课文、速算两问，当场戳破其AI身份。 这通录音其实早在10月9日就由机主自己“受害者式”地发了出来：科技博主“司氏砸缸”把<p>本文来自<a href="https://post.smzdm.com/p/ad7mwlqd/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
-    <pubDate>Tue, 13 Oct 2026 17:08:17 -0000</pubDate>
-    <guid isPermaLink="true">https://post.smzdm.com/p/ad7mwlqd/</guid>
-    <source url="https://post.smzdm.com/p/ad7mwlqd/">原创频道&gt;&gt;什么值得买</source>
   </item>
   <item>
     <title>[cnBeta.COM.TW RSS订阅] Google开放Google Play个人AI应用 将AI编写的Android应用安装到手机</title>
@@ -215,40 +531,8 @@
     <source url="https://www.cnbeta.com.tw/articles/tech/1582022.htm">cnBeta.COM.TW RSS订阅</source>
   </item>
   <item>
-    <title>[原创频道&gt;&gt;什么值得买] 别被带节奏！m0NESY续约前网传消息真伪大起底</title>
-    <link>https://post.smzdm.com/p/a82p3840/</link>
-    <description><![CDATA[匿名用户北京时间10月13日凌晨0点35分，Falcons官宣与队内狙击手m0NESY完成续约，新合同将持续至2030年。这场续约真正的波折在官宣之前：过去一个多小时里搅热中文CS社区的传闻，方向完全指反了——“一支顶级俱乐部正在全力争取签他”“与Falcons的谈判已进入深度阶段”事后看句句属实，“预计很快就会官宣”也没说错，只是谈判对象不是新东家，而是自家俱乐部的续约留人。连官宣本身都忍不住调侃传闻，<p>本文来自<a href="https://post.smzdm.com/p/a82p3840/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
-    <pubDate>Tue, 13 Oct 2026 17:05:58 -0000</pubDate>
-    <guid isPermaLink="true">https://post.smzdm.com/p/a82p3840/</guid>
-    <source url="https://post.smzdm.com/p/a82p3840/">原创频道&gt;&gt;什么值得买</source>
-  </item>
-  <item>
-    <title>[原创频道&gt;&gt;什么值得买] 苹果HomeView壁挂版支架另购？全套配件成本与供电方案全算清</title>
-    <link>https://post.smzdm.com/p/ak8lmw9r/</link>
-    <description><![CDATA[匿名用户苹果 HomeView 壁挂版与桌面版的美区主机同价 299 美元，但壁挂版包装内只有主机和文件，兼容支架、USB-C 线和电源适配器分别另购，电源要求最低 20W。也就是说，壁挂版的“同价”只是主机同价，上墙和供电是另一张账单：主机加支架的全套起点为 358.95 美元，比开箱即用的桌面版多出至少 59.95 美元，还不算线材与适配器。知乎IT之家这款苹果首款智能家庭中枢于 2026 年 10 <p>本文来自<a href="https://post.smzdm.com/p/ak8lmw9r/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
-    <pubDate>Tue, 13 Oct 2026 17:05:07 -0000</pubDate>
-    <guid isPermaLink="true">https://post.smzdm.com/p/ak8lmw9r/</guid>
-    <source url="https://post.smzdm.com/p/ak8lmw9r/">原创频道&gt;&gt;什么值得买</source>
-  </item>
-  <item>
-    <title>[原创频道&gt;&gt;什么值得买] 机主戳破AI装真人电话推销：两问戳穿的不只是段子，背后是一条成熟产业链</title>
-    <link>https://post.smzdm.com/p/awwox2v2/</link>
-    <description><![CDATA[匿名用户10月13日晚，海报新闻报道了一通被网友称为“笑不活”的推销电话：AI客服假扮真人外呼，机主问它是不是机器人，对方立刻否认、坚称自己是真人；机主随后抛出两道题——背《岳阳楼记》、算432.5乘5467，“真人”当场露馅。 这段通话录音其实从10月9日起就在社交平台流传，经媒体正式报道后，“AI客服坚称自己是真人”随即冲上热榜。真正值得关注的不是喜剧效果，而是“机器人冒充真人外呼”早已不是偶发段子，<p>本文来自<a href="https://post.smzdm.com/p/awwox2v2/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
-    <pubDate>Tue, 13 Oct 2026 17:05:06 -0000</pubDate>
-    <guid isPermaLink="true">https://post.smzdm.com/p/awwox2v2/</guid>
-    <source url="https://post.smzdm.com/p/awwox2v2/">原创频道&gt;&gt;什么值得买</source>
-  </item>
-  <item>
-    <title>[原创频道&gt;&gt;什么值得买] AI装真人电话推销被《岳阳楼记》戳穿，手机号隐私到底怎么防？</title>
-    <link>https://post.smzdm.com/p/agg58ep3/</link>
-    <description><![CDATA[匿名用户一通推销电话碰上"较真的机主"。10月13日，海报新闻报道：AI客服给机主打推销电话，机主问它是不是机器人，AI立刻否认、坚称自己是真人，还吐槽"要是机器人就好了，就不用每天给客户打电话了"，随后被机主用背诵《岳阳楼记》和速算432.5乘5467两个问题当场戳穿。相关话题随即登上热搜。海报新闻笑点是表面的，底下两件事值得当真：一是如今外呼AI的声音已到达人耳难以分辨的程度，研究显示，在没有任何提示<p>本文来自<a href="https://post.smzdm.com/p/agg58ep3/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
-    <pubDate>Tue, 13 Oct 2026 17:04:50 -0000</pubDate>
-    <guid isPermaLink="true">https://post.smzdm.com/p/agg58ep3/</guid>
-    <source url="https://post.smzdm.com/p/agg58ep3/">原创频道&gt;&gt;什么值得买</source>
-  </item>
-  <item>
     <title>[V2EX] [问与答] 吓坏我两岁半姑娘，真想重拳锤这个店员</title>
-    <link>https://www.v2ex.com/t/1248543#reply0</link>
+    <link>https://www.v2ex.com/t/1248543#reply1</link>
     <description><![CDATA[<p>地点：北京朝阳区易事达广场，九木杂物社。</p>
 <p>事情经过：路过九木杂物社，小朋友冲进店里面，拿起摆在店门口晨光文具的笔。小朋友就是正常的好奇，观察，按按，然后放回去，我全程跟在身边。</p>
 <p>这个店员发话“看管好，这个不要动”，我说好，就让小朋友放回去，看其他的。过了一会儿，她又说“小心，不要乱动”，我又从小朋友手里拿过来，放回去，看其他的。看的都是晨光的笔，就这样重复了四五次，我实在受不了了。跟她理论。</p>
@@ -260,8 +544,8 @@
 <p>事后投诉到商场，回复我话里话外意思是招商的，没约束力，只能反馈经理。之后又在九木杂物社公众号投诉，还没给我反馈。</p>
 <p>如何继续处理这件事。</p>]]></description>
     <pubDate>Tue, 13 Oct 2026 17:01:43 -0000</pubDate>
-    <guid isPermaLink="true">https://www.v2ex.com/t/1248543#reply0</guid>
-    <source url="https://www.v2ex.com/t/1248543#reply0">V2EX</source>
+    <guid isPermaLink="true">https://www.v2ex.com/t/1248543#reply1</guid>
+    <source url="https://www.v2ex.com/t/1248543#reply1">V2EX</source>
   </item>
   <item>
     <title>[IT之家] 苹果 Apple Watch 睡眠呼吸暂停功能正式上线，先一步读懂你的呼吸</title>
@@ -306,11 +590,11 @@
   </item>
   <item>
     <title>[V2EX] [问与答] 2026,你们公司的开发流程是怎样的</title>
-    <link>https://www.v2ex.com/t/1248540#reply0</link>
+    <link>https://www.v2ex.com/t/1248540#reply1</link>
     <description><![CDATA[<p>如题, 现在各种 coding agent 横飞, 特别好奇你们现在的开发流程有变化吗, 有没有形成固定规范制度?</p>]]></description>
     <pubDate>Tue, 13 Oct 2026 16:15:49 -0000</pubDate>
-    <guid isPermaLink="true">https://www.v2ex.com/t/1248540#reply0</guid>
-    <source url="https://www.v2ex.com/t/1248540#reply0">V2EX</source>
+    <guid isPermaLink="true">https://www.v2ex.com/t/1248540#reply1</guid>
+    <source url="https://www.v2ex.com/t/1248540#reply1">V2EX</source>
   </item>
   <item>
     <title>[IT之家] 不能打电话、发短信：华为官网显示手机与手机间通信共享只支持共享网络能力（含 eSIM）</title>
@@ -330,11 +614,11 @@
   </item>
   <item>
     <title>[V2EX] [分享发现] 东欧斯拉夫民族，他们对逆向游戏有这么热爱吗？</title>
-    <link>https://www.v2ex.com/t/1248539#reply3</link>
+    <link>https://www.v2ex.com/t/1248539#reply5</link>
     <description><![CDATA[不懂就问，universal modder<br /><br />这又是个啥，<a href="https://universalmodder.app/" rel="nofollow noopener" target="_blank">https://universalmodder.app/</a> 这个网站为什么在俄罗斯论坛，被转来转去。<br /><br />东欧斯拉夫民族，他们对逆向游戏有这么热爱吗？<br /><br />AI 他们怎么用上的？ AI 无国界组织]]></description>
     <pubDate>Tue, 13 Oct 2026 15:53:16 -0000</pubDate>
-    <guid isPermaLink="true">https://www.v2ex.com/t/1248539#reply3</guid>
-    <source url="https://www.v2ex.com/t/1248539#reply3">V2EX</source>
+    <guid isPermaLink="true">https://www.v2ex.com/t/1248539#reply5</guid>
+    <source url="https://www.v2ex.com/t/1248539#reply5">V2EX</source>
   </item>
   <item>
     <title>[cnBeta.COM.TW RSS订阅] 《GTA6》开发版本超200GB 暗示正式版容量不会小了</title>
@@ -385,37 +669,6 @@
     <source url="https://www.v2ex.com/t/1248538#reply0">V2EX</source>
   </item>
   <item>
-    <title>[V2EX] [分享创造] 做了个英文恐怖故事站 LiveLore： AI 辅助写作，读者投票决定剧情走向</title>
-    <link>https://www.v2ex.com/t/1248537#reply0</link>
-    <description><![CDATA[<p>大家好，分享一个最近在做的小项目： <a href="https://livelore.ai/" rel="nofollow">https://livelore.ai/</a></p>
-<p>LiveLore 是一个英文恐怖/悬疑故事站，核心想法是"故事由读者一起决定"：</p>
-<ul>
-<li>所有故事免费阅读，不用注册。</li>
-<li>连载故事的章节末尾会开一轮投票，读者选择接下来的走向。每轮都会写清截止时间、平票规则，以及没人投票时怎么处理。</li>
-<li>Noctur 是每周三晚上更新的恐怖连载。另外有 5 个适合围着篝火讲的短篇，和一个悬疑试点故事 The Last Collection 。</li>
-<li>还有一些短篇合集：two-sentence horror 、带反转的短篇、给 10 岁小朋友的不太吓人的故事等。</li>
-</ul>
-<p>先说清楚：<strong>故事是 AI 辅助写作和修改的</strong>。每个故事页都会标明它的状态，包括有没有经过人工审阅。我不想把它包装成"纯人工创作"。</p>
-<p>说个真实情况：刚上线时读者还很少，10 月 11 日那一轮投票一票都没有，所以 The Lantern Across the Lake 按事先公布的规则继续写，10 月 14 日更新。这也是我来这里发帖的原因，想听听大家的意见：</p>
-<ol>
-<li>"读者投票决定剧情"这个形式，你会愿意参与吗？什么样的投票选项会让你想点？</li>
-<li>AI 辅助写作的故事，标注到什么程度你会觉得可以接受？</li>
-</ol>
-<p>欢迎拍砖，谢谢！</p>]]></description>
-    <pubDate>Tue, 13 Oct 2026 15:38:43 -0000</pubDate>
-    <guid isPermaLink="true">https://www.v2ex.com/t/1248537#reply0</guid>
-    <source url="https://www.v2ex.com/t/1248537#reply0">V2EX</source>
-  </item>
-  <item>
-    <title>[V2EX] [分享创造] 网页版 Photoshop</title>
-    <link>https://www.v2ex.com/t/1248536#reply0</link>
-    <description><![CDATA[<p><a href="https://photocraft.fans/zh-cn/app/" rel="nofollow">https://photocraft.fans/zh-cn/app/</a></p>
-<p>基于开源的 photocraft ，直接搞了这个功能</p>]]></description>
-    <pubDate>Tue, 13 Oct 2026 15:36:34 -0000</pubDate>
-    <guid isPermaLink="true">https://www.v2ex.com/t/1248536#reply0</guid>
-    <source url="https://www.v2ex.com/t/1248536#reply0">V2EX</source>
-  </item>
-  <item>
     <title>[IT之家] 红魔 12 Pro+ 手机官宣搭载行业首款 185Hz 全面屏，行业首发 185Hz 高刷显示控制芯片</title>
     <link>https://www.ithome.com/1/012/598.htm</link>
     <description><![CDATA[<p>IT之家 10 月 13 日消息，红魔游戏手机官方今日继续预热 12 系列新机。据介绍，<strong>红魔 12 Pro+ 将采用红魔第九代屏下技术</strong>，打造无孔全面屏，宣称“通透度更高、刷新率更高、边框更窄”。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/10/956d1025-1f53-4cd2-810b-27112bfcef7d.jpg" /></p><p>根据红魔游戏手机官方介绍，红魔 12 Pro+ 搭载了行业首款 185Hz 全面屏 —— <strong>行业首发 185Hz 高刷显示控制芯片 + 采用行业首款屏下 X11 发光材料</strong>。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/10/aa71752a-323a-46db-aeef-891f2cbaf220.jpg" /></p><p>另外，红魔 12 Pro+ 手机的<strong>屏幕边框缩窄至 0.96mm</strong>。</p><p style="text-align: center;"><a class="ithome_super_player" href="https://weibo.com/6722259311/RmsHEtR1M" target="_blank"><img src="https://img.ithome.com/newsuploadfiles/2026/10/8aff2a18-e405-451a-ba33-dd29b11291ad.jpg" /></a></p><p style="text-align: center;"><a class="ithome_super_player" href="https://weibo.com/6722259311/RmtGxoz1O" target="_blank"><img src="https://img.ithome.com/newsuploadfiles/2026/10/6bf8a7f4-b9e1-4e84-bb12-8c6defb28390.jpg" /></a></p><p>IT之家从红魔游戏手机官方了解到，红魔 12 Pro+ 支持 35+ 款热门游戏原生 185Hz 超高刷，可实现主流游戏全档位满帧。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/10/deac4255-45ea-4bdc-bd7d-76b1d97dbeff.jpg" /></p>]]></description>
@@ -448,24 +701,6 @@
     <source url="https://www.ithome.com/1/012/595.htm">IT之家</source>
   </item>
   <item>
-    <title>[V2EX] [推广] 做了个 Godot MCP 资源站，整理了不同 MCP 的区别、安装教程和游戏开发资源</title>
-    <link>https://www.v2ex.com/t/1248534#reply0</link>
-    <description><![CDATA[<p>最近在研究用 AI Agent 配合 Godot 开发游戏，发现 GitHub 上已经有不少 Godot MCP 项目，但功能差别挺大。</p>
-<p>有的能直接操作编辑器、修改场景，有的支持运行游戏、截图和模拟输入，还有的主要负责执行项目和读取日志。</p>
-<p>一个个翻 GitHub 、看文档、研究配置挺麻烦的，所以做了个网站，把这些资源整理到一起。</p>
-<p>目前主要做了几件事：</p>
-<p>Godot MCP 对比：重点整理了 Godot AI 、Godot MCP Runtime 、Full Control 、Coding-Solo 等项目，包括各自的能力、适用场景、环境要求和局限。</p>
-<p>安装配置教程：整理了 Codex 、Claude Code 接入 Godot MCP 的步骤，以及连接验证和常见问题。</p>
-<p>资源下载导航：目前收录了 18 项资源，包括 MCP 工具、Godot 官方 Demo 、Brackeys 教程源码、2D/3D 游戏素材等，保留原项目地址。</p>
-<p>游戏开发入门：整理了一些 2D 、3D 游戏案例和源码分析，希望能帮助新手从现有项目开始，让 AI 辅助修改和开发。</p>
-<p>网站地址： <a href="https://www.godotmcp.com/" rel="nofollow">https://www.godotmcp.com/</a></p>
-<p>目前还是初期版本，主要是资源整理和使用指引。MCP 对比依据公开文档、Release 和 Issue ，还没有做统一的实际性能测试</p>
-<p>感觉 ai 游戏可能是程序员出海的一个路子，先占个坑学习学习</p>]]></description>
-    <pubDate>Tue, 13 Oct 2026 15:10:22 -0000</pubDate>
-    <guid isPermaLink="true">https://www.v2ex.com/t/1248534#reply0</guid>
-    <source url="https://www.v2ex.com/t/1248534#reply0">V2EX</source>
-  </item>
-  <item>
     <title>[IT之家] 美国 NASA“毅力号”火星车累计行驶里程达 45.2 公里，成地外天体表面行驶距离最远的车辆</title>
     <link>https://www.ithome.com/1/012/591.htm</link>
     <description><![CDATA[<p>IT之家 10 月 13 日消息，美国国家航空航天局（NASA）今天宣布，<strong>其“毅力号”火星车已累计行驶 28.1 英里<span class="exch-unit-value">（IT之家注：约 45.2 公里）</span></strong>，<strong>成为地球以外天体行驶距离最远的车辆</strong>。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/10/8a51280e-c6f7-42cd-a56c-55d0ed9b4a3f.jpg?x-bce-process=image/format,f_auto" /></p><p>据悉，“毅力号”于 2021 年 2 月 18 日登陆火星，它的大小和小型汽车差不多，有六个轮子。如今它已经行驶 45 公里，超过了“机遇号”2004 年-2018 年创下的 28.06 英里<span class="exch-unit-value">（约 45.16 公里）</span>记录。</p><p>“毅力号”搭载一系列科学仪器，它一直在火星北半球的杰泽罗陨石坑及其它地区行驶。目前，NASA 共有两辆火星车正在展开火星探测工作，其中“好奇号”自 2012 年登陆火星以来，已累计行驶 23.71 英里<span class="exch-unit-value">（约 38.2 公里）</span>。</p>]]></description>
@@ -488,36 +723,6 @@
     <pubDate>Tue, 13 Oct 2026 15:02:30 -0000</pubDate>
     <guid isPermaLink="true">https://www.ithome.com/1/012/589.htm</guid>
     <source url="https://www.ithome.com/1/012/589.htm">IT之家</source>
-  </item>
-  <item>
-    <title>[V2EX] [分享创造] [开源] PicMake：纯前端的 GPT Image 2.5 生图工作台， Key 和图片只存在你的浏览器里</title>
-    <link>https://www.v2ex.com/t/1248533#reply0</link>
-    <description><![CDATA[<p>大家好，我是 PicMake 的作者。</p>
-<p>GPT Image 2.5 出来以后，我一直想要个顺手的生图入口：官方只给了 API ，ChatGPT 里调不了参数、也没法管理生成记录，走中转站就更没有现成的客户端了。于是写了 PicMake：打开网页，填上自己的 API 地址和 Key 就能用。</p>
-<ul>
-<li>在线体验： <a href="https://picmake.crisweb.com" rel="nofollow">https://picmake.crisweb.com</a></li>
-<li>源码（ MIT ）： <a href="https://github.com/crisweb1994/PicMake" rel="nofollow">https://github.com/crisweb1994/PicMake</a></li>
-</ul>
-<p><strong>主要功能</strong></p>
-<ul>
-<li>流式渐进预览：出图过程从模糊到清晰，随时可以取消</li>
-<li>一段描述同时出多个比例：一次选 2–4 个（比如 1:1 、16:9 、9:16 ），结果合成一条记录</li>
-<li>草图、参考图（最多 16 张）、局部重绘</li>
-<li>历史全在本地：搜索、收藏、复用参数、再来一版</li>
-<li>中文 / English ，浅色 / 深色</li>
-</ul>
-<p><strong>关于隐私和中转站</strong></p>
-<ul>
-<li>纯前端，没有后端、账号和埋点：Key 只存在浏览器 localStorage ，图片和记录只存在 IndexedDB</li>
-<li>地址自动补 /v1 ；中转不支持流式、或者返回 task_id 的异步任务型接口，也都能出图</li>
-<li>失败绝不自动重发，同一批图不会因为重发被扣两次费</li>
-</ul>
-<p><strong>使用门槛</strong></p>
-<p>需要自备 Key：官方 API （图片模型要求组织完成验证），或任意 OpenAI 格式兼容的中转站。请求从浏览器直接发出，中转站需要允许跨域（ CORS ）。</p>
-<p>还在持续迭代，欢迎试用、提 issue 和建议，也很想知道大家常用的中转站兼容情况。觉得有用的话求个 star 🙏</p>]]></description>
-    <pubDate>Tue, 13 Oct 2026 14:58:59 -0000</pubDate>
-    <guid isPermaLink="true">https://www.v2ex.com/t/1248533#reply0</guid>
-    <source url="https://www.v2ex.com/t/1248533#reply0">V2EX</source>
   </item>
   <item>
     <title>[IT之家] 网易《逆水寒：新世界》4.2 版本大资料片【苗疆蛊事】官宣月底登场</title>
@@ -568,53 +773,6 @@
     <source url="https://www.ithome.com/1/012/583.htm">IT之家</source>
   </item>
   <item>
-    <title>[IT之家] 联想小新 27 元气版一体机上架：酷睿 5 处理器 320 + 16GB + 512GB，10 月 16 日开售</title>
-    <link>https://www.ithome.com/1/012/582.htm</link>
-    <description><![CDATA[<p>IT之家 10 月 13 日消息，联想 (Lenovo) 现已在电商平台上架小新 27 元气版一体机，当前提供霁蓝 / 绛紫 / 霞绯 3 种配色。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/10/2a8a791e-6df2-4096-a6cc-a24641c60539.jpg?x-bce-process=image/format,f_auto" /></p><p>这一型号基于酷睿 5 处理器 320，配备 16GB LPDDR5X-7467 内存、512GB SSD 存储，集成 27" FHD 120Hz 高色域屏幕，<strong>标价 6,999 元</strong>，10 月 16 日 00:00 开售。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/10/51e327d6-192b-4dc3-8702-8afa4a328c89.jpg?x-bce-process=image/format,f_auto" /></p><p>从整体配置上来看，小新 27 元气版<strong>对应面向全球市场的 IdeaCentre AIO 27IWC11</strong>。其预留第二 M.2 SSD 盘位，配备 5MP 摄像头，包含 Harman 2.0 音箱，集成柔和氛围灯区，标配无线键鼠。</p><p>小新 27 元气版机身与屏幕厚度一致，<strong>薄至 13mm</strong>；<strong>底座较上代减薄 38%</strong>；屏幕亮度 350nits，支持类纸书体验，低蓝光无频闪；配备可升降与俯仰调节的屏幕支架。</p><p>其拥有 2 个 USB-C 20Gbps、4 个 USB-A 10Gbps、1 个 1GbE RJ-45、1 个 HDMI 2.1 (TMDS) in&amp;out、1 个 3.5mm 二合一音频插孔。</p><dir><a contenteditable="false" href="https://u.jd.com/F1l64hJ" target="_blank"><span class="card main-site"><span class="card-logo"><img src="https://img14.360buyimg.com/pop/jfs/t1/397581/36/17537/38299/69aa7753Fadd99d5d/0083320320bde929.png" /></span><span class="card-info"><span class="card-title"><span class="mall-data">京东</span><span class="card-name">联想 小新 27 元气版 一体机</span></span><span class="card-abstract"> 10 月 16 日 00:00 开售</span><span class="card-controls"><span class="price"> 6999 元</span><span class="card-btn-deep">直达链接</span></span></span></span></a></dir><ul class=" list-paddingleft-2"><li><p><span class="font-color-red"><strong>京东 11.11 无门槛红包</strong> </span>面额至高 26888 元，每天抽 3 次：<a href="https://u.jd.com/FOYj5JY" target="_blank" title="点此抽红包"><strong>点此抽红包</strong></a><strong>。</strong></p></li></ul>]]></description>
-    <pubDate>Tue, 13 Oct 2026 14:31:39 -0000</pubDate>
-    <guid isPermaLink="true">https://www.ithome.com/1/012/582.htm</guid>
-    <source url="https://www.ithome.com/1/012/582.htm">IT之家</source>
-  </item>
-  <item>
-    <title>[IT之家] Steam 新一周游戏销量榜公布：《AION 2》继续领跑全球榜首</title>
-    <link>https://www.ithome.com/1/012/580.htm</link>
-    <description><![CDATA[<p>IT之家 10 月 13 日消息，Steam 平台现已公布了最新一周游戏销量排行榜（2026 年 10 月 6 日 - 2026 年 10 月 13 日，无免费游戏），《AION 2（〈永恒之塔 2〉国际服）》继续占据全球榜首，多款降价及新游戏上榜，《影之刃零》预购登顶国区榜单。</p><p>全球榜单：</p><ul class="medium-size list-paddingleft-2"><li><p>AION 2</p></li><li><p>《星球大战：银河赛车手™》</p></li><li><p>EA SPORTS FC™ 27</p></li><li><p>Gears of War: E-Day</p></li><li><p>《雨中冒险 2》</p></li><li><p>ARC Raiders</p></li><li><p>《雨中冒险 2：万象归衡》</p></li><li><p>《守望先锋 ®》</p></li><li><p>《黎明杀机》</p></li><li><p>Dragon's Dogma 2</p></li></ul><p style="text-align: center;"><img alt="全球周销量排行榜" src="https://img.ithome.com/newsuploadfiles/2026/10/04dafd12-45a4-411b-bf7d-22a6ec964d85.jpg?x-bce-process=image/format,f_auto" /></p><p>国区榜单：</p><ul class="medium-size list-paddingleft-2"><li><p>《影之刃零》</p></li><li><p>The Outlast Trials</p></li><li><p>《使命召唤 ®：现代战争 ® 4》</p></li><li><p>《渔力全开》</p></li><li><p>EA SPORTS FC™ 27</p></li><li><p>《赛博朋克 2077》</p></li><li><p>Red Dead Redemption 2</p></li><li><p>《GTA 5 增强版》</p></li><li><p>Big Walk</p></li><li><p>《黎明杀机》</p></li></ul><p style="text-align: center;"><img alt="中国周销量排行榜" src="https://img.ithome.com/newsuploadfiles/2026/10/7511965c-babe-4e41-9e02-b79446541566.jpg?x-bce-process=image/format,f_auto" /></p>]]></description>
-    <pubDate>Tue, 13 Oct 2026 14:26:02 -0000</pubDate>
-    <guid isPermaLink="true">https://www.ithome.com/1/012/580.htm</guid>
-    <source url="https://www.ithome.com/1/012/580.htm">IT之家</source>
-  </item>
-  <item>
-    <title>[V2EX] [分享创造] [开源] NonsPlayer 播放器——手机端，新的开始，新的挑战</title>
-    <link>https://www.v2ex.com/t/1248532#reply1</link>
-    <description><![CDATA[<p><img alt="5be0f21d6875093e58172136a7c97a14.jpg" class="embedded_image" rel="noreferrer" src="https://img.remit.ee/i/nMyuWDrSsc4q" />
-<img alt="aa878501480d23f8b08194b5b9d0b884.jpg" class="embedded_image" rel="noreferrer" src="https://img.remit.ee/i/4nCSTbSpAefX" />
-<img alt="bf452f391d0f8e6194f237eff53b71ae.jpg" class="embedded_image" rel="noreferrer" src="https://img.remit.ee/i/B3oBbpDdiHwj" /></p>
-<h1>NonsPlayer 正式支持手机端了！</h1>
-<p>不过目前还只搞了 Android 平台，IOS 由于没有相应设备等种种原因可能要推迟了。</p>
-<p>再来说一下 NonsPlayer 的优点吧！</p>
-<ol>
-<li>多音源适配器！</li>
-<li>完善的插件系统。通过 WebAssembly 技术，我们可以把任何想要的东西都放进 NonsPlayer 里！</li>
-<li>比较好的用户交互设计。我从个人需求和使用习惯出发，把 NonsPlayer 设计成一个真正的日常工具，而不是一个玩具。</li>
-<li>低占用。虽然 WebView 的占用依然不可忽视，但是在后台运行时 NonsPlayer 会主动销毁 WebView 进程，整个程序占用可以达到 10-20MB(不过 Android 端没有相关监测器没能获取到运行数据）</li>
-<li>本地音乐</li>
-<li>...</li>
-</ol>
-<p>总之，欢迎大家体验最新版！新增了好多东西呢。
-仓库<a href="https://github.com/Miaoyww/Nons" rel="nofollow">Miaoyww/NonsPlayer</a></p>]]></description>
-    <pubDate>Tue, 13 Oct 2026 14:25:00 -0000</pubDate>
-    <guid isPermaLink="true">https://www.v2ex.com/t/1248532#reply1</guid>
-    <source url="https://www.v2ex.com/t/1248532#reply1">V2EX</source>
-  </item>
-  <item>
-    <title>[IT之家] 苹果：HomePod 家庭影院环绕声功能仅支持新款 Apple TV 4K</title>
-    <link>https://www.ithome.com/1/012/579.htm</link>
-    <description><![CDATA[<p>IT之家 10 月 13 日消息，苹果今天推出一系列智能家居产品。其中第四代 Apple TV 4K 搭配 HomePod mini 2 使用时，将可以组成四扬声器环绕声。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/10/290ecdef-fe22-47e9-8df3-f6b1d2059948.jpg?x-bce-process=image/format,f_auto" /></p><p>苹果表示，家庭影院环绕声需要四台 HomePod mini 2 或第二代 HomePod，并按照前后方式组成两组配对设备，<strong>同时需要运行最新操作系统的 Apple TV 4K（第四代）</strong>。</p><p>IT之家注意到，HomePod mini 2 现已在国内苹果官网上架，售 1099 元，可选五种配色，采用全频驱动单元和双无源辐射器，可呈现浑厚低音和清澈高音。该产品支持立体声组合，支持声音识别、温湿度传感，无线连接升级到 Wi-Fi 6E，在海外支持苹果 Siri AI 功能。音箱附带 20W 适配器。</p>]]></description>
-    <pubDate>Tue, 13 Oct 2026 14:21:29 -0000</pubDate>
-    <guid isPermaLink="true">https://www.ithome.com/1/012/579.htm</guid>
-    <source url="https://www.ithome.com/1/012/579.htm">IT之家</source>
-  </item>
-  <item>
     <title>[cnBeta.COM.TW RSS订阅] Getty Images将通过预打包Chapter 11重组转为私人公司</title>
     <link>https://www.cnbeta.com.tw/articles/tech/1582008.htm</link>
     <description><![CDATA[<p style="white-space: normal;">Getty Images宣布，已与主要金融利益相关方达成全面重组协议，计划在未来数周内启动预打包式美国《破产法》第11章程序，并在完成后从公开市场退市、转为私人公司。公司称，重组预计于今年年底前完成，期间将继续正常运营；内容供稿人、合作伙伴、客户、员工及供应商预计不会受到影响，供应商款项将照常支付。</p> <a href="https://www.cnbeta.com.tw/articles/tech/1582008.htm" target="_blank"><strong>阅读全文</strong></a>]]></description>
@@ -629,152 +787,6 @@
     <pubDate>Tue, 13 Oct 2026 14:12:16 -0000</pubDate>
     <guid isPermaLink="true">https://www.cnbeta.com.tw/articles/tech/1582006.htm</guid>
     <source url="https://www.cnbeta.com.tw/articles/tech/1582006.htm">cnBeta.COM.TW RSS订阅</source>
-  </item>
-  <item>
-    <title>[V2EX] [分享创造] [送码]从好用到爽用， Mu3ic 重磅更新，现已支持 Navidrome/Jellyfin/Emby</title>
-    <link>https://www.v2ex.com/t/1248530#reply28</link>
-    <description><![CDATA[<p><a href="https://www.v2ex.com/t/1246531" rel="nofollow">上一帖</a>发出来一周，Mu3ic 从 1.0 更新到了 1.5.1 。楼里提的桌面歌词、媒体库重复、WMA 播不了、登录要手填 <code>http://</code> 这些都改了。变化最大的一件：除了 Navidrome / Subsonic ，现在也能连 <strong>Jellyfin 和 Emby</strong> 了。</p>
-<ul>
-<li>主页： <a href="https://mu3ic.xyz" rel="nofollow">https://mu3ic.xyz</a></li>
-<li>直接下载 APK： <a href="https://dl.robb3n.site/mu3ic/Mu3ic-stable.apk" rel="nofollow">https://dl.robb3n.site/mu3ic/Mu3ic-stable.apk</a></li>
-<li>已经装了的，在 App 里检查更新就行</li>
-</ul>
-<h2>送码</h2>
-<p>送 20 个激活码：<strong>评论区前 20 位留下邮箱的朋友</strong>，我把码发到邮箱，送完为止。</p>
-<p>邮箱收到的激活码一机一码，<strong>不能换绑</strong>，<strong>24 小时后失效，过期不补</strong>，请收到后尽快兑换，谢谢🙏 。激活入口：设置 → 关于 → Pro → 输入激活码。</p>
-<p>没抢到的，也可以在 App 里用推广期特价 <del>38</del> <strong>18 元</strong>买断（推广价到 11 月 5 日）。买了 Pro 的可以进官方讨论群（ <a href="https://t.me/+RFkD6vL_889iMjQ9" rel="nofollow">https://t.me/+RFkD6vL_889iMjQ9</a> ），进群后私聊我，拉你进 Pro 资深用户群。资深用户群后面会发布「下歌 → 打标签 → 曲库管理」的自动化入库最佳实践，定制需求也优先响应，Agent 环境搭建（独家）和开发最佳实践也会作为增值服务陆续发布，下图为独家 Mac 端代理工具和跨 Agent 任务编排系统</p>
-<p><img alt="Pro 增值服务" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/0F17Y3N.jpeg" /></p>
-<h2>接下来做什么</h2>
-<p>Mu3ic 一开始的定位是「只做流播」。但上一帖和群里问得最多的是：我的歌就放在 NAS 的共享目录里，没架 Navidrome ，能不能直接听？</p>
-<p>所以方向调整了一下，分两步：</p>
-<ol>
-<li><strong>先把服务器兼容做完</strong>：Navidrome / Subsonic 、Jellyfin 、Emby 已经接上； Plex 看需要的人多不多</li>
-<li><strong>再做文件来源</strong>：手机本地的音乐，以及直连 NAS 上的文件（ WebDAV / SMB ），不用另外架媒体服务器。这次改架构时已经把位置留好了</li>
-</ol>
-<p>你的歌放在哪、怎么连，欢迎在楼里说一声，我按需求排先后。</p>
-<h2>一、能连的服务器更多了</h2>
-<h3>连 Jellyfin 和 Emby</h3>
-<p>Jellyfin 10.9 及以上、Emby 4.8 及以上都能连。整个曲库同步到手机上，翻、搜、排序都读本地，下载、播放缓存、离线模式、歌词、歌单、收藏，用起来和连 Navidrome 时一样。</p>
-<ul>
-<li>密码只用来换一个登录凭证，<strong>不存在手机上</strong>。服务器上改了密码、或者把这台设备退出了，首页会提示「要重新登录」，再输一次密码就行，界面和正在播的不会重来</li>
-<li>服务器本身没有的功能直接不出：Jellyfin 、Emby 没有智能歌单，Emby 不存评分。设置 → 服务器的曲库卡上有一行「 Jellyfin / Emby 上有什么不一样」，所有差别都写在那里</li>
-<li>这两种服务器不记每一次播放，所以听歌统计、听歌分析读的是这台手机自己记下的播放，卡片上会写「这台手机」</li>
-</ul>
-<h3>登录不用再填 <code>http://</code> 和端口</h3>
-<p>@<a href="https://www.v2ex.com/member/noming">noming</a> 提的。现在登录分两步：先填 IP 或域名，App 自己去试 Navidrome 的 4533 和 Jellyfin / Emby 的 8096 ，认出是哪种服务器；同一个地址上找到不止一种，就列出来让你选。第二步再输账号密码。</p>
-<h3>外面连不上家里，自动换地址（ Pro ）</h3>
-<p>一个曲库可以存好几个地址，比如家里的局域网 IP 加外网域名。以前只在打开 App 登录时挑一个连得上的；现在用着用着当前地址断了，也会自动换到连得上的那个，<strong>正在放的歌不停，队列还在</strong>。</p>
-<p><img alt="连接服务器" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/Wt4vaVJ.jpeg" /></p>
-<h2>二、声音：均衡器、歌曲切换、音质</h2>
-<h3>自带的均衡器（免费）</h3>
-<p>以前用的是手机系统的均衡器，段数和预设因机型而异，有的手机干脆没有。现在换成 Mu3ic 自己处理声音：</p>
-<ul>
-<li>10 段、±12 dB ，10 个预设加一格「自定义」，<strong>每台手机上都一样</strong></li>
-<li>面板上画的是实际的频响曲线：曲线正好穿过每个滑杆，看到的就是听到的</li>
-<li>自动防破音：曲线最高抬了几 dB ，就整体降几 dB ，面板上写的和实际降的是同一个数；关掉均衡器时声音原样通过，一个比特都不动</li>
-<li>以前调过的，会换算进「自定义」</li>
-</ul>
-<p>均衡器对所有人免费。</p>
-<h3>每个耳机记住自己的那一套（ Pro ）</h3>
-<p>平时所有输出共用一套。哪个耳机想不一样，就在面板「当前输出」里给它单独一套：扬声器、有线耳机各一份，蓝牙和 USB 按设备名分。以后一接上就自动换，不弹提示。</p>
-<h3>歌曲切换：交叉淡化 / 淡出淡入（ Pro ）</h3>
-<p>设置「播放」里选交叉淡化或淡出淡入，2–12 秒。</p>
-<ul>
-<li><strong>同一张专辑按顺序播时不淡</strong>：现场专辑、无缝衔接的概念专辑不会被切碎</li>
-<li>手动切歌可以单独开一个 0.5 秒的短淡化，点下一首不再是生硬的一刀</li>
-<li>实现上是两个播放器轮流上场：这首快结束前，就把下一首在另一个播放器里准备好，到点交接</li>
-</ul>
-<h3>Wi-Fi 和流量分开设音质</h3>
-<p>@<a href="https://www.v2ex.com/member/ershiwo">ershiwo</a> 提的。设置「播放」里分成「 Wi-Fi 音质」「流量音质」两组（原画 / 320k / 192k ），流量那组没设过就跟 Wi-Fi 一样。出门从 Wi-Fi 切到流量，正在播的这首不打断，从下一首起换档。缓存里同一首如果已经有更高档的完整一份，低档的那份会自动删掉。</p>
-<p><img alt="均衡器与歌曲切换" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/W3G0YW1.jpeg" /></p>
-<h2>三、听歌数据</h2>
-<h3>听歌分析（免费）</h3>
-<p>首页听歌统计卡下面点进去，用最近 60 天的播放记录和你的曲库算：</p>
-<ul>
-<li><strong>什么时候听</strong>：24 小时柱状图，可以分工作日 / 周末看</li>
-<li><strong>最近在听谁</strong>：上期前 5 和本期前 5 的名次变化</li>
-<li><strong>新歌还是老歌</strong>、<strong>一次听多久</strong></li>
-<li><strong>口味偏向</strong>：哪个流派你听得比它在曲库里的占比多几倍</li>
-<li><strong>曲库用到了多少</strong></li>
-<li>最后是几件能一键去做的事：常听却没收藏的、入库了还没听过的新歌、冷落了很久的收藏、好久没听的老歌</li>
-</ul>
-<p>全部在手机上算，不多发一个请求。</p>
-<p><img alt="听歌分析" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/untGRXZ.jpeg" /></p>
-<h3>Scrobble 门槛自己定</h3>
-<p>设置「播放 → Scrobble 上报」：播到 25 / 50 / 75 / 90%，或者满 30 秒 / 1 / 2 / 4 分钟，先到哪个算哪个（默认 50% 或 4 分钟）。按实际听的时间算，拖动跳过去的不算；单曲循环、按上一首回到开头，算新的一遍。</p>
-<h2>四、曲库：几十万首也翻得动</h2>
-<h3>排序、筛选、跳转</h3>
-<p>曲目、专辑、歌手三页现在是同一套操作：次行「排序 · 筛选 · 跳转 · 计数」。</p>
-<ul>
-<li>排序每项可以选正序 / 倒序，列表按排序分段，段头吸顶</li>
-<li>按名字排时按首字母分段，<strong>中文按拼音</strong>，在手机上算，不用在服务器上填排序标签</li>
-<li>筛选可以叠好几组，每个选项后面带计数</li>
-<li>每页各自记住排序和筛选；点一首就在筛选结果里接着播，开着随机就在整个筛选结果里随机</li>
-</ul>
-<h3>几十万首不再闪退</h3>
-<p>有位朋友的曲库 27 万首，同步到 9 万多首时 App 直接闪退。原因是整库一次性读进内存。现在整库的计算改成紧凑的内存表，只取用得到的那几首，几十万首也能正常打开、正常出混音。</p>
-<p><img alt="曲库排序筛选" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/lqCqpSp.jpeg" /></p>
-<h2>五、细节</h2>
-<ul>
-<li><strong>应用说明</strong>：设置「关于 → 应用说明」，37 篇，写在 App 里，能搜，断网也能看。功能弹层里的「怎么回事？」直接打开对应那篇</li>
-<li><strong>更新下载更稳</strong>：两条线路（国内、首尔），慢了自动换下一条，断了接着下、不从头来；弹层里看得到线路、速度和剩余时间。下完照旧校验 sha256 和签名再装</li>
-<li><strong>更新完告诉你更新了什么</strong>：装好后发一条「已更新」通知，第一次打开时弹出这一版的更新内容，设置「关于」里随时能回看</li>
-<li><strong>恢复购买</strong>：同一台手机重装后，在解锁页一键找回 Pro ；已激活的能查看、复制激活码，并说明怎样换到新手机</li>
-</ul>
-<p><img alt="应用说明与更新内容" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/WRlvmnK.jpeg" /></p>
-<h2>两处调整</h2>
-<ul>
-<li><strong>Pro 范围</strong>：播放缓存、倍速与音调、定时关闭、深色与跟随系统改为 Pro ，均衡器改为对所有人开放。基础版固定浅色；已经缓存完整的曲目照常能播</li>
-<li><strong>隐私</strong>：上一帖写过「检查更新不带任何标识」，1.5 起改了：检查更新、下载更新包、激活与购买这几类发给 Mu3ic 服务器的请求，会带一个随机生成的安装编号（存在这台手机上，重装就换），用来统计安装量和更新有没有装上。<strong>发给你自己音乐服务器的请求不带</strong>，曲库和播放记录照旧只在你的服务器和手机上</li>
-</ul>
-<h2>最后</h2>
-<p>Mu3ic 是播放器，连的是你自己的服务器，不提供任何音乐。有问题、想要的功能，在楼里回我，或者来群里说。</p>]]></description>
-    <pubDate>Tue, 13 Oct 2026 14:10:01 -0000</pubDate>
-    <guid isPermaLink="true">https://www.v2ex.com/t/1248530#reply28</guid>
-    <source url="https://www.v2ex.com/t/1248530#reply28">V2EX</source>
-  </item>
-  <item>
-    <title>[V2EX] [程序员] 8 月 1 号到现在，我完成了接近 2000 个开发任务，放到以前简直不敢想象</title>
-    <link>https://www.v2ex.com/t/1248529#reply15</link>
-    <description><![CDATA[虽然我从 25 年就开始一直用 AI 辅助编程了，但真正完全让 AI 写代码，大概是从今年 3 月开始。<br /><br />从 3 月到现在，我做了 [QuickTUI]( <a href="https://quicktui.ai" rel="nofollow noopener" target="_blank">https://quicktui.ai</a>) 这个项目，提交了 2 万次，发了 350 多个 iOS TestFlight 版本，代码累计超过 120 万行。。。跨越 Go/Rust/Swift/Kotilin 等等。<br /><br />期间还给公司搞了两个十几万行的 Go 项目，其中一个用户量都接近 9KW 了。<br /><br />最初 AI 写的代码还是自己 Review ，后来干脆让 AI Review 。再后来直接搞了多 agent 编排工具 [Kander]( <a href="https://github.com/dualface/kander" rel="nofollow noopener" target="_blank">https://github.com/dualface/kander</a>) 来辅助自己，这个工具从 8 月到现在，也完成了接近 2000 个任务了。<br /><br />这种产出量，如果没有 AI ，即便是强力团队，估计也是 1 年以上的工作量。<br /><br />上面这些项目，我一行都没写过。而且除了前期阶段，到了最近三个月，我更是一行代码都没看过了。<br /><br />我相信再过几个月，我的能力还能继续放大。现在唯一的短板就是还没挣到钱了，啊哈哈哈哈]]></description>
-    <pubDate>Tue, 13 Oct 2026 14:09:14 -0000</pubDate>
-    <guid isPermaLink="true">https://www.v2ex.com/t/1248529#reply15</guid>
-    <source url="https://www.v2ex.com/t/1248529#reply15">V2EX</source>
-  </item>
-  <item>
-    <title>[V2EX] [游戏] switch 最近多了好多老游戏移植啊</title>
-    <link>https://www.v2ex.com/t/1248528#reply1</link>
-    <description><![CDATA[<p>使命召唤 4 ，寂静岭 2 ，GTA5 ，以及还有好多老黄油都能在 NS 上面玩。</p>
-<p>听说是 AI 结合逆向软件反编译出源代码，再重新编译成 NS 的游戏格式？</p>]]></description>
-    <pubDate>Tue, 13 Oct 2026 14:06:51 -0000</pubDate>
-    <guid isPermaLink="true">https://www.v2ex.com/t/1248528#reply1</guid>
-    <source url="https://www.v2ex.com/t/1248528#reply1">V2EX</source>
-  </item>
-  <item>
-    <title>[IT之家] 《GTA 6》PC 版被曝 2027 年第一季度发售，Rockstar 旗下双平台游戏最短间隔</title>
-    <link>https://www.ithome.com/1/012/578.htm</link>
-    <description><![CDATA[<p>IT之家 10 月 13 日消息，据 GamesBeat 刚刚报道，四名熟悉 Rockstar Games 计划的消息人士透露，Rockstar 计划在 2027 年第一季度三个月时间内推出《侠盗猎车手 VI》（GTA 6）的 PC 版。GamesBeat 称已确认这一时间窗口，Rockstar Games 方面暂未置评。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/10/2c8619ae-4c00-4054-9855-c052b65c766a.jpg" /></p><p>《GTA 6》的主机版本已确定于 2026 年 11 月 19 日登陆 PlayStation 5 和 Xbox Series X/S。</p><p>如果 GamesBeat 报道属实，PC 版将有望在主机版发售数月后推出。这将是 Rockstar 旗下游戏 PC 版与主机版间隔最短的一次。作为对比，《GTA 5》于 2013 年 9 月登陆主机平台，PC 版则于 2015 年 4 月推出，两者相隔约 1 年零 7 个月。</p><p>Take-Two Interactive CEO 斯特劳斯 · 泽尔尼克在今年 5 月表示，PC 平台对 Take-Two 而言“正变得越来越重要”，但截至 2026 年 9 月的投资者电话会议，Take-Two 的财报和官方材料中仍未将 PC 列入《GTA 6》的发行平台。</p><p>据 ScreenRant 报道，前 Rockstar 制作人约翰 · 里奇奥在 YouTube 频道 Kiwi Talkz 的采访中表示，PC 版延后并非出于对 PC 平台的忽视，而是因为 PC 硬件配置的多样性使得优化工作更加复杂，优先确保标准化主机平台的性能表现是更务实的资源分配策略。</p><p>从商业角度看，尽早推出 PC 版对 Rockstar 有明显的利益。GamesBeat 指出，《GTA 6》的制作预算据传超过 20 亿美元<span class="exch-money-value ">（IT之家注：现汇率约合 134.12 亿元人民币）</span>，而 PC 玩家群体代表着《GTA 6》受众的显著扩展。</p><p>此外，Rockstar 计划在《GTA 6》中引入用户生成内容工具，该公司于 2023 年 8 月收购了《GTA 5》角色扮演服务器框架 FiveM 背后的团队 <span class="link-text-start-with-http">Cfx.re</span>。据 TechRadar 报道，FiveM 是 PC 版《GTA V》的模组框架，这意味着《GTA V》的角色扮演活动 100% 发生在 PC 平台上。PC 版的尽早推出，是角色扮演服务器和其他用户生成内容在《GTA VI》中落地的前提条件。</p><p>在线模式的节奏也与此相关。Twitch CEO 丹 · 克兰西在东京电玩展期间接受彭博社采访时表示，《GTA VI》的在线模式将在“明年”推出。克兰西称 Twitch 团队与 Rockstar 就相关计划进行了大量沟通。Rockstar 尚未公布《GTA VI》在线模式的官方上线时间。</p>]]></description>
-    <pubDate>Tue, 13 Oct 2026 14:05:42 -0000</pubDate>
-    <guid isPermaLink="true">https://www.ithome.com/1/012/578.htm</guid>
-    <source url="https://www.ithome.com/1/012/578.htm">IT之家</source>
-  </item>
-  <item>
-    <title>[V2EX] [分享发现] AI 时代，商业软件会很快被开源一遍 -- 看 rust 开源重构 Word 有感</title>
-    <link>https://www.v2ex.com/t/1248527#reply2</link>
-    <description><![CDATA[<p>大众的，常用软件，逐渐会被重构一遍：
-<a href="https://github.com/storytold/wordcraft/releases" rel="nofollow">https://github.com/storytold/wordcraft/releases</a></p>
-<p>专业小众的重型专业软件可能还能苟一段时间，最近外网在流行逆向任何软件，没见 v2er 提</p>]]></description>
-    <pubDate>Tue, 13 Oct 2026 14:04:53 -0000</pubDate>
-    <guid isPermaLink="true">https://www.v2ex.com/t/1248527#reply2</guid>
-    <source url="https://www.v2ex.com/t/1248527#reply2">V2EX</source>
-  </item>
-  <item>
-    <title>[V2EX] [体育运动] 坐标广州, 周末想去看看体育比赛比如足球/篮球/羽毛球这些, 哪里可以了解赛事和购票?</title>
-    <link>https://www.v2ex.com/t/1248526#reply1</link>
-    <description><![CDATA[]]></description>
-    <pubDate>Tue, 13 Oct 2026 13:58:12 -0000</pubDate>
-    <guid isPermaLink="true">https://www.v2ex.com/t/1248526#reply1</guid>
-    <source url="https://www.v2ex.com/t/1248526#reply1">V2EX</source>
   </item>
   <item>
     <title>[小众软件] 群晖发布重要更新： 7.4.1-90080 Update 1，修复未知漏洞｜important Update</title>
@@ -858,54 +870,6 @@
     <pubDate>Tue, 13 Oct 2026 13:31:42 -0000</pubDate>
     <guid isPermaLink="true">https://www.cnbeta.com.tw/articles/tech/1582004.htm</guid>
     <source url="https://www.cnbeta.com.tw/articles/tech/1582004.htm">cnBeta.COM.TW RSS订阅</source>
-  </item>
-  <item>
-    <title>[cnBeta.COM.TW RSS订阅] Beats携手宝可梦推出特别版Beats Pill音箱 皮卡丘与谜拟丘联袂登场</title>
-    <link>https://www.cnbeta.com.tw/articles/tech/1582002.htm</link>
-    <description><![CDATA[<p>苹果旗下音频品牌Beats正式公布与宝可梦（Pokémon）的全新联名合作产品，推出特别版Beats Pill蓝牙音箱。新产品以宝可梦系列最具代表性的角色皮卡丘和谜拟丘为设计主题，并将于10月15日正式上市。</p> <a href="https://www.cnbeta.com.tw/articles/tech/1582002.htm" target="_blank"><strong>阅读全文</strong></a>]]></description>
-    <pubDate>Tue, 13 Oct 2026 13:31:17 -0000</pubDate>
-    <guid isPermaLink="true">https://www.cnbeta.com.tw/articles/tech/1582002.htm</guid>
-    <source url="https://www.cnbeta.com.tw/articles/tech/1582002.htm">cnBeta.COM.TW RSS订阅</source>
-  </item>
-  <item>
-    <title>[cnBeta.COM.TW RSS订阅] HomePod mini 2新增粉色与绿色 加入四扬声器家庭影院环绕声</title>
-    <link>https://www.cnbeta.com.tw/articles/tech/1582000.htm</link>
-    <description><![CDATA[<p>苹果推出HomePod mini 2，在保留上一代紧凑球形外观的基础上新增粉色和绿色，原有蓝色、午夜色与白色也继续提供。AppleInsider称，新款内部处理器从初代的S5升级为S10；苹果官网目前确认新机高3.3英寸，并列出全频驱动单元、双被动辐射器、360度音场、温湿度传感器、Thread网络和超宽带芯片等功能。美国售价为149美元，现已开放预购，10月30日开始发售；相比初代上市时99美元的定价，新款涨价50美元。</p> <a href="https://www.cnbeta.com.tw/articles/tech/1582000.htm" target="_blank"><strong>阅读全文</strong></a>]]></description>
-    <pubDate>Tue, 13 Oct 2026 13:08:33 -0000</pubDate>
-    <guid isPermaLink="true">https://www.cnbeta.com.tw/articles/tech/1582000.htm</guid>
-    <source url="https://www.cnbeta.com.tw/articles/tech/1582000.htm">cnBeta.COM.TW RSS订阅</source>
-  </item>
-  <item>
-    <title>[cnBeta.COM.TW RSS订阅] 苹果携手LG和施耐德电气推出Home Collection：智能摄像头、门锁与恒温器</title>
-    <link>https://www.cnbeta.com.tw/articles/tech/1581998.htm</link>
-    <description><![CDATA[<p>苹果公布Apple Home Collection智能家居配件系列，与LG电子和施耐德电气合作推出室内外摄像头、视频门铃、智能门锁、恒温器及温湿度传感器。新品围绕Apple Home打造，可通过iPhone轻触完成配对，并在“家庭”App中管理，无需另装配套应用或另建账号；产品也可单独使用，或组成联动系统。苹果称，系列将于12月起陆续开售，部分配件要到2027年初上市。</p> <a href="https://www.cnbeta.com.tw/articles/tech/1581998.htm" target="_blank"><strong>阅读全文</strong></a>]]></description>
-    <pubDate>Tue, 13 Oct 2026 13:08:06 -0000</pubDate>
-    <guid isPermaLink="true">https://www.cnbeta.com.tw/articles/tech/1581998.htm</guid>
-    <source url="https://www.cnbeta.com.tw/articles/tech/1581998.htm">cnBeta.COM.TW RSS订阅</source>
-  </item>
-  <item>
-    <title>[cnBeta.COM.TW RSS订阅] 美国AI专项工作组：“超级智能”专项工作组将就AI安全问题向企业施压</title>
-    <link>https://www.cnbeta.com.tw/articles/tech/1581996.htm</link>
-    <description><![CDATA[<p>美国人工智能专项工作组副主席斯科特·库珀在专访中表示，工作组将与美国司法部及其他执法机构密切协作，推动人工智能企业落实安全监管要求。库珀称，该工作组的工作重心并非评估前沿AI能力，而是依据现行刑事与民事法律，为开发者制定监管标准。</p> <a href="https://www.cnbeta.com.tw/articles/tech/1581996.htm" target="_blank"><strong>阅读全文</strong></a>]]></description>
-    <pubDate>Tue, 13 Oct 2026 12:52:49 -0000</pubDate>
-    <guid isPermaLink="true">https://www.cnbeta.com.tw/articles/tech/1581996.htm</guid>
-    <source url="https://www.cnbeta.com.tw/articles/tech/1581996.htm">cnBeta.COM.TW RSS订阅</source>
-  </item>
-  <item>
-    <title>[cnBeta.COM.TW RSS订阅] 闪迪推出Guardian高耐久安防存储卡系列 主打监控与行车记录全天候录制</title>
-    <link>https://www.cnbeta.com.tw/articles/tech/1581994.htm</link>
-    <description><![CDATA[<p>闪迪（SanDisk）正式发布全新Guardian系列存储产品，面向家庭安防摄像头、行车记录仪以及其他持续监控设备，强调高耐久性与全天候录像能力。新产品专门针对长期连续写入、循环覆盖以及复杂环境下运行需求进行优化，旨在提升关键影像资料的可靠保存能力。</p> <a href="https://www.cnbeta.com.tw/articles/tech/1581994.htm" target="_blank"><strong>阅读全文</strong></a>]]></description>
-    <pubDate>Tue, 13 Oct 2026 12:43:48 -0000</pubDate>
-    <guid isPermaLink="true">https://www.cnbeta.com.tw/articles/tech/1581994.htm</guid>
-    <source url="https://www.cnbeta.com.tw/articles/tech/1581994.htm">cnBeta.COM.TW RSS订阅</source>
-  </item>
-  <item>
-    <title>[cnBeta.COM.TW RSS订阅] 苹果全新智能家居中枢、升级版Apple TV和HomePod mini即将亮相</title>
-    <link>https://www.cnbeta.com.tw/articles/tech/1581992.htm</link>
-    <description><![CDATA[<p>苹果公司将于当地时间10月13日启动新一轮产品发布，重点转向智能家居领域。此次发布预计将带来一款全新的智能家居中枢设备、升级版Apple TV 4K以及新一代HomePod mini。其中，最受关注的是一款配备触摸屏、能够整合家庭设备控制和人工智能助手功能的全新产品，苹果希望借此进一步扩大其在智能家居市场的影响力。</p> <a href="https://www.cnbeta.com.tw/articles/tech/1581992.htm" target="_blank"><strong>阅读全文</strong></a>]]></description>
-    <pubDate>Tue, 13 Oct 2026 12:43:17 -0000</pubDate>
-    <guid isPermaLink="true">https://www.cnbeta.com.tw/articles/tech/1581992.htm</guid>
-    <source url="https://www.cnbeta.com.tw/articles/tech/1581992.htm">cnBeta.COM.TW RSS订阅</source>
   </item>
   <item>
     <title>[小众软件] reinstall：操作系统自己重装自己？这个开源项目有点神奇</title>
@@ -5106,7 +5070,7 @@ defaults delete com.googlecode.iterm2 CompanionResolverURL
 <p align="center"><strong>（转载本站文章请注明作者和出处 <a href="https://coolshell.cn/">酷 壳 &#8211; CoolShell</a> ，请勿用于任何商业用途）</strong></p>
 </div>
 
-<div class="wp_rp_wrap  wp_rp_vertical_m" id="wp_rp_first"><div class="wp_rp_content"><h3 class="related_post_title">相关文章</h3><ul class="related_post wp_rp"><li><a class="wp_rp_thumbnail" href="https://coolshell.cn/articles/17737.html"><img alt="AWS 的 S3 故障回顾和思考" height="150" src="https://coolshell.cn/wp-content/uploads/2017/03/Amazon-Web-Services-Down-150x150.png" width="150" /></a><a class="wp_rp_title" href="https://coolshell.cn/articles/17737.html">AWS 的 S3 故障回顾和思考</a></li><li><a class="wp_rp_thumbnail" href="https://coolshell.cn/articles/10476.html"><img alt="C++11的Lambda使用一例：华容道求解" height="150" src="https://coolshell.cn/wp-content/uploads/2013/10/huarong-150x150.png" width="150" /></a><a class="wp_rp_title" href="https://coolshell.cn/articles/10476.html">C++11的Lambda使用一例：华容道求解</a></li><li><a class="wp_rp_thumbnail" href="https://coolshell.cn/articles/4601.html"><img alt="关于Amazon云宕机的网贴收集" height="150" src="https://coolshell.cn/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/9.jpg" width="150" /></a><a class="wp_rp_title" href="https://coolshell.cn/articles/4601.html">关于Amazon云宕机的网贴收集</a></li><li><a class="wp_rp_thumbnail" href="https://coolshell.cn/articles/9859.html"><img alt="Alan Cox：单向链表中prev指针的妙用" height="150" src="https://coolshell.cn/wp-content/uploads/2013/06/Alan-Cox-150x150.jpg" width="150" /></a><a class="wp_rp_title" href="https://coolshell.cn/articles/9859.html">Alan Cox：单向链表中prev指针的妙用</a></li><li><a class="wp_rp_thumbnail" href="https://coolshell.cn/articles/2507.html"><img alt="2000年的iMac和2010年的iPhone" height="150" src="https://coolshell.cn/wp-content/uploads/2010/06/5176XS40F9L._SL500_AA300_-150x150.jpg" width="150" /></a><a class="wp_rp_title" href="https://coolshell.cn/articles/2507.html">2000年的iMac和2010年的iPhone</a></li><li><a class="wp_rp_thumbnail" href="https://coolshell.cn/articles/21128.html"><img alt="Go编程模式：切片，接口，时间和性能" height="150" src="https://coolshell.cn/wp-content/uploads/2020/12/go.slices-150x150.png" width="150" /></a><a class="wp_rp_title" href="https://coolshell.cn/articles/21128.html">Go编程模式：切片，接口，时间和性能</a></li></ul></div></div>The post <a href="https://coolshell.cn/articles/22422.html">是微服务架构不香还是云不香？</a> first appeared on <a href="https://coolshell.cn">酷 壳 - CoolShell</a>.]]></description>
+<div class="wp_rp_wrap  wp_rp_vertical_m" id="wp_rp_first"><div class="wp_rp_content"><h3 class="related_post_title">相关文章</h3><ul class="related_post wp_rp"><li><a class="wp_rp_thumbnail" href="https://coolshell.cn/articles/17737.html"><img alt="AWS 的 S3 故障回顾和思考" height="150" src="https://coolshell.cn/wp-content/uploads/2017/03/Amazon-Web-Services-Down-150x150.png" width="150" /></a><a class="wp_rp_title" href="https://coolshell.cn/articles/17737.html">AWS 的 S3 故障回顾和思考</a></li><li><a class="wp_rp_thumbnail" href="https://coolshell.cn/articles/10476.html"><img alt="C++11的Lambda使用一例：华容道求解" height="150" src="https://coolshell.cn/wp-content/uploads/2013/10/huarong-150x150.png" width="150" /></a><a class="wp_rp_title" href="https://coolshell.cn/articles/10476.html">C++11的Lambda使用一例：华容道求解</a></li><li><a class="wp_rp_thumbnail" href="https://coolshell.cn/articles/4601.html"><img alt="关于Amazon云宕机的网贴收集" height="150" src="https://coolshell.cn/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/9.jpg" width="150" /></a><a class="wp_rp_title" href="https://coolshell.cn/articles/4601.html">关于Amazon云宕机的网贴收集</a></li><li><a class="wp_rp_thumbnail" href="https://coolshell.cn/articles/3630.html"><img alt="Error handling in Egypt" height="150" src="https://coolshell.cn/wp-content/uploads/2011/02/Error-handling-in-Egypt-150x150.jpg" width="150" /></a><a class="wp_rp_title" href="https://coolshell.cn/articles/3630.html">Error handling in Egypt</a></li><li><a class="wp_rp_thumbnail" href="https://coolshell.cn/articles/9308.html"><img alt="“作环保的程序员，从不用百度开始”" height="150" src="https://coolshell.cn/wp-content/uploads/2013/03/01-1-150x150.png" width="150" /></a><a class="wp_rp_title" href="https://coolshell.cn/articles/9308.html">“作环保的程序员，从不用百度开始”</a></li><li><a class="wp_rp_thumbnail" href="https://coolshell.cn/articles/1932.html"><img alt="哥是玩程序的" height="150" src="https://coolshell.cn/wp-content/uploads/2009/12/scroll_timer-300x162-1-150x150.jpg" width="150" /></a><a class="wp_rp_title" href="https://coolshell.cn/articles/1932.html">哥是玩程序的</a></li></ul></div></div>The post <a href="https://coolshell.cn/articles/22422.html">是微服务架构不香还是云不香？</a> first appeared on <a href="https://coolshell.cn">酷 壳 - CoolShell</a>.]]></description>
     <pubDate>Mon, 08 May 2023 09:52:06 -0000</pubDate>
     <guid isPermaLink="true">https://coolshell.cn/articles/22422.html</guid>
     <source url="https://coolshell.cn/articles/22422.html">酷 壳 – CoolShell</source>
@@ -5287,7 +5251,7 @@ defaults delete com.googlecode.iterm2 CompanionResolverURL
 <p align="center"><strong>（转载本站文章请注明作者和出处 <a href="https://coolshell.cn/">酷 壳 &#8211; CoolShell</a> ，请勿用于任何商业用途）</strong></p>
 </div>
 
-<div class="wp_rp_wrap  wp_rp_vertical_m"><div class="wp_rp_content"><h3 class="related_post_title">相关文章</h3><ul class="related_post wp_rp"><li><a class="wp_rp_thumbnail" href="https://coolshell.cn/articles/18654.html"><img alt="记一次Kubernetes/Docker网络排障" height="150" src="https://coolshell.cn/wp-content/uploads/2018/12/docker-networking-1-150x150.png" width="150" /></a><a class="wp_rp_title" href="https://coolshell.cn/articles/18654.html">记一次Kubernetes/Docker网络排障</a></li><li><a class="wp_rp_thumbnail" href="https://coolshell.cn/articles/9859.html"><img alt="Alan Cox：单向链表中prev指针的妙用" height="150" src="https://coolshell.cn/wp-content/uploads/2013/06/Alan-Cox-150x150.jpg" width="150" /></a><a class="wp_rp_title" href="https://coolshell.cn/articles/9859.html">Alan Cox：单向链表中prev指针的妙用</a></li><li><a class="wp_rp_thumbnail" href="https://coolshell.cn/articles/5247.html"><img alt="国内微博和Twitter的最大不同" height="150" src="https://coolshell.cn/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/15.jpg" width="150" /></a><a class="wp_rp_title" href="https://coolshell.cn/articles/5247.html">国内微博和Twitter的最大不同</a></li><li><a class="wp_rp_thumbnail" href="https://coolshell.cn/articles/25.html"><img alt="如何上网觅无踪" height="150" src="https://coolshell.cn/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/5.jpg" width="150" /></a><a class="wp_rp_title" href="https://coolshell.cn/articles/25.html">如何上网觅无踪</a></li><li><a class="wp_rp_thumbnail" href="https://coolshell.cn/articles/776.html"><img alt="一个在线的画UML图的网站" height="150" src="https://coolshell.cn/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/22.jpg" width="150" /></a><a class="wp_rp_title" href="https://coolshell.cn/articles/776.html">一个在线的画UML图的网站</a></li><li><a class="wp_rp_thumbnail" href="https://coolshell.cn/articles/11466.html"><img alt="C语言的整型溢出问题" height="150" src="https://coolshell.cn/wp-content/uploads/2014/04/c99-150x150.jpg" width="150" /></a><a class="wp_rp_title" href="https://coolshell.cn/articles/11466.html">C语言的整型溢出问题</a></li></ul></div></div>The post <a href="https://coolshell.cn/articles/22367.html">聊聊 nostr 和 审查</a> first appeared on <a href="https://coolshell.cn">酷 壳 - CoolShell</a>.]]></description>
+<div class="wp_rp_wrap  wp_rp_vertical_m"><div class="wp_rp_content"><h3 class="related_post_title">相关文章</h3><ul class="related_post wp_rp"><li><a class="wp_rp_thumbnail" href="https://coolshell.cn/articles/18654.html"><img alt="记一次Kubernetes/Docker网络排障" height="150" src="https://coolshell.cn/wp-content/uploads/2018/12/docker-networking-1-150x150.png" width="150" /></a><a class="wp_rp_title" href="https://coolshell.cn/articles/18654.html">记一次Kubernetes/Docker网络排障</a></li><li><a class="wp_rp_thumbnail" href="https://coolshell.cn/articles/9859.html"><img alt="Alan Cox：单向链表中prev指针的妙用" height="150" src="https://coolshell.cn/wp-content/uploads/2013/06/Alan-Cox-150x150.jpg" width="150" /></a><a class="wp_rp_title" href="https://coolshell.cn/articles/9859.html">Alan Cox：单向链表中prev指针的妙用</a></li><li><a class="wp_rp_thumbnail" href="https://coolshell.cn/articles/5247.html"><img alt="国内微博和Twitter的最大不同" height="150" src="https://coolshell.cn/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/15.jpg" width="150" /></a><a class="wp_rp_title" href="https://coolshell.cn/articles/5247.html">国内微博和Twitter的最大不同</a></li><li><a class="wp_rp_thumbnail" href="https://coolshell.cn/articles/25.html"><img alt="如何上网觅无踪" height="150" src="https://coolshell.cn/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/5.jpg" width="150" /></a><a class="wp_rp_title" href="https://coolshell.cn/articles/25.html">如何上网觅无踪</a></li><li><a class="wp_rp_thumbnail" href="https://coolshell.cn/articles/1023.html"><img alt="Unix 40年：昨天，今天和明天 " height="150" src="https://coolshell.cn/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/17.jpg" width="150" /></a><a class="wp_rp_title" href="https://coolshell.cn/articles/1023.html">Unix 40年：昨天，今天和明天 </a></li><li><a class="wp_rp_thumbnail" href="https://coolshell.cn/articles/2497.html"><img alt="把Flash转成Javascript/HTML5" height="150" src="https://coolshell.cn/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/11.jpg" width="150" /></a><a class="wp_rp_title" href="https://coolshell.cn/articles/2497.html">把Flash转成Javascript/HTML5</a></li></ul></div></div>The post <a href="https://coolshell.cn/articles/22367.html">聊聊 nostr 和 审查</a> first appeared on <a href="https://coolshell.cn">酷 壳 - CoolShell</a>.]]></description>
     <pubDate>Fri, 03 Feb 2023 07:46:13 -0000</pubDate>
     <guid isPermaLink="true">https://coolshell.cn/articles/22367.html</guid>
     <source url="https://coolshell.cn/articles/22367.html">酷 壳 – CoolShell</source>
@@ -5371,7 +5335,7 @@ defaults delete com.googlecode.iterm2 CompanionResolverURL
 <p align="center"><strong>（转载本站文章请注明作者和出处 <a href="https://coolshell.cn/">酷 壳 &#8211; CoolShell</a> ，请勿用于任何商业用途）</strong></p>
 </div>
 
-<div class="wp_rp_wrap  wp_rp_vertical_m"><div class="wp_rp_content"><h3 class="related_post_title">相关文章</h3><ul class="related_post wp_rp"><li><a class="wp_rp_thumbnail" href="https://coolshell.cn/articles/240.html"><img alt="非常不错的编程技术教程" height="150" src="https://coolshell.cn/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/18.jpg" width="150" /></a><a class="wp_rp_title" href="https://coolshell.cn/articles/240.html">非常不错的编程技术教程</a></li><li><a class="wp_rp_thumbnail" href="https://coolshell.cn/articles/973.html"><img alt="编程语言的评测" height="150" src="https://coolshell.cn/wp-content/uploads/2009/06/size-vs-speed-vs-depandability-context-3-150x150.png" width="150" /></a><a class="wp_rp_title" href="https://coolshell.cn/articles/973.html">编程语言的评测</a></li><li><a class="wp_rp_thumbnail" href="https://coolshell.cn/articles/1007.html"><img alt="优质代码的十诫" height="150" src="https://coolshell.cn/wp-content/uploads/2009/06/10commandements-150x150.jpg" width="150" /></a><a class="wp_rp_title" href="https://coolshell.cn/articles/1007.html">优质代码的十诫</a></li><li><a class="wp_rp_thumbnail" href="https://coolshell.cn/articles/5761.html"><img alt="深入理解C语言" height="150" src="https://coolshell.cn/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/0.jpg" width="150" /></a><a class="wp_rp_title" href="https://coolshell.cn/articles/5761.html">深入理解C语言</a></li><li><a class="wp_rp_thumbnail" href="https://coolshell.cn/articles/20765.html"><img alt="MegaEase的远程工作文化" height="150" src="https://coolshell.cn/wp-content/uploads/2020/01/remote-150x150.jpg" width="150" /></a><a class="wp_rp_title" href="https://coolshell.cn/articles/20765.html">MegaEase的远程工作文化</a></li><li><a class="wp_rp_thumbnail" href="https://coolshell.cn/articles/3672.html"><img alt="为啥搞电脑的会有这么多空闲时间？" height="150" src="https://coolshell.cn/wp-content/uploads/2011/02/reasons_why_people_who_work_with_computers_seem_to_have_a_lot_of_spare_time-150x150.png" width="150" /></a><a class="wp_rp_title" href="https://coolshell.cn/articles/3672.html">为啥搞电脑的会有这么多空闲时间？</a></li></ul></div></div>The post <a href="https://coolshell.cn/articles/22341.html">感染新冠的经历</a> first appeared on <a href="https://coolshell.cn">酷 壳 - CoolShell</a>.]]></description>
+<div class="wp_rp_wrap  wp_rp_vertical_m"><div class="wp_rp_content"><h3 class="related_post_title">相关文章</h3><ul class="related_post wp_rp"><li><a class="wp_rp_thumbnail" href="https://coolshell.cn/articles/3512.html"><img alt="64位平台C/C++开发注意事项" height="150" src="https://coolshell.cn/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/27.jpg" width="150" /></a><a class="wp_rp_title" href="https://coolshell.cn/articles/3512.html">64位平台C/C++开发注意事项</a></li><li><a class="wp_rp_thumbnail" href="https://coolshell.cn/articles/559.html"><img alt="菜鸟学PHP之Smarty入门" height="150" src="https://coolshell.cn/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/1.jpg" width="150" /></a><a class="wp_rp_title" href="https://coolshell.cn/articles/559.html">菜鸟学PHP之Smarty入门</a></li><li><a class="wp_rp_thumbnail" href="https://coolshell.cn/articles/21228.html"><img alt="Go编程模式：Pipeline" height="150" src="https://coolshell.cn/wp-content/uploads/2020/12/go.line_.-150x150.png" width="150" /></a><a class="wp_rp_title" href="https://coolshell.cn/articles/21228.html">Go编程模式：Pipeline</a></li><li><a class="wp_rp_thumbnail" href="https://coolshell.cn/articles/2775.html"><img alt="免费电子书列表" height="150" src="https://coolshell.cn/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/22.jpg" width="150" /></a><a class="wp_rp_title" href="https://coolshell.cn/articles/2775.html">免费电子书列表</a></li><li><a class="wp_rp_thumbnail" href="https://coolshell.cn/articles/2681.html"><img alt="Kent Beck 谈单元测试和持续部署" height="150" src="https://coolshell.cn/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/5.jpg" width="150" /></a><a class="wp_rp_title" href="https://coolshell.cn/articles/2681.html">Kent Beck 谈单元测试和持续部署</a></li><li><a class="wp_rp_thumbnail" href="https://coolshell.cn/articles/11454.html"><img alt="从LongAdder看更高效的无锁实现" height="150" src="https://coolshell.cn/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/17.jpg" width="150" /></a><a class="wp_rp_title" href="https://coolshell.cn/articles/11454.html">从LongAdder看更高效的无锁实现</a></li></ul></div></div>The post <a href="https://coolshell.cn/articles/22341.html">感染新冠的经历</a> first appeared on <a href="https://coolshell.cn">酷 壳 - CoolShell</a>.]]></description>
     <pubDate>Tue, 13 Dec 2022 07:39:39 -0000</pubDate>
     <guid isPermaLink="true">https://coolshell.cn/articles/22341.html</guid>
     <source url="https://coolshell.cn/articles/22341.html">酷 壳 – CoolShell</source>
@@ -5712,7 +5676,7 @@ while True:
 <p align="center"><strong>（转载本站文章请注明作者和出处 <a href="https://coolshell.cn/">酷 壳 &#8211; CoolShell</a> ，请勿用于任何商业用途）</strong></p>
 </div>
 
-<div class="wp_rp_wrap  wp_rp_vertical_m"><div class="wp_rp_content"><h3 class="related_post_title">相关文章</h3><ul class="related_post wp_rp"><li><a class="wp_rp_thumbnail" href="https://coolshell.cn/articles/1379.html"><img alt="如何调试bash脚本" height="150" src="https://coolshell.cn/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/13.jpg" width="150" /></a><a class="wp_rp_title" href="https://coolshell.cn/articles/1379.html">如何调试bash脚本</a></li><li><a class="wp_rp_thumbnail" href="https://coolshell.cn/articles/19219.html"><img alt="打造高效的工作环境 &#8211; Shell 篇" height="150" src="https://coolshell.cn/wp-content/uploads/2019/03/linux.ninja_-150x150.png" width="150" /></a><a class="wp_rp_title" href="https://coolshell.cn/articles/19219.html">打造高效的工作环境 &#8211; Shell 篇</a></li><li><a class="wp_rp_thumbnail" href="https://coolshell.cn/articles/18654.html"><img alt="记一次Kubernetes/Docker网络排障" height="150" src="https://coolshell.cn/wp-content/uploads/2018/12/docker-networking-1-150x150.png" width="150" /></a><a class="wp_rp_title" href="https://coolshell.cn/articles/18654.html">记一次Kubernetes/Docker网络排障</a></li><li><a class="wp_rp_thumbnail" href="https://coolshell.cn/articles/18360.html"><img alt="程序员练级攻略（2018)  与我的专栏" height="150" src="https://coolshell.cn/wp-content/uploads/2018/05/300x262-150x150.jpg" width="150" /></a><a class="wp_rp_title" href="https://coolshell.cn/articles/18360.html">程序员练级攻略（2018)  与我的专栏</a></li><li><a class="wp_rp_thumbnail" href="https://coolshell.cn/articles/17998.html"><img alt="Linux PID 1 和 Systemd" height="150" src="https://coolshell.cn/wp-content/uploads/2017/07/systemd-1-150x150.jpeg" width="150" /></a><a class="wp_rp_title" href="https://coolshell.cn/articles/17998.html">Linux PID 1 和 Systemd</a></li><li><a class="wp_rp_thumbnail" href="https://coolshell.cn/articles/17416.html"><img alt="缓存更新的套路" height="150" src="https://coolshell.cn/wp-content/uploads/2016/07/cache-150x150.png" width="150" /></a><a class="wp_rp_title" href="https://coolshell.cn/articles/17416.html">缓存更新的套路</a></li></ul></div></div>The post <a href="https://coolshell.cn/articles/22320.html">eBPF 介绍</a> first appeared on <a href="https://coolshell.cn">酷 壳 - CoolShell</a>.]]></description>
+<div class="wp_rp_wrap  wp_rp_vertical_m"><div class="wp_rp_content"><h3 class="related_post_title">相关文章</h3><ul class="related_post wp_rp"><li><a class="wp_rp_thumbnail" href="https://coolshell.cn/articles/154.html"><img alt="10个基于Ajax的PHP Webmail客户端" height="150" src="https://coolshell.cn/wp-content/uploads/2009/03/webmail1-150x150.jpg" width="150" /></a><a class="wp_rp_title" href="https://coolshell.cn/articles/154.html">10个基于Ajax的PHP Webmail客户端</a></li><li><a class="wp_rp_thumbnail" href="https://coolshell.cn/articles/4334.html"><img alt="Eclipse开发Android应用程序入门:重装上阵" height="150" src="https://coolshell.cn/wp-content/uploads/2011/04/1_starting_point_full-150x150.jpg" width="150" /></a><a class="wp_rp_title" href="https://coolshell.cn/articles/4334.html">Eclipse开发Android应用程序入门:重装上阵</a></li><li><a class="wp_rp_thumbnail" href="https://coolshell.cn/articles/1186.html"><img alt="如何检测浏览器是否支持CSS3" height="150" src="https://coolshell.cn/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/0.jpg" width="150" /></a><a class="wp_rp_title" href="https://coolshell.cn/articles/1186.html">如何检测浏览器是否支持CSS3</a></li><li><a class="wp_rp_thumbnail" href="https://coolshell.cn/articles/8309.html"><img alt="C/C++语言中闭包的探究及比较" height="150" src="https://coolshell.cn/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/19.jpg" width="150" /></a><a class="wp_rp_title" href="https://coolshell.cn/articles/8309.html">C/C++语言中闭包的探究及比较</a></li><li><a class="wp_rp_thumbnail" href="https://coolshell.cn/articles/1152.html"><img alt="关于 Chrome OS 的一些推论" height="150" src="https://coolshell.cn/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/15.jpg" width="150" /></a><a class="wp_rp_title" href="https://coolshell.cn/articles/1152.html">关于 Chrome OS 的一些推论</a></li><li><a class="wp_rp_thumbnail" href="https://coolshell.cn/articles/1976.html"><img alt="【问题】传球问题" height="150" src="https://coolshell.cn/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/30.jpg" width="150" /></a><a class="wp_rp_title" href="https://coolshell.cn/articles/1976.html">【问题】传球问题</a></li></ul></div></div>The post <a href="https://coolshell.cn/articles/22320.html">eBPF 介绍</a> first appeared on <a href="https://coolshell.cn">酷 壳 - CoolShell</a>.]]></description>
     <pubDate>Sat, 10 Dec 2022 02:38:51 -0000</pubDate>
     <guid isPermaLink="true">https://coolshell.cn/articles/22320.html</guid>
     <source url="https://coolshell.cn/articles/22320.html">酷 壳 – CoolShell</source>
@@ -5770,7 +5734,7 @@ while True:
 <p align="center"><strong>（转载本站文章请注明作者和出处 <a href="https://coolshell.cn/">酷 壳 &#8211; CoolShell</a> ，请勿用于任何商业用途）</strong></p>
 </div>
 
-<div class="wp_rp_wrap  wp_rp_vertical_m"><div class="wp_rp_content"><h3 class="related_post_title">相关文章</h3><ul class="related_post wp_rp"><li><a class="wp_rp_thumbnail" href="https://coolshell.cn/articles/22173.html"><img alt="“一把梭：REST API 全用 POST”" height="150" src="https://coolshell.cn/wp-content/uploads/2022/02/http_method-150x150.png" width="150" /></a><a class="wp_rp_title" href="https://coolshell.cn/articles/22173.html">“一把梭：REST API 全用 POST”</a></li><li><a class="wp_rp_thumbnail" href="https://coolshell.cn/articles/22157.html"><img alt="谈谈公司对员工的监控" height="150" src="https://coolshell.cn/wp-content/uploads/2022/02/monitoring-150x150.jpeg" width="150" /></a><a class="wp_rp_title" href="https://coolshell.cn/articles/22157.html">谈谈公司对员工的监控</a></li><li><a class="wp_rp_thumbnail" href="https://coolshell.cn/articles/21589.html"><img alt="如何做一个有质量的技术分享" height="150" src="https://coolshell.cn/wp-content/uploads/2021/07/knowledge_sharing-300x169-1-150x150.jpeg" width="150" /></a><a class="wp_rp_title" href="https://coolshell.cn/articles/21589.html">如何做一个有质量的技术分享</a></li><li><a class="wp_rp_thumbnail" href="https://coolshell.cn/articles/20977.html"><img alt="程序员如何把控自己的职业" height="150" src="https://coolshell.cn/wp-content/uploads/2020/08/programmer.01-e1596792460687-150x150.png" width="150" /></a><a class="wp_rp_title" href="https://coolshell.cn/articles/20977.html">程序员如何把控自己的职业</a></li><li><a class="wp_rp_thumbnail" href="https://coolshell.cn/articles/20765.html"><img alt="MegaEase的远程工作文化" height="150" src="https://coolshell.cn/wp-content/uploads/2020/01/remote-150x150.jpg" width="150" /></a><a class="wp_rp_title" href="https://coolshell.cn/articles/20765.html">MegaEase的远程工作文化</a></li><li><a class="wp_rp_thumbnail" href="https://coolshell.cn/articles/20276.html"><img alt="别让自己“墙”了自己" height="150" src="https://coolshell.cn/wp-content/uploads/2019/12/open-your-creative-mind-150x150.jpg" width="150" /></a><a class="wp_rp_title" href="https://coolshell.cn/articles/20276.html">别让自己“墙”了自己</a></li></ul></div></div>The post <a href="https://coolshell.cn/articles/22298.html">聊聊团队协同和协同工具</a> first appeared on <a href="https://coolshell.cn">酷 壳 - CoolShell</a>.]]></description>
+<div class="wp_rp_wrap  wp_rp_vertical_m"><div class="wp_rp_content"><h3 class="related_post_title">相关文章</h3><ul class="related_post wp_rp"><li><a class="wp_rp_thumbnail" href="https://coolshell.cn/articles/2420.html"><img alt="老手是这样教新手编程的" height="150" src="https://coolshell.cn/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/23.jpg" width="150" /></a><a class="wp_rp_title" href="https://coolshell.cn/articles/2420.html">老手是这样教新手编程的</a></li><li><a class="wp_rp_thumbnail" href="https://coolshell.cn/articles/973.html"><img alt="编程语言的评测" height="150" src="https://coolshell.cn/wp-content/uploads/2009/06/size-vs-speed-vs-depandability-context-3-150x150.png" width="150" /></a><a class="wp_rp_title" href="https://coolshell.cn/articles/973.html">编程语言的评测</a></li><li><a class="wp_rp_thumbnail" href="https://coolshell.cn/articles/2394.html"><img alt="九个PHP很有用的功能" height="150" src="https://coolshell.cn/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/1.jpg" width="150" /></a><a class="wp_rp_title" href="https://coolshell.cn/articles/2394.html">九个PHP很有用的功能</a></li><li><a class="wp_rp_thumbnail" href="https://coolshell.cn/articles/17737.html"><img alt="AWS 的 S3 故障回顾和思考" height="150" src="https://coolshell.cn/wp-content/uploads/2017/03/Amazon-Web-Services-Down-150x150.png" width="150" /></a><a class="wp_rp_title" href="https://coolshell.cn/articles/17737.html">AWS 的 S3 故障回顾和思考</a></li><li><a class="wp_rp_thumbnail" href="https://coolshell.cn/articles/990.html"><img alt="编程中的命名设计那点事" height="150" src="https://coolshell.cn/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/3.jpg" width="150" /></a><a class="wp_rp_title" href="https://coolshell.cn/articles/990.html">编程中的命名设计那点事</a></li><li><a class="wp_rp_thumbnail" href="https://coolshell.cn/articles/1660.html"><img alt="13个不错的Javascript和CSS的菜单" height="150" src="https://coolshell.cn/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/15.jpg" width="150" /></a><a class="wp_rp_title" href="https://coolshell.cn/articles/1660.html">13个不错的Javascript和CSS的菜单</a></li></ul></div></div>The post <a href="https://coolshell.cn/articles/22298.html">聊聊团队协同和协同工具</a> first appeared on <a href="https://coolshell.cn">酷 壳 - CoolShell</a>.]]></description>
     <pubDate>Fri, 14 Oct 2022 04:20:38 -0000</pubDate>
     <guid isPermaLink="true">https://coolshell.cn/articles/22298.html</guid>
     <source url="https://coolshell.cn/articles/22298.html">酷 壳 – CoolShell</source>
@@ -6170,7 +6134,7 @@ DefaultSnapshotCatchUpEntries uint64 = 5000</pre>
 <p align="center"><strong>（转载本站文章请注明作者和出处 <a href="https://coolshell.cn/">酷 壳 &#8211; CoolShell</a> ，请勿用于任何商业用途）</strong></p>
 </div>
 
-<div class="wp_rp_wrap  wp_rp_vertical_m"><div class="wp_rp_content"><h3 class="related_post_title">相关文章</h3><ul class="related_post wp_rp"><li><a class="wp_rp_thumbnail" href="https://coolshell.cn/articles/706.html"><img alt="编程语言流行度排名" height="150" src="https://coolshell.cn/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/10.jpg" width="150" /></a><a class="wp_rp_title" href="https://coolshell.cn/articles/706.html">编程语言流行度排名</a></li><li><a class="wp_rp_thumbnail" href="https://coolshell.cn/articles/6976.html"><img alt="谈谈数据安全和云存储" height="150" src="https://coolshell.cn/wp-content/uploads/2012/04/61e04755jw1drlo96bsktj-150x150.jpg" width="150" /></a><a class="wp_rp_title" href="https://coolshell.cn/articles/6976.html">谈谈数据安全和云存储</a></li><li><a class="wp_rp_thumbnail" href="https://coolshell.cn/articles/313.html"><img alt="Linux的“宕机”图片" height="150" src="https://coolshell.cn/wp-content/uploads/2009/04/linux_crash_1-150x150.jpg" width="150" /></a><a class="wp_rp_title" href="https://coolshell.cn/articles/313.html">Linux的“宕机”图片</a></li><li><a class="wp_rp_thumbnail" href="https://coolshell.cn/articles/4334.html"><img alt="Eclipse开发Android应用程序入门:重装上阵" height="150" src="https://coolshell.cn/wp-content/uploads/2011/04/1_starting_point_full-150x150.jpg" width="150" /></a><a class="wp_rp_title" href="https://coolshell.cn/articles/4334.html">Eclipse开发Android应用程序入门:重装上阵</a></li><li><a class="wp_rp_thumbnail" href="https://coolshell.cn/articles/1375.html"><img alt="初学C#编程的注意事项" height="150" src="https://coolshell.cn/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/0.jpg" width="150" /></a><a class="wp_rp_title" href="https://coolshell.cn/articles/1375.html">初学C#编程的注意事项</a></li><li><a class="wp_rp_thumbnail" href="https://coolshell.cn/articles/4549.html"><img alt="Facebook 的系统架构" height="150" src="https://coolshell.cn/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/7.jpg" width="150" /></a><a class="wp_rp_title" href="https://coolshell.cn/articles/4549.html">Facebook 的系统架构</a></li></ul></div></div>The post <a href="https://coolshell.cn/articles/22173.html">“一把梭：REST API 全用 POST”</a> first appeared on <a href="https://coolshell.cn">酷 壳 - CoolShell</a>.]]></description>
+<div class="wp_rp_wrap  wp_rp_vertical_m"><div class="wp_rp_content"><h3 class="related_post_title">相关文章</h3><ul class="related_post wp_rp"><li><a class="wp_rp_thumbnail" href="https://coolshell.cn/articles/5701.html"><img alt="SteveY对Amazon和Google平台的吐槽" height="150" src="https://coolshell.cn/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/24.jpg" width="150" /></a><a class="wp_rp_title" href="https://coolshell.cn/articles/5701.html">SteveY对Amazon和Google平台的吐槽</a></li><li><a class="wp_rp_thumbnail" href="https://coolshell.cn/articles/21113.html"><img alt="百度为什么掉队了" height="150" src="https://coolshell.cn/wp-content/uploads/2020/12/baidu-150x150.jpg" width="150" /></a><a class="wp_rp_title" href="https://coolshell.cn/articles/21113.html">百度为什么掉队了</a></li><li><a class="wp_rp_thumbnail" href="https://coolshell.cn/articles/4722.html"><img alt="在Web上运行Linux" height="150" src="https://coolshell.cn/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/11.jpg" width="150" /></a><a class="wp_rp_title" href="https://coolshell.cn/articles/4722.html">在Web上运行Linux</a></li><li><a class="wp_rp_thumbnail" href="https://coolshell.cn/articles/1528.html"><img alt="图片搜索引擎优化Checklist" height="150" src="https://coolshell.cn/wp-content/uploads/2009/10/seo-cartoon-150x150.jpg" width="150" /></a><a class="wp_rp_title" href="https://coolshell.cn/articles/1528.html">图片搜索引擎优化Checklist</a></li><li><a class="wp_rp_thumbnail" href="https://coolshell.cn/articles/5576.html"><img alt="那些曾伴我走过编程之路的软件" height="150" src="https://coolshell.cn/wp-content/uploads/2011/10/00.QuickBasic_PDS_IDE-150x150.png" width="150" /></a><a class="wp_rp_title" href="https://coolshell.cn/articles/5576.html">那些曾伴我走过编程之路的软件</a></li><li><a class="wp_rp_thumbnail" href="https://coolshell.cn/articles/2109.html"><img alt="Python处理encoding的小技巧" height="150" src="https://coolshell.cn/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/15.jpg" width="150" /></a><a class="wp_rp_title" href="https://coolshell.cn/articles/2109.html">Python处理encoding的小技巧</a></li></ul></div></div>The post <a href="https://coolshell.cn/articles/22173.html">“一把梭：REST API 全用 POST”</a> first appeared on <a href="https://coolshell.cn">酷 壳 - CoolShell</a>.]]></description>
     <pubDate>Sun, 13 Feb 2022 04:28:47 -0000</pubDate>
     <guid isPermaLink="true">https://coolshell.cn/articles/22173.html</guid>
     <source url="https://coolshell.cn/articles/22173.html">酷 壳 – CoolShell</source>
@@ -6227,7 +6191,7 @@ DefaultSnapshotCatchUpEntries uint64 = 5000</pre>
 <p align="center"><strong>（转载本站文章请注明作者和出处 <a href="https://coolshell.cn/">酷 壳 &#8211; CoolShell</a> ，请勿用于任何商业用途）</strong></p>
 </div>
 
-<div class="wp_rp_wrap  wp_rp_vertical_m"><div class="wp_rp_content"><h3 class="related_post_title">相关文章</h3><ul class="related_post wp_rp"><li><a class="wp_rp_thumbnail" href="https://coolshell.cn/articles/22298.html"><img alt="聊聊团队协同和协同工具" height="150" src="https://coolshell.cn/wp-content/uploads/2022/10/communication-150x150.png" width="150" /></a><a class="wp_rp_title" href="https://coolshell.cn/articles/22298.html">聊聊团队协同和协同工具</a></li><li><a class="wp_rp_thumbnail" href="https://coolshell.cn/articles/22173.html"><img alt="“一把梭：REST API 全用 POST”" height="150" src="https://coolshell.cn/wp-content/uploads/2022/02/http_method-150x150.png" width="150" /></a><a class="wp_rp_title" href="https://coolshell.cn/articles/22173.html">“一把梭：REST API 全用 POST”</a></li><li><a class="wp_rp_thumbnail" href="https://coolshell.cn/articles/21589.html"><img alt="如何做一个有质量的技术分享" height="150" src="https://coolshell.cn/wp-content/uploads/2021/07/knowledge_sharing-300x169-1-150x150.jpeg" width="150" /></a><a class="wp_rp_title" href="https://coolshell.cn/articles/21589.html">如何做一个有质量的技术分享</a></li><li><a class="wp_rp_thumbnail" href="https://coolshell.cn/articles/20977.html"><img alt="程序员如何把控自己的职业" height="150" src="https://coolshell.cn/wp-content/uploads/2020/08/programmer.01-e1596792460687-150x150.png" width="150" /></a><a class="wp_rp_title" href="https://coolshell.cn/articles/20977.html">程序员如何把控自己的职业</a></li><li><a class="wp_rp_thumbnail" href="https://coolshell.cn/articles/20765.html"><img alt="MegaEase的远程工作文化" height="150" src="https://coolshell.cn/wp-content/uploads/2020/01/remote-150x150.jpg" width="150" /></a><a class="wp_rp_title" href="https://coolshell.cn/articles/20765.html">MegaEase的远程工作文化</a></li><li><a class="wp_rp_thumbnail" href="https://coolshell.cn/articles/20276.html"><img alt="别让自己“墙”了自己" height="150" src="https://coolshell.cn/wp-content/uploads/2019/12/open-your-creative-mind-150x150.jpg" width="150" /></a><a class="wp_rp_title" href="https://coolshell.cn/articles/20276.html">别让自己“墙”了自己</a></li></ul></div></div>The post <a href="https://coolshell.cn/articles/22157.html">谈谈公司对员工的监控</a> first appeared on <a href="https://coolshell.cn">酷 壳 - CoolShell</a>.]]></description>
+<div class="wp_rp_wrap  wp_rp_vertical_m"><div class="wp_rp_content"><h3 class="related_post_title">相关文章</h3><ul class="related_post wp_rp"><li><a class="wp_rp_thumbnail" href="https://coolshell.cn/articles/2622.html"><img alt="为什么敏捷方法能在软件开发中行之有效？" height="150" src="https://coolshell.cn/wp-content/uploads/2010/07/Martin-Flower1-150x150.jpg" width="150" /></a><a class="wp_rp_title" href="https://coolshell.cn/articles/2622.html">为什么敏捷方法能在软件开发中行之有效？</a></li><li><a class="wp_rp_thumbnail" href="https://coolshell.cn/articles/968.html"><img alt="18个Web开发的IDE" height="150" src="https://coolshell.cn/wp-content/uploads/2009/06/visual_web_developer-150x150.jpg" width="150" /></a><a class="wp_rp_title" href="https://coolshell.cn/articles/968.html">18个Web开发的IDE</a></li><li><a class="wp_rp_thumbnail" href="https://coolshell.cn/articles/2936.html"><img alt="Mozilla的一个BUG" height="150" src="https://coolshell.cn/wp-content/uploads/2010/09/Mozilla-150x150.jpg" width="150" /></a><a class="wp_rp_title" href="https://coolshell.cn/articles/2936.html">Mozilla的一个BUG</a></li><li><a class="wp_rp_thumbnail" href="https://coolshell.cn/articles/11609.html"><img alt="TCP 的那些事儿（下）" height="150" src="https://coolshell.cn/wp-content/uploads/2014/05/xin_2001040422167711230318-150x150.jpg" width="150" /></a><a class="wp_rp_title" href="https://coolshell.cn/articles/11609.html">TCP 的那些事儿（下）</a></li><li><a class="wp_rp_thumbnail" href="https://coolshell.cn/articles/3445.html"><img alt="输出从1到1000的数" height="150" src="https://coolshell.cn/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/14.jpg" width="150" /></a><a class="wp_rp_title" href="https://coolshell.cn/articles/3445.html">输出从1到1000的数</a></li><li><a class="wp_rp_thumbnail" href="https://coolshell.cn/articles/3320.html"><img alt="JDK里的设计模式" height="150" src="https://coolshell.cn/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/28.jpg" width="150" /></a><a class="wp_rp_title" href="https://coolshell.cn/articles/3320.html">JDK里的设计模式</a></li></ul></div></div>The post <a href="https://coolshell.cn/articles/22157.html">谈谈公司对员工的监控</a> first appeared on <a href="https://coolshell.cn">酷 壳 - CoolShell</a>.]]></description>
     <pubDate>Sat, 12 Feb 2022 07:50:06 -0000</pubDate>
     <guid isPermaLink="true">https://coolshell.cn/articles/22157.html</guid>
     <source url="https://coolshell.cn/articles/22157.html">酷 壳 – CoolShell</source>
@@ -6344,7 +6308,7 @@ DefaultSnapshotCatchUpEntries uint64 = 5000</pre>
 <p align="center"><strong>（转载本站文章请注明作者和出处 <a href="https://coolshell.cn/">酷 壳 &#8211; CoolShell</a> ，请勿用于任何商业用途）</strong></p>
 </div>
 
-<div class="wp_rp_wrap  wp_rp_vertical_m"><div class="wp_rp_content"><h3 class="related_post_title">相关文章</h3><ul class="related_post wp_rp"><li><a class="wp_rp_thumbnail" href="https://coolshell.cn/articles/19395.html"><img alt="HTTP API 认证授权术" height="150" src="https://coolshell.cn/wp-content/uploads/2019/05/Authorization-360x200-1-150x150.png" width="150" /></a><a class="wp_rp_title" href="https://coolshell.cn/articles/19395.html">HTTP API 认证授权术</a></li><li><a class="wp_rp_thumbnail" href="https://coolshell.cn/articles/21003.html"><img alt="计时攻击 Timing Attacks" height="150" src="https://coolshell.cn/wp-content/uploads/2020/06/time-bomb-150x150.png" width="150" /></a><a class="wp_rp_title" href="https://coolshell.cn/articles/21003.html">计时攻击 Timing Attacks</a></li><li><a class="wp_rp_thumbnail" href="https://coolshell.cn/articles/19840.html"><img alt="HTTP的前世今生" height="150" src="https://coolshell.cn/wp-content/uploads/2019/10/HTTP-770x513-300x200-1-150x150.jpg" width="150" /></a><a class="wp_rp_title" href="https://coolshell.cn/articles/19840.html">HTTP的前世今生</a></li><li><a class="wp_rp_thumbnail" href="https://coolshell.cn/articles/18094.html"><img alt="如何免费的让网站启用HTTPS" height="150" src="https://coolshell.cn/wp-content/uploads/2017/08/enable-https-banner-150x150.png" width="150" /></a><a class="wp_rp_title" href="https://coolshell.cn/articles/18094.html">如何免费的让网站启用HTTPS</a></li><li><a class="wp_rp_thumbnail" href="https://coolshell.cn/articles/17607.html"><img alt="从 MongoDB “赎金事件” 看安全问题" height="150" src="https://coolshell.cn/wp-content/uploads/2017/01/MongoDB-150x150.jpg" width="150" /></a><a class="wp_rp_title" href="https://coolshell.cn/articles/17607.html">从 MongoDB “赎金事件” 看安全问题</a></li><li><a class="wp_rp_thumbnail" href="https://coolshell.cn/articles/17066.html"><img alt="关于移动端的钓鱼式攻击" height="150" src="https://coolshell.cn/wp-content/uploads/2015/04/phishing-1-150x150.jpg" width="150" /></a><a class="wp_rp_title" href="https://coolshell.cn/articles/17066.html">关于移动端的钓鱼式攻击</a></li></ul></div></div>The post <a href="https://coolshell.cn/articles/21708.html">网络数字身份认证术</a> first appeared on <a href="https://coolshell.cn">酷 壳 - CoolShell</a>.]]></description>
+<div class="wp_rp_wrap  wp_rp_vertical_m"><div class="wp_rp_content"><h3 class="related_post_title">相关文章</h3><ul class="related_post wp_rp"><li><a class="wp_rp_thumbnail" href="https://coolshell.cn/articles/2078.html"><img alt="如何防范密码被破解" height="150" src="https://coolshell.cn/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/13.jpg" width="150" /></a><a class="wp_rp_title" href="https://coolshell.cn/articles/2078.html">如何防范密码被破解</a></li><li><a class="wp_rp_thumbnail" href="https://coolshell.cn/articles/3258.html"><img alt="C++的字符串格式化库" height="150" src="https://coolshell.cn/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/3.jpg" width="150" /></a><a class="wp_rp_title" href="https://coolshell.cn/articles/3258.html">C++的字符串格式化库</a></li><li><a class="wp_rp_thumbnail" href="https://coolshell.cn/articles/11.html"><img alt="PHP v5.3的新鲜玩意" height="150" src="https://coolshell.cn/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/6.jpg" width="150" /></a><a class="wp_rp_title" href="https://coolshell.cn/articles/11.html">PHP v5.3的新鲜玩意</a></li><li><a class="wp_rp_thumbnail" href="https://coolshell.cn/articles/9917.html"><img alt="Alan Cox：大教堂、市集与市议会" height="150" src="https://coolshell.cn/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/10.jpg" width="150" /></a><a class="wp_rp_title" href="https://coolshell.cn/articles/9917.html">Alan Cox：大教堂、市集与市议会</a></li><li><a class="wp_rp_thumbnail" href="https://coolshell.cn/articles/21649.html"><img alt="源代码特洛伊木马攻击" height="150" src="https://coolshell.cn/wp-content/uploads/2021/11/il_340x270_pggv-150x150.jpg" width="150" /></a><a class="wp_rp_title" href="https://coolshell.cn/articles/21649.html">源代码特洛伊木马攻击</a></li><li><a class="wp_rp_thumbnail" href="https://coolshell.cn/articles/1252.html"><img alt="G1新型垃圾回收器一瞥" height="150" src="https://coolshell.cn/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/5.jpg" width="150" /></a><a class="wp_rp_title" href="https://coolshell.cn/articles/1252.html">G1新型垃圾回收器一瞥</a></li></ul></div></div>The post <a href="https://coolshell.cn/articles/21708.html">网络数字身份认证术</a> first appeared on <a href="https://coolshell.cn">酷 壳 - CoolShell</a>.]]></description>
     <pubDate>Sun, 02 Jan 2022 08:38:13 -0000</pubDate>
     <guid isPermaLink="true">https://coolshell.cn/articles/21708.html</guid>
     <source url="https://coolshell.cn/articles/21708.html">酷 壳 – CoolShell</source>
@@ -6468,7 +6432,7 @@ DefaultSnapshotCatchUpEntries uint64 = 5000</pre>
 <p align="center"><strong>（转载本站文章请注明作者和出处 <a href="https://coolshell.cn/">酷 壳 &#8211; CoolShell</a> ，请勿用于任何商业用途）</strong></p>
 </div>
 
-<div class="wp_rp_wrap  wp_rp_vertical_m"><div class="wp_rp_content"><h3 class="related_post_title">相关文章</h3><ul class="related_post wp_rp"><li><a class="wp_rp_thumbnail" href="https://coolshell.cn/articles/18024.html"><img alt="API设计原则 &#8211; Qt官网的设计实践总结" height="150" src="https://coolshell.cn/wp-content/uploads/2017/07/api-design-300x278-2-150x150.jpg" width="150" /></a><a class="wp_rp_title" href="https://coolshell.cn/articles/18024.html">API设计原则 &#8211; Qt官网的设计实践总结</a></li><li><a class="wp_rp_thumbnail" href="https://coolshell.cn/articles/17680.html"><img alt="从Gitlab误删除数据库想到的" height="150" src="https://coolshell.cn/wp-content/uploads/2017/02/gitlab-600-150x150.jpg" width="150" /></a><a class="wp_rp_title" href="https://coolshell.cn/articles/17680.html">从Gitlab误删除数据库想到的</a></li><li><a class="wp_rp_thumbnail" href="https://coolshell.cn/articles/17459.html"><img alt="关于高可用的系统" height="150" src="https://coolshell.cn/wp-content/uploads/2016/08/HighAvailability-BK-150x150.png" width="150" /></a><a class="wp_rp_title" href="https://coolshell.cn/articles/17459.html">关于高可用的系统</a></li><li><a class="wp_rp_thumbnail" href="https://coolshell.cn/articles/9949.html"><img alt="IoC/DIP其实是一种管理思想" height="150" src="https://coolshell.cn/wp-content/uploads/2013/07/inverted-bookshelf_thumb-150x150.jpg" width="150" /></a><a class="wp_rp_title" href="https://coolshell.cn/articles/9949.html">IoC/DIP其实是一种管理思想</a></li><li><a class="wp_rp_thumbnail" href="https://coolshell.cn/articles/6775.html"><img alt="Bret Victor &#8211; Inventing on Principle" height="150" src="https://coolshell.cn/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/24.jpg" width="150" /></a><a class="wp_rp_title" href="https://coolshell.cn/articles/6775.html">Bret Victor &#8211; Inventing on Principle</a></li><li><a class="wp_rp_thumbnail" href="https://coolshell.cn/articles/5686.html"><img alt="多些时间能少写些代码" height="150" src="https://coolshell.cn/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/15.jpg" width="150" /></a><a class="wp_rp_title" href="https://coolshell.cn/articles/5686.html">多些时间能少写些代码</a></li></ul></div></div>The post <a href="https://coolshell.cn/articles/21672.html">我做系统架构的一些原则</a> first appeared on <a href="https://coolshell.cn">酷 壳 - CoolShell</a>.]]></description>
+<div class="wp_rp_wrap  wp_rp_vertical_m"><div class="wp_rp_content"><h3 class="related_post_title">相关文章</h3><ul class="related_post wp_rp"><li><a class="wp_rp_thumbnail" href="https://coolshell.cn/articles/2191.html"><img alt="DEMO Spring 2010 获奖产品" height="150" src="https://coolshell.cn/wp-content/uploads/2010/03/Zosh-150x150.jpg" width="150" /></a><a class="wp_rp_title" href="https://coolshell.cn/articles/2191.html">DEMO Spring 2010 获奖产品</a></li><li><a class="wp_rp_thumbnail" href="https://coolshell.cn/articles/2746.html"><img alt="五种应该避免的代码注释" height="150" src="https://coolshell.cn/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/1.jpg" width="150" /></a><a class="wp_rp_title" href="https://coolshell.cn/articles/2746.html">五种应该避免的代码注释</a></li><li><a class="wp_rp_thumbnail" href="https://coolshell.cn/articles/3512.html"><img alt="64位平台C/C++开发注意事项" height="150" src="https://coolshell.cn/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/27.jpg" width="150" /></a><a class="wp_rp_title" href="https://coolshell.cn/articles/3512.html">64位平台C/C++开发注意事项</a></li><li><a class="wp_rp_thumbnail" href="https://coolshell.cn/articles/290.html"><img alt="雷人的程序注释" height="150" src="https://coolshell.cn/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/19.jpg" width="150" /></a><a class="wp_rp_title" href="https://coolshell.cn/articles/290.html">雷人的程序注释</a></li><li><a class="wp_rp_thumbnail" href="https://coolshell.cn/articles/8239.html"><img alt="无锁队列的实现" height="150" src="https://coolshell.cn/wp-content/uploads/2012/09/lock_free_bicycle-150x150.jpg" width="150" /></a><a class="wp_rp_title" href="https://coolshell.cn/articles/8239.html">无锁队列的实现</a></li><li><a class="wp_rp_thumbnail" href="https://coolshell.cn/articles/1901.html"><img alt="Visual Studio的Vim插件" height="150" src="https://coolshell.cn/wp-content/uploads/2009/12/viemu-movie-150x150.gif" width="150" /></a><a class="wp_rp_title" href="https://coolshell.cn/articles/1901.html">Visual Studio的Vim插件</a></li></ul></div></div>The post <a href="https://coolshell.cn/articles/21672.html">我做系统架构的一些原则</a> first appeared on <a href="https://coolshell.cn">酷 壳 - CoolShell</a>.]]></description>
     <pubDate>Tue, 21 Dec 2021 07:46:41 -0000</pubDate>
     <guid isPermaLink="true">https://coolshell.cn/articles/21672.html</guid>
     <source url="https://coolshell.cn/articles/21672.html">酷 壳 – CoolShell</source>
@@ -6579,7 +6543,7 @@ app.listen(8080);</pre>
 <p align="center"><strong>（转载本站文章请注明作者和出处 <a href="https://coolshell.cn/">酷 壳 &#8211; CoolShell</a> ，请勿用于任何商业用途）</strong></p>
 </div>
 
-<div class="wp_rp_wrap  wp_rp_vertical_m"><div class="wp_rp_content"><h3 class="related_post_title">相关文章</h3><ul class="related_post wp_rp"><li><a class="wp_rp_thumbnail" href="https://coolshell.cn/articles/3684.html"><img alt="Web开发人员速查卡" height="150" src="https://coolshell.cn/wp-content/uploads/2011/02/1128-150x150.jpg" width="150" /></a><a class="wp_rp_title" href="https://coolshell.cn/articles/3684.html">Web开发人员速查卡</a></li><li><a class="wp_rp_thumbnail" href="https://coolshell.cn/articles/2439.html"><img alt="黑客的价值观" height="150" src="https://coolshell.cn/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/16.jpg" width="150" /></a><a class="wp_rp_title" href="https://coolshell.cn/articles/2439.html">黑客的价值观</a></li><li><a class="wp_rp_thumbnail" href="https://coolshell.cn/articles/1957.html"><img alt="Web程序的最佳测试数据" height="150" src="https://coolshell.cn/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/9.jpg" width="150" /></a><a class="wp_rp_title" href="https://coolshell.cn/articles/1957.html">Web程序的最佳测试数据</a></li><li><a class="wp_rp_thumbnail" href="https://coolshell.cn/articles/1331.html"><img alt="Unicode字符预览表" height="150" src="https://coolshell.cn/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/11.jpg" width="150" /></a><a class="wp_rp_title" href="https://coolshell.cn/articles/1331.html">Unicode字符预览表</a></li><li><a class="wp_rp_thumbnail" href="https://coolshell.cn/articles/2524.html"><img alt="几个Web的资源" height="150" src="https://coolshell.cn/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/29.jpg" width="150" /></a><a class="wp_rp_title" href="https://coolshell.cn/articles/2524.html">几个Web的资源</a></li><li><a class="wp_rp_thumbnail" href="https://coolshell.cn/articles/4506.html"><img alt="再谈“我是怎么招聘程序员的”（上）" height="150" src="https://coolshell.cn/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/0.jpg" width="150" /></a><a class="wp_rp_title" href="https://coolshell.cn/articles/4506.html">再谈“我是怎么招聘程序员的”（上）</a></li></ul></div></div>The post <a href="https://coolshell.cn/articles/21649.html">源代码特洛伊木马攻击</a> first appeared on <a href="https://coolshell.cn">酷 壳 - CoolShell</a>.]]></description>
+<div class="wp_rp_wrap  wp_rp_vertical_m"><div class="wp_rp_content"><h3 class="related_post_title">相关文章</h3><ul class="related_post wp_rp"><li><a class="wp_rp_thumbnail" href="https://coolshell.cn/articles/3684.html"><img alt="Web开发人员速查卡" height="150" src="https://coolshell.cn/wp-content/uploads/2011/02/1128-150x150.jpg" width="150" /></a><a class="wp_rp_title" href="https://coolshell.cn/articles/3684.html">Web开发人员速查卡</a></li><li><a class="wp_rp_thumbnail" href="https://coolshell.cn/articles/2439.html"><img alt="黑客的价值观" height="150" src="https://coolshell.cn/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/16.jpg" width="150" /></a><a class="wp_rp_title" href="https://coolshell.cn/articles/2439.html">黑客的价值观</a></li><li><a class="wp_rp_thumbnail" href="https://coolshell.cn/articles/1957.html"><img alt="Web程序的最佳测试数据" height="150" src="https://coolshell.cn/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/9.jpg" width="150" /></a><a class="wp_rp_title" href="https://coolshell.cn/articles/1957.html">Web程序的最佳测试数据</a></li><li><a class="wp_rp_thumbnail" href="https://coolshell.cn/articles/1331.html"><img alt="Unicode字符预览表" height="150" src="https://coolshell.cn/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/11.jpg" width="150" /></a><a class="wp_rp_title" href="https://coolshell.cn/articles/1331.html">Unicode字符预览表</a></li><li><a class="wp_rp_thumbnail" href="https://coolshell.cn/articles/3008.html"><img alt="Windows编程革命简史" height="150" src="https://coolshell.cn/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/10.jpg" width="150" /></a><a class="wp_rp_title" href="https://coolshell.cn/articles/3008.html">Windows编程革命简史</a></li><li><a class="wp_rp_thumbnail" href="https://coolshell.cn/articles/3136.html"><img alt="chmod -x chmod的N种解法" height="150" src="https://coolshell.cn/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/3.jpg" width="150" /></a><a class="wp_rp_title" href="https://coolshell.cn/articles/3136.html">chmod -x chmod的N种解法</a></li></ul></div></div>The post <a href="https://coolshell.cn/articles/21649.html">源代码特洛伊木马攻击</a> first appeared on <a href="https://coolshell.cn">酷 壳 - CoolShell</a>.]]></description>
     <pubDate>Fri, 19 Nov 2021 09:02:46 -0000</pubDate>
     <guid isPermaLink="true">https://coolshell.cn/articles/21649.html</guid>
     <source url="https://coolshell.cn/articles/21649.html">酷 壳 – CoolShell</source>
@@ -7082,7 +7046,7 @@ print(no_vacation)
 <p align="center"><strong>（转载本站文章请注明作者和出处 <a href="https://coolshell.cn/">酷 壳 &#8211; CoolShell</a> ，请勿用于任何商业用途）</strong></p>
 </div>
 
-<div class="wp_rp_wrap  wp_rp_vertical_m"><div class="wp_rp_content"><h3 class="related_post_title">相关文章</h3><ul class="related_post wp_rp"><li><a class="wp_rp_thumbnail" href="https://coolshell.cn/articles/1592.html"><img alt="[推荐]基于Mac的Port工具Fink" height="150" src="https://coolshell.cn/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/2.jpg" width="150" /></a><a class="wp_rp_title" href="https://coolshell.cn/articles/1592.html">[推荐]基于Mac的Port工具Fink</a></li><li><a class="wp_rp_thumbnail" href="https://coolshell.cn/articles/6731.html"><img alt="理解Javascript的闭包" height="150" src="https://coolshell.cn/wp-content/uploads/2012/03/closure-150x150.png" width="150" /></a><a class="wp_rp_title" href="https://coolshell.cn/articles/6731.html">理解Javascript的闭包</a></li><li><a class="wp_rp_thumbnail" href="https://coolshell.cn/articles/2806.html"><img alt="程序员版的凡客" height="150" src="https://coolshell.cn/wp-content/uploads/2010/08/coolshell.programmer-150x150.jpg" width="150" /></a><a class="wp_rp_title" href="https://coolshell.cn/articles/2806.html">程序员版的凡客</a></li><li><a class="wp_rp_thumbnail" href="https://coolshell.cn/articles/1850.html"><img alt="Javascript程序员嘴最脏??" height="150" src="https://coolshell.cn/wp-content/uploads/2009/11/programming_language-150x150.jpg" width="150" /></a><a class="wp_rp_title" href="https://coolshell.cn/articles/1850.html">Javascript程序员嘴最脏??</a></li><li><a class="wp_rp_thumbnail" href="https://coolshell.cn/articles/7186.html"><img alt="做个环保主义的程序员" height="150" src="https://coolshell.cn/wp-content/uploads/2012/04/Green-Computing-150x150.jpg" width="150" /></a><a class="wp_rp_title" href="https://coolshell.cn/articles/7186.html">做个环保主义的程序员</a></li><li><a class="wp_rp_thumbnail" href="https://coolshell.cn/articles/6010.html"><img alt="一些有意思的算法代码" height="150" src="https://coolshell.cn/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/23.jpg" width="150" /></a><a class="wp_rp_title" href="https://coolshell.cn/articles/6010.html">一些有意思的算法代码</a></li></ul></div></div>The post <a href="https://coolshell.cn/articles/21589.html">如何做一个有质量的技术分享</a> first appeared on <a href="https://coolshell.cn">酷 壳 - CoolShell</a>.]]></description>
+<div class="wp_rp_wrap  wp_rp_vertical_m"><div class="wp_rp_content"><h3 class="related_post_title">相关文章</h3><ul class="related_post wp_rp"><li><a class="wp_rp_thumbnail" href="https://coolshell.cn/articles/4561.html"><img alt="对程序员职业的一些建议" height="150" src="https://coolshell.cn/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/11.jpg" width="150" /></a><a class="wp_rp_title" href="https://coolshell.cn/articles/4561.html">对程序员职业的一些建议</a></li><li><a class="wp_rp_thumbnail" href="https://coolshell.cn/articles/1907.html"><img alt="UI的恶梦" height="150" src="https://coolshell.cn/wp-content/uploads/2009/12/badui2-300x224-1-150x150.jpg" width="150" /></a><a class="wp_rp_title" href="https://coolshell.cn/articles/1907.html">UI的恶梦</a></li><li><a class="wp_rp_thumbnail" href="https://coolshell.cn/articles/1761.html"><img alt="Go语言源码的一个改动" height="150" src="https://coolshell.cn/wp-content/uploads/2009/11/spell_it_with_e-150x150.jpg" width="150" /></a><a class="wp_rp_title" href="https://coolshell.cn/articles/1761.html">Go语言源码的一个改动</a></li><li><a class="wp_rp_thumbnail" href="https://coolshell.cn/articles/194.html"><img alt="Linux 相关的资源站makelinux.net" height="150" src="https://coolshell.cn/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/15.jpg" width="150" /></a><a class="wp_rp_title" href="https://coolshell.cn/articles/194.html">Linux 相关的资源站makelinux.net</a></li><li><a class="wp_rp_thumbnail" href="https://coolshell.cn/articles/9917.html"><img alt="Alan Cox：大教堂、市集与市议会" height="150" src="https://coolshell.cn/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/10.jpg" width="150" /></a><a class="wp_rp_title" href="https://coolshell.cn/articles/9917.html">Alan Cox：大教堂、市集与市议会</a></li><li><a class="wp_rp_thumbnail" href="https://coolshell.cn/articles/2593.html"><img alt="Web版的VNC" height="150" src="https://coolshell.cn/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/18.jpg" width="150" /></a><a class="wp_rp_title" href="https://coolshell.cn/articles/2593.html">Web版的VNC</a></li></ul></div></div>The post <a href="https://coolshell.cn/articles/21589.html">如何做一个有质量的技术分享</a> first appeared on <a href="https://coolshell.cn">酷 壳 - CoolShell</a>.]]></description>
     <pubDate>Tue, 13 Jul 2021 05:00:46 -0000</pubDate>
     <guid isPermaLink="true">https://coolshell.cn/articles/21589.html</guid>
     <source url="https://coolshell.cn/articles/21589.html">酷 壳 – CoolShell</source>
