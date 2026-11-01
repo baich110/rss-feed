@@ -5,23 +5,436 @@
   <link>https://baich110.github.io/rss-feed/</link>
   <description>自动聚合多个优质科技/数码/技术资讯源，每小时更新</description>
   <language>zh-CN</language>
-  <lastBuildDate>Sun, 01 Nov 2026 15:51:32 -0000</lastBuildDate>
+  <lastBuildDate>Sun, 01 Nov 2026 20:17:41 -0000</lastBuildDate>
   <atom:link href="https://baich110.github.io/rss-feed/feed.xml" rel="self" type="application/rss+xml" />
   <item>
-    <title>[原创频道&gt;&gt;什么值得买] 几百块捡漏的日系翻转本：富士通 U729X，值不值？</title>
-    <link>https://post.smzdm.com/p/a2642e62/</link>
-    <description><![CDATA[知木如果你正在找一台「能写、能翻、还便宜」的二手办公本，富士通 U729X 二手看起来还挺不错。i5-8365U、4 核 8 线程，带 360 度翻转触屏和原装有源笔，价格只要几百块。听着很香，但二手洋垃圾水深，这钱花得值不值，得拆开看。01 它到底是什么机器U729X 不是普通 U729，后缀的 X 就多了触屏、翻转和手写笔这套「平板形态」。12.5 英寸 FHD IPS 屏幕、Wacom 2048<p>本文来自<a href="https://post.smzdm.com/p/a2642e62/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
-    <pubDate>Sun, 01 Nov 2026 15:51:15 -0000</pubDate>
-    <guid isPermaLink="true">https://post.smzdm.com/p/a2642e62/</guid>
-    <source url="https://post.smzdm.com/p/a2642e62/">原创频道&gt;&gt;什么值得买</source>
+    <title>[原创频道&gt;&gt;什么值得买] 本田CB250SS开启早鸟预定，订的是概念车</title>
+    <link>https://post.smzdm.com/p/az87lmdn/</link>
+    <description><![CDATA[值厂车界11月的第一天，本田给摩博会上发布的那几款新车开启了早鸟预定，动静最大的自然是那台CB250SS。有位30万粉的摩托博主当天就「先订为敬」，转头又吐槽权益实在有点抠；评论区里还有另一种声音：这是台概念车，别急着上头，谁知道最后落不落地。这两种说法都没说到点子上。这次预定真正的关键，你订的这台车，量产版官方口径要到2027年春季才上市。先对一下这台车是什么。9月中旬重庆摩博会上展出的，是CB250S<p>本文来自<a href="https://post.smzdm.com/p/az87lmdn/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
+    <pubDate>Sun, 01 Nov 2026 19:46:31 -0000</pubDate>
+    <guid isPermaLink="true">https://post.smzdm.com/p/az87lmdn/</guid>
+    <source url="https://post.smzdm.com/p/az87lmdn/">原创频道&gt;&gt;什么值得买</source>
   </item>
   <item>
-    <title>[原创频道&gt;&gt;什么值得买] 央视曝光“无硫白芷”其实含硫：吃了熏硫白芷伤在哪？安全边界在哪</title>
-    <link>https://post.smzdm.com/p/a954mz7p/</link>
-    <description><![CDATA[匿名用户热榜上"熏硫白芷"这个问题，先给结论：偶尔少量吃进去一般不会有明显不适，它的伤害跟剂量走——亚硫酸盐进入人体后会在亚硫酸氧化酶（Sulfite oxidase）作用下被氧化成毒性低得多的硫酸盐，再排出体外，大多数健康人对正常食品水平的亚硫酸盐耐受较好。但"不必恐慌"不等于"可以吃"：熏硫白芷的安全边界实际是两条线——一条法律线，一条剂量线，而眼下流通的违规白芷，在第一条线上就已经越界。知乎白芷是家<p>本文来自<a href="https://post.smzdm.com/p/a954mz7p/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
-    <pubDate>Sun, 01 Nov 2026 15:49:51 -0000</pubDate>
-    <guid isPermaLink="true">https://post.smzdm.com/p/a954mz7p/</guid>
-    <source url="https://post.smzdm.com/p/a954mz7p/">原创频道&gt;&gt;什么值得买</source>
+    <title>[V2EX] [分享创造] 做了一个网页旁的画布：收藏带来源，圈出细节交给 Codex / Claude Code</title>
+    <link>https://www.v2ex.com/t/1253627#reply0</link>
+    <description><![CDATA[<p>最近在做一个独立项目 Galta ，已经开源，也有可安装的公开测试版。</p>
+<p>我想解决的是这样一段工作：浏览网页时收了几张参考，有了一点模糊的想法，
+还不想把它整理成一条完整 prompt 。能不能先把参考放在一起，写两句、画两笔，
+再指着其中一个细节，和 Agent 接着做？</p>
+<p>Galta 是放在网页旁的无限画布。图片带着网页来源进来；参考、草图和后续结果
+留在同一张画布上。可以接 Codex 或 Claude Code ，让它在这张画布里工作。</p>
+<p>想找几位最近正在整理视觉参考、做灵感板的人，拿自己的一个小任务试试。
+尤其想知道三件事：第一次哪里卡住；什么时候“指给它看”有用；什么时候
+你仍然会回到原来的工具。能描述具体卡点就很有帮助。</p>
+<p>安装需要 Chrome 141+ 或 Dia ；原生 Agent 连接还需要 Apple 芯片 Mac 和
+macOS 15 或更新版本。画布绘制、导入与历史可以先独立使用。模型账号和
+可选生成服务使用你自己的连接，画布在本机不等于所有推理都在本机。</p>
+<p>演示里的 Agent 步骤是界面重演；它用来展示交互，不是模型成功率证明。</p>
+<p>第一次可以只做一件小事：把三张自己的参考放进画布，打开一个来源，再标明一个取舍。不连接 Agent 也能试完。这里是完整任务、结果判断和安装入口：
+<a href="https://galta.art/zh-hans/guides/web-reference-canvas/?utm_source=v2ex&amp;utm_medium=community&amp;utm_campaign=2026-11-first-users&amp;utm_content=galta-creator-post" rel="nofollow">https://galta.art/zh-hans/guides/web-reference-canvas/?utm_source=v2ex&amp;utm_medium=community&amp;utm_campaign=2026-11-first-users&amp;utm_content=galta-creator-post</a></p>
+<p>源码： <a href="https://github.com/aha-labs-hq/galta" rel="nofollow">https://github.com/aha-labs-hq/galta</a></p>
+<p>如果你也遇到“参考收了不少，下一步却很难接着做”的情况，想听听你现在怎么处理。</p>]]></description>
+    <pubDate>Sun, 01 Nov 2026 19:42:17 -0000</pubDate>
+    <guid isPermaLink="true">https://www.v2ex.com/t/1253627#reply0</guid>
+    <source url="https://www.v2ex.com/t/1253627#reply0">V2EX</source>
+  </item>
+  <item>
+    <title>[原创频道&gt;&gt;什么值得买] 贴1个点不是发现金：我家10万分期，一期只扣了83元</title>
+    <link>https://post.smzdm.com/p/a3m4k987/</link>
+    <description><![CDATA[玩卡快报九月中旬装修队催第二期款，家里要拿出10万现金。手头资金全压在银行里，一年后才到期，提前取出来不合算。老婆说，用装修贷吧，国家给贴息。听到“贴息”两个字，我第一反应是别又是个话术——这些年我替家里算过不少钱的账，头一条规矩就是先查官方口径再掏钱。公告翻完、算盘摊开，我确认了：贴息是真的，但它不是财政直接打一笔现金到你卡里，到手多少，得一期一期算。下面就是我家这笔钱算下来的三笔账。一、第一笔账：贴息<p>本文来自<a href="https://post.smzdm.com/p/a3m4k987/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
+    <pubDate>Sun, 01 Nov 2026 19:30:42 -0000</pubDate>
+    <guid isPermaLink="true">https://post.smzdm.com/p/a3m4k987/</guid>
+    <source url="https://post.smzdm.com/p/a3m4k987/">原创频道&gt;&gt;什么值得买</source>
+  </item>
+  <item>
+    <title>[原创频道&gt;&gt;什么值得买] 广州1个半小时到竹海私汤：白天鹅出品的真话测评</title>
+    <link>https://post.smzdm.com/p/al395nro/</link>
+    <description><![CDATA[匿名用户广东刚降温，温泉季又开始了。最近两个月的公开实测帖里，这家酒店的口碑出现明显分歧：回头客写下"住过一次就想再来"、连着两年去过生日；也有人发长帖吐槽卫生、服务"浑身难受"；中间还夹着管家把外卖送进房、娃在自家小院泡私汤看星星这类真实细节。它就是肇庆广宁竹海里的温泉度假别墅区，和广州白天鹅同集团同品牌。最近它还入选了广东省文化和旅游厅第四批"粤式新潮流"文旅消费热门场景榜单。这篇把全网公开住客反馈和<p>本文来自<a href="https://post.smzdm.com/p/al395nro/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
+    <pubDate>Sun, 01 Nov 2026 19:29:30 -0000</pubDate>
+    <guid isPermaLink="true">https://post.smzdm.com/p/al395nro/</guid>
+    <source url="https://post.smzdm.com/p/al395nro/">原创频道&gt;&gt;什么值得买</source>
+  </item>
+  <item>
+    <title>[原创频道&gt;&gt;什么值得买] 那句“吃了不烧心”，一个月刷遍全网：量产剧的皮和正主的油，我给你一次摆明白</title>
+    <link>https://post.smzdm.com/p/awwdg982/</link>
+    <description><![CDATA[米花蘸白糖水煮蛋吃着不烧心，谷子便宜扎着不烧心，消息已读不回、拉黑也不烧心——到11月初，“不烧心”已经成了全网通用的夸法。它的出处是那批摆摊AI短剧：卖盒饭、卖猪脚饭、卖包子，收尾都是同一句“贵是贵了点，但吃了不烧心”，加一句“规矩不能坏”。10月5日，话题“AI短剧进入不烧心时代”刷屏，署名新周刊，说的就是内容高度同质化。知乎有自称干过短剧项目的答主爆料：模板库里真有个分类，就叫“市井摊主”。这梗跑得比<p>本文来自<a href="https://post.smzdm.com/p/awwdg982/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
+    <pubDate>Sun, 01 Nov 2026 19:27:18 -0000</pubDate>
+    <guid isPermaLink="true">https://post.smzdm.com/p/awwdg982/</guid>
+    <source url="https://post.smzdm.com/p/awwdg982/">原创频道&gt;&gt;什么值得买</source>
+  </item>
+  <item>
+    <title>[原创频道&gt;&gt;什么值得买] 马达加斯加“刀锋石林”：2亿年前的海底，长成了一片走不通的路</title>
+    <link>https://post.smzdm.com/p/a6z462v0/</link>
+    <description><![CDATA[值行步道入口往下看：崖下的"森林"没有一棵树，全是立起来的石刃，数十米高，像一场被按下暂停键的海浪。两亿年前这里是浅海海底；今天有向导带路，人也只能手脚并用爬过去。海底怎么变成了"不能光脚踩"的迷宫？它连名字都在劝退：一片 1520 平方公里的石头海贝马拉哈 Tsingy 国家公园在马达加斯加西部，紧贴贝科帕卡村，核心区是同名严格自然保护区，面积约 1520 平方公里——放进去能装下一座中等城市的整个<p>本文来自<a href="https://post.smzdm.com/p/a6z462v0/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
+    <pubDate>Sun, 01 Nov 2026 19:16:30 -0000</pubDate>
+    <guid isPermaLink="true">https://post.smzdm.com/p/a6z462v0/</guid>
+    <source url="https://post.smzdm.com/p/a6z462v0/">原创频道&gt;&gt;什么值得买</source>
+  </item>
+  <item>
+    <title>[原创频道&gt;&gt;什么值得买] 煮啤酒用雪花居然对味？行家和川渝人吵翻了</title>
+    <link>https://post.smzdm.com/p/a4q4293w/</link>
+    <description><![CDATA[酒坛子成精立冬眼看着就到了，温黄酒那拨人已经把「40度隔水」的玩法安排得明明白白，煮啤酒这拨还在吵架：一派说拉格煮了纯属糟蹋，一派说成都重庆人拿雪花配醪糟煮了几十年。两派吵了这么多年，其实谁都没说错，只是用的不是一口锅。今天把两笔账都算清楚，省得你立冬前白糟蹋一锅。煮啤酒用雪花，到底是不是糟蹋西式热啤酒是个老喝法，叫Glühbier或者mulled beer，德国1600年代的书里就有记载，跟热红酒是一个路<p>本文来自<a href="https://post.smzdm.com/p/a4q4293w/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
+    <pubDate>Sun, 01 Nov 2026 19:07:47 -0000</pubDate>
+    <guid isPermaLink="true">https://post.smzdm.com/p/a4q4293w/</guid>
+    <source url="https://post.smzdm.com/p/a4q4293w/">原创频道&gt;&gt;什么值得买</source>
+  </item>
+  <item>
+    <title>[原创频道&gt;&gt;什么值得买] 翻出来的皮衣起白霜？先吹一吹再判断霉，有的能省几百块护理费</title>
+    <link>https://post.smzdm.com/p/aomqk427/</link>
+    <description><![CDATA[隔壁妙招姐11月头一件事，很多人是把冬装翻出来“验货”：羽绒服还蓬不蓬、大衣有没有霉点。皮衣最让人心里一咯噔——领口、门襟、袖口起了一层白霜，或者几块白斑，看着像落了一层灰，擦掉过两天又出来。这时候你会同时听到两种声音：有的护理店说这是“反硝”，处理一次要几百块；网上的帖子教你用酒精擦、花露水兑水喷，还有人说发霉了干脆扔掉。本期妙招解惑，姐帮你把这层白霜看明白：它未必是霉，两种情况的处理路径完全不同，搞错了<p>本文来自<a href="https://post.smzdm.com/p/aomqk427/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
+    <pubDate>Sun, 01 Nov 2026 19:07:16 -0000</pubDate>
+    <guid isPermaLink="true">https://post.smzdm.com/p/aomqk427/</guid>
+    <source url="https://post.smzdm.com/p/aomqk427/">原创频道&gt;&gt;什么值得买</source>
+  </item>
+  <item>
+    <title>[原创频道&gt;&gt;什么值得买] 拉布布盲盒二手跌破发售价，是该捡漏还是该接盘的时候</title>
+    <link>https://post.smzdm.com/p/avgd529m/</link>
+    <description><![CDATA[摸盒君曾经要找黄牛加价都抢不到的拉布布，如今二手市场上一抓一把挂牌价比发售价还低的。10月27日晚泡泡玛特交出三季度经营数据，整体收益同比下滑45%-50%，社区直接吵成两拨：有人喊这是千载难逢的捡漏窗口，有人咬定现在进场就是接盘。最闹心的其实是之前真心稀罕、被高价劝退的那批人——现在下手，到底是捡漏还是接飞刀？不把跌价的原因和二手的坑整明白就掏钱，很容易当大冤种。二手市场现在啥样：从溢价抢购到破发清仓<p>本文来自<a href="https://post.smzdm.com/p/avgd529m/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
+    <pubDate>Sun, 01 Nov 2026 18:53:00 -0000</pubDate>
+    <guid isPermaLink="true">https://post.smzdm.com/p/avgd529m/</guid>
+    <source url="https://post.smzdm.com/p/avgd529m/">原创频道&gt;&gt;什么值得买</source>
+  </item>
+  <item>
+    <title>[原创频道&gt;&gt;什么值得买] 老款反涨900、8+128悄悄回归：这个双11，先挑存储版本再看优惠</title>
+    <link>https://post.smzdm.com/p/a3m4k9l5/</link>
+    <description><![CDATA[机圈清醒哥双11买手机，讲究的是越晚越便宜。但今年出了件反常识的事：红米K90标准版，去年发布时2599元起，现在小米商城挂3499元，一年时间贵了900块。我第一眼以为是页面标错了，去翻了一下才发现，今年8月K90全系官方上调过300元，调价记录就摆在那，之后价格再没回去过。老款越卖越贵，不是营销套路，是内存——手机里那颗过去最不值钱的存储件，成本炸了。所以我的判断先摆在这：这个双11买手机，最大的坑不是<p>本文来自<a href="https://post.smzdm.com/p/a3m4k9l5/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
+    <pubDate>Sun, 01 Nov 2026 18:48:45 -0000</pubDate>
+    <guid isPermaLink="true">https://post.smzdm.com/p/a3m4k9l5/</guid>
+    <source url="https://post.smzdm.com/p/a3m4k9l5/">原创频道&gt;&gt;什么值得买</source>
+  </item>
+  <item>
+    <title>[V2EX] [分享创造] 看到有人在站内分享逆向搜狗输入法，于是厚着脸皮推荐下自家的开源输入法：水杉输入法</title>
+    <link>https://www.v2ex.com/t/1253625#reply1</link>
+    <description><![CDATA[<p>纯净版： <a href="https://github.com/metasequoiaime/msime-windows" rel="nofollow">https://github.com/metasequoiaime/msime-windows</a></p>
+<p>全平台版： <a href="https://github.com/metasequoiaime/msime" rel="nofollow">https://github.com/metasequoiaime/msime</a></p>
+<p>自家训练的输入法模型，用来排序、联想等等： <a href="https://github.com/metasequoiaime/chinese-ime-lm" rel="nofollow">https://github.com/metasequoiaime/chinese-ime-lm</a></p>
+<p>最后，再厚着脸皮求个 star ，谢谢 v 友们~</p>]]></description>
+    <pubDate>Sun, 01 Nov 2026 18:47:24 -0000</pubDate>
+    <guid isPermaLink="true">https://www.v2ex.com/t/1253625#reply1</guid>
+    <source url="https://www.v2ex.com/t/1253625#reply1">V2EX</source>
+  </item>
+  <item>
+    <title>[原创频道&gt;&gt;什么值得买] Nike Alphafly 4 跑鞋：气垫没取消，只是藏得更深了</title>
+    <link>https://post.smzdm.com/p/arzd4ozx/</link>
+    <description><![CDATA[狂飙户外Nike Alphafly 4 跑鞋：气垫没取消，只是藏得更深了耐克 Alphafly 4 竞速跑鞋在 2026 年 9 月 17 日美国官网限量首发、10 月 29 日全面发售，国内定价 2199 元。它一亮相，跑步圈里讨论最多的不是新鞋面、不是降价，而是一个看似"消失"的东西——前掌那对标志性的 Air Zoom 气垫。从 Alphafly 初代开始，前掌两颗外露的气垫就是它最显眼的名片。到了<p>本文来自<a href="https://post.smzdm.com/p/arzd4ozx/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
+    <pubDate>Sun, 01 Nov 2026 18:32:57 -0000</pubDate>
+    <guid isPermaLink="true">https://post.smzdm.com/p/arzd4ozx/</guid>
+    <source url="https://post.smzdm.com/p/arzd4ozx/">原创频道&gt;&gt;什么值得买</source>
+  </item>
+  <item>
+    <title>[原创频道&gt;&gt;什么值得买] 黄金回收价比大盘低多少算正常｜卖旧金先查当天AU9999，价·秤·熔·费四查，钱到账再交货</title>
+    <link>https://post.smzdm.com/p/ak83p088/</link>
+    <description><![CDATA[时尚种草姬决定把抽屉里的旧金变现，最难的不是找谁卖，是你带着一个数字出门、回来对账时差在哪。这一行的信息差，多数不在金价本身，在价格是怎么算出来的。先给结论：回收报价的参照，是当天的上海黄金交易所AU9999。正常价差各帖说法不同：基准价减几元到十几元/克都有1，跨渠道能拉到三十元上下（见下文5月4日那组数）。报价高出当日大盘的，直接写进「不考虑」那一栏——有回收商帖子的原话是：「高于大盘价的都是套路」2。<p>本文来自<a href="https://post.smzdm.com/p/ak83p088/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
+    <pubDate>Sun, 01 Nov 2026 18:27:34 -0000</pubDate>
+    <guid isPermaLink="true">https://post.smzdm.com/p/ak83p088/</guid>
+    <source url="https://post.smzdm.com/p/ak83p088/">原创频道&gt;&gt;什么值得买</source>
+  </item>
+  <item>
+    <title>[原创频道&gt;&gt;什么值得买] 羽绒一年翻倍，羽绒服分裂成两个物种：500元档塞400克，2000元档只给80克，双11你押哪个？</title>
+    <link>https://post.smzdm.com/p/aggwn6gw/</link>
+    <description><![CDATA[老宫去野了羽绒原料一年翻了一倍多，今年双11的羽绒服却卖出了两种完全相反的东西：一种五百元档、充绒400克的长款，在仓储会员店被抢成爆款；另一种两千元档、充绒只有80多克的薄壳，主打「轻暖是未来」。两边都说自己才是明白人的选择，到底谁在收割冤种？羽绒服今年为什么普遍变贵，是真的吗是真的，而且涨在源头，不是促销话术。行业行情显示（截至2025年11月），90%白鸭绒从年初每吨约17万元一路涨到50多万元，一年<p>本文来自<a href="https://post.smzdm.com/p/aggwn6gw/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
+    <pubDate>Sun, 01 Nov 2026 18:24:07 -0000</pubDate>
+    <guid isPermaLink="true">https://post.smzdm.com/p/aggwn6gw/</guid>
+    <source url="https://post.smzdm.com/p/aggwn6gw/">原创频道&gt;&gt;什么值得买</source>
+  </item>
+  <item>
+    <title>[原创频道&gt;&gt;什么值得买] 吃他汀能吃柚子吗？说明书点名的只有几种，但这几种错开也没用</title>
+    <link>https://post.smzdm.com/p/apqr74qx/</link>
+    <description><![CDATA[小张这张嘴柚子今年便宜。9月下旬，长三角批发端的白柚一公斤才3.6元到5元，零售多在5元到6块5一斤，价格比去年同期降了约两成；滁州水果市场一天进两千多吨平和蜜柚，当天就卖掉一千多吨。眼下进了11月，蜜柚还在大量上市，不少家庭是整箱往家搬。柚子一便宜，家族群里那个年度话题就回来了：吃他汀、吃降压药的人，碰柚子会出事。今年的版本还多了一句——错开几个小时吃，就没事。一边让你把柑橘全戒了，一边教你钻空子，两种说<p>本文来自<a href="https://post.smzdm.com/p/apqr74qx/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
+    <pubDate>Sun, 01 Nov 2026 18:21:56 -0000</pubDate>
+    <guid isPermaLink="true">https://post.smzdm.com/p/apqr74qx/</guid>
+    <source url="https://post.smzdm.com/p/apqr74qx/">原创频道&gt;&gt;什么值得买</source>
+  </item>
+  <item>
+    <title>[V2EX] [推广] [把 90% 利润还给用户] OffRails 低价无审查 AI｜文字、做图、改图，无日志｜使用就拿 RAIL，分帐合约开源、帐务链上可验</title>
+    <link>https://www.v2ex.com/t/1253624#reply0</link>
+    <description><![CDATA[<p><strong>发想与实现一个收益分配都写进智能合约的 AI：用户付费使用，也能分享平台创造的价值。</strong></p>
+<p>OffRails 提供低价无审查 AI ，文字对话使用 Qwen 无审查模型，并支援图片生成与改图。我希望大家使用 AI 获得服务的同时，也有机会参与平台的收益分配，因为机制公平，团队无薪，还请大家支持！</p>
+<h2>目前的特色</h2>
+<ul>
+<li><strong>文字、做图、改图均支援无审查模型</strong></li>
+<li><strong>不保存聊天日志</strong>，聊天记录由使用者自己的装置保存</li>
+<li><strong>不需要 KYC 、Email 或信用卡</strong></li>
+<li><strong>使用 API 即可获得 RAIL 用量奖励</strong></li>
+<li><strong>90% 可分配利润回馈用户</strong></li>
+<li><strong>分帐合约开源，金库收支与分配纪录链上可查</strong></li>
+</ul>
+<h2>RAIL 初始分配：用量奖励 100%</h2>
+<ul>
+<li>创办人：<strong>0%</strong></li>
+<li>VC ／投资人：<strong>0%</strong></li>
+<li>团队：<strong>0%</strong></li>
+<li>用量奖励合约：<strong>100%</strong></li>
+</ul>
+<p>全部 RAIL 在部署时进入用量奖励合约，依照 API 用量发放。</p>
+<h2>90% 利润怎么回到用户手上？</h2>
+<p>平台支付营运成本、保留必要储备后，将 <strong>90% 可分配利润投入 Fare 金库</strong>。</p>
+<p>使用者取得 RAIL 并质押后，依质押数量与时间参与 Fare 分配。Fare 可以兑回 USDC ，也能用于 API 额度。</p>
+<p>分帐规则、金库收支与分配纪录公开，可以直接核对合约和链上执行结果。</p>
+<h2>欢迎试用，也欢迎查帐</h2>
+<p>模型效果、价格、隐私设计、收益分配，都欢迎直接提问。</p>
+<p>我希望使用者在这里拿到好用的 AI ，也能参与它创造的价值。欢迎实际试用、翻合约、核对帐务，把问题丢在楼里。</p>
+<ul>
+<li>英文站：<a href="https://offrails.ai/" rel="nofollow">offrails.ai</a></li>
+<li>中文站：<a href="https://offrails.ai/cn/" rel="nofollow">offrails.ai/cn</a></li>
+<li>加社區：<a href="https://discord.gg/offrails" rel="nofollow">Discord OffRails</a></li>
+<li>介紹片：<a href="https://youtu.be/0pvbtjdiKqw" rel="nofollow">YouTube OffRails 介紹</a></li>
+</ul>]]></description>
+    <pubDate>Sun, 01 Nov 2026 18:17:46 -0000</pubDate>
+    <guid isPermaLink="true">https://www.v2ex.com/t/1253624#reply0</guid>
+    <source url="https://www.v2ex.com/t/1253624#reply0">V2EX</source>
+  </item>
+  <item>
+    <title>[原创频道&gt;&gt;什么值得买] 从1-2输TES到2-0横扫HLE：这48小时，BLG到底解决了哪些问题</title>
+    <link>https://post.smzdm.com/p/arzd4olx/</link>
+    <description><![CDATA[匿名用户BLG输TES和赢HLE，并不是"一天内"发生的事。北京时间10月30日凌晨，BLG以1-2不敌TES，目送对手晋级八强，自己掉进2-2生死组。知乎微博北京时间11月1日凌晨，瑞士轮第五轮，BLG以2-0击败HLE，抢下最后一张八强门票。微博知乎最后一轮生死局抽签把两队摆在一起时，注定有一个要提前回家；击败的这支HLE出局后止步十六强，他们正是今年的MSI冠军。哔哩哔哩知乎两场BO3之间隔着一轮抽<p>本文来自<a href="https://post.smzdm.com/p/arzd4olx/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
+    <pubDate>Sun, 01 Nov 2026 18:09:56 -0000</pubDate>
+    <guid isPermaLink="true">https://post.smzdm.com/p/arzd4olx/</guid>
+    <source url="https://post.smzdm.com/p/arzd4olx/">原创频道&gt;&gt;什么值得买</source>
+  </item>
+  <item>
+    <title>[原创频道&gt;&gt;什么值得买] 顶级越野鞋都在装碳板，Salomon 这双竞速鞋为什么偏不装？</title>
+    <link>https://post.smzdm.com/p/a954mxk7/</link>
+    <description><![CDATA[狂飙户外Salomon S/LAB Pulsar 4 是一双为 30 公里以内中短距离竞速设计的越野跑鞋，2025 年上市，官方定价 1898 元，男款 42 码单只约 250 克。它所在的价位段，恰好是这两年碳板越野鞋最拥挤的战场：Nike ACG Ultrafly、凯乐石 FUGA EX PRO，几乎个个都在中底里埋了一块碳纤维板。S/LAB 是 Salomon 的顶级竞速实验室线，按常理最该上碳板的<p>本文来自<a href="https://post.smzdm.com/p/a954mxk7/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
+    <pubDate>Sun, 01 Nov 2026 18:08:14 -0000</pubDate>
+    <guid isPermaLink="true">https://post.smzdm.com/p/a954mxk7/</guid>
+    <source url="https://post.smzdm.com/p/a954mxk7/">原创频道&gt;&gt;什么值得买</source>
+  </item>
+  <item>
+    <title>[原创频道&gt;&gt;什么值得买] 跑了4小时、3个营业厅，eSIM还是没办成——iPhone Duo 买家先查自己的号码</title>
+    <link>https://post.smzdm.com/p/a3m4k9r5/</link>
+    <description><![CDATA[机圈清醒哥iPhone Duo 开售那天的苹果直营店，三大运营商的人驻店办公，有人取完机三分钟就把 eSIM 开好走了。同一天，另一位上午十点不到拿到机器的用户，战果是跑了三个营业厅，用五年的电信副卡没能转成 eSIM，帖子最后一句是「我放弃了，我开新号了」。同一台机器、同一件事办卡，落差比那块折叠屏还大。我把三家运营商的最新政策和各地用户的实际办理情况对了一遍，最麻烦的地方在于：官方口径和落地执行是两回事<p>本文来自<a href="https://post.smzdm.com/p/a3m4k9r5/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
+    <pubDate>Sun, 01 Nov 2026 18:05:18 -0000</pubDate>
+    <guid isPermaLink="true">https://post.smzdm.com/p/a3m4k9r5/</guid>
+    <source url="https://post.smzdm.com/p/a3m4k9r5/">原创频道&gt;&gt;什么值得买</source>
+  </item>
+  <item>
+    <title>[原创频道&gt;&gt;什么值得买] 太舞酒店开板前实测：屋顶温泉真，滑进滑出未必</title>
+    <link>https://post.smzdm.com/p/awwdg9mm/</link>
+    <description><![CDATA[匿名用户11月6日，崇礼太舞滑雪场2026-27雪季拟定开板。开板安排见10月下旬的公开报道，这一季小镇还将重启3条冬奥高级道、完善低龄儿童全套滑雪服务、新增夜滑雪道，实际开板时间以官方公告为准。作为小镇地标、也是"镇内九家酒店怎么选"帖里出场率最高的一家，太舞酒店被不少第一次排雪季行程的家庭列进了备选。开板前的空窗期，我把全网13篇一手实测帖和两条高互动帖的评论区合并成这篇：屋顶的温泉是真的，雪具大厅的<p>本文来自<a href="https://post.smzdm.com/p/awwdg9mm/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
+    <pubDate>Sun, 01 Nov 2026 18:01:58 -0000</pubDate>
+    <guid isPermaLink="true">https://post.smzdm.com/p/awwdg9mm/</guid>
+    <source url="https://post.smzdm.com/p/awwdg9mm/">原创频道&gt;&gt;什么值得买</source>
+  </item>
+  <item>
+    <title>[原创频道&gt;&gt;什么值得买] BLG零封HLE：逆转不在那波四杀里</title>
+    <link>https://post.smzdm.com/p/aggwn6ow/</link>
+    <description><![CDATA[匿名用户41分钟，BLG的经济还落后约5000。 HLE推掉上路水晶，还拿下了大龙。 最后那波团，ON的泰坦先手进场，被集火秒掉。微博微博知乎但这一次，Viper的伊泽瑞尔大招先狙掉Gumayusi。 Knight的发条大招卷到四个人，四杀。 BLG以2比0零封HLE，拿到最后一张八强门票。新浪新闻微博微博那波团当然漂亮。但BLG能等到它，靠的不只是操作。两天前输给TES，Viper说队内沟通已经到了“不<p>本文来自<a href="https://post.smzdm.com/p/aggwn6ow/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
+    <pubDate>Sun, 01 Nov 2026 18:01:25 -0000</pubDate>
+    <guid isPermaLink="true">https://post.smzdm.com/p/aggwn6ow/</guid>
+    <source url="https://post.smzdm.com/p/aggwn6ow/">原创频道&gt;&gt;什么值得买</source>
+  </item>
+  <item>
+    <title>[V2EX] [分享创造] Dirtbound | Free 3D Browser Rally Game</title>
+    <link>https://www.v2ex.com/t/1253623#reply0</link>
+    <description><![CDATA[<p>Experience high-octane rally racing with <a href="https://dirtbound.me/" rel="nofollow">Dirtbound</a>, a thrilling 3D browser racer featuring realistic vehicle dynamics, procedural dirt tracks, and global daily challenges. Master precision drift control and conquer tough gravel stages in the free <a href="https://dirtbound.me/" rel="nofollow">Dirtbound game</a> right in your browser with zero downloads!</p>]]></description>
+    <pubDate>Sun, 01 Nov 2026 17:57:43 -0000</pubDate>
+    <guid isPermaLink="true">https://www.v2ex.com/t/1253623#reply0</guid>
+    <source url="https://www.v2ex.com/t/1253623#reply0">V2EX</source>
+  </item>
+  <item>
+    <title>[cnBeta.COM.TW RSS订阅] Google AI Mode正在切断互联网流量 网站运营者陷入增长困境</title>
+    <link>https://www.cnbeta.com.tw/articles/tech/1584628.htm</link>
+    <description><![CDATA[<p>Google正在改变人们使用互联网的方式，而这种变化可能给整个网络生态系统带来深远影响。随着人工智能搜索逐渐取代传统搜索结果页面，用户越来越习惯直接从AI生成的摘要和对话中获取答案，而不是点击链接访问具体网站。对于长期依赖Google搜索流量获取用户的企业和网络出版商而言，这意味着一个曾经稳定的流量来源正在迅速萎缩。</p> <a href="https://www.cnbeta.com.tw/articles/tech/1584628.htm" target="_blank"><strong>阅读全文</strong></a>]]></description>
+    <pubDate>Sun, 01 Nov 2026 17:57:15 -0000</pubDate>
+    <guid isPermaLink="true">https://www.cnbeta.com.tw/articles/tech/1584628.htm</guid>
+    <source url="https://www.cnbeta.com.tw/articles/tech/1584628.htm">cnBeta.COM.TW RSS订阅</source>
+  </item>
+  <item>
+    <title>[V2EX] [分享创造] 把 DeepSeek 的 Super-agent 思路做成一个人的桌面助手： AnyModelBot，首个开箱即用的 DeepSeek Super Agent</title>
+    <link>https://www.v2ex.com/t/1253622#reply0</link>
+    <description><![CDATA[<p>DeepSeek 前阵子开源了 <a href="https://github.com/deepseek-ai/dsh-superagent-prototype" rel="nofollow">dsh-superagent 原型</a>，核心原则就一句：<strong>占用尽量少的注意力，带来尽量多的价值。</strong> 不过它是面向团队、盯着 GitHub 仓库的研究原型，个人没法直接用。</p>
+<p>我们把这套思路做进了开源桌面助手 <strong>AnyModelBot</strong>，装好就是开箱即用的 DeepSeek Super Agent ，这是它的首个实现，不需要任何配置。</p>
+<p><img alt="AnyModelBot 演示" class="embedded_image" rel="noreferrer" src="https://raw.githubusercontent.com/modelflare-ai/AnyModelBot/master/docs/assets/hero/hero-demo.gif" /></p>
+<h2>Super Agent 三件套</h2>
+<ul>
+<li><strong>后台任务</strong>：调研、做报告这类要跑一阵子的事，交代一句就在后台做，聊天照常，不用排队等。</li>
+<li><strong>定时规则</strong>：一句话写下长期吩咐，比如「每天早上 8 点看看 X 的价格，低于 200 告诉我」，按时自动执行。新规则可以先用「观察」模式试跑，只读、不打扰你。</li>
+<li><strong>「需要你」</strong>：所有等你回答、批准的事集中在一处，没事时不占地方。</li>
+</ul>
+<p>不打扰是硬规矩：只推结果、决定和失败三种消息，默认 22:00–08:00 免打扰，每个任务和规则都有预算上限。</p>
+<p><img alt="后台读写文件" class="embedded_image" rel="noreferrer" src="https://raw.githubusercontent.com/modelflare-ai/AnyModelBot/master/docs/assets/features/agent-files.gif" /></p>
+<h2>它本来就是一个完整的 AI 机器人</h2>
+<ul>
+<li><strong>一个账号 70+ 模型</strong>：GPT 、Claude 、Gemini 、Grok 、DeepSeek 、Kimi 、GLM……每个对话用 <code>/model</code> 随时切换。</li>
+</ul>
+<p><img alt="切换模型" class="embedded_image" rel="noreferrer" src="https://raw.githubusercontent.com/modelflare-ai/AnyModelBot/master/docs/assets/features/model-switch.gif" /></p>
+<ul>
+<li><strong>在微信和飞书里也能用</strong>：微信扫码连接，支持图片和文件；飞书是流式回复卡片。</li>
+</ul>
+<p><img alt="微信里使用" class="embedded_image" rel="noreferrer" src="https://raw.githubusercontent.com/modelflare-ai/AnyModelBot/master/docs/assets/features/channels-wechat.gif" /></p>
+<ul>
+<li><strong>能操作你的电脑</strong>：读写文件、沙箱执行命令、电脑操作（ macOS 为 Beta ），三档权限加审批卡片，你说了算。</li>
+</ul>
+<p><img alt="电脑操作" class="embedded_image" rel="noreferrer" src="https://raw.githubusercontent.com/modelflare-ai/AnyModelBot/master/docs/assets/features/computer-use.gif" /></p>
+<ul>
+<li><strong>本地优先、开源免费</strong>：对话、记忆、文件和 Key 都留在你的电脑上； MIT 开源，Windows / macOS / Linux / Docker 都能跑，模型按量付费、没有订阅。</li>
+</ul>
+<h2>想深入看</h2>
+<p>设计细节（和原型的差别、DeepSeek Harness 怎么跑、权限和预算怎么设计）都写在 GitHub 的设计文档里，功能介绍和下载在官网：</p>
+<ul>
+<li>GitHub： <a href="https://github.com/modelflare-ai/AnyModelBot" rel="nofollow">https://github.com/modelflare-ai/AnyModelBot</a> （欢迎 Star ⭐）</li>
+<li>Super Agent 设计文档： <a href="https://github.com/modelflare-ai/AnyModelBot/blob/master/docs/blog/superagent.md" rel="nofollow">https://github.com/modelflare-ai/AnyModelBot/blob/master/docs/blog/superagent.md</a></li>
+<li>官网： <a href="https://anymodel.bot/" rel="nofollow">https://anymodel.bot/</a></li>
+</ul>
+<p>项目还很新（ v0.1.x ），是独立开源项目，与 DeepSeek 官方无关。欢迎试用、提 issue 、拍砖 🙏</p>]]></description>
+    <pubDate>Sun, 01 Nov 2026 17:56:09 -0000</pubDate>
+    <guid isPermaLink="true">https://www.v2ex.com/t/1253622#reply0</guid>
+    <source url="https://www.v2ex.com/t/1253622#reply0">V2EX</source>
+  </item>
+  <item>
+    <title>[原创频道&gt;&gt;什么值得买] 老车没有座椅加热，电热坐垫能补上吗</title>
+    <link>https://post.smzdm.com/p/am9vg4vk/</link>
+    <description><![CDATA[老冯不充电寒潮一来，家里那辆2016年的油车最先遭罪。车在露天停一夜，拉开门坐下去，凉意顺着尾椎往上冒。新能源那辆倒是有座椅加热，老车是低配，加热？没有的事。最近刷到不少加热坐垫的推广，“石墨烯”“3秒速热”“人走自动断电”，双座套装也就一百多块。价格不高，确实心动。但这东西一边连着车上电路，一边贴着座椅，买之前我把社区的故障排查帖和选购攻略翻了一遍，有几个点值得说清楚。速热的话术，听听就好电热坐垫原理很朴<p>本文来自<a href="https://post.smzdm.com/p/am9vg4vk/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
+    <pubDate>Sun, 01 Nov 2026 17:46:44 -0000</pubDate>
+    <guid isPermaLink="true">https://post.smzdm.com/p/am9vg4vk/</guid>
+    <source url="https://post.smzdm.com/p/am9vg4vk/">原创频道&gt;&gt;什么值得买</source>
+  </item>
+  <item>
+    <title>[原创频道&gt;&gt;什么值得买] Anthropic亏807亿冲2万亿IPO：亏损读反了，估值读大了</title>
+    <link>https://post.smzdm.com/p/anvme490/</link>
+    <description><![CDATA[匿名用户10月26日，Anthropic向SEC递交S-1，计划11月中旬以代码ANT登陆纳斯达克。招股书里躺着一个吓人的数字：上半年净亏807.48亿美元；市场给出的估值区间，是1.5万亿到2万亿美元。万点研究于是问题变成了：一家半年亏掉800多亿美元的公司，凭什么卖2万亿？先把账翻开。807.48亿净亏损里，723.88亿来自可转换票据、衍生负债和SAFE的公允价值变动，另有87.57亿来自其他收支。<p>本文来自<a href="https://post.smzdm.com/p/anvme490/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
+    <pubDate>Sun, 01 Nov 2026 17:40:16 -0000</pubDate>
+    <guid isPermaLink="true">https://post.smzdm.com/p/anvme490/</guid>
+    <source url="https://post.smzdm.com/p/anvme490/">原创频道&gt;&gt;什么值得买</source>
+  </item>
+  <item>
+    <title>[cnBeta.COM.TW RSS订阅] 传Intel低价处理器Moon Lake仅配4个能效核 功耗范围为6至15瓦</title>
+    <link>https://www.cnbeta.com.tw/articles/tech/1584626.htm</link>
+    <description><![CDATA[<p>一份新的泄露资料显示，英特尔可能正为低价Windows笔记本和迷你电脑开发代号为Moon Lake的处理器。爆料表格称，这款芯片只有4个低功耗能效核，不含性能核，热设计功耗范围为6至15瓦；英特尔尚未公布或确认相关规格。</p> <a href="https://www.cnbeta.com.tw/articles/tech/1584626.htm" target="_blank"><strong>阅读全文</strong></a>]]></description>
+    <pubDate>Sun, 01 Nov 2026 17:35:50 -0000</pubDate>
+    <guid isPermaLink="true">https://www.cnbeta.com.tw/articles/tech/1584626.htm</guid>
+    <source url="https://www.cnbeta.com.tw/articles/tech/1584626.htm">cnBeta.COM.TW RSS订阅</source>
+  </item>
+  <item>
+    <title>[cnBeta.COM.TW RSS订阅] “幽灵学生”借助AI骗取助学金 美国调查揭露跨国教育欺诈网络</title>
+    <link>https://www.cnbeta.com.tw/articles/tech/1584624.htm</link>
+    <description><![CDATA[<p>美国司法部近日公布了一起涉及人工智能技术的教育资助欺诈案件。检方已在内布拉斯加州、弗吉尼亚州和新泽西州起诉五名涉案人员，并查扣超过75万美元的加密货币资产。调查显示，一个与肯尼亚相关的犯罪网络利用被盗身份信息伪造学生身份，通过人工智能完成课程作业、模拟在线上课，从而骗取联邦助学金。</p> <a href="https://www.cnbeta.com.tw/articles/tech/1584624.htm" target="_blank"><strong>阅读全文</strong></a>]]></description>
+    <pubDate>Sun, 01 Nov 2026 17:22:51 -0000</pubDate>
+    <guid isPermaLink="true">https://www.cnbeta.com.tw/articles/tech/1584624.htm</guid>
+    <source url="https://www.cnbeta.com.tw/articles/tech/1584624.htm">cnBeta.COM.TW RSS订阅</source>
+  </item>
+  <item>
+    <title>[cnBeta.COM.TW RSS订阅] 一场看似普通的伽马射线暴突然出现异常：三周后X射线再次增强</title>
+    <link>https://www.cnbeta.com.tw/articles/science/1584622.htm</link>
+    <description><![CDATA[<p>宇宙中最猛烈的爆炸之一——伽马射线暴（Gamma-ray Burst，GRB），通常会在短时间内释放出惊人的能量。然而，天文学家近日观测到一次非常反常的爆炸：它最初释放的伽马射线并不突出，随后却产生了过去20年间最明亮的余辉之一。更令人意外的是，爆炸发生约三周后，其X射线辐射竟然再次明显增强，并持续维持在异常明亮的水平。</p> <a href="https://www.cnbeta.com.tw/articles/science/1584622.htm" target="_blank"><strong>阅读全文</strong></a>]]></description>
+    <pubDate>Sun, 01 Nov 2026 17:22:08 -0000</pubDate>
+    <guid isPermaLink="true">https://www.cnbeta.com.tw/articles/science/1584622.htm</guid>
+    <source url="https://www.cnbeta.com.tw/articles/science/1584622.htm">cnBeta.COM.TW RSS订阅</source>
+  </item>
+  <item>
+    <title>[cnBeta.COM.TW RSS订阅] 科学家破解持续60余年的化学难题 首次成功分离稳定氧代硼烷分子</title>
+    <link>https://www.cnbeta.com.tw/articles/science/1584620.htm</link>
+    <description><![CDATA[<p>德国维尔茨堡大学研究团队近日宣布取得一项重要化学突破。经过超过60年的探索与失败尝试，研究人员首次成功分离出一类长期被认为过于不稳定、几乎无法以持久形式存在的分子。这类被称为“氧代硼烷”（Oxoboranes）的化合物包含硼原子与氧原子之间极为罕见的三重键结构，其成功制备被视为无机与有机化学领域的重要里程碑。</p> <a href="https://www.cnbeta.com.tw/articles/science/1584620.htm" target="_blank"><strong>阅读全文</strong></a>]]></description>
+    <pubDate>Sun, 01 Nov 2026 17:21:41 -0000</pubDate>
+    <guid isPermaLink="true">https://www.cnbeta.com.tw/articles/science/1584620.htm</guid>
+    <source url="https://www.cnbeta.com.tw/articles/science/1584620.htm">cnBeta.COM.TW RSS订阅</source>
+  </item>
+  <item>
+    <title>[cnBeta.COM.TW RSS订阅] 苹果计划2027年上半年推出三款新iPad：Air升级OLED屏幕 Pro加入VC均热板</title>
+    <link>https://www.cnbeta.com.tw/articles/tech/1584618.htm</link>
+    <description><![CDATA[<p>苹果在2026年10月底刚刚推出搭载OLED屏幕的新款iPad mini，但这并不意味着今年的iPad产品更新已经结束。根据彭博社记者马克·古尔曼（Mark Gurman）最新披露的信息，苹果计划在2027年上半年陆续推出三款新iPad，分别是iPad Air、iPad Pro以及入门级标准版iPad。三款产品将分别在显示技术、散热能力和人工智能功能方面进行升级。</p> <a href="https://www.cnbeta.com.tw/articles/tech/1584618.htm" target="_blank"><strong>阅读全文</strong></a>]]></description>
+    <pubDate>Sun, 01 Nov 2026 17:19:59 -0000</pubDate>
+    <guid isPermaLink="true">https://www.cnbeta.com.tw/articles/tech/1584618.htm</guid>
+    <source url="https://www.cnbeta.com.tw/articles/tech/1584618.htm">cnBeta.COM.TW RSS订阅</source>
+  </item>
+  <item>
+    <title>[cnBeta.COM.TW RSS订阅] 苹果计划在2027年逐步淘汰高端非触控MacBook Pro</title>
+    <link>https://www.cnbeta.com.tw/articles/tech/1584616.htm</link>
+    <description><![CDATA[<p>苹果刚刚为MacBook Pro引入触控屏幕，但这一变化可能只是产品线调整的开始。根据彭博社记者马克·古尔曼（Mark Gurman）在其Power On通讯中的消息，苹果计划在2027年推出第二代触控屏MacBook Pro时，逐步取消现有的高端非触控版本，届时除了入门级14英寸机型之外，MacBook Pro产品线可能将全面转向触控屏设计。</p> <a href="https://www.cnbeta.com.tw/articles/tech/1584616.htm" target="_blank"><strong>阅读全文</strong></a>]]></description>
+    <pubDate>Sun, 01 Nov 2026 17:19:38 -0000</pubDate>
+    <guid isPermaLink="true">https://www.cnbeta.com.tw/articles/tech/1584616.htm</guid>
+    <source url="https://www.cnbeta.com.tw/articles/tech/1584616.htm">cnBeta.COM.TW RSS订阅</source>
+  </item>
+  <item>
+    <title>[V2EX] [推广] 《我享云》机场代理 · 性价比之王 · 十一月份优惠码 · 注册免费试用 5-15 天 · 一块钱用上专线</title>
+    <link>https://www.v2ex.com/t/1253621#reply0</link>
+    <description><![CDATA[<h2>所有级别套餐节点资源一致，套餐倍率不同，两种套餐模式，按需选择，让一块钱也能用上专线！</h2>
+<h3>直连节点 | 住宅节点 | 优化节点 | 大带宽节点 | 下载专用节点 | 专线节点，应有尽有！</h3>
+<h1>套餐优惠信息</h1>
+<table>
+<thead>
+<tr>
+<th>套餐类型</th>
+<th>折扣</th>
+<th>优惠码</th>
+<th>适用场景</th>
+<th>领取地址</th>
+<th>有效期</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>周期性套餐（订阅制）</td>
+<td>6.8 折</td>
+<td>eZSdiffE</td>
+<td>适合长期稳定使用的用户，按周期自动续费，性价比极高</td>
+<td><a href="https://m.vxcloud.cfd/coupon.html" rel="nofollow">https://m.vxcloud.cfd/coupon.html</a></td>
+<td>2026/11/01 — 2026/11/15</td>
+</tr>
+<tr>
+<td>无时间限制套餐（买断制）</td>
+<td>7 折</td>
+<td>disNPffz</td>
+<td>适合一次性投入、长期拥有的用户，无到期压力，灵活省心</td>
+<td><a href="https://m.vxcloud.cfd/coupon.html" rel="nofollow">https://m.vxcloud.cfd/coupon.html</a></td>
+<td>2026/11/01 — 2026/11/15</td>
+</tr>
+</tbody></table>]]></description>
+    <pubDate>Sun, 01 Nov 2026 17:04:40 -0000</pubDate>
+    <guid isPermaLink="true">https://www.v2ex.com/t/1253621#reply0</guid>
+    <source url="https://www.v2ex.com/t/1253621#reply0">V2EX</source>
+  </item>
+  <item>
+    <title>[V2EX] [Claude] claude 的 max 套餐开始送 api 额度了。</title>
+    <link>https://www.v2ex.com/t/1253618#reply2</link>
+    <description><![CDATA[送了我 100 额度。<br />这个额度可以卖多少钱？]]></description>
+    <pubDate>Sun, 01 Nov 2026 16:19:18 -0000</pubDate>
+    <guid isPermaLink="true">https://www.v2ex.com/t/1253618#reply2</guid>
+    <source url="https://www.v2ex.com/t/1253618#reply2">V2EX</source>
+  </item>
+  <item>
+    <title>[V2EX] [分享创造] 给开源 AI 雷达做了 WorkBuddy 技能，想把选型从名单变成可核查记录</title>
+    <link>https://www.v2ex.com/t/1253615#reply0</link>
+    <description><![CDATA[<p>之前做了 AI 开源项目雷达，这次把研究与选型流程适配成 WorkBuddy 技能「开源 AI 项目研究与选型」，已审核上架。</p>
+<p>主要解决一个小问题：问 AI“帮我选个知识库”时，容易得到几个名字，但硬条件、偏好和证据缺口常混在一起。</p>
+<p>可以直接这样问：
+“帮我选自托管中文知识库，Docker 和 Web 界面必须具备，低代码只是偏好。关键能力给来源和数据时点；找不到匹配就说明，不要偷偷放宽要求。”</p>
+<p>也可以比较指定候选、核对许可证据、找替代方案，或整理待验证的候选技术栈。输出区分事实、建议、未知项与风险，不把 Star 当适用性，不替你安装或执行仓库。</p>
+<p>我是开发者，使用的是公开数据，原有实现公开可获得； WorkBuddy 版提供平台内适配。购买不含 WorkBuddy 积分或网站会员，费用和条件看当前平台页面。以上是使用问法，不是已经跑出的测试结果。</p>
+<p>技能详情：
+<a href="https://www.workbuddy.cn/share/asset?shareCode=qZav5J3qNHCDx2ykJehyJ3&amp;sig=hGD065o5t1bSC6FT" rel="nofollow">查看「开源 AI 项目研究与选型」 WorkBuddy 技能详情</a></p>
+<p>本文由 AI 辅助整理。</p>]]></description>
+    <pubDate>Sun, 01 Nov 2026 16:10:25 -0000</pubDate>
+    <guid isPermaLink="true">https://www.v2ex.com/t/1253615#reply0</guid>
+    <source url="https://www.v2ex.com/t/1253615#reply0">V2EX</source>
+  </item>
+  <item>
+    <title>[V2EX] [分享创造] 做了个 AI 说唱视频生成器：传一张照片，出一段对口型的 Rap 表演（免费预览，单条 $3.99）</title>
+    <link>https://www.v2ex.com/t/1253614#reply0</link>
+    <description><![CDATA[<p>一直觉得「真人出镜说唱」这类内容在短视频端很火，但普通人做不了：不会写词、没有 beat 、更不敢出镜唱。于是做了这个一站式的：</p>
+<ul>
+<li>传 1–2 张照片（或只输入一个主题），选一个舞台模板，出一段 12 秒对口型说唱视频</li>
+<li>歌词可以自动写（给个主题就行），也可以自己填</li>
+<li>人声是 AI 说唱声音，beat 是 AI 原创的——我们不碰任何版权歌曲，这是产品红线；用户可以上传自己拥有的音频</li>
+<li>模板：diss track 、生日、节日、圣诞 rap 、圣诞老人定制视频、双人 battle</li>
+</ul>
+<p>商业模式：单次付费，不搞订阅。免费账号每段 6 秒带水印预览，一条 480p 成片 $3.99 。</p>
+<p>站上还有个免费的 AI roast 生成器（ playful / savage / rap battle 三档火力），生成的 roast 可以一键丢给 diss track 生成器做成视频，欢迎先玩这个： <a href="https://useairapvideo.com/ai-roast-generator" rel="nofollow">https://useairapvideo.com/ai-roast-generator</a></p>
+<p>主站： <a href="https://useairapvideo.com" rel="nofollow">https://useairapvideo.com</a></p>
+<p>求反馈：口型同步的自然度、价格感知、还想看什么模板。</p>]]></description>
+    <pubDate>Sun, 01 Nov 2026 16:07:56 -0000</pubDate>
+    <guid isPermaLink="true">https://www.v2ex.com/t/1253614#reply0</guid>
+    <source url="https://www.v2ex.com/t/1253614#reply0">V2EX</source>
+  </item>
+  <item>
+    <title>[V2EX] [硬件] 忍了戴尔 u2725qe 这款显示器很久了，不吐不快。</title>
+    <link>https://www.v2ex.com/t/1253612#reply2</link>
+    <description><![CDATA[虽说这款显示器打着护眼的招牌，但在浅色背景下，长时间用眼非常累，使用比我 N 年前买的戴尔 U2715h 累多了。<br /><br />刚开始我以为是我需要一个时间来适应这种防蓝光的显示器，但一个月了，还是难以适应。<br /><br />因为无论怎么调整，都无法调整到一个舒适的设置。<br /><br />特别是默认是 6500k 色温，在白色背景下，黄到我我眼瞎，而且右下角又亮度不够，导致我每次看 Windows 系统时间的时候，居然有两眼一黑的感觉。<br /><br />现在非常后悔，过了七天无理由退货的时间，想退货又没法退，但整体又没啥质量问题，没亮点，没暗点，有亮度差。<br /><br />看了网友给的建议，建议把整个 Windows 和常用软件网站都用深色模式，我试了下，才发现黑色模式才是这个显示器的正确使用方法，唉只能这样子用着先了，3800 多大洋买了件折腾自己眼睛的玩意。]]></description>
+    <pubDate>Sun, 01 Nov 2026 16:02:55 -0000</pubDate>
+    <guid isPermaLink="true">https://www.v2ex.com/t/1253612#reply2</guid>
+    <source url="https://www.v2ex.com/t/1253612#reply2">V2EX</source>
   </item>
   <item>
     <title>[V2EX] [VPS] YT.NET 香港 VPS 避雷记录： Ping 40ms、SSH 严重重传，申请退款还要扣 10%</title>
@@ -149,86 +562,6 @@ delivery_rate:64.3kbps
     <source url="https://www.v2ex.com/t/1253611#reply0">V2EX</source>
   </item>
   <item>
-    <title>[原创频道&gt;&gt;什么值得买] donk单图35杀仍出局，雷达图里藏着Spirit哪些团队漏洞</title>
-    <link>https://post.smzdm.com/p/awwdgel2/</link>
-    <description><![CDATA[匿名用户Spirit的布加勒斯特之旅，最终停在2胜3负、9至11名。队伍官博直接给出了结果：1:2不敌NAVI，止步本届赛事9-11名。这支本届赛事的头号夺冠热门，决胜图上donk只交出5杀0.41rating，整届以2胜3负收尾。赛后流传的数据表和雷达图比35杀集锦诚实得多：绿色只有一条donk的火力轴，而赛点转化、手枪局、AWP对位、地图池这些轴全是红的。微博·Team_Spirit微博·FPS小助手<p>本文来自<a href="https://post.smzdm.com/p/awwdgel2/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
-    <pubDate>Sun, 01 Nov 2026 15:47:44 -0000</pubDate>
-    <guid isPermaLink="true">https://post.smzdm.com/p/awwdgel2/</guid>
-    <source url="https://post.smzdm.com/p/awwdgel2/">原创频道&gt;&gt;什么值得买</source>
-  </item>
-  <item>
-    <title>[原创频道&gt;&gt;什么值得买] 两场都输在第七局：KSG年总止步八强，“遗憾”到底指什么</title>
-    <link>https://post.smzdm.com/p/axkd5e8d/</link>
-    <description><![CDATA[匿名用户11月1日晚，KPL官方社媒宣布：在今日的比赛中负于对手后，KSG的年总之旅止步八强，无缘后续赛程。俱乐部最后一份战报记下了对手与比分：3:4，杭州LGD.NBW。KSG本次淘汰赛打的两场BO7全部打满七局、全部输掉：先3:4不敌北京WB跌入败者组，再在3:2领先、一只脚已踏进生存线的情况下3:4负于杭州LGD.NBW。词条里的“遗憾”二字，不需要再加形容词解释。微博微博握着赛点输掉决胜局：两场满<p>本文来自<a href="https://post.smzdm.com/p/axkd5e8d/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
-    <pubDate>Sun, 01 Nov 2026 15:45:55 -0000</pubDate>
-    <guid isPermaLink="true">https://post.smzdm.com/p/axkd5e8d/</guid>
-    <source url="https://post.smzdm.com/p/axkd5e8d/">原创频道&gt;&gt;什么值得买</source>
-  </item>
-  <item>
-    <title>[原创频道&gt;&gt;什么值得买] Windows 11极限瘦身成功：只需128MB内存就能运行！</title>
-    <link>https://post.smzdm.com/p/axkd5end/</link>
-    <description><![CDATA[快科技快科技11月1日消息，Tiny11开发者NTDEV成功将Windows 11 26H2优化至仅128MB内存即可运行，远低于微软官方要求的4GB最低内存。NTDEV最近发布了重新设计的ISO制作工具Tiny11，用于从完整Windows 11 ISO中去除不必要的应用和功能。为展示功能并为即将推出的Pico11项目预热，他完成了这次极限优化实验。在测试中，Windows 11 26H2在128MB<p>本文来自<a href="https://post.smzdm.com/p/axkd5end/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
-    <pubDate>Sun, 01 Nov 2026 15:42:33 -0000</pubDate>
-    <guid isPermaLink="true">https://post.smzdm.com/p/axkd5end/</guid>
-    <source url="https://post.smzdm.com/p/axkd5end/">原创频道&gt;&gt;什么值得买</source>
-  </item>
-  <item>
-    <title>[原创频道&gt;&gt;什么值得买] 原价5999元的宏碁W700惊现二手鱼塘！价格暴跌至270元还能冲吗？</title>
-    <link>https://post.smzdm.com/p/aqrz76v7/</link>
-    <description><![CDATA[数码发现酱前面写过“苏菲4”和各种iPad，然后有水友私信问我，他想要一个Win平台的平板，能装电脑软件的，预算300元以内，为的就是能外出携带办公，不知道有没有得选？他自己找了一台宏碁W700二合一平板，但也在犹豫考虑中，不确定要不要拿下这个机器！因为今天看到私信比较晚，所以就没去找这个标准的平板，咱们今天就先帮水友看看这个机器到底行不行！我们先来看一下二手鱼塘店家描述，宏碁 W700 二合一平板，11.<p>本文来自<a href="https://post.smzdm.com/p/aqrz76v7/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
-    <pubDate>Sun, 01 Nov 2026 15:41:33 -0000</pubDate>
-    <guid isPermaLink="true">https://post.smzdm.com/p/aqrz76v7/</guid>
-    <source url="https://post.smzdm.com/p/aqrz76v7/">原创频道&gt;&gt;什么值得买</source>
-  </item>
-  <item>
-    <title>[原创频道&gt;&gt;什么值得买] 246万元买的“邮轮永居权”，为什么7小时就“没了”？</title>
-    <link>https://post.smzdm.com/p/a03z5ep9/</link>
-    <description><![CDATA[匿名用户美国住户兰迪·卡辛厄姆夫妇卖掉了房子和车，几乎把全部家当搬上“奥德赛”号邮轮，用36.9万美元（约246万元人民币）买下船上最小的“套房”，换回一纸“邮轮永居权”，打算余生随船环游世界。 这份“永居”在两年后就戛然而止，而它能被快速收回的原因其实写在价目表里：所谓“永久居住权”，有效期以邮轮的使用寿命为限——买的从来不是房产产权，而是一门依附于运营商偿付能力的旅居生意。微博红星新闻当地时间2026<p>本文来自<a href="https://post.smzdm.com/p/a03z5ep9/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
-    <pubDate>Sun, 01 Nov 2026 15:41:32 -0000</pubDate>
-    <guid isPermaLink="true">https://post.smzdm.com/p/a03z5ep9/</guid>
-    <source url="https://post.smzdm.com/p/a03z5ep9/">原创频道&gt;&gt;什么值得买</source>
-  </item>
-  <item>
-    <title>[原创频道&gt;&gt;什么值得买] KSG年总止步八强创队史最差，春季赛冠军这一年问题出在哪</title>
-    <link>https://post.smzdm.com/p/az87lndn/</link>
-    <description><![CDATA[匿名用户11月1日晚，2026年KPL年度总决赛淘汰赛，KSG在生死BO7里与杭州LGD.NBW战至第七局，最终3-4告负，年总之旅止步八强，刷新了队史年总最差战绩——此前两届年总，这支队伍的下限是六强。 作为半年前刚拿下2026年KPL春季赛冠军的队伍，这个收场不是一夜之间的意外：问题不在那七局球里，而在4月到11月这七个月——冠军班底被拆开重组，两名核心整个夏天交给亚运集训，新赛制又让这支队伍在进入淘<p>本文来自<a href="https://post.smzdm.com/p/az87lndn/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
-    <pubDate>Sun, 01 Nov 2026 15:41:20 -0000</pubDate>
-    <guid isPermaLink="true">https://post.smzdm.com/p/az87lndn/</guid>
-    <source url="https://post.smzdm.com/p/az87lndn/">原创频道&gt;&gt;什么值得买</source>
-  </item>
-  <item>
-    <title>[原创频道&gt;&gt;什么值得买] 二手鱼塘惊现超低价米家踢脚线取暖器！速热+IPX4只要51元，值吗</title>
-    <link>https://post.smzdm.com/p/axkd5e3d/</link>
-    <description><![CDATA[数码发现酱一进到11月分，不少城市都开始降温了，然后有一个上海IP的水友私信问我，他在出租屋住，想弄个取暖设备，在闲鱼刷了很长时间，找到不少米家取暖器，不知道那东西到底靠谱不靠谱，觉得这方面东北人应该更有经验一些！然后我就大概看了一下他选的设备，今天就和大家浅谈一下取暖器这东西！先看一下二手鱼塘店家描述，小米踢脚线，搬家闲置出，功能完好正常使用，仅限自提不邮寄，内里放久了有点积灰和猫毛，正常使用痕迹，价格是<p>本文来自<a href="https://post.smzdm.com/p/axkd5e3d/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
-    <pubDate>Sun, 01 Nov 2026 15:40:24 -0000</pubDate>
-    <guid isPermaLink="true">https://post.smzdm.com/p/axkd5e3d/</guid>
-    <source url="https://post.smzdm.com/p/axkd5e3d/">原创频道&gt;&gt;什么值得买</source>
-  </item>
-  <item>
-    <title>[原创频道&gt;&gt;什么值得买] 上千元的BJD变成百元盲盒，便宜是真便宜坑也是真多</title>
-    <link>https://post.smzdm.com/p/ak83p5qr/</link>
-    <description><![CDATA[摸盒君今年潮玩圈最热的品类，BJD盲盒没跑了。行业媒体统计，天猫盲盒热销榜前五里，可动人偶盲盒已经跟泡泡玛特的新品肩并肩；泡泡玛特自己也下场，把BJD的入场价从早前399元档打到89元。就在今天，又有新企划「田园序曲」放出先行实物图，评论区排着队问啥时候开价。以前传统娃圈里没几千块养不起的娃，现在百来块就能抱回家，你说香不香？但冷水得先泼一盆：门槛低了，坑可没跟着变少。众筹延期、大货缩水、企划翻车，哪一<p>本文来自<a href="https://post.smzdm.com/p/ak83p5qr/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
-    <pubDate>Sun, 01 Nov 2026 15:40:07 -0000</pubDate>
-    <guid isPermaLink="true">https://post.smzdm.com/p/ak83p5qr/</guid>
-    <source url="https://post.smzdm.com/p/ak83p5qr/">原创频道&gt;&gt;什么值得买</source>
-  </item>
-  <item>
-    <title>[原创频道&gt;&gt;什么值得买] 塞尔比五杆50+ 6-2淘汰怀特，他这站国锦赛状态怎么样？</title>
-    <link>https://post.smzdm.com/p/apqr7onw/</link>
-    <description><![CDATA[匿名用户马克·塞尔比这站国锦赛给出的答案是稳。10月31日的南京国锦赛正赛64进32轮次，世锦赛四冠王塞尔比6-2战胜63岁的吉米·怀特——这位外号“白旋风”的老将至今顶着世锦赛六亚王的头衔。整场比赛他打出5杆50+（50、67、72、51、58），赛事官方给出的评价是节奏稳定、牢牢掌控比赛。知乎微博这盘棋面：没破百，但得分几乎没断过比分的细节更能说明问题：吉米·怀特63-52超分拿下第五局，塞尔比单杆5<p>本文来自<a href="https://post.smzdm.com/p/apqr7onw/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
-    <pubDate>Sun, 01 Nov 2026 15:39:33 -0000</pubDate>
-    <guid isPermaLink="true">https://post.smzdm.com/p/apqr7onw/</guid>
-    <source url="https://post.smzdm.com/p/apqr7onw/">原创频道&gt;&gt;什么值得买</source>
-  </item>
-  <item>
-    <title>[原创频道&gt;&gt;什么值得买] 华蓥大摆荡事故不是绳断：致命漏洞，普通游客怎么提前识别</title>
-    <link>https://post.smzdm.com/p/ad7z56kd/</link>
-    <description><![CDATA[匿名用户先说结论：绳子没断，安全带也没松脱。10月31日晚公布的调查报告写得很清楚：整个滑动承载结构完整，脱钩器、静力绳、释放绳、定位绳外观完好，无损坏断裂。连接游客的菊绳和五点式安全带也完整。真正先出问题的是“释放”。华蓥市人民政府按正常流程，滑动承载结构要滑到离平台约10米的正常释放位置，远离岩壁，操作员才依次拉副释放绳、主释放绳。5月3日16时16分，承载结构刚滑出安全门约1米，负责释放绳的江某松开<p>本文来自<a href="https://post.smzdm.com/p/ad7z56kd/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
-    <pubDate>Sun, 01 Nov 2026 15:38:55 -0000</pubDate>
-    <guid isPermaLink="true">https://post.smzdm.com/p/ad7z56kd/</guid>
-    <source url="https://post.smzdm.com/p/ad7z56kd/">原创频道&gt;&gt;什么值得买</source>
-  </item>
-  <item>
     <title>[IT之家] 米哈游生活模拟游戏《星布谷地》官宣 2027 年登陆任天堂 Switch 2</title>
     <link>https://www.ithome.com/1/020/841.htm</link>
     <description><![CDATA[<p>IT之家 11 月 1 日消息，米哈游生活模拟游戏《星布谷地》今日官宣，将于 2027 年登陆 Switch2 平台。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/11/ea608964-14f7-47dc-89fc-8e6abe771db0.png" /></p><p>IT之家注意到，《星布谷地》已经确认推出 PC / iOS / Android 版，<strong>将于 12 月 4 日开启全球公测</strong>。这款游戏以星际田园为主题，玩家在游戏中将可以赶海、钓鱼、种田等，期待理想生活自然发生，拥有自定义系统，可随心装点天空、海岸与每一片土地，三五好友可相聚在星空街市，使善意、共鸣、友谊在星空下交汇。</p><p style="text-align: center;"><a class="ithome_super_player" href="https://weibo.com/tv/show/1034:5359460021895221?mid=5359658396289603" target="_blank"><img src="https://img.ithome.com/newsuploadfiles/2026/11/3e7ad2cd-0710-4f06-ac6d-ea7fd98b6142.jpg" /></a></p><p>目前，官方公布的游戏角色有云果、伊佐奇、绵朵莉、幻雪等，它们的造型都类似小动物，各自拥有不同的身份，玩家可以在游戏中与这些性格各异的角色缔结友谊。</p>]]></description>
@@ -237,72 +570,8 @@ delivery_rate:64.3kbps
     <source url="https://www.ithome.com/1/020/841.htm">IT之家</source>
   </item>
   <item>
-    <title>[原创频道&gt;&gt;什么值得买] “无硫”白芷检出二氧化硫1070毫克/公斤：买药材和买调料，别用同一套标准</title>
-    <link>https://post.smzdm.com/p/avgd54ln/</link>
-    <description><![CDATA[匿名用户淘宝上一款写着“自然晾晒”“干净无杂”、全网热销10万+的白芷，送检后二氧化硫残留1070毫克/公斤。另一款在京喜自营官方店打着“特级无硫”招牌的白芷，检出191毫克/公斤；它的生产商今年9月刚被市场监管总局通报，同款却还在正常卖。央视《每周质量报告》11月1日把6款宣称“无硫”的白芷送往浙江省食品药品检验研究院，2款检出二氧化硫。所谓“无硫”，至少在这两包白芷上，只是一句广告。中国新闻网1070<p>本文来自<a href="https://post.smzdm.com/p/avgd54ln/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
-    <pubDate>Sun, 01 Nov 2026 15:37:13 -0000</pubDate>
-    <guid isPermaLink="true">https://post.smzdm.com/p/avgd54ln/</guid>
-    <source url="https://post.smzdm.com/p/avgd54ln/">原创频道&gt;&gt;什么值得买</source>
-  </item>
-  <item>
-    <title>[原创频道&gt;&gt;什么值得买] 从操作失误到无后备防护，华蓥大摆荡事故责任链是怎么断的</title>
-    <link>https://post.smzdm.com/p/aggwnzv3/</link>
-    <description><![CDATA[匿名用户从操作失误到无后备防护，这条责任链在操作员、企业、行业、监管四个层面逐层断掉。10月31日晚，华蓥市人民政府事故调查组发布溪口玛琉岩大摆荡项目“5·3”一般高处坠落事故调查报告，认定这是一起因项目运营企业安全生产主体责任悬空、管理缺位，未有效辨识管控安全风险，违规安排未经安全生产教育和培训合格人员上岗，属地政府及监管部门安全监管不到位、监督检查存在漏洞而导致的一般生产安全责任事故。新华社2026年<p>本文来自<a href="https://post.smzdm.com/p/aggwnzv3/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
-    <pubDate>Sun, 01 Nov 2026 15:35:02 -0000</pubDate>
-    <guid isPermaLink="true">https://post.smzdm.com/p/aggwnzv3/</guid>
-    <source url="https://post.smzdm.com/p/aggwnzv3/">原创频道&gt;&gt;什么值得买</source>
-  </item>
-  <item>
-    <title>[原创频道&gt;&gt;什么值得买] 花光积蓄住进“终身”邮轮，7小时内他们被赶下船</title>
-    <link>https://post.smzdm.com/p/a5rpm73x/</link>
-    <description><![CDATA[匿名用户10月27日，柬埔寨西哈努克港。船方通知“奥德赛号”上的住户：7小时内，所有住户必须下船。203名乘客来自15个国家，大多是美国人；船上还有156名船员。美联社NPR兰迪·卡辛厄姆和妻子基特卖掉了房子和汽车，花36.9万美元（约246万元人民币）买下船上最小的套房，此后还要按月缴费。兰迪患癌，下船时得先收拾药品。被问到是否准备回家，他说：“那艘船就是我们的家。”红星新闻78岁的莎伦·莱恩来自加州橙<p>本文来自<a href="https://post.smzdm.com/p/a5rpm73x/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
-    <pubDate>Sun, 01 Nov 2026 15:34:36 -0000</pubDate>
-    <guid isPermaLink="true">https://post.smzdm.com/p/a5rpm73x/</guid>
-    <source url="https://post.smzdm.com/p/a5rpm73x/">原创频道&gt;&gt;什么值得买</source>
-  </item>
-  <item>
-    <title>[原创频道&gt;&gt;什么值得买] 没收到115SP8推送，怎么更到支持振动的版本？</title>
-    <link>https://post.smzdm.com/p/aggwnzvw/</link>
-    <description><![CDATA[匿名用户用户等的“支持振动的版本”，是荣耀 Magic9 系列从 10 月 30 日晚开始推送的 MagicOS 11.0.0.115(SP8) 包。荣耀研发工程师“荣耀曹工”在 11 月 1 日的官方 Q&amp;A 中确认，“电话接通/挂断振动”在 115SP8 上已经支持，升级后进入“通话-&gt;设置”即可开启。没收到推送的不用干等：先去设置里手动检查更新，查不到再试“升级尝鲜”入口，升级是否到位<p>本文来自<a href="https://post.smzdm.com/p/aggwnzvw/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
-    <pubDate>Sun, 01 Nov 2026 15:34:34 -0000</pubDate>
-    <guid isPermaLink="true">https://post.smzdm.com/p/aggwnzvw/</guid>
-    <source url="https://post.smzdm.com/p/aggwnzvw/">原创频道&gt;&gt;什么值得买</source>
-  </item>
-  <item>
-    <title>[原创频道&gt;&gt;什么值得买] 怀特2比6负塞尔比：64岁老将赢的两局，不是白送的</title>
-    <link>https://post.smzdm.com/p/apqr7ogx/</link>
-    <description><![CDATA[匿名用户10月31日上午，2026年斯诺克国锦赛在南京南部新城全民健身中心开杆。揭幕日的64进32，马克·塞尔比6比2淘汰吉米·怀特，晋级32强。中国新闻网2比6，看起来像一场没有悬念的过关。前四局也确实是：塞尔比连下四城。全场打出五杆50+，单杆最高72分。 43岁的世界第四，对上64岁的老将，节奏一直在塞尔比手里。哔哩哔哩但怀特赢了两局。第五局，他63比52超分，把比分追到1比4。第六局，塞尔比单杆5<p>本文来自<a href="https://post.smzdm.com/p/apqr7ogx/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
-    <pubDate>Sun, 01 Nov 2026 15:34:17 -0000</pubDate>
-    <guid isPermaLink="true">https://post.smzdm.com/p/apqr7ogx/</guid>
-    <source url="https://post.smzdm.com/p/apqr7ogx/">原创频道&gt;&gt;什么值得买</source>
-  </item>
-  <item>
-    <title>[原创频道&gt;&gt;什么值得买] 总台调查｜宣称“无硫”的白芷，检出1070毫克/公斤二氧化硫</title>
-    <link>https://post.smzdm.com/p/axkd5em4/</link>
-    <description><![CDATA[匿名用户11月1日，总台《每周质量报告》播出熏硫白芷调查。记者在青岛抚顺路批发市场看到，被通报过的“京选诚德调料批发中心”换了招牌，二十多米外的“京燕干调”却把两种货分开放。台面上是无硫白芷，台面下是熏硫白芷。上观新闻同一天，青岛对京燕干调店、广富源调味品经营部立案调查，并全面检查市场内23家调味品经营主体。扬子晚报成都也对荷花池中药材专业市场的涉事商户立案。澎湃新闻线上问题更直接。记者随机买了6款宣称“<p>本文来自<a href="https://post.smzdm.com/p/axkd5em4/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
-    <pubDate>Sun, 01 Nov 2026 15:34:12 -0000</pubDate>
-    <guid isPermaLink="true">https://post.smzdm.com/p/axkd5em4/</guid>
-    <source url="https://post.smzdm.com/p/axkd5em4/">原创频道&gt;&gt;什么值得买</source>
-  </item>
-  <item>
-    <title>[原创频道&gt;&gt;什么值得买] 年底买车，别拖过12月中旬</title>
-    <link>https://post.smzdm.com/p/a4q4278w/</link>
-    <description><![CDATA[老冯不充电每年一进11月，4S店的气氛就不一样了。上周末我照例去几家店里转了转，销售的开场白已经从"给您介绍一下车"变成"哥，您打算什么时候上牌"。有的店展厅里挂出了年底限时价的横幅，洽谈区坐满了算落地价的人。看车市这么多年，我知道这是冲量的季节到了。身边最近有好几个朋友在纠结：现在出手，还是等过了年？这次就把年底买车的时间窗口说清楚。年底优惠是真的，但不是整个12月都便宜先说结论：优惠窗口大概就在现在到1<p>本文来自<a href="https://post.smzdm.com/p/a4q4278w/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
-    <pubDate>Sun, 01 Nov 2026 15:33:40 -0000</pubDate>
-    <guid isPermaLink="true">https://post.smzdm.com/p/a4q4278w/</guid>
-    <source url="https://post.smzdm.com/p/a4q4278w/">原创频道&gt;&gt;什么值得买</source>
-  </item>
-  <item>
-    <title>[原创频道&gt;&gt;什么值得买] 大摆荡事故调查报告公布：这类网红高空项目，至今没有强制安全标准</title>
-    <link>https://post.smzdm.com/p/ad7z568p/</link>
-    <description><![CDATA[匿名用户10月31日，华蓥市人民政府事故调查组公布“5·3”大摆荡项目事故调查报告，2名事故直接责任人已被移送司法机关处理。 调查认定，这是一起因项目运营企业安全生产主体责任悬空、管理缺位、未有效辨识管控安全风险、违规安排未经安全生产教育和培训合格人员上岗、属地政府及监管部门安全监管不到位而导致的一般生产安全责任事故。 而热榜追问的那个问题——大摆荡有没有强制安全标准——当下的答案是偏否定的：这个“大摆荡<p>本文来自<a href="https://post.smzdm.com/p/ad7z568p/">什么值得买网站（www.smzdm.com）</a>。</p>]]></description>
-    <pubDate>Sun, 01 Nov 2026 15:33:32 -0000</pubDate>
-    <guid isPermaLink="true">https://post.smzdm.com/p/ad7z568p/</guid>
-    <source url="https://post.smzdm.com/p/ad7z568p/">原创频道&gt;&gt;什么值得买</source>
-  </item>
-  <item>
     <title>[V2EX] [NAS] 我的群晖也被勒索病毒攻击过，但是似乎防住了。</title>
-    <link>https://www.v2ex.com/t/1253610#reply0</link>
+    <link>https://www.v2ex.com/t/1253610#reply1</link>
     <description><![CDATA[<p>今天让 codex 帮我分析了下日志，看上去应该是被执行了一样的脚本，好在我个人习惯，总是喜欢直接更新到最新系统，这次似乎防住了。</p>
 <p>之前网上看到几例声称最新系统也有中招的，搞得我现在依然挺慌的。</p>
 <p>直接看 Codex 给我的分析结论：</p>
@@ -338,8 +607,8 @@ delivery_rate:64.3kbps
 <li>加上前一轮文件筛查，<strong>仍未发现勒索加密迹象</strong>。</li>
 </ul>]]></description>
     <pubDate>Sun, 01 Nov 2026 15:30:59 -0000</pubDate>
-    <guid isPermaLink="true">https://www.v2ex.com/t/1253610#reply0</guid>
-    <source url="https://www.v2ex.com/t/1253610#reply0">V2EX</source>
+    <guid isPermaLink="true">https://www.v2ex.com/t/1253610#reply1</guid>
+    <source url="https://www.v2ex.com/t/1253610#reply1">V2EX</source>
   </item>
   <item>
     <title>[V2EX] [分享创造] 做了个开源工具：输入会议名，把十年论文变成可点击的趋势报告（CVPR、ECTC 示例）</title>
@@ -392,11 +661,11 @@ delivery_rate:64.3kbps
   </item>
   <item>
     <title>[V2EX] [职场话题] 失业快半年，回老家消费低但也没啥斗气了，是不是应该回去出租屋给自己压力？</title>
-    <link>https://www.v2ex.com/t/1253607#reply0</link>
+    <link>https://www.v2ex.com/t/1253607#reply1</link>
     <description><![CDATA[这年头 AI 太牛了，自己本地开发项目用 AI 都觉得确实不需要那么多人，也不知道找啥工作或换行。]]></description>
     <pubDate>Sun, 01 Nov 2026 15:22:02 -0000</pubDate>
-    <guid isPermaLink="true">https://www.v2ex.com/t/1253607#reply0</guid>
-    <source url="https://www.v2ex.com/t/1253607#reply0">V2EX</source>
+    <guid isPermaLink="true">https://www.v2ex.com/t/1253607#reply1</guid>
+    <source url="https://www.v2ex.com/t/1253607#reply1">V2EX</source>
   </item>
   <item>
     <title>[V2EX] [推广] CDN3900U/P Ai 模型最低至 4 折 阿里腾讯华为火山国内站 7 折 阿里国际/GCP 可至 65 折 AWS 新号 65 折/老号无需迁移 85 折 腾讯国际 55 折 欢迎资源交流</title>
@@ -421,7 +690,7 @@ delivery_rate:64.3kbps
   </item>
   <item>
     <title>[V2EX] [职场话题] 想从事青少年 AI 方面的教育工作，如何能让家长们觉得这种教育的价值？</title>
-    <link>https://www.v2ex.com/t/1253604#reply1</link>
+    <link>https://www.v2ex.com/t/1253604#reply3</link>
     <description><![CDATA[<h2>1 、对青少年的定义</h2>
 <p>5 年纪以上到高中之下，低于这个年纪的小孩，字都认不全，高中的小孩没时间学这个。</p>
 <h2>2 、目前看到青少年的现状</h2>
@@ -439,18 +708,18 @@ delivery_rate:64.3kbps
 <h2>综上</h2>
 <p>看看 v 站老哥们对这个问题有没有独到的见解。</p>]]></description>
     <pubDate>Sun, 01 Nov 2026 14:57:13 -0000</pubDate>
-    <guid isPermaLink="true">https://www.v2ex.com/t/1253604#reply1</guid>
-    <source url="https://www.v2ex.com/t/1253604#reply1">V2EX</source>
+    <guid isPermaLink="true">https://www.v2ex.com/t/1253604#reply3</guid>
+    <source url="https://www.v2ex.com/t/1253604#reply3">V2EX</source>
   </item>
   <item>
     <title>[V2EX] [Claude] claude 识别 IP 地址和机场不一样</title>
-    <link>https://www.v2ex.com/t/1253603#reply3</link>
+    <link>https://www.v2ex.com/t/1253603#reply4</link>
     <description><![CDATA[<p>机场这边挂 WAS 美国，多个 ip 检测也是</p>
 <p>登录 claude 显示登陆地点确实新加坡</p>
 <p>难道是 CDN 原因</p>]]></description>
     <pubDate>Sun, 01 Nov 2026 14:53:07 -0000</pubDate>
-    <guid isPermaLink="true">https://www.v2ex.com/t/1253603#reply3</guid>
-    <source url="https://www.v2ex.com/t/1253603#reply3">V2EX</source>
+    <guid isPermaLink="true">https://www.v2ex.com/t/1253603#reply4</guid>
+    <source url="https://www.v2ex.com/t/1253603#reply4">V2EX</source>
   </item>
   <item>
     <title>[V2EX] [推广] 十一月澳门蚂蚁奖励比十月还多！共 978 港 HKD</title>
@@ -605,11 +874,11 @@ VX：KirinChew</p>
   </item>
   <item>
     <title>[V2EX] [职场话题] 请教各位 V 友上班在工位如何摸鱼打发时间</title>
-    <link>https://www.v2ex.com/t/1253601#reply0</link>
+    <link>https://www.v2ex.com/t/1253601#reply2</link>
     <description><![CDATA[现在业务需求并不算多，加上 AI 提效，有时候上班如坐牢。<br /><br />但是工作电脑存在内部监控，不想通过公司电脑和网络浏览过多非工作相关的内容。低头玩手机又太明显，新增一台别的设备可行吗，主要是浏览文字相关的内容，V 友们有什么心得分享吗？]]></description>
     <pubDate>Sun, 01 Nov 2026 14:37:05 -0000</pubDate>
-    <guid isPermaLink="true">https://www.v2ex.com/t/1253601#reply0</guid>
-    <source url="https://www.v2ex.com/t/1253601#reply0">V2EX</source>
+    <guid isPermaLink="true">https://www.v2ex.com/t/1253601#reply2</guid>
+    <source url="https://www.v2ex.com/t/1253601#reply2">V2EX</source>
   </item>
   <item>
     <title>[cnBeta.COM.TW RSS订阅] 研究显示纯素饮食猫咪超重风险更低</title>
@@ -628,46 +897,12 @@ VX：KirinChew</p>
     <source url="https://www.ithome.com/1/020/837.htm">IT之家</source>
   </item>
   <item>
-    <title>[V2EX] [问与答] 国内上架 APP,接入类似于 Deepseek 的接口,需要什么备案啊?</title>
-    <link>https://www.v2ex.com/t/1253599#reply0</link>
-    <description><![CDATA[<p>有没有大佬知道?
-互联网信息服务算法备案?
-马云搜了下 ,要几千块...</p>]]></description>
-    <pubDate>Sun, 01 Nov 2026 14:14:37 -0000</pubDate>
-    <guid isPermaLink="true">https://www.v2ex.com/t/1253599#reply0</guid>
-    <source url="https://www.v2ex.com/t/1253599#reply0">V2EX</source>
-  </item>
-  <item>
-    <title>[V2EX] [Claude] Claude 邮箱登录，监听时间、使用的设备和所在位置</title>
-    <link>https://www.v2ex.com/t/1253598#reply8</link>
-    <description><![CDATA[<p><img alt="Imgur" class="embedded_image" rel="noreferrer" src="https://imgur.com/t1CWPoA" /></p>]]></description>
-    <pubDate>Sun, 01 Nov 2026 14:13:33 -0000</pubDate>
-    <guid isPermaLink="true">https://www.v2ex.com/t/1253598#reply8</guid>
-    <source url="https://www.v2ex.com/t/1253598#reply8">V2EX</source>
-  </item>
-  <item>
-    <title>[V2EX] [问与答] Gemini-4-Argon 有什么好用的中转站吗,用来写论文和文档需要用,GPT 防御性写作太傻了</title>
-    <link>https://www.v2ex.com/t/1253596#reply0</link>
-    <description><![CDATA[]]></description>
-    <pubDate>Sun, 01 Nov 2026 14:04:42 -0000</pubDate>
-    <guid isPermaLink="true">https://www.v2ex.com/t/1253596#reply0</guid>
-    <source url="https://www.v2ex.com/t/1253596#reply0">V2EX</source>
-  </item>
-  <item>
     <title>[IT之家] 海贝推出 HiBy R6III SE 便携 Hi-Fi 播放器：4 颗 CS43198 DAC 芯片，1798 元</title>
     <link>https://www.ithome.com/1/020/836.htm</link>
     <description><![CDATA[<p>IT之家 11 月 1 日消息，海贝宣布推出一款 HiBy R6III SE 便携 Hi-Fi 播放器，定价为 1798 元。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/11/195fe4c9-5c4b-49bc-a2be-e361627e4cdc.png?x-bce-process=image/format,f_auto" /></p><p>该机整体尺寸为 129.4 x 73.1 x 15.6 mm，重量为 250 g。提供黑色和海军蓝两种颜色选择，正面配备了一块 5 英寸 1280x720 分辨率 IPS 面板，背部搭配了钻石切割纹理的玻璃背板。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/11/353a7ca0-5ce0-4ea9-93d7-098f1c0e9d60.png?x-bce-process=image/format,f_auto" /></p><p>该机采用 4 颗 CS43198 DAC 芯片，支持 8 路独立输出。耳放部分支持 A 类和 AB 类模式切换，其中 A 类耳放由 OPA1652 运放、晶体管及 ELNA 音频电容组成。硬件搭载 45.158MHz 和 49.152MHz 两颗专用音频晶振。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/11/4af59592-2890-4401-8027-91dc3393ceb5.png?x-bce-process=image/format,f_auto" /></p><p>该机搭载骁龙 665 处理器，配备 3GB RAM 与 32GB 存储空间，机身底部配备 3.5mm PO、4.4mm BAL、3.5mm LO 和 4.4mm <span class="link-text-start-with-http">BAL.LO</span> 模拟音频接口，以及支持同轴输出的 USB-C 数字接口。系统内置全局 DTA 技术可绕开安卓 SRC，并支持 HiByCast 全局遥控。无线端支持 2.4G 与 5.0G 双频 WiFi 及双向 Bluetooth 5.0，兼容 UAT、LDAC 等蓝牙协议。</p><p>该播放器内置 4500mAh 容量电池。在 AB 类模式下，3.5mm 单端输出续航约为 13 小时，4.4mm 平衡输出续航约为 11 小时；切换至 A 类模式时，3.5mm 单端续航为 11 小时，4.4mm 平衡输出续航为 9 小时。</p><p>IT之家附产品参数：</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/11/0e55a63f-e332-48f2-8a2a-b5407516c216.png?x-bce-process=image/format,f_auto" /></p>]]></description>
     <pubDate>Sun, 01 Nov 2026 14:01:22 -0000</pubDate>
     <guid isPermaLink="true">https://www.ithome.com/1/020/836.htm</guid>
     <source url="https://www.ithome.com/1/020/836.htm">IT之家</source>
-  </item>
-  <item>
-    <title>[V2EX] [分享创造] 吃灰近 10 年的域名被我拿出来做了个小项目:HYB</title>
-    <link>https://www.v2ex.com/t/1253595#reply1</link>
-    <description><![CDATA[2016 年的 6 月份时候买了不少的.vip 后缀的域名,后来价格跌了,基本上低价处理了,亏的一塌糊涂,有没有经历这个事情朋友啊.就给自己留了一个,一直在放着吃灰.<br /><br />前几天为了加外链涨 DR,找了不少的产品提交平台,一份份的提交,还专门做了个表格.用表格有点麻烦,于是就启用了我那个吃灰将近 10 年的域名做了这个 HYB 项目.<br /><br />项目很简单就是把我之前用表格做的事情搬到线上来处理了.我自己用着还比较顺手,就来 V2EX 想发个帖子,请大家帮忙给点评点评.出出主意.<br /><br />感悟一下:说实在的当时留的这个域名,真的没有想到能持有这么久,知道的行情的人应该懂得,这个后缀价格一路下跌,就没有反弹过.不知不觉拿着快 10 年了,你别说,还真有点小感情来.现在把它做成一个小项目,也算是一种妥善的交代吧.<br /><br />项目地址 https://hyb.vip<br /><br />致敬,感谢.]]></description>
-    <pubDate>Sun, 01 Nov 2026 13:58:41 -0000</pubDate>
-    <guid isPermaLink="true">https://www.v2ex.com/t/1253595#reply1</guid>
-    <source url="https://www.v2ex.com/t/1253595#reply1">V2EX</source>
   </item>
   <item>
     <title>[IT之家] 2026 年 10 月汽车销量 / 交付榜出炉：比亚迪超 49 万辆稳居榜首，小米月销重回 5 万辆</title>
@@ -679,155 +914,12 @@ VX：KirinChew</p>
     <source url="https://www.ithome.com/1/020/835.htm">IT之家</source>
   </item>
   <item>
-    <title>[V2EX] [独立开发者 👨‍💻] 做了一个 AI 丧尸情侣视频生成网站，上传两张照片就能制作末日爱情短片</title>
-    <link>https://www.v2ex.com/t/1253594#reply0</link>
-    <description><![CDATA[<p>大家好，最近上线了一个比较小众的 AI 视频生成网站，叫 <strong>Zombie Couple Video AI</strong>，想分享给 V 友们看看，也欢迎大家提提建议。</p>
-<h3>这个网站是做什么的？</h3>
-<p>灵感来自丧尸末日题材里的爱情故事。</p>
-<p>假设世界已经被丧尸占领，你和另一半再次相遇，其中一个人已经被感染，但彼此依然保留着关于爱情的记忆……</p>
-<p>我想把这样的场景做成一段短片，让普通用户也能用自己的照片成为故事主角。</p>
-<p>于是有了这个网站：</p>
-<p><strong>项目地址：</strong> <a href="https://zombie-couple-video-ai.com/" rel="nofollow">https://zombie-couple-video-ai.com/</a></p>
-<h3>目前支持的功能</h3>
-<ul>
-<li><strong>双人照片生成视频</strong>：上传两张照片，分别对应幸存者和被感染的伴侣。</li>
-<li><strong>AI 末日爱情剧情</strong>：围绕末日重逢、认出彼此和美好回忆，生成约 10 秒的短片。</li>
-<li><strong>角色互换</strong>：可以选择谁是人类，谁是被感染的伴侣。</li>
-<li><strong>视频输出</strong>：720P 、16:9 横版，带有故事配套的音频。</li>
-<li><strong>无需注册账号</strong>：填写邮箱，付款后通过邮件中的私密链接查看进度、下载视频。</li>
-<li><strong>中英文界面</strong>：方便不同地区的用户使用。</li>
-</ul>
-<p>目前采用固定剧情和音轨，暂时不支持自定义故事。AI 生成的人物细节和镜头也可能与样片有所不同。</p>
-<h3>关于价格</h3>
-<p>目前是一条视频 <strong>$3.99 美元</strong>，使用 PayPal 单次付款，没有订阅费用。</p>
-<p>首页可以直接观看故事样片，了解视频风格。上传自己的照片后，需要付款才能生成个性化视频。</p>
-<h3>想听听大家的建议</h3>
-<p>网站目前还比较简单，后续希望继续优化生成体验。</p>
-<p>尤其想了解：</p>
-<ol>
-<li>这样的 AI 情侣短片有没有吸引力？</li>
-<li>网站首页能不能让第一次访问的人快速理解产品？</li>
-<li>大家觉得未来增加自定义剧情或不同的故事模板是否有价值？</li>
-</ol>
-<p>欢迎大家体验网站、看看样片，或者直接吐槽产品设计。</p>
-<p><strong>网站地址：</strong> <a href="https://zombie-couple-video-ai.com/" rel="nofollow">https://zombie-couple-video-ai.com/</a></p>
-<p>感谢各位 V 友！</p>]]></description>
-    <pubDate>Sun, 01 Nov 2026 13:47:33 -0000</pubDate>
-    <guid isPermaLink="true">https://www.v2ex.com/t/1253594#reply0</guid>
-    <source url="https://www.v2ex.com/t/1253594#reply0">V2EX</source>
-  </item>
-  <item>
     <title>[IT之家] HMD 诺基亚 2360 Flip 翻盖功能机曝光：紫光展锐 T127 芯片，1.8 英寸外屏</title>
     <link>https://www.ithome.com/1/020/834.htm</link>
-    <description><![CDATA[<p>IT之家 11 月 1 日消息，消息源 smashx_60 现已曝光了 HMD 旗下诺基亚 2360 Flip 翻盖功能机，该机据称为 ODM 产品。</p><p>该机提供深灰色、酒红色、蓝绿色三种配色可选，配备 1.8 英寸外屏和 2.8 英寸 LCD 内屏，搭载 1Mp 摄像头。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/11/c8522aba-83ce-4dcd-a797-d34370d84629.png?x-bce-process=image/format,f_auto" /></p><p>该机搭载紫光展锐 T127 芯片，搭载 4MB RAM，内置 4MB 空间，同时支持 32GB microSD 卡扩展。手机内置 1450mAh 电池，使用 USB-C 接口。</p>]]></description>
+    <description><![CDATA[<p>IT之家 11 月 1 日消息，消息源 smashx_60 现已曝光了 HMD 旗下诺基亚 2360 Flip 翻盖功能机，该机据称为 ODM 产品。</p><p>该机提供深灰色、酒红色、蓝绿色三种配色可选，配备 1.8 英寸外屏和 2.8 英寸 LCD 内屏，搭载 1Mp 摄像头。</p><p style="text-align: center;"><img class="no-alt-img" src="https://img.ithome.com/newsuploadfiles/2026/11/eef220d4-2582-4d13-881b-e07fd08a4039.jpg?x-bce-process=image/format,f_auto" /></p><p>该机搭载紫光展锐 T127 芯片，搭载 4MB RAM，内置 4MB 存储空间，同时支持 32GB microSD 卡扩展。手机内置 1450mAh 电池，使用 USB-C 接口。</p>]]></description>
     <pubDate>Sun, 01 Nov 2026 13:45:05 -0000</pubDate>
     <guid isPermaLink="true">https://www.ithome.com/1/020/834.htm</guid>
     <source url="https://www.ithome.com/1/020/834.htm">IT之家</source>
-  </item>
-  <item>
-    <title>[V2EX] [推广] [拼团] 双 11 服务器活动：境外 99 元/年、国内 4 核 109 元/年，还有 3 年 528 元方案</title>
-    <link>https://www.v2ex.com/t/1253592#reply0</link>
-    <description><![CDATA[<p>腾讯云双 11 活动已开启，包含轻量服务器、CVM 、GPU 、对象存储、CDN 等产品，也有面向常规服务器或其他云产品的续费代金券，准备续费或升级的 v 友记得先领取代金券。</p>
-<p>活动主页：*链接有 aff ，下同，感谢支持</p>
-<p><a href="https://ourl.co/tcact" rel="nofollow">腾讯云双 11 活动</a> </p>
-<p><a href="https://ourl.co/xfzq" rel="nofollow">同价新购续费专区</a> </p>
-<h2>拼团说明</h2>
-<p>活动主页部分产品支持拼团，但拼团订单不支持退款，因此不建议参与拼团，除非确定要购买的产品一定可以满足自己使用要求。</p>
-<p><strong>拼团流程：在活动主页购买支持拼团的产品后，将活动链接转为 base64 编码发到本贴评论里，不要直接发链接以免被 V2 ban</strong></p>
-<h2>境外轻量服务器</h2>
-<ul>
-<li>
-<p><strong>99 元/年</strong>：2 核 2GB 、30M 带宽、每月 1TB 流量，可选美国硅谷、韩国首尔等区域；不支持同价续费。<a href="https://ourl.co/35fby" rel="nofollow">查看活动</a></p>
-</li>
-<li>
-<p><strong>199 元/年</strong>：2 核 4GB 、30M 带宽、每月 1.5TB 流量，可选美国硅谷、韩国首尔等区域；支持同价续费。<a href="https://ourl.co/xfzq" rel="nofollow">查看活动</a></p>
-</li>
-</ul>
-<h2>境内轻量服务器</h2>
-<ul>
-<li><strong>99 元/年</strong>：2 核 2GB 、4M 带宽、每月 300GB 流量；上海、广州、成都等区域可选，支持同价续费。<a href="https://ourl.co/xfzq" rel="nofollow">查看活动</a></li>
-<li>
-</li>
-<li><strong>188 元/年</strong>：2 核 4GB 、5M 带宽、每月 500GB 流量；支持同价续费。<a href="https://ourl.co/xfzq" rel="nofollow">查看活动</a></li>
-<li>
-</li>
-<li><strong>199 元/年</strong>：2 核 4GB 、6M 带宽、每月 600GB 流量；支持同价续费。<a href="https://ourl.co/xfzq" rel="nofollow">查看活动</a></li>
-<li>
-</li>
-<li><strong>109 元/年</strong>：4 核 4GB 、3M 带宽、每月 300GB 流量；上海、广州、成都等区域可选，不支持同价续费。<a href="https://ourl.co/yt06r" rel="nofollow">查看活动</a></li>
-</ul>
-<h2>其他配置</h2>
-<ul>
-<li><strong>528 元/3 年</strong>：2 核 4GB 、6M 带宽，折合每年 176 元。<a href="https://ourl.co/m8h8m" rel="nofollow">查看活动</a></li>
-<li>
-</li>
-<li><strong>450 元/年</strong>：4 核 8GB 、5M 带宽，不支持同价续费。<a href="https://ourl.co/m8h8m" rel="nofollow">查看活动</a></li>
-<li>
-</li>
-<li><strong>CVM 199 元/年</strong>：2 核 2GB 、1M 带宽、不限流量，上海、广州、成都等区域可选，支持同价续费。<a href="https://ourl.co/xfzq" rel="nofollow">查看活动</a></li>
-<li>
-</li>
-<li><strong>新加坡 CVM</strong>：有蜂驰型和标准型等规格，页面所列配置从 2 核 2GB 起；套餐未含公网带宽，需要自行选择。<a href="https://ourl.co/35fby" rel="nofollow">查看活动</a></li>
-</ul>
-<h2>代金券</h2>
-<p>个人用户券包：满 200 减 60 、满 500 减 150 、满 1500 减 500 、满 3000 减 1200 。</p>
-<p>企业用户券包：满 400 减 80 、满 1750 减 300 、满 4800 减 1200 、满 10000 减 3000 。</p>
-<p><a href="https://ourl.co/eyhza" rel="nofollow">查看代金券礼包</a>。代金券适用于符合门槛的常规产品新购、续费或升级；活动特价机型不可用券，领取状态和具体规则以活动页为准。</p>
-<p>注：产品库存和价格可能随时间推移而变化，具体请以活动页面说明为准</p>]]></description>
-    <pubDate>Sun, 01 Nov 2026 13:39:25 -0000</pubDate>
-    <guid isPermaLink="true">https://www.v2ex.com/t/1253592#reply0</guid>
-    <source url="https://www.v2ex.com/t/1253592#reply0">V2EX</source>
-  </item>
-  <item>
-    <title>[V2EX] [程序员] 为 Rebase 狗尾续貂一个 Python 函数跳转功能</title>
-    <link>https://www.v2ex.com/t/1253591#reply0</link>
-    <description><![CDATA[<h2>起因</h2>
-<p>最近代码写的少，但是要 review 的东西多，还要频繁的切分支。所以想找一个好的 git + diff 的工具。 最后发现基于 JetBrains 的 <a href="https://github.com/detachhead/rebased" rel="nofollow">Rebased</a> 这个工具最舒服。又符合当初用 IDEA 的习惯，看 diff 也清晰。 但是就有一点小遗憾，没办法点击函数跳转到对应代码。</p>
-<h2>许愿</h2>
-<p>向 codex 许愿，让他读一下 github 的项目，还有当初这个项目 fork 的原始的 jetbrains 的项目的源码，看看有没有可能加一个 python 的函数跳转功能。然后 codex 读完认为可以。所以就让他做了。</p>
-<h2>结果</h2>
-<p>执行 3 个小时。期间基本不参与。最终做出来的版本可以跳转 python 函数。</p>
-<h2>加码</h2>
-<p>看 codex 还有剩余。就又加码，让他支持了 js/TS</p>
-<h2>最终</h2>
-<p>大小：ZIP 600M 解压后 1.7G
-占用内存：700M
-启动时间：10s</p>
-<h2>地址</h2>
-<p>便携版： <a href="https://github.com/zhoudeqiang9527/rebased/releases" rel="nofollow">Win64</a> （家里没有 mac 。所以只有 windows 版本）
-github： [<a href="https://github.com/zhoudeqiang9527/rebased" rel="nofollow">https://github.com/zhoudeqiang9527/rebased</a>]</p>]]></description>
-    <pubDate>Sun, 01 Nov 2026 13:35:36 -0000</pubDate>
-    <guid isPermaLink="true">https://www.v2ex.com/t/1253591#reply0</guid>
-    <source url="https://www.v2ex.com/t/1253591#reply0">V2EX</source>
-  </item>
-  <item>
-    <title>[V2EX] [生活] 别人给东西的时候应不应该接受？</title>
-    <link>https://www.v2ex.com/t/1253589#reply3</link>
-    <description><![CDATA[<p><a href="https://lixiucheng.com/about-receive/" rel="nofollow">https://lixiucheng.com/about-receive/</a></p>
-<p>小时候没有太多的场景去接受给予别人的东西，过年收压岁钱可能是为数不多的一个场景。收压岁钱这个过程中充斥的拉扯和客套。</p>
-<p>受这套方式的影响，我以为接受给予就应该是这样子的。所以我从小到大对于别人给我东西，我都是套用了收红包这套公式，基本上都会拒绝。</p>]]></description>
-    <pubDate>Sun, 01 Nov 2026 13:34:53 -0000</pubDate>
-    <guid isPermaLink="true">https://www.v2ex.com/t/1253589#reply3</guid>
-    <source url="https://www.v2ex.com/t/1253589#reply3">V2EX</source>
-  </item>
-  <item>
-    <title>[V2EX] [分享创造] 我发现 grokbot 竟然附赠了免费的翻墙方案</title>
-    <link>https://www.v2ex.com/t/1253588#reply5</link>
-    <description><![CDATA[<p>背景是这样的，一到月底我的梯子套餐流量就不够了，购买流量包巨贵，我只舍得买点闲时流量包，今天我摸索了下 claudeflare 隧道+grokbot 翻墙，终于跑通了，梯子速度虽然比不上商用梯子，但是也够用了，关键是还不限流量。</p>
-<p>给你的 grokbot 发送以下 Prompt：</p>
-<p>从 <a href="https://github.com/fenfenxu/cloudflare-tunnel-proxy" rel="nofollow">https://github.com/fenfenxu/cloudflare-tunnel-proxy</a> 安装 Cloudflare Tunnel Proxy skill ，然后按它的 Setup 带我从零搭好。</p>
-<p><a href="https://www.xiaohongshu.com/explore/6ae737d2000000000e02e1a6?xsec_token=YBkiWTeKYg2ybfAvVu83uf4kocRQIeZng6cU-JkeEzjgg=&amp;xsec_source=pc_creatormng" rel="nofollow">https://www.xiaohongshu.com/explore/6ae737d2000000000e02e1a6?xsec_token=YBkiWTeKYg2ybfAvVu83uf4kocRQIeZng6cU-JkeEzjgg=&amp;xsec_source=pc_creatormng</a></p>]]></description>
-    <pubDate>Sun, 01 Nov 2026 13:34:02 -0000</pubDate>
-    <guid isPermaLink="true">https://www.v2ex.com/t/1253588#reply5</guid>
-    <source url="https://www.v2ex.com/t/1253588#reply5">V2EX</source>
-  </item>
-  <item>
-    <title>[V2EX] [分享发现] giffgaff 第三方充值的都可以成功退款到自己指定的卡里</title>
-    <link>https://www.v2ex.com/t/1253587#reply0</link>
-    <description><![CDATA[<a href="https://i.imgur.com/31QRGf2.jpeg" rel="nofollow noopener" target="_blank"><img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/31QRGf2.jpeg" /></a><br />有点惊讶。还以为只能原路退回，还好当时没有捐了 😂]]></description>
-    <pubDate>Sun, 01 Nov 2026 13:33:24 -0000</pubDate>
-    <guid isPermaLink="true">https://www.v2ex.com/t/1253587#reply0</guid>
-    <source url="https://www.v2ex.com/t/1253587#reply0">V2EX</source>
   </item>
   <item>
     <title>[IT之家] 长鑫科技：2026 年 LPDDR 系列产品实现 781.91 亿元收入，占营业收入比例 52.02%</title>
@@ -1445,38 +1537,6 @@ curl -L -H &quot;Accept: text/markdown&quot; https://meta.appinn.net/t/93080
     <source url="https://www.cnbeta.com.tw/articles/tech/1584590.htm">cnBeta.COM.TW RSS订阅</source>
   </item>
   <item>
-    <title>[cnBeta.COM.TW RSS订阅] 张朝阳：我不看短剧 但长视频平台承压不能怪短剧</title>
-    <link>https://www.cnbeta.com.tw/articles/movie/1584588.htm</link>
-    <description><![CDATA[<p>近日，搜狐创始人张朝阳在接受采访时谈到了如今的短剧。<strong>他表示，短剧与长剧满足的是不同的用户需求，短剧并不会完全侵蚀长剧的市场。</strong>国内长视频平台面临经营压力，不能简单归因于短剧的兴起，更重要的原因还包括用户付费习惯、平台之间的激烈竞争，以及居高不下的内容制作成本。</p> <a href="https://www.cnbeta.com.tw/articles/movie/1584588.htm" target="_blank"><strong>阅读全文</strong></a>]]></description>
-    <pubDate>Sun, 01 Nov 2026 07:15:52 -0000</pubDate>
-    <guid isPermaLink="true">https://www.cnbeta.com.tw/articles/movie/1584588.htm</guid>
-    <source url="https://www.cnbeta.com.tw/articles/movie/1584588.htm">cnBeta.COM.TW RSS订阅</source>
-  </item>
-  <item>
-    <title>[cnBeta.COM.TW RSS订阅] 曝特斯拉砍掉买车推荐奖励 以后只送FSD 一个月换一个月</title>
-    <link>https://www.cnbeta.com.tw/articles/tech/1584586.htm</link>
-    <description><![CDATA[<p>据Electrek报道，特斯拉已悄然调整其美国推荐计划（Refer and Earn），<strong>车辆购买不再作为推荐奖励的触发条件，取而代之的是一套以FSD（完全自动驾驶）订阅为核心的全新激励机制。</strong>简单来说，现在用推荐码买特斯拉，买卖双方都拿不到任何车辆相关的奖励了，推荐人唯一能赚的，是FSD订阅时长。</p> <a href="https://www.cnbeta.com.tw/articles/tech/1584586.htm" target="_blank"><strong>阅读全文</strong></a>]]></description>
-    <pubDate>Sun, 01 Nov 2026 07:15:35 -0000</pubDate>
-    <guid isPermaLink="true">https://www.cnbeta.com.tw/articles/tech/1584586.htm</guid>
-    <source url="https://www.cnbeta.com.tw/articles/tech/1584586.htm">cnBeta.COM.TW RSS订阅</source>
-  </item>
-  <item>
-    <title>[cnBeta.COM.TW RSS订阅] OpenAI宣布ChatGPT部分功能将与Codex共享额度</title>
-    <link>https://www.cnbeta.com.tw/articles/tech/1584584.htm</link>
-    <description><![CDATA[<p>10月31日，OpenAI发布公告称，自今年12月起，ChatGPT Plus、Pro和Business套餐的使用额度将在ChatGPT与Codex之间共享，不再分别计算。此次调整与OpenAI将Work的智能体能力整合至ChatGPT主交互界面有关，目的是让用户直接在ChatGPT中完成更多复杂任务。</p> <a href="https://www.cnbeta.com.tw/articles/tech/1584584.htm" target="_blank"><strong>阅读全文</strong></a>]]></description>
-    <pubDate>Sun, 01 Nov 2026 07:14:31 -0000</pubDate>
-    <guid isPermaLink="true">https://www.cnbeta.com.tw/articles/tech/1584584.htm</guid>
-    <source url="https://www.cnbeta.com.tw/articles/tech/1584584.htm">cnBeta.COM.TW RSS订阅</source>
-  </item>
-  <item>
-    <title>[cnBeta.COM.TW RSS订阅] 苹果CEO：不会为了做AI而做产品</title>
-    <link>https://www.cnbeta.com.tw/articles/tech/1584582.htm</link>
-    <description><![CDATA[<p>苹果CEO约翰·特努斯近日接受采访时，为苹果当前在人工智能领域的布局进行辩护。过去几年，外界常认为苹果在AI赛道落后，尤其是苹果推迟推出更强版本的Siri，该功能直到今年夏天才正式上线。特努斯是苹果资深高管，9月初正式出任CEO。他承认“每个人都有自己的看法”，但坚称：“我对我们现在所处的阶段很满意。”</p> <a href="https://www.cnbeta.com.tw/articles/tech/1584582.htm" target="_blank"><strong>阅读全文</strong></a>]]></description>
-    <pubDate>Sun, 01 Nov 2026 07:13:20 -0000</pubDate>
-    <guid isPermaLink="true">https://www.cnbeta.com.tw/articles/tech/1584582.htm</guid>
-    <source url="https://www.cnbeta.com.tw/articles/tech/1584582.htm">cnBeta.COM.TW RSS订阅</source>
-  </item>
-  <item>
     <title>[雷峰网] 极氪10月交付同比增长51.6%，“海外最贵中国车”9X首销售罄</title>
     <link>https://www.leiphone.com/category/transportation/oDbG4KXJpt7KOOqy.html</link>
     <description><![CDATA[<p>11月1日，极氪公布销量数据：10月交付新车32483辆，同比增长51.6%，1-10月交付超32万辆，同比增94.4%，平均客单价近37万元，已完成年度30万辆销售目标，是主流车企中量价齐升且唯一提前超额完成全年目标的品牌。其中，极氪7X连续4个月月销过万。同时，旗舰车型极氪9X在国内的热销也为海外开拓打下坚实基础，其欧洲售价折合人民币超100万元，被外媒称为“最贵中国车”，是首款在当地站稳百万级价位并实现规模化销售的中国车。据悉，有约700辆9X正陆续发运欧洲，预计2027年1月开启交付。</p><p style="text-align: center;"><img src="https://static.leiphone.com/uploads/new/images/20261101/6ae6e5f103d9c.jpg?imageView2/2/w/740" /></p><p>今年以来，汽车市场整体承压，而极氪销量逆势连创新高、品牌势能稳步向上，本月官方海报文案的“不畏浮云遮望眼”，点明了极氪在喧嚣的市场环境中，不参与价格战和口水战，专注极致产品打造和用户服务提升。当前中国豪华市场，ZAN（Zeekr、AITO、NIO）各具优势，已形成对垒BBA为代表的传统海外品牌的国产头部阵营，而极氪在整车架构、三电、安全等核心技术领域持续领先，极致安全、极致性能、极致设计已成为极氪鲜明的品牌标签。据悉，2027款极氪7X将于本月上市，009光辉也将在年内焕新升级。截至目前，极氪全球用户已超96万。</p>]]></description>
@@ -1485,36 +1545,12 @@ curl -L -H &quot;Accept: text/markdown&quot; https://meta.appinn.net/t/93080
     <source url="https://www.leiphone.com/category/transportation/oDbG4KXJpt7KOOqy.html">雷峰网</source>
   </item>
   <item>
-    <title>[cnBeta.COM.TW RSS订阅] 币安恢复提款服务 超95%被盗加密资产完成补足</title>
-    <link>https://www.cnbeta.com.tw/articles/tech/1584580.htm</link>
-    <description><![CDATA[<p>全球最大加密货币交易所币安（Binance）于11月1日宣布恢复比特币提款业务，并计划分阶段重新开放其他数字资产的提取服务。此前，平台遭遇被认为是加密货币史上规模最大的黑客攻击，约63亿美元数字代币被盗。</p> <a href="https://www.cnbeta.com.tw/articles/tech/1584580.htm" target="_blank"><strong>阅读全文</strong></a>]]></description>
-    <pubDate>Sun, 01 Nov 2026 07:11:22 -0000</pubDate>
-    <guid isPermaLink="true">https://www.cnbeta.com.tw/articles/tech/1584580.htm</guid>
-    <source url="https://www.cnbeta.com.tw/articles/tech/1584580.htm">cnBeta.COM.TW RSS订阅</source>
-  </item>
-  <item>
-    <title>[cnBeta.COM.TW RSS订阅] 美国联邦调查局确认朝鲜黑客组织发动币安63亿美元盗窃案</title>
-    <link>https://www.cnbeta.com.tw/articles/tech/1584578.htm</link>
-    <description><![CDATA[<p>美国联邦调查局（FBI）正式确认，近期针对全球大型加密货币交易平台币安（Binance）的巨额网络攻击，是由朝鲜政府支持的黑客组织实施的。此次攻击造成超过63亿美元的加密资产被盗，成为加密货币交易平台历史上规模最大的安全事件之一。币安则表示，目前已经补回约90%的被盗资产，剩余部分将由公司承担，用户不会因此蒙受经济损失。</p> <a href="https://www.cnbeta.com.tw/articles/tech/1584578.htm" target="_blank"><strong>阅读全文</strong></a>]]></description>
-    <pubDate>Sun, 01 Nov 2026 07:10:59 -0000</pubDate>
-    <guid isPermaLink="true">https://www.cnbeta.com.tw/articles/tech/1584578.htm</guid>
-    <source url="https://www.cnbeta.com.tw/articles/tech/1584578.htm">cnBeta.COM.TW RSS订阅</source>
-  </item>
-  <item>
     <title>[少数派] 怀旧手记｜夏普 Telios：20 多年前，Handheld PC 中的「少数派」</title>
     <link>https://sspai.com/post/116991</link>
     <description><![CDATA[Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...<a href="https://sspai.com/post/116991" target="_blank">查看全文</a>]]></description>
     <pubDate>Sun, 01 Nov 2026 07:02:46 -0000</pubDate>
     <guid isPermaLink="true">https://sspai.com/post/116991</guid>
     <source url="https://sspai.com/post/116991">少数派</source>
-  </item>
-  <item>
-    <title>[cnBeta.COM.TW RSS订阅] 新型X射线成像技术让光信号提升4.64倍 同时保持图像清晰度</title>
-    <link>https://www.cnbeta.com.tw/articles/science/1584576.htm</link>
-    <description><![CDATA[<p>X射线成像技术长期面临一个难题：如何在增强图像信号的同时，不牺牲细节和清晰度。传统方法往往需要在探测器厚度、光信号强度和空间分辨率之间进行权衡。如今，来自中国重庆大学、中国电子科技集团公司第二十六研究所和美国史蒂文斯理工学院的研究团队，开发出一种新型纳米结构材料，成功提高了X射线探测器的光收集效率，同时保留了较高的图像分辨率。</p> <a href="https://www.cnbeta.com.tw/articles/science/1584576.htm" target="_blank"><strong>阅读全文</strong></a>]]></description>
-    <pubDate>Sun, 01 Nov 2026 06:59:58 -0000</pubDate>
-    <guid isPermaLink="true">https://www.cnbeta.com.tw/articles/science/1584576.htm</guid>
-    <source url="https://www.cnbeta.com.tw/articles/science/1584576.htm">cnBeta.COM.TW RSS订阅</source>
   </item>
   <item>
     <title>[雷峰网] 吉利Q3营收近千亿，在英国跨过新手期</title>
